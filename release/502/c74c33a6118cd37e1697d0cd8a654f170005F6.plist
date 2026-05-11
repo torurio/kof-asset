@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>dibanstz_shetuanzhanrukouimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{283,434}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{283,434}}</string>
+			<key>sourceSize</key>
+			<string>{283,434}</string>
+		</dict>
+		<key>faguang_shetuanzhanrukouimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{287,2},{86,145}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{86,145}}</string>
+			<key>sourceSize</key>
+			<string>{86,145}</string>
+		</dict>
+		<key>mask6_shetuanzhanrukouimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,438},{23,25}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{23,25}}</string>
+			<key>sourceSize</key>
+			<string>{23,25}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>shetuanzhanrukouimage.png</string>
+		<key>size</key>
+		<string>{512,512}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>shetuanzhanrukouimage.png</string>
+	</dict>
+</dict>
+</plist>

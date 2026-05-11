@@ -1,0 +1,360 @@
+
+asset/spine/global_spinehero_effect16.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/sczw_exmax_baoguang2_00198
+	rotate: false
+	xy: 329, 2
+	size: 154, 141
+	orig: 154, 141
+	offset: 0, 0
+	index: -1
+effect/global/sczw_ex_00014
+	rotate: false
+	xy: 2, 300
+	size: 144, 140
+	orig: 144, 140
+	offset: 0, 0
+	index: -1
+effect/global/sczw_exmax_baoguang1_00016
+	rotate: false
+	xy: 312, 418
+	size: 144, 140
+	orig: 144, 140
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/sczw_ex_00005
+	rotate: false
+	xy: 179, 848
+	size: 188, 172
+	orig: 188, 172
+	offset: 0, 0
+	index: -1
+effect/global/sczw_ex_00008
+	rotate: true
+	xy: 394, 402
+	size: 190, 169
+	orig: 190, 169
+	offset: 0, 0
+	index: -1
+effect/global/sczw_ex_00012
+	rotate: false
+	xy: 800, 172
+	size: 166, 161
+	orig: 166, 161
+	offset: 0, 0
+	index: -1
+effect/global/sczw_ex_00013
+	rotate: false
+	xy: 867, 637
+	size: 154, 162
+	orig: 154, 162
+	offset: 0, 0
+	index: -1
+effect/global/sczw_exmax_baoguang1_00011
+	rotate: true
+	xy: 335, 640
+	size: 199, 185
+	orig: 199, 185
+	offset: 0, 0
+	index: -1
+effect/global/sczw_exmax_baoguang1_00010
+	rotate: true
+	xy: 207, 440
+	size: 199, 186
+	orig: 199, 186
+	offset: 0, 0
+	index: -1
+effect/global/sczw_exmax_baoguang1_00015
+	rotate: false
+	xy: 867, 800
+	size: 154, 162
+	orig: 154, 162
+	offset: 0, 0
+	index: -1
+effect/global/sczw_exmax_baoguang1_00014
+	rotate: true
+	xy: 705, 367
+	size: 166, 161
+	orig: 166, 161
+	offset: 0, 0
+	index: -1
+effect/global/sczw_exmax_baoguang2_00204
+	rotate: true
+	xy: 709, 534
+	size: 163, 157
+	orig: 163, 157
+	offset: 0, 0
+	index: -1
+effect/global/sczw_exmax_baoguang2_00199
+	rotate: false
+	xy: 561, 781
+	size: 145, 140
+	orig: 145, 140
+	offset: 0, 0
+	index: -1
+effect/global/sczw_exmax_baoguang2_00201
+	rotate: true
+	xy: 656, 2
+	size: 172, 143
+	orig: 172, 143
+	offset: 0, 0
+	index: -1
+effect/global/sczw_exmax_baoguang2_00200
+	rotate: true
+	xy: 578, 194
+	size: 172, 143
+	orig: 172, 143
+	offset: 0, 0
+	index: -1
+effect/global/sczw_ex_00004
+	rotate: true
+	xy: 2, 647
+	size: 203, 166
+	orig: 203, 166
+	offset: 0, 0
+	index: -1
+effect/global/sczw_exmax_baoguang1_00008
+	rotate: true
+	xy: 193, 2
+	size: 205, 188
+	orig: 205, 188
+	offset: 0, 0
+	index: -1
+effect/global/sczw_exmax_baoguang1_00009
+	rotate: true
+	xy: 391, 207
+	size: 194, 186
+	orig: 194, 186
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/sczw_ex_00007
+	rotate: true
+	xy: 177, 566
+	size: 175, 171
+	orig: 175, 171
+	offset: 0, 0
+	index: -1
+effect/global/sczw_exmax_baoguang2_00197
+	rotate: true
+	xy: 885, 417
+	size: 166, 136
+	orig: 166, 136
+	offset: 0, 0
+	index: -1
+effect/global/sczw_exmax_baoguang2_00206
+	rotate: true
+	xy: 885, 273
+	size: 143, 137
+	orig: 143, 137
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect10.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/sczw_exmax_baoguang1_00007
+	rotate: false
+	xy: 581, 839
+	size: 222, 181
+	orig: 222, 181
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/sczw_ex_00006
+	rotate: false
+	xy: 720, 851
+	size: 178, 171
+	orig: 178, 171
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/sczw_ex_00003
+	rotate: true
+	xy: 511, 734
+	size: 120, 87
+	orig: 120, 87
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/sczw_exmax_baoguang2_00203
+	rotate: true
+	xy: 902, 930
+	size: 92, 104
+	orig: 92, 104
+	offset: 0, 0
+	index: -1
+effect/global/sczw_exmax_baoguang1_00005
+	rotate: false
+	xy: 890, 291
+	size: 132, 94
+	orig: 132, 94
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/sczw_exmax_baoguang2_00195
+	rotate: false
+	xy: 676, 950
+	size: 98, 70
+	orig: 98, 70
+	offset: 0, 0
+	index: -1
+effect/global/sczw_exmax_baoguang2_00196
+	rotate: false
+	xy: 676, 950
+	size: 98, 70
+	orig: 98, 70
+	offset: 0, 0
+	index: -1
+effect/global/sczw_ex_00016
+	rotate: true
+	xy: 487, 984
+	size: 30, 29
+	orig: 30, 29
+	offset: 0, 0
+	index: -1
+effect/global/sczw_ex_00015
+	rotate: true
+	xy: 487, 984
+	size: 30, 29
+	orig: 30, 29
+	offset: 0, 0
+	index: -1
+effect/global/sczw_exmax_baoguang1_00017
+	rotate: true
+	xy: 517, 984
+	size: 30, 29
+	orig: 30, 29
+	offset: 0, 0
+	index: -1
+effect/global/sczw_exmax_baoguang1_00018
+	rotate: true
+	xy: 517, 984
+	size: 30, 29
+	orig: 30, 29
+	offset: 0, 0
+	index: -1
+effect/global/sczw_exmax_baoguang2_00207
+	rotate: true
+	xy: 547, 984
+	size: 30, 27
+	orig: 30, 27
+	offset: 0, 0
+	index: -1
+effect/global/sczw_exmax_baoguang2_00208
+	rotate: true
+	xy: 547, 984
+	size: 30, 27
+	orig: 30, 27
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/sczw_exmax_baoguang1_00006
+	rotate: true
+	xy: 457, 662
+	size: 132, 94
+	orig: 132, 94
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/sczw_ex_00009
+	rotate: false
+	xy: 2, 967
+	size: 93, 50
+	orig: 93, 50
+	offset: 0, 0
+	index: -1
+effect/global/sczw_exmax_baoguang1_00012
+	rotate: false
+	xy: 96, 967
+	size: 93, 50
+	orig: 93, 50
+	offset: 0, 0
+	index: -1
+effect/global/sczw_exmax_baoguang2_00202
+	rotate: false
+	xy: 190, 967
+	size: 93, 49
+	orig: 93, 49
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/sczw_ex_00010
+	rotate: true
+	xy: 670, 150
+	size: 96, 108
+	orig: 96, 108
+	offset: 0, 0
+	index: -1
+effect/global/sczw_ex_00011
+	rotate: true
+	xy: 670, 150
+	size: 96, 108
+	orig: 96, 108
+	offset: 0, 0
+	index: -1
+effect/global/sczw_exmax_baoguang1_00013
+	rotate: true
+	xy: 670, 247
+	size: 96, 108
+	orig: 96, 108
+	offset: 0, 0
+	index: -1
+effect/global/sczw_exmax_baoguang2_00205
+	rotate: true
+	xy: 780, 872
+	size: 150, 159
+	orig: 150, 159
+	offset: 0, 0
+	index: -1

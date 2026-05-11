@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>bg_pata_buffdiban.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{269,404}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{269,404}}</string>
+			<key>sourceSize</key>
+			<string>{269,404}</string>
+		</dict>
+		<key>pic_biaoti_gongji.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,408},{123,83}}</string>
+			<key>offset</key>
+			<string>{0,-1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,2},{123,83}}</string>
+			<key>sourceSize</key>
+			<string>{123,85}</string>
+		</dict>
+		<key>pic_pata_gouamibuff.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{127,408},{204,61}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{204,61}}</string>
+			<key>sourceSize</key>
+			<string>{204,61}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>lang_TowerBuff0.png</string>
+		<key>size</key>
+		<string>{333,493}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>lang_TowerBuff0.png</string>
+	</dict>
+</dict>
+</plist>

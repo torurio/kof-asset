@@ -1,0 +1,223 @@
+
+asset/spine/szweisiCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/weisi_zailin_sz_dslr_tupian_24
+	rotate: true
+	xy: 2, 954
+	size: 67, 84
+	orig: 69, 86
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_25
+	rotate: true
+	xy: 2, 432
+	size: 88, 227
+	orig: 90, 229
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_26
+	rotate: true
+	xy: 87, 915
+	size: 58, 46
+	orig: 60, 48
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_27
+	rotate: true
+	xy: 1002, 245
+	size: 51, 18
+	orig: 53, 20
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_20
+	rotate: true
+	xy: 352, 724
+	size: 59, 36
+	orig: 61, 38
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_21
+	rotate: false
+	xy: 57, 853
+	size: 52, 61
+	orig: 54, 63
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_22
+	rotate: false
+	xy: 375, 529
+	size: 21, 79
+	orig: 23, 81
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_23
+	rotate: false
+	xy: 191, 619
+	size: 26, 67
+	orig: 28, 69
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_28
+	rotate: true
+	xy: 2, 317
+	size: 114, 231
+	orig: 116, 233
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_29
+	rotate: false
+	xy: 368, 609
+	size: 27, 57
+	orig: 29, 59
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_9
+	rotate: true
+	xy: 2, 521
+	size: 97, 220
+	orig: 99, 222
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_8
+	rotate: true
+	xy: 747, 445
+	size: 170, 266
+	orig: 172, 268
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_5
+	rotate: false
+	xy: 234, 317
+	size: 163, 211
+	orig: 165, 213
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_4
+	rotate: true
+	xy: 223, 586
+	size: 84, 144
+	orig: 86, 146
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_7
+	rotate: true
+	xy: 398, 507
+	size: 91, 218
+	orig: 93, 220
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_6
+	rotate: true
+	xy: 110, 807
+	size: 52, 59
+	orig: 54, 61
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_1
+	rotate: false
+	xy: 2, 853
+	size: 54, 100
+	orig: 56, 102
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_3
+	rotate: true
+	xy: 191, 784
+	size: 64, 114
+	orig: 66, 116
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_2
+	rotate: true
+	xy: 617, 507
+	size: 61, 121
+	orig: 63, 123
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_19
+	rotate: true
+	xy: 368, 667
+	size: 56, 27
+	orig: 58, 29
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_18
+	rotate: false
+	xy: 766, 2
+	size: 244, 242
+	orig: 246, 244
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_31
+	rotate: true
+	xy: 2, 619
+	size: 187, 188
+	orig: 189, 190
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_30
+	rotate: false
+	xy: 2, 2
+	size: 395, 314
+	orig: 397, 316
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_11
+	rotate: true
+	xy: 398, 2
+	size: 246, 367
+	orig: 248, 369
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_10
+	rotate: false
+	xy: 398, 249
+	size: 348, 257
+	orig: 350, 259
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_13
+	rotate: false
+	xy: 397, 599
+	size: 201, 187
+	orig: 203, 189
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_12
+	rotate: true
+	xy: 223, 529
+	size: 56, 151
+	orig: 58, 153
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_15
+	rotate: true
+	xy: 218, 671
+	size: 112, 133
+	orig: 114, 135
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_14
+	rotate: true
+	xy: 766, 245
+	size: 199, 235
+	orig: 201, 237
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_17
+	rotate: false
+	xy: 306, 784
+	size: 86, 68
+	orig: 88, 70
+	offset: 1, 1
+	index: -1
+role/weisi_zailin_sz_dslr_tupian_16
+	rotate: true
+	xy: 617, 569
+	size: 112, 120
+	orig: 114, 122
+	offset: 1, 1
+	index: -1

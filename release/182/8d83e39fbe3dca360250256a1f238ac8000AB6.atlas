@@ -1,0 +1,174 @@
+
+asset/spine/dasheXICard_role0.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/ds98UM_cz_bt_21
+	rotate: true
+	xy: 2, 360
+	size: 243, 321
+	orig: 243, 327
+	offset: 0, 0
+	index: -1
+role/ds98UM_cz_bt_20
+	rotate: true
+	xy: 161, 604
+	size: 218, 160
+	orig: 218, 160
+	offset: 0, 0
+	index: -1
+role/ds98UM_cz_bt_23
+	rotate: true
+	xy: 324, 433
+	size: 132, 74
+	orig: 132, 74
+	offset: 0, 0
+	index: -1
+role/ds98UM_cz_bt_22
+	rotate: true
+	xy: 2, 2
+	size: 357, 407
+	orig: 359, 407
+	offset: 1, 0
+	index: -1
+role/ds98UM_cz_bt_6
+	rotate: true
+	xy: 2, 960
+	size: 61, 27
+	orig: 61, 27
+	offset: 0, 0
+	index: -1
+role/ds98UM_cz_bt_7
+	rotate: false
+	xy: 161, 823
+	size: 158, 112
+	orig: 158, 112
+	offset: 0, 0
+	index: -1
+role/ds98UM_cz_bt_4
+	rotate: true
+	xy: 447, 515
+	size: 50, 46
+	orig: 50, 46
+	offset: 0, 0
+	index: -1
+role/ds98UM_cz_bt_5
+	rotate: false
+	xy: 410, 121
+	size: 83, 75
+	orig: 83, 75
+	offset: 0, 0
+	index: -1
+role/ds98UM_cz_bt_2
+	rotate: true
+	xy: 226, 936
+	size: 53, 44
+	orig: 53, 44
+	offset: 0, 0
+	index: -1
+role/ds98UM_cz_bt_3
+	rotate: true
+	xy: 94, 960
+	size: 55, 46
+	orig: 55, 46
+	offset: 0, 0
+	index: -1
+role/ds98UM_cz_bt_1
+	rotate: true
+	xy: 59, 960
+	size: 56, 34
+	orig: 56, 34
+	offset: 0, 0
+	index: -1
+role/ds98UM_cz_bt_8
+	rotate: true
+	xy: 141, 960
+	size: 55, 35
+	orig: 55, 35
+	offset: 0, 0
+	index: -1
+role/ds98UM_cz_bt_9
+	rotate: true
+	xy: 271, 936
+	size: 52, 45
+	orig: 52, 45
+	offset: 0, 0
+	index: -1
+role/ds98UM_cz_bt_18
+	rotate: false
+	xy: 401, 388
+	size: 108, 126
+	orig: 110, 128
+	offset: 1, 2
+	index: -1
+role/ds98UM_cz_bt_19
+	rotate: true
+	xy: 2, 732
+	size: 227, 158
+	orig: 227, 158
+	offset: 0, 0
+	index: -1
+role/ds98UM_cz_bt_10
+	rotate: true
+	xy: 177, 936
+	size: 54, 48
+	orig: 54, 48
+	offset: 0, 0
+	index: -1
+role/ds98UM_cz_bt_11
+	rotate: true
+	xy: 399, 515
+	size: 50, 47
+	orig: 50, 47
+	offset: 0, 0
+	index: -1
+role/ds98UM_cz_bt_12
+	rotate: false
+	xy: 410, 312
+	size: 81, 75
+	orig: 81, 75
+	offset: 0, 0
+	index: -1
+role/ds98UM_cz_bt_13
+	rotate: true
+	xy: 30, 960
+	size: 60, 28
+	orig: 60, 28
+	offset: 0, 0
+	index: -1
+role/ds98UM_cz_bt_14
+	rotate: false
+	xy: 2, 604
+	size: 158, 114
+	orig: 158, 114
+	offset: 0, 0
+	index: -1
+role/ds98UM_cz_bt_15
+	rotate: false
+	xy: 324, 360
+	size: 76, 72
+	orig: 76, 72
+	offset: 0, 0
+	index: -1
+role/ds98UM_cz_bt_16
+	rotate: false
+	xy: 410, 2
+	size: 84, 118
+	orig: 84, 118
+	offset: 0, 0
+	index: -1
+role/ds98UM_cz_bt_17
+	rotate: false
+	xy: 410, 197
+	size: 81, 114
+	orig: 81, 114
+	offset: 0, 0
+	index: -1
+role/20250515_shan
+	rotate: true
+	xy: 324, 566
+	size: 165, 171
+	orig: 165, 171
+	offset: 0, 0
+	index: -1

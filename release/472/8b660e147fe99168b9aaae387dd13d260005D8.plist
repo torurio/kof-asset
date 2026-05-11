@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>guangyun_BG_100134image.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,637},{342,276}}</string>
+			<key>offset</key>
+			<string>{-2,1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0,1},{342,276}}</string>
+			<key>sourceSize</key>
+			<string>{346,280}</string>
+		</dict>
+		<key>mask01_BG_100134image.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{346,468}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{346,468}}</string>
+			<key>sourceSize</key>
+			<string>{346,468}</string>
+		</dict>
+		<key>xk_BG_100134image.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,350},{285,427}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{285,427}}</string>
+			<key>sourceSize</key>
+			<string>{285,427}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>BG_100134image.png</string>
+		<key>size</key>
+		<string>{512,1024}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>BG_100134image.png</string>
+	</dict>
+</dict>
+</plist>

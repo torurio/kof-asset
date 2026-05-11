@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>di_zhongjisbimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{491,352}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{491,352}}</string>
+			<key>sourceSize</key>
+			<string>{491,352}</string>
+		</dict>
+		<key>jidi_zhongjisbimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,443},{199,27}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{199,27}}</string>
+			<key>sourceSize</key>
+			<string>{199,27}</string>
+		</dict>
+		<key>title_zhongjisbimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,356},{329,85}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{329,85}}</string>
+			<key>sourceSize</key>
+			<string>{329,85}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>zhongjisbimage.png</string>
+		<key>size</key>
+		<string>{512,512}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>zhongjisbimage.png</string>
+	</dict>
+</dict>
+</plist>

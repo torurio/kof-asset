@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>cb_yuanzhushengpinimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,60},{97,66}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{97,66}}</string>
+			<key>sourceSize</key>
+			<string>{97,66}</string>
+		</dict>
+		<key>ewsx_yuanzhushengpinimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{111,27}}</string>
+			<key>offset</key>
+			<string>{-1,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2,0},{111,27}}</string>
+			<key>sourceSize</key>
+			<string>{117,27}</string>
+		</dict>
+		<key>tdsx_yuanzhushengpinimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,31},{107,27}}</string>
+			<key>offset</key>
+			<string>{-1,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5,1},{107,27}}</string>
+			<key>sourceSize</key>
+			<string>{119,29}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>yuanzhushengpinimage.png</string>
+		<key>size</key>
+		<string>{128,128}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>yuanzhushengpinimage.png</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,286 @@
+
+asset/spine/dasheXISZCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/dashe98UM_cz_sz_kabei_40
+	rotate: false
+	xy: 159, 887
+	size: 206, 130
+	orig: 206, 130
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_20
+	rotate: true
+	xy: 852, 827
+	size: 68, 55
+	orig: 68, 55
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_21
+	rotate: true
+	xy: 674, 316
+	size: 108, 123
+	orig: 108, 123
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_22
+	rotate: false
+	xy: 526, 500
+	size: 73, 90
+	orig: 73, 90
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_23
+	rotate: false
+	xy: 459, 500
+	size: 14, 27
+	orig: 14, 27
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_24
+	rotate: false
+	xy: 752, 827
+	size: 42, 117
+	orig: 42, 119
+	offset: 0, 1
+	index: -1
+role/dashe98UM_cz_sz_kabei_25
+	rotate: true
+	xy: 815, 2
+	size: 227, 177
+	orig: 229, 179
+	offset: 1, 1
+	index: -1
+role/dashe98UM_cz_sz_kabei_26
+	rotate: true
+	xy: 241, 530
+	size: 324, 225
+	orig: 324, 225
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_27
+	rotate: false
+	xy: 2, 2
+	size: 456, 527
+	orig: 458, 529
+	offset: 1, 1
+	index: -1
+role/dashe98UM_cz_sz_kabei_28
+	rotate: true
+	xy: 96, 887
+	size: 131, 62
+	orig: 131, 62
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_29
+	rotate: false
+	xy: 674, 425
+	size: 119, 169
+	orig: 121, 171
+	offset: 1, 1
+	index: -1
+role/dashe98UM_cz_sz_kabei_39
+	rotate: false
+	xy: 815, 230
+	size: 176, 261
+	orig: 176, 261
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_38
+	rotate: false
+	xy: 2, 530
+	size: 238, 356
+	orig: 238, 356
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_37
+	rotate: false
+	xy: 637, 2
+	size: 177, 313
+	orig: 177, 313
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_36
+	rotate: false
+	xy: 459, 2
+	size: 177, 313
+	orig: 177, 313
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_35
+	rotate: true
+	xy: 820, 932
+	size: 69, 55
+	orig: 69, 55
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_34
+	rotate: true
+	xy: 467, 528
+	size: 66, 58
+	orig: 66, 58
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_33
+	rotate: true
+	xy: 459, 316
+	size: 183, 214
+	orig: 183, 214
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_32
+	rotate: true
+	xy: 752, 945
+	size: 77, 67
+	orig: 77, 67
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_31
+	rotate: false
+	xy: 467, 595
+	size: 246, 248
+	orig: 246, 248
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_30
+	rotate: false
+	xy: 366, 855
+	size: 112, 165
+	orig: 112, 165
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_11
+	rotate: true
+	xy: 309, 855
+	size: 28, 52
+	orig: 28, 52
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_10
+	rotate: false
+	xy: 876, 932
+	size: 50, 64
+	orig: 50, 64
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_13
+	rotate: false
+	xy: 556, 844
+	size: 87, 149
+	orig: 87, 149
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_12
+	rotate: true
+	xy: 852, 896
+	size: 35, 43
+	orig: 35, 43
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_15
+	rotate: false
+	xy: 795, 827
+	size: 56, 104
+	orig: 56, 104
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_14
+	rotate: false
+	xy: 644, 844
+	size: 107, 145
+	orig: 107, 147
+	offset: 0, 1
+	index: -1
+role/dashe98UM_cz_sz_kabei_17
+	rotate: true
+	xy: 600, 500
+	size: 76, 69
+	orig: 76, 69
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_16
+	rotate: false
+	xy: 993, 75
+	size: 24, 49
+	orig: 24, 49
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_1
+	rotate: true
+	xy: 938, 492
+	size: 85, 82
+	orig: 85, 82
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_19
+	rotate: false
+	xy: 479, 844
+	size: 76, 152
+	orig: 76, 152
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_3
+	rotate: false
+	xy: 993, 2
+	size: 25, 72
+	orig: 25, 72
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_2
+	rotate: false
+	xy: 993, 125
+	size: 23, 79
+	orig: 23, 79
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_5
+	rotate: false
+	xy: 870, 492
+	size: 67, 100
+	orig: 67, 100
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_4
+	rotate: false
+	xy: 2, 887
+	size: 93, 131
+	orig: 95, 131
+	offset: 2, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_7
+	rotate: false
+	xy: 241, 855
+	size: 33, 30
+	orig: 33, 30
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_18
+	rotate: true
+	xy: 714, 595
+	size: 231, 274
+	orig: 231, 276
+	offset: 0, 1
+	index: -1
+role/dashe98UM_cz_sz_kabei_9
+	rotate: false
+	xy: 896, 896
+	size: 36, 35
+	orig: 36, 35
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_8
+	rotate: true
+	xy: 275, 855
+	size: 29, 33
+	orig: 29, 33
+	offset: 0, 0
+	index: -1
+role/dashe98UM_cz_sz_kabei_6
+	rotate: false
+	xy: 794, 492
+	size: 75, 100
+	orig: 75, 100
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,464 @@
+
+asset/spine/sqleDYCard_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/longer0029
+	rotate: true
+	xy: 630, 567
+	size: 188, 249
+	orig: 188, 251
+	offset: 0, 2
+	index: -1
+effect/common/longer0051
+	rotate: true
+	xy: 695, 2
+	size: 188, 251
+	orig: 188, 251
+	offset: 0, 0
+	index: -1
+effect/common/longer0053
+	rotate: false
+	xy: 380, 758
+	size: 188, 249
+	orig: 188, 251
+	offset: 0, 2
+	index: -1
+effect/common/longer0001
+	rotate: true
+	xy: 632, 378
+	size: 188, 249
+	orig: 188, 251
+	offset: 0, 2
+	index: -1
+effect/common/longer0079
+	rotate: true
+	xy: 380, 191
+	size: 188, 251
+	orig: 188, 251
+	offset: 0, 0
+	index: -1
+effect/common/longer0027
+	rotate: false
+	xy: 2, 506
+	size: 188, 251
+	orig: 188, 251
+	offset: 0, 0
+	index: -1
+effect/common/longer0009
+	rotate: false
+	xy: 2, 2
+	size: 188, 251
+	orig: 188, 251
+	offset: 0, 0
+	index: -1
+effect/common/longer0023
+	rotate: true
+	xy: 632, 191
+	size: 186, 251
+	orig: 188, 251
+	offset: 2, 0
+	index: -1
+effect/common/longer0067
+	rotate: false
+	xy: 191, 443
+	size: 188, 251
+	orig: 188, 251
+	offset: 0, 0
+	index: -1
+effect/common/longer0069
+	rotate: true
+	xy: 758, 756
+	size: 188, 249
+	orig: 188, 251
+	offset: 0, 2
+	index: -1
+effect/common/longer0065
+	rotate: false
+	xy: 569, 758
+	size: 188, 249
+	orig: 188, 251
+	offset: 0, 2
+	index: -1
+effect/common/longer0041
+	rotate: true
+	xy: 380, 569
+	size: 188, 249
+	orig: 188, 251
+	offset: 0, 2
+	index: -1
+effect/common/longer0049
+	rotate: true
+	xy: 443, 2
+	size: 188, 251
+	orig: 188, 251
+	offset: 0, 0
+	index: -1
+effect/common/longer0037
+	rotate: false
+	xy: 2, 758
+	size: 188, 251
+	orig: 188, 251
+	offset: 0, 0
+	index: -1
+effect/common/longer0077
+	rotate: false
+	xy: 191, 695
+	size: 188, 251
+	orig: 188, 251
+	offset: 0, 0
+	index: -1
+effect/common/longer0039
+	rotate: true
+	xy: 191, 2
+	size: 188, 251
+	orig: 188, 251
+	offset: 0, 0
+	index: -1
+effect/common/longer0011
+	rotate: false
+	xy: 2, 254
+	size: 188, 251
+	orig: 188, 251
+	offset: 0, 0
+	index: -1
+effect/common/longer0013
+	rotate: true
+	xy: 380, 380
+	size: 188, 249
+	orig: 188, 251
+	offset: 0, 2
+	index: -1
+effect/common/longer0063
+	rotate: false
+	xy: 191, 191
+	size: 188, 251
+	orig: 188, 251
+	offset: 0, 0
+	index: -1
+
+asset/spine/sqleDYCard_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/longer0017
+	rotate: false
+	xy: 189, 2
+	size: 186, 245
+	orig: 188, 251
+	offset: 2, 6
+	index: -1
+effect/common/longer0073
+	rotate: false
+	xy: 805, 427
+	size: 188, 235
+	orig: 188, 251
+	offset: 0, 16
+	index: -1
+effect/common/longer0071
+	rotate: false
+	xy: 376, 191
+	size: 188, 243
+	orig: 188, 251
+	offset: 0, 8
+	index: -1
+effect/common/longer0057
+	rotate: true
+	xy: 624, 2
+	size: 188, 243
+	orig: 188, 251
+	offset: 0, 8
+	index: -1
+effect/common/longer0059
+	rotate: false
+	xy: 376, 435
+	size: 188, 239
+	orig: 188, 251
+	offset: 0, 12
+	index: -1
+effect/common/longer0025
+	rotate: false
+	xy: 2, 2
+	size: 186, 249
+	orig: 188, 251
+	offset: 2, 2
+	index: -1
+effect/common/longer0021
+	rotate: false
+	xy: 2, 500
+	size: 184, 247
+	orig: 188, 251
+	offset: 4, 4
+	index: -1
+effect/common/longer0007
+	rotate: true
+	xy: 569, 569
+	size: 188, 231
+	orig: 188, 251
+	offset: 0, 20
+	index: -1
+effect/common/longer0005
+	rotate: false
+	xy: 380, 675
+	size: 188, 237
+	orig: 188, 251
+	offset: 0, 14
+	index: -1
+effect/common/longer0003
+	rotate: false
+	xy: 187, 498
+	size: 188, 243
+	orig: 188, 251
+	offset: 0, 8
+	index: -1
+effect/common/longer0043
+	rotate: true
+	xy: 380, 2
+	size: 188, 243
+	orig: 188, 251
+	offset: 0, 8
+	index: -1
+effect/common/longer0047
+	rotate: false
+	xy: 801, 663
+	size: 188, 231
+	orig: 188, 251
+	offset: 0, 20
+	index: -1
+effect/common/longer0045
+	rotate: true
+	xy: 569, 191
+	size: 188, 237
+	orig: 188, 251
+	offset: 0, 14
+	index: -1
+effect/common/longer0019
+	rotate: false
+	xy: 2, 252
+	size: 184, 247
+	orig: 188, 251
+	offset: 4, 4
+	index: -1
+effect/common/longer0033
+	rotate: false
+	xy: 807, 191
+	size: 188, 235
+	orig: 188, 251
+	offset: 0, 16
+	index: -1
+effect/common/longer0031
+	rotate: false
+	xy: 191, 742
+	size: 188, 243
+	orig: 188, 251
+	offset: 0, 8
+	index: -1
+effect/common/longer0015
+	rotate: false
+	xy: 2, 748
+	size: 188, 245
+	orig: 188, 251
+	offset: 0, 6
+	index: -1
+effect/common/longer0061
+	rotate: true
+	xy: 569, 380
+	size: 188, 235
+	orig: 188, 251
+	offset: 0, 16
+	index: -1
+effect/common/longer0075
+	rotate: true
+	xy: 569, 758
+	size: 188, 229
+	orig: 188, 251
+	offset: 0, 22
+	index: -1
+effect/common/longer0055
+	rotate: false
+	xy: 187, 252
+	size: 188, 245
+	orig: 188, 251
+	offset: 0, 6
+	index: -1
+
+asset/spine/sqleDYCard_role1.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/sqle_shizhuang_duya_kabei_13
+	rotate: true
+	xy: 2, 2
+	size: 546, 319
+	orig: 546, 319
+	offset: 0, 0
+	index: -1
+
+asset/spine/sqleDYCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/sqle_shizhuang_duya_kabei_16
+	rotate: false
+	xy: 642, 403
+	size: 31, 53
+	orig: 31, 53
+	offset: 0, 0
+	index: -1
+role/sqle_shizhuang_duya_kabei_17
+	rotate: true
+	xy: 568, 973
+	size: 36, 59
+	orig: 36, 59
+	offset: 0, 0
+	index: -1
+role/sqle_shizhuang_duya_kabei_14
+	rotate: true
+	xy: 671, 2
+	size: 400, 346
+	orig: 400, 346
+	offset: 0, 0
+	index: -1
+role/sqle_shizhuang_duya_kabei_15
+	rotate: true
+	xy: 522, 641
+	size: 62, 119
+	orig: 62, 119
+	offset: 0, 0
+	index: -1
+role/sqle_shizhuang_duya_kabei_12
+	rotate: false
+	xy: 512, 934
+	size: 156, 38
+	orig: 156, 38
+	offset: 0, 0
+	index: -1
+role/sqle_shizhuang_duya_kabei_10
+	rotate: true
+	xy: 522, 397
+	size: 89, 119
+	orig: 89, 119
+	offset: 0, 0
+	index: -1
+role/sqle_shizhuang_duya_kabei_11
+	rotate: true
+	xy: 265, 704
+	size: 270, 246
+	orig: 270, 246
+	offset: 0, 0
+	index: -1
+role/sqle_shizhuang_duya_kabei_18
+	rotate: false
+	xy: 265, 975
+	size: 46, 47
+	orig: 46, 47
+	offset: 0, 0
+	index: -1
+role/sqle_shizhuang_duya_kabei_19
+	rotate: true
+	xy: 351, 975
+	size: 44, 53
+	orig: 44, 53
+	offset: 0, 0
+	index: -1
+role/sqle_shizhuang_duya_kabei_8
+	rotate: true
+	xy: 669, 934
+	size: 76, 110
+	orig: 76, 110
+	offset: 0, 0
+	index: -1
+role/sqle_shizhuang_duya_kabei_9
+	rotate: true
+	xy: 405, 975
+	size: 42, 48
+	orig: 42, 48
+	offset: 0, 0
+	index: -1
+role/sqle_shizhuang_duya_kabei_4
+	rotate: false
+	xy: 522, 221
+	size: 130, 175
+	orig: 130, 177
+	offset: 0, 2
+	index: -1
+role/sqle_shizhuang_duya_kabei_5
+	rotate: true
+	xy: 2, 704
+	size: 293, 262
+	orig: 293, 262
+	offset: 0, 0
+	index: -1
+role/sqle_shizhuang_duya_kabei_6
+	rotate: true
+	xy: 512, 704
+	size: 229, 158
+	orig: 229, 158
+	offset: 0, 0
+	index: -1
+role/sqle_shizhuang_duya_kabei_7
+	rotate: false
+	xy: 522, 2
+	size: 136, 126
+	orig: 136, 126
+	offset: 0, 0
+	index: -1
+role/sqle_shizhuang_duya_kabei_1
+	rotate: false
+	xy: 454, 975
+	size: 113, 40
+	orig: 113, 40
+	offset: 0, 0
+	index: -1
+role/sqle_shizhuang_duya_kabei_2
+	rotate: true
+	xy: 615, 487
+	size: 54, 35
+	orig: 54, 35
+	offset: 0, 0
+	index: -1
+role/sqle_shizhuang_duya_kabei_3
+	rotate: false
+	xy: 522, 129
+	size: 134, 91
+	orig: 134, 91
+	offset: 0, 0
+	index: -1
+role/sqle_shizhuang_duya_kabei_22
+	rotate: false
+	xy: 2, 2
+	size: 519, 701
+	orig: 519, 701
+	offset: 0, 0
+	index: -1
+role/sqle_shizhuang_duya_kabei_21
+	rotate: true
+	xy: 522, 487
+	size: 153, 92
+	orig: 153, 92
+	offset: 0, 0
+	index: -1
+role/sqle_shizhuang_duya_kabei_20
+	rotate: false
+	xy: 312, 975
+	size: 38, 47
+	orig: 38, 47
+	offset: 0, 0
+	index: -1
+
+asset/spine/sqleDYCard_common2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/longer0035
+	rotate: false
+	xy: 2, 2
+	size: 188, 229
+	orig: 188, 251
+	offset: 0, 22
+	index: -1

@@ -1,0 +1,400 @@
+
+asset/spine/kelakexv_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/New_mali_btbs_tiaoqiyan_00061
+	rotate: false
+	xy: 2, 488
+	size: 338, 257
+	orig: 340, 257
+	offset: 2, 0
+	index: -1
+global/New_mali_btbs_tiaoqiyan_00063
+	rotate: false
+	xy: 2, 2
+	size: 348, 168
+	orig: 348, 168
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect16.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_xtxt19
+	rotate: true
+	xy: 147, 437
+	size: 134, 143
+	orig: 134, 143
+	offset: 0, 0
+	index: -1
+global/ty_xtxt17
+	rotate: true
+	xy: 291, 559
+	size: 124, 136
+	orig: 124, 136
+	offset: 0, 0
+	index: -1
+global/ty_xtxt16
+	rotate: false
+	xy: 166, 2
+	size: 162, 140
+	orig: 162, 140
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_xtxt15
+	rotate: false
+	xy: 2, 851
+	size: 176, 171
+	orig: 176, 171
+	offset: 0, 0
+	index: -1
+global/New_sy_lmbs_tongyongbaibo_00307
+	rotate: true
+	xy: 867, 334
+	size: 156, 155
+	orig: 156, 155
+	offset: 0, 0
+	index: -1
+global/jisi_xiaojinengshouji2_00001
+	rotate: true
+	xy: 382, 2
+	size: 204, 125
+	orig: 204, 125
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ctj_exMAX_daji_00062
+	rotate: false
+	xy: 2, 2
+	size: 300, 290
+	orig: 300, 290
+	offset: 0, 0
+	index: -1
+global/New_sy_lmbs_tongyongbaibo_00315
+	rotate: true
+	xy: 2, 742
+	size: 272, 270
+	orig: 272, 270
+	offset: 0, 0
+	index: -1
+global/New_mali_xjn_chongciyan_00019
+	rotate: true
+	xy: 576, 726
+	size: 232, 233
+	orig: 232, 233
+	offset: 0, 0
+	index: -1
+global/New_mali_btbs_tiaoqiyan_00055
+	rotate: false
+	xy: 303, 2
+	size: 300, 197
+	orig: 300, 197
+	offset: 0, 0
+	index: -1
+global/New_sy_lmbs_tongyongbaibo_00305
+	rotate: false
+	xy: 902, 2
+	size: 116, 115
+	orig: 116, 115
+	offset: 0, 0
+	index: -1
+global/New_sy_lmbs_tongyongbaibo_00311
+	rotate: false
+	xy: 349, 476
+	size: 227, 226
+	orig: 227, 226
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_xtxt13
+	rotate: false
+	xy: 445, 559
+	size: 168, 177
+	orig: 168, 177
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/New_sy_lmbs_tongyongbaibo_00309
+	rotate: false
+	xy: 2, 646
+	size: 195, 194
+	orig: 195, 194
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_xtxt18
+	rotate: false
+	xy: 858, 166
+	size: 164, 140
+	orig: 164, 140
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect10.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/jisi_xiaojinengshouji2_00007
+	rotate: true
+	xy: 804, 2
+	size: 311, 217
+	orig: 311, 217
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/jisi_xiaojinengshouji2_00003
+	rotate: false
+	xy: 720, 525
+	size: 302, 236
+	orig: 302, 236
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/New_mali_xjn_chongciyan_00029
+	rotate: false
+	xy: 599, 734
+	size: 423, 266
+	orig: 423, 266
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ctj_exMAX_daji_00058
+	rotate: false
+	xy: 2, 2
+	size: 516, 530
+	orig: 516, 530
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ctj_exMAX_daji_00056
+	rotate: false
+	xy: 2, 2
+	size: 674, 609
+	orig: 674, 609
+	offset: 0, 0
+	index: -1
+global/New_mali_xjn_chongciyan_00023
+	rotate: true
+	xy: 677, 268
+	size: 418, 343
+	orig: 418, 343
+	offset: 0, 0
+	index: -1
+global/jisi_xiaojinengshouji2_00005
+	rotate: false
+	xy: 676, 687
+	size: 342, 262
+	orig: 342, 262
+	offset: 0, 0
+	index: -1
+global/New_mali_btbs_tiaoqiyan_00057
+	rotate: false
+	xy: 677, 2
+	size: 345, 265
+	orig: 345, 265
+	offset: 0, 0
+	index: -1
+global/New_mali_xjn_chongciyan_00021
+	rotate: false
+	xy: 287, 612
+	size: 388, 371
+	orig: 388, 371
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ctj_exMAX_daji_00052
+	rotate: false
+	xy: 2, 2
+	size: 975, 378
+	orig: 975, 378
+	offset: 0, 0
+	index: -1
+global/ty_xtxt14
+	rotate: false
+	xy: 384, 381
+	size: 176, 178
+	orig: 176, 178
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/New_sy_lmbs_tongyongbaibo_00313
+	rotate: false
+	xy: 547, 773
+	size: 251, 249
+	orig: 251, 249
+	offset: 0, 0
+	index: -1
+global/New_mali_btbs_tiaoqiyan_00059
+	rotate: false
+	xy: 547, 467
+	size: 472, 305
+	orig: 472, 305
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ctj_exMAX_daji_00054
+	rotate: false
+	xy: 2, 575
+	size: 501, 441
+	orig: 501, 441
+	offset: 0, 0
+	index: -1
+global/New_sy_lmbs_tongyongbaibo_00303
+	rotate: true
+	xy: 539, 499
+	size: 75, 76
+	orig: 77, 76
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_dun5
+	rotate: true
+	xy: 237, 961
+	size: 61, 107
+	orig: 61, 107
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_dun4
+	rotate: true
+	xy: 169, 271
+	size: 223, 187
+	orig: 223, 187
+	offset: 0, 0
+	index: -1
+global/ty_dun1
+	rotate: true
+	xy: 2, 511
+	size: 226, 225
+	orig: 226, 225
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ctj_exMAX_daji_00060
+	rotate: true
+	xy: 2, 555
+	size: 411, 259
+	orig: 411, 259
+	offset: 0, 0
+	index: -1
+global/New_mali_xjn_chongciyan_00027
+	rotate: false
+	xy: 2, 2
+	size: 467, 277
+	orig: 467, 277
+	offset: 0, 0
+	index: -1
+global/New_mali_xjn_chongciyan_00025
+	rotate: false
+	xy: 2, 280
+	size: 452, 274
+	orig: 452, 274
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_dun2
+	rotate: false
+	xy: 866, 2
+	size: 149, 129
+	orig: 149, 129
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_dun3
+	rotate: true
+	xy: 172, 647
+	size: 203, 185
+	orig: 203, 185
+	offset: 0, 0
+	index: -1

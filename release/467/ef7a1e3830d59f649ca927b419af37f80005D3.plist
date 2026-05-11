@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>m1_kuafuzhanzijiimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{236,89}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{236,89}}</string>
+			<key>sourceSize</key>
+			<string>{236,89}</string>
+		</dict>
+		<key>m2_kuafuzhanzijiimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,178},{38,38}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{38,38}}</string>
+			<key>sourceSize</key>
+			<string>{38,38}</string>
+		</dict>
+		<key>zj_kuafuzhanzijiimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,93},{81,83}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{81,83}}</string>
+			<key>sourceSize</key>
+			<string>{81,83}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>kuafuzhanzijiimage.png</string>
+		<key>size</key>
+		<string>{256,256}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>kuafuzhanzijiimage.png</string>
+	</dict>
+</dict>
+</plist>

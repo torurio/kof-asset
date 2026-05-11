@@ -1,0 +1,229 @@
+
+asset/spine/btliannaCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/lianna_zailin_jxlan_tu_30
+	rotate: true
+	xy: 800, 2
+	size: 264, 202
+	orig: 264, 202
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_29
+	rotate: true
+	xy: 551, 728
+	size: 278, 248
+	orig: 278, 248
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_28
+	rotate: false
+	xy: 800, 267
+	size: 167, 100
+	orig: 167, 100
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_25
+	rotate: true
+	xy: 731, 382
+	size: 85, 65
+	orig: 85, 65
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_24
+	rotate: false
+	xy: 800, 723
+	size: 38, 48
+	orig: 38, 48
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_27
+	rotate: false
+	xy: 800, 368
+	size: 159, 254
+	orig: 159, 254
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_26
+	rotate: false
+	xy: 731, 623
+	size: 108, 99
+	orig: 108, 99
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_21
+	rotate: false
+	xy: 968, 267
+	size: 54, 53
+	orig: 54, 53
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_20
+	rotate: true
+	xy: 602, 695
+	size: 30, 69
+	orig: 30, 69
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_23
+	rotate: true
+	xy: 957, 695
+	size: 40, 56
+	orig: 40, 56
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_22
+	rotate: true
+	xy: 672, 291
+	size: 37, 56
+	orig: 37, 56
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_8
+	rotate: true
+	xy: 602, 623
+	size: 70, 128
+	orig: 70, 128
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_9
+	rotate: false
+	xy: 800, 772
+	size: 136, 242
+	orig: 136, 242
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_6
+	rotate: true
+	xy: 602, 2
+	size: 136, 195
+	orig: 136, 195
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_7
+	rotate: false
+	xy: 602, 468
+	size: 69, 144
+	orig: 69, 144
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_4
+	rotate: true
+	xy: 840, 623
+	size: 55, 119
+	orig: 55, 119
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_5
+	rotate: false
+	xy: 672, 468
+	size: 112, 108
+	orig: 112, 108
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_3
+	rotate: false
+	xy: 960, 514
+	size: 59, 95
+	orig: 59, 95
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_1
+	rotate: false
+	xy: 2, 2
+	size: 599, 725
+	orig: 601, 727
+	offset: 1, 2
+	index: -1
+role/lianna_zailin_jxlan_tu_18
+	rotate: true
+	xy: 2, 728
+	size: 281, 303
+	orig: 281, 303
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_19
+	rotate: false
+	xy: 731, 291
+	size: 68, 90
+	orig: 68, 90
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_10
+	rotate: true
+	xy: 960, 471
+	size: 42, 62
+	orig: 42, 62
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_11
+	rotate: false
+	xy: 968, 321
+	size: 52, 75
+	orig: 52, 75
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_12
+	rotate: false
+	xy: 960, 610
+	size: 59, 84
+	orig: 59, 84
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_13
+	rotate: true
+	xy: 960, 397
+	size: 73, 62
+	orig: 73, 62
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_14
+	rotate: false
+	xy: 840, 679
+	size: 116, 90
+	orig: 116, 90
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_15
+	rotate: false
+	xy: 937, 770
+	size: 84, 46
+	orig: 84, 46
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_16
+	rotate: false
+	xy: 602, 139
+	size: 180, 151
+	orig: 180, 151
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_17
+	rotate: false
+	xy: 306, 728
+	size: 244, 281
+	orig: 244, 281
+	offset: 0, 0
+	index: -1
+
+asset/spine/btliannaCard_role1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/lianna_zailin_jxlan_tu_31
+	rotate: false
+	xy: 95, 2
+	size: 140, 139
+	orig: 140, 139
+	offset: 0, 0
+	index: -1
+role/lianna_zailin_jxlan_tu_2
+	rotate: false
+	xy: 2, 2
+	size: 92, 241
+	orig: 92, 241
+	offset: 0, 0
+	index: -1

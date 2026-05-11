@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>wy_20_20_23652_liandongshabaibisha3image.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{400,163}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{400,163}}</string>
+			<key>sourceSize</key>
+			<string>{400,163}</string>
+		</dict>
+		<key>wy_21_21_84926_liandongshabaibisha3image.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{164,167},{320,160}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{320,160}}</string>
+			<key>sourceSize</key>
+			<string>{320,160}</string>
+		</dict>
+		<key>wy_22_22_10799_liandongshabaibisha3image.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,167},{320,160}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{320,160}}</string>
+			<key>sourceSize</key>
+			<string>{320,160}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>extension</key>
+		<integer>1</integer>
+		<key>format</key>
+		<integer>2</integer>
+		<key>imageFormat</key>
+		<string>RGBA4444</string>
+		<key>realTextureFileName</key>
+		<string>liandongshabaibisha3image.png</string>
+		<key>scale</key>
+		<real>0.5</real>
+		<key>size</key>
+		<string>{512,512}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>liandongshabaibisha3image.png</string>
+	</dict>
+</dict>
+</plist>

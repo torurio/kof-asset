@@ -1,0 +1,2773 @@
+
+asset/spine/maliML_role1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mali_skill_0
+	rotate: false
+	xy: 269, 620
+	size: 50, 77
+	orig: 50, 77
+	offset: 0, 0
+	index: -1
+mali_skill_1
+	rotate: true
+	xy: 775, 316
+	size: 57, 48
+	orig: 57, 48
+	offset: 0, 0
+	index: -1
+mali_skill_2
+	rotate: false
+	xy: 830, 432
+	size: 56, 46
+	orig: 56, 46
+	offset: 0, 0
+	index: -1
+mali_skill_3
+	rotate: false
+	xy: 777, 442
+	size: 52, 36
+	orig: 52, 36
+	offset: 0, 0
+	index: -1
+mali_skill_5
+	rotate: true
+	xy: 953, 432
+	size: 50, 28
+	orig: 50, 28
+	offset: 0, 0
+	index: -1
+mali_atk_23
+	rotate: false
+	xy: 753, 215
+	size: 44, 42
+	orig: 44, 42
+	offset: 0, 0
+	index: -1
+mali_atk_20
+	rotate: true
+	xy: 648, 604
+	size: 59, 47
+	orig: 59, 47
+	offset: 0, 0
+	index: -1
+mali_atk_21
+	rotate: true
+	xy: 904, 927
+	size: 54, 29
+	orig: 54, 29
+	offset: 0, 0
+	index: -1
+mali_atk_24
+	rotate: true
+	xy: 645, 69
+	size: 65, 57
+	orig: 65, 57
+	offset: 0, 0
+	index: -1
+mali_atk_25
+	rotate: false
+	xy: 296, 166
+	size: 54, 76
+	orig: 54, 76
+	offset: 0, 0
+	index: -1
+mali_idle_25
+	rotate: true
+	xy: 95, 902
+	size: 83, 40
+	orig: 83, 40
+	offset: 0, 0
+	index: -1
+mali_idle_21
+	rotate: false
+	xy: 630, 2
+	size: 52, 66
+	orig: 52, 66
+	offset: 0, 0
+	index: -1
+mali_atk_109
+	rotate: true
+	xy: 44, 549
+	size: 86, 52
+	orig: 86, 52
+	offset: 0, 0
+	index: -1
+mali_idle_23
+	rotate: true
+	xy: 716, 661
+	size: 57, 38
+	orig: 57, 38
+	offset: 0, 0
+	index: -1
+mali_idle_22
+	rotate: true
+	xy: 611, 542
+	size: 61, 53
+	orig: 61, 53
+	offset: 0, 0
+	index: -1
+mali_atk_100
+	rotate: false
+	xy: 614, 794
+	size: 58, 38
+	orig: 58, 38
+	offset: 0, 0
+	index: -1
+mali_atk_102
+	rotate: false
+	xy: 770, 776
+	size: 34, 56
+	orig: 34, 56
+	offset: 0, 0
+	index: -1
+mali_atk_103
+	rotate: true
+	xy: 783, 833
+	size: 55, 42
+	orig: 55, 42
+	offset: 0, 0
+	index: -1
+mali_atk_172
+	rotate: false
+	xy: 720, 719
+	size: 51, 56
+	orig: 51, 56
+	offset: 0, 0
+	index: -1
+mali_atk_174
+	rotate: true
+	xy: 579, 2
+	size: 67, 50
+	orig: 67, 56
+	offset: 0, 6
+	index: -1
+mali_atk_177
+	rotate: true
+	xy: 872, 2
+	size: 50, 52
+	orig: 50, 52
+	offset: 0, 0
+	index: -1
+mali_skill2_95
+	rotate: false
+	xy: 219, 698
+	size: 52, 77
+	orig: 52, 77
+	offset: 0, 0
+	index: -1
+mali_skill2_28
+	rotate: true
+	xy: 745, 258
+	size: 57, 48
+	orig: 57, 48
+	offset: 0, 0
+	index: -1
+mali_atk_68
+	rotate: false
+	xy: 890, 765
+	size: 39, 51
+	orig: 39, 51
+	offset: 0, 0
+	index: -1
+mali_atk_69
+	rotate: false
+	xy: 534, 966
+	size: 64, 56
+	orig: 64, 56
+	offset: 0, 0
+	index: -1
+mali_skill2_24
+	rotate: true
+	xy: 2, 186
+	size: 91, 39
+	orig: 91, 39
+	offset: 0, 0
+	index: -1
+mali_skill2_25
+	rotate: true
+	xy: 320, 695
+	size: 74, 52
+	orig: 74, 52
+	offset: 0, 0
+	index: -1
+mali_atk_64
+	rotate: true
+	xy: 2, 818
+	size: 83, 58
+	orig: 83, 58
+	offset: 0, 0
+	index: -1
+mali_skill2_20
+	rotate: false
+	xy: 923, 274
+	size: 50, 33
+	orig: 50, 33
+	offset: 0, 0
+	index: -1
+mali_skill2_21
+	rotate: true
+	xy: 956, 688
+	size: 53, 24
+	orig: 53, 24
+	offset: 0, 0
+	index: -1
+mali_atk_61
+	rotate: false
+	xy: 618, 833
+	size: 54, 58
+	orig: 54, 58
+	offset: 0, 0
+	index: -1
+mali_atk_91
+	rotate: true
+	xy: 903, 535
+	size: 40, 49
+	orig: 40, 49
+	offset: 0, 0
+	index: -1
+mali_skill2_99
+	rotate: false
+	xy: 497, 224
+	size: 46, 68
+	orig: 46, 68
+	offset: 0, 0
+	index: -1
+mali_skill2_98
+	rotate: false
+	xy: 656, 201
+	size: 48, 64
+	orig: 48, 66
+	offset: 0, 0
+	index: -1
+mali_skill2_91
+	rotate: false
+	xy: 887, 432
+	size: 52, 46
+	orig: 52, 46
+	offset: 0, 0
+	index: -1
+mali_skill2_90
+	rotate: true
+	xy: 923, 191
+	size: 45, 50
+	orig: 45, 50
+	offset: 0, 0
+	index: -1
+mali_skill2_97
+	rotate: true
+	xy: 673, 789
+	size: 57, 44
+	orig: 57, 44
+	offset: 0, 0
+	index: -1
+mali_skill2_96
+	rotate: true
+	xy: 402, 968
+	size: 54, 65
+	orig: 54, 65
+	offset: 0, 0
+	index: -1
+mali_atk_140
+	rotate: false
+	xy: 337, 482
+	size: 65, 59
+	orig: 65, 59
+	offset: 0, 0
+	index: -1
+mali_atk_141
+	rotate: true
+	xy: 160, 704
+	size: 79, 58
+	orig: 79, 58
+	offset: 0, 0
+	index: -1
+mali_atk_142
+	rotate: false
+	xy: 753, 132
+	size: 48, 31
+	orig: 48, 31
+	offset: 0, 0
+	index: -1
+mali_atk_144
+	rotate: false
+	xy: 872, 119
+	size: 50, 47
+	orig: 50, 47
+	offset: 0, 0
+	index: -1
+mali_atk_145
+	rotate: false
+	xy: 181, 178
+	size: 71, 84
+	orig: 71, 84
+	offset: 0, 0
+	index: -1
+mali_atk_148
+	rotate: false
+	xy: 325, 81
+	size: 53, 76
+	orig: 53, 76
+	offset: 0, 0
+	index: -1
+mali_runsge_70
+	rotate: true
+	xy: 531, 482
+	size: 59, 57
+	orig: 61, 63
+	offset: 1, 0
+	index: -1
+mali_runsge_71
+	rotate: true
+	xy: 312, 406
+	size: 75, 47
+	orig: 75, 47
+	offset: 0, 0
+	index: -1
+mali_runsge_72
+	rotate: false
+	xy: 469, 482
+	size: 61, 59
+	orig: 61, 59
+	offset: 0, 0
+	index: -1
+mali_runsge_75
+	rotate: false
+	xy: 106, 364
+	size: 78, 85
+	orig: 84, 85
+	offset: 0, 0
+	index: -1
+mali_runsge_76
+	rotate: false
+	xy: 284, 496
+	size: 52, 45
+	orig: 52, 45
+	offset: 0, 0
+	index: -1
+mali_atk_13
+	rotate: false
+	xy: 872, 215
+	size: 50, 36
+	orig: 50, 36
+	offset: 0, 0
+	index: -1
+mali_atk_11
+	rotate: false
+	xy: 579, 894
+	size: 55, 58
+	orig: 55, 58
+	offset: 0, 0
+	index: -1
+mali_idle_18
+	rotate: false
+	xy: 736, 2
+	size: 37, 65
+	orig: 37, 65
+	offset: 0, 0
+	index: -1
+mali_idle_19
+	rotate: false
+	xy: 520, 2
+	size: 58, 69
+	orig: 58, 69
+	offset: 0, 0
+	index: -1
+mali_idle_14
+	rotate: true
+	xy: 569, 542
+	size: 62, 41
+	orig: 62, 41
+	offset: 0, 0
+	index: -1
+mali_idle_15
+	rotate: false
+	xy: 407, 155
+	size: 66, 74
+	orig: 66, 74
+	offset: 0, 0
+	index: -1
+mali_idle_11
+	rotate: true
+	xy: 523, 677
+	size: 62, 48
+	orig: 62, 48
+	offset: 0, 0
+	index: -1
+mali_idle_13
+	rotate: true
+	xy: 736, 479
+	size: 57, 50
+	orig: 57, 50
+	offset: 0, 0
+	index: -1
+mali_skill2_22
+	rotate: false
+	xy: 560, 833
+	size: 57, 60
+	orig: 57, 60
+	offset: 0, 0
+	index: -1
+mali_skill1_13
+	rotate: false
+	xy: 923, 237
+	size: 50, 36
+	orig: 50, 36
+	offset: 0, 0
+	index: -1
+mali_skill1_14
+	rotate: true
+	xy: 903, 689
+	size: 43, 52
+	orig: 45, 52
+	offset: 0, 0
+	index: -1
+mali_skill_25
+	rotate: false
+	xy: 488, 612
+	size: 55, 64
+	orig: 55, 64
+	offset: 0, 0
+	index: -1
+mali_skill_20
+	rotate: false
+	xy: 798, 212
+	size: 44, 39
+	orig: 52, 39
+	offset: 0, 0
+	index: -1
+mali_runsge_35
+	rotate: false
+	xy: 673, 847
+	size: 53, 44
+	orig: 53, 44
+	offset: 0, 0
+	index: -1
+mali_atk_35
+	rotate: false
+	xy: 865, 733
+	size: 40, 27
+	orig: 40, 27
+	offset: 0, 0
+	index: -1
+mali_atk_56
+	rotate: false
+	xy: 589, 482
+	size: 52, 59
+	orig: 52, 59
+	offset: 0, 0
+	index: -1
+mali_atk_55
+	rotate: false
+	xy: 824, 706
+	size: 40, 55
+	orig: 40, 61
+	offset: 0, 6
+	index: -1
+mali_atk_54
+	rotate: true
+	xy: 721, 443
+	size: 35, 55
+	orig: 35, 55
+	offset: 0, 0
+	index: -1
+mali_skill2_72
+	rotate: true
+	xy: 694, 266
+	size: 58, 50
+	orig: 58, 50
+	offset: 0, 0
+	index: -1
+mali_skill2_71
+	rotate: false
+	xy: 593, 284
+	size: 49, 66
+	orig: 49, 66
+	offset: 0, 0
+	index: -1
+mali_skill2_70
+	rotate: false
+	xy: 468, 966
+	size: 65, 56
+	orig: 65, 56
+	offset: 0, 0
+	index: -1
+mali_atk_59
+	rotate: true
+	xy: 129, 986
+	size: 36, 54
+	orig: 36, 54
+	offset: 0, 0
+	index: -1
+mali_skill2_78
+	rotate: false
+	xy: 136, 894
+	size: 70, 81
+	orig: 72, 81
+	offset: 0, 0
+	index: -1
+mali_atk_87
+	rotate: true
+	xy: 52, 459
+	size: 86, 52
+	orig: 86, 52
+	offset: 0, 0
+	index: -1
+mali_atk_116
+	rotate: false
+	xy: 2, 278
+	size: 68, 90
+	orig: 68, 90
+	offset: 0, 0
+	index: -1
+mali_atk_115
+	rotate: true
+	xy: 587, 70
+	size: 66, 57
+	orig: 66, 57
+	offset: 0, 0
+	index: -1
+mali_atk_114
+	rotate: true
+	xy: 982, 382
+	size: 52, 40
+	orig: 52, 40
+	offset: 0, 0
+	index: -1
+mali_atk_111
+	rotate: true
+	xy: 311, 243
+	size: 75, 57
+	orig: 75, 57
+	offset: 0, 0
+	index: -1
+mali_atk_180
+	rotate: true
+	xy: 731, 597
+	size: 57, 26
+	orig: 57, 26
+	offset: 0, 0
+	index: -1
+mali_atk_183
+	rotate: true
+	xy: 836, 944
+	size: 54, 34
+	orig: 58, 34
+	offset: 0, 0
+	index: -1
+mali_idle_20
+	rotate: true
+	xy: 903, 576
+	size: 39, 49
+	orig: 39, 49
+	offset: 0, 0
+	index: -1
+mali_skill2_100
+	rotate: false
+	xy: 938, 382
+	size: 43, 49
+	orig: 43, 49
+	offset: 0, 0
+	index: -1
+mali_atk_33
+	rotate: true
+	xy: 953, 483
+	size: 47, 28
+	orig: 47, 28
+	offset: 0, 0
+	index: -1
+mali_die_12
+	rotate: true
+	xy: 515, 542
+	size: 64, 53
+	orig: 64, 53
+	offset: 0, 0
+	index: -1
+mali_die_11
+	rotate: false
+	xy: 267, 542
+	size: 54, 77
+	orig: 54, 77
+	offset: 0, 0
+	index: -1
+mali_die_17
+	rotate: true
+	xy: 871, 944
+	size: 54, 32
+	orig: 54, 32
+	offset: 0, 0
+	index: -1
+mali_die_15
+	rotate: false
+	xy: 772, 711
+	size: 51, 55
+	orig: 51, 55
+	offset: 0, 0
+	index: -1
+mali_die_18
+	rotate: true
+	xy: 550, 360
+	size: 66, 51
+	orig: 66, 51
+	offset: 0, 0
+	index: -1
+mali_atk_93
+	rotate: false
+	xy: 854, 535
+	size: 48, 55
+	orig: 48, 55
+	offset: 0, 0
+	index: -1
+mali_atk_92
+	rotate: false
+	xy: 393, 309
+	size: 65, 70
+	orig: 65, 70
+	offset: 0, 0
+	index: -1
+mali_skill2_38
+	rotate: true
+	xy: 654, 335
+	size: 58, 51
+	orig: 58, 51
+	offset: 0, 0
+	index: -1
+mali_atk_95
+	rotate: true
+	xy: 431, 542
+	size: 69, 47
+	orig: 69, 47
+	offset: 0, 0
+	index: -1
+mali_atk_94
+	rotate: true
+	xy: 982, 631
+	size: 43, 40
+	orig: 43, 40
+	offset: 0, 0
+	index: -1
+mali_atk_99
+	rotate: false
+	xy: 981, 352
+	size: 41, 29
+	orig: 41, 29
+	offset: 0, 0
+	index: -1
+mali_skill2_30
+	rotate: true
+	xy: 184, 976
+	size: 46, 70
+	orig: 46, 70
+	offset: 0, 0
+	index: -1
+mali_skill2_37
+	rotate: true
+	xy: 896, 483
+	size: 51, 43
+	orig: 51, 43
+	offset: 0, 0
+	index: -1
+mali_skill2_36
+	rotate: true
+	xy: 982, 435
+	size: 52, 40
+	orig: 52, 40
+	offset: 0, 0
+	index: -1
+mali_atk_152
+	rotate: true
+	xy: 804, 84
+	size: 35, 40
+	orig: 35, 40
+	offset: 0, 0
+	index: -1
+mali_atk_151
+	rotate: false
+	xy: 953, 531
+	size: 28, 40
+	orig: 28, 40
+	offset: 0, 0
+	index: -1
+mali_atk_150
+	rotate: false
+	xy: 718, 782
+	size: 51, 56
+	orig: 51, 56
+	offset: 0, 0
+	index: -1
+mali_runsge_67
+	rotate: true
+	xy: 925, 53
+	size: 33, 52
+	orig: 33, 52
+	offset: 0, 0
+	index: -1
+mali_runsge_66
+	rotate: false
+	xy: 843, 479
+	size: 52, 55
+	orig: 52, 55
+	offset: 0, 0
+	index: -1
+mali_runsge_60
+	rotate: true
+	xy: 981, 714
+	size: 27, 40
+	orig: 27, 40
+	offset: 0, 0
+	index: -1
+mali_skill2_48
+	rotate: false
+	xy: 872, 167
+	size: 50, 47
+	orig: 50, 47
+	offset: 0, 0
+	index: -1
+mali_skill2_49
+	rotate: false
+	xy: 792, 164
+	size: 37, 47
+	orig: 37, 47
+	offset: 0, 0
+	index: -1
+mali_skill2_46
+	rotate: true
+	xy: 872, 88
+	size: 30, 51
+	orig: 30, 51
+	offset: 0, 0
+	index: -1
+mali_skill2_47
+	rotate: true
+	xy: 457, 450
+	size: 31, 53
+	orig: 31, 53
+	offset: 0, 0
+	index: -1
+mali_skill2_44
+	rotate: true
+	xy: 753, 948
+	size: 55, 43
+	orig: 61, 43
+	offset: 0, 0
+	index: -1
+mali_skill2_45
+	rotate: true
+	xy: 809, 47
+	size: 36, 52
+	orig: 36, 52
+	offset: 0, 0
+	index: -1
+mali_skill2_42
+	rotate: true
+	xy: 639, 416
+	size: 62, 28
+	orig: 62, 28
+	offset: 0, 0
+	index: -1
+mali_skill2_40
+	rotate: false
+	xy: 510, 805
+	size: 47, 27
+	orig: 47, 27
+	offset: 0, 0
+	index: -1
+mali_skill2_41
+	rotate: false
+	xy: 862, 591
+	size: 40, 46
+	orig: 40, 46
+	offset: 0, 0
+	index: -1
+mali_idle_6
+	rotate: false
+	xy: 252, 420
+	size: 59, 75
+	orig: 59, 75
+	offset: 0, 0
+	index: -1
+mali_runsge_99
+	rotate: true
+	xy: 668, 394
+	size: 58, 46
+	orig: 60, 46
+	offset: 2, 0
+	index: -1
+mali_skill_38
+	rotate: false
+	xy: 918, 308
+	size: 48, 44
+	orig: 48, 44
+	offset: 0, 0
+	index: -1
+mali_skill_39
+	rotate: false
+	xy: 903, 616
+	size: 49, 36
+	orig: 49, 40
+	offset: 0, 0
+	index: -1
+mali_skill_31
+	rotate: false
+	xy: 246, 776
+	size: 50, 77
+	orig: 50, 77
+	offset: 0, 0
+	index: -1
+mali_skill_32
+	rotate: true
+	xy: 753, 164
+	size: 47, 38
+	orig: 47, 38
+	offset: 0, 0
+	index: -1
+mali_skill_36
+	rotate: false
+	xy: 953, 887
+	size: 50, 38
+	orig: 52, 38
+	offset: 1, 0
+	index: -1
+mali_skill2_58
+	rotate: false
+	xy: 408, 2
+	size: 52, 75
+	orig: 52, 75
+	offset: 0, 0
+	index: -1
+mali_skill_29
+	rotate: true
+	xy: 547, 140
+	size: 66, 58
+	orig: 66, 58
+	offset: 0, 0
+	index: -1
+mali_die_20
+	rotate: false
+	xy: 2, 369
+	size: 53, 89
+	orig: 53, 89
+	offset: 0, 0
+	index: -1
+mali_skill_24
+	rotate: false
+	xy: 501, 371
+	size: 48, 67
+	orig: 48, 67
+	offset: 0, 0
+	index: -1
+mali_skill_45
+	rotate: false
+	xy: 870, 817
+	size: 40, 54
+	orig: 42, 54
+	offset: 2, 0
+	index: -1
+mali_skill_47
+	rotate: false
+	xy: 865, 682
+	size: 37, 50
+	orig: 37, 50
+	offset: 0, 0
+	index: -1
+mali_skill_41
+	rotate: true
+	xy: 812, 592
+	size: 55, 49
+	orig: 55, 49
+	offset: 0, 0
+	index: -1
+mali_skill_40
+	rotate: true
+	xy: 982, 488
+	size: 50, 40
+	orig: 50, 40
+	offset: 0, 0
+	index: -1
+mali_skill_42
+	rotate: true
+	xy: 846, 382
+	size: 49, 46
+	orig: 49, 46
+	offset: 0, 0
+	index: -1
+mali_skill_21
+	rotate: false
+	xy: 744, 325
+	size: 30, 58
+	orig: 30, 58
+	offset: 0, 0
+	index: -1
+mali_atk_32
+	rotate: false
+	xy: 906, 733
+	size: 49, 31
+	orig: 49, 31
+	offset: 0, 0
+	index: -1
+mali_runsge_24
+	rotate: false
+	xy: 185, 436
+	size: 66, 77
+	orig: 66, 77
+	offset: 0, 0
+	index: -1
+mali_atk_44
+	rotate: true
+	xy: 109, 270
+	size: 85, 52
+	orig: 85, 54
+	offset: 0, 1
+	index: -1
+mali_atk_45
+	rotate: true
+	xy: 2, 459
+	size: 89, 49
+	orig: 89, 49
+	offset: 0, 0
+	index: -1
+mali_atk_46
+	rotate: true
+	xy: 103, 715
+	size: 80, 56
+	orig: 80, 56
+	offset: 0, 0
+	index: -1
+mali_atk_47
+	rotate: true
+	xy: 529, 293
+	size: 66, 63
+	orig: 66, 65
+	offset: 0, 2
+	index: -1
+mali_atk_42
+	rotate: false
+	xy: 924, 118
+	size: 51, 24
+	orig: 51, 24
+	offset: 0, 0
+	index: -1
+mali_atk_43
+	rotate: false
+	xy: 304, 854
+	size: 52, 39
+	orig: 52, 39
+	offset: 0, 0
+	index: -1
+mali_atk_48
+	rotate: false
+	xy: 745, 537
+	size: 55, 56
+	orig: 55, 56
+	offset: 0, 0
+	index: -1
+mali_atk_49
+	rotate: false
+	xy: 679, 724
+	size: 40, 57
+	orig: 40, 57
+	offset: 0, 0
+	index: -1
+mali_atk_128
+	rotate: true
+	xy: 2, 94
+	size: 91, 49
+	orig: 91, 49
+	offset: 0, 0
+	index: -1
+mali_atk_129
+	rotate: true
+	xy: 745, 68
+	size: 63, 58
+	orig: 63, 58
+	offset: 0, 0
+	index: -1
+mali_atk_123
+	rotate: false
+	xy: 976, 844
+	size: 46, 42
+	orig: 46, 42
+	offset: 0, 0
+	index: -1
+mali_atk_120
+	rotate: true
+	xy: 591, 605
+	size: 61, 56
+	orig: 61, 56
+	offset: 0, 0
+	index: -1
+mali_atk_126
+	rotate: true
+	xy: 774, 2
+	size: 63, 34
+	orig: 63, 34
+	offset: 0, 0
+	index: -1
+mali_atk_127
+	rotate: true
+	xy: 272, 698
+	size: 77, 47
+	orig: 77, 47
+	offset: 0, 0
+	index: -1
+mali_atk_124
+	rotate: false
+	xy: 981, 322
+	size: 41, 29
+	orig: 41, 29
+	offset: 0, 0
+	index: -1
+mali_runsge_57
+	rotate: true
+	xy: 704, 134
+	size: 64, 48
+	orig: 64, 52
+	offset: 0, 4
+	index: -1
+mali_runsge_55
+	rotate: false
+	xy: 534, 72
+	size: 52, 67
+	orig: 52, 69
+	offset: 0, 1
+	index: -1
+mali_runsge_51
+	rotate: true
+	xy: 981, 104
+	size: 46, 41
+	orig: 46, 41
+	offset: 0, 0
+	index: -1
+mali_skill1_5
+	rotate: true
+	xy: 845, 84
+	size: 34, 26
+	orig: 34, 26
+	offset: 0, 0
+	index: -1
+mali_skill1_0
+	rotate: true
+	xy: 810, 650
+	size: 55, 51
+	orig: 55, 51
+	offset: 0, 0
+	index: -1
+mali_skill2_31
+	rotate: false
+	xy: 255, 253
+	size: 55, 76
+	orig: 55, 76
+	offset: 0, 0
+	index: -1
+mali_runsge_68
+	rotate: false
+	xy: 982, 586
+	size: 40, 44
+	orig: 40, 44
+	offset: 0, 0
+	index: -1
+mali_atk_50
+	rotate: true
+	xy: 653, 951
+	size: 58, 51
+	orig: 58, 51
+	offset: 0, 0
+	index: -1
+mali_atk_80
+	rotate: true
+	xy: 399, 450
+	size: 31, 57
+	orig: 31, 57
+	offset: 0, 0
+	index: -1
+mali_die_2
+	rotate: true
+	xy: 322, 542
+	size: 74, 54
+	orig: 74, 54
+	offset: 0, 0
+	index: -1
+mali_atk_85
+	rotate: false
+	xy: 953, 572
+	size: 28, 37
+	orig: 28, 37
+	offset: 0, 0
+	index: -1
+mali_atk_86
+	rotate: false
+	xy: 824, 322
+	size: 47, 51
+	orig: 47, 51
+	offset: 0, 0
+	index: -1
+mali_die_4
+	rotate: false
+	xy: 558, 803
+	size: 55, 29
+	orig: 55, 29
+	offset: 0, 0
+	index: -1
+mali_atk_88
+	rotate: true
+	xy: 435, 78
+	size: 74, 63
+	orig: 74, 63
+	offset: 0, 0
+	index: -1
+mali_atk_89
+	rotate: false
+	xy: 501, 833
+	size: 58, 60
+	orig: 58, 62
+	offset: 0, 1
+	index: -1
+mali_die_9
+	rotate: false
+	xy: 351, 158
+	size: 55, 75
+	orig: 55, 75
+	offset: 0, 0
+	index: -1
+mali_atk_9
+	rotate: true
+	xy: 461, 2
+	size: 74, 58
+	orig: 78, 60
+	offset: 4, 1
+	index: -1
+mali_atk_8
+	rotate: true
+	xy: 706, 325
+	size: 58, 37
+	orig: 58, 37
+	offset: 0, 0
+	index: -1
+mali_atk_7
+	rotate: true
+	xy: 61, 818
+	size: 83, 40
+	orig: 83, 46
+	offset: 0, 0
+	index: -1
+mali_atk_6
+	rotate: false
+	xy: 801, 536
+	size: 52, 55
+	orig: 52, 55
+	offset: 0, 0
+	index: -1
+mali_atk_5
+	rotate: true
+	xy: 696, 601
+	size: 59, 34
+	orig: 59, 34
+	offset: 0, 0
+	index: -1
+mali_runsge_18
+	rotate: false
+	xy: 794, 281
+	size: 53, 34
+	orig: 53, 34
+	offset: 0, 0
+	index: -1
+mali_runsge_12
+	rotate: true
+	xy: 429, 843
+	size: 50, 71
+	orig: 50, 71
+	offset: 0, 0
+	index: -1
+mali_runsge_10
+	rotate: false
+	xy: 453, 380
+	size: 47, 69
+	orig: 47, 71
+	offset: 0, 1
+	index: -1
+mali_skill2_59
+	rotate: true
+	xy: 730, 892
+	size: 55, 46
+	orig: 55, 46
+	offset: 0, 0
+	index: -1
+mali_skill2_55
+	rotate: false
+	xy: 103, 633
+	size: 55, 81
+	orig: 55, 81
+	offset: 0, 0
+	index: -1
+mali_skill2_57
+	rotate: false
+	xy: 606, 137
+	size: 48, 66
+	orig: 48, 66
+	offset: 0, 0
+	index: -1
+mali_skill2_53
+	rotate: true
+	xy: 953, 610
+	size: 30, 28
+	orig: 30, 28
+	offset: 0, 0
+	index: -1
+mali_skill2_52
+	rotate: true
+	xy: 655, 135
+	size: 65, 48
+	orig: 65, 48
+	offset: 0, 0
+	index: -1
+mali_runsge_7
+	rotate: false
+	xy: 377, 542
+	size: 53, 74
+	orig: 55, 74
+	offset: 1, 0
+	index: -1
+mali_runsge_83
+	rotate: true
+	xy: 2, 639
+	size: 89, 40
+	orig: 89, 40
+	offset: 0, 0
+	index: -1
+mali_runsge_80
+	rotate: true
+	xy: 695, 479
+	size: 58, 40
+	orig: 58, 40
+	offset: 0, 0
+	index: -1
+mali_shengl_19
+	rotate: false
+	xy: 153, 2
+	size: 53, 85
+	orig: 53, 85
+	offset: 0, 0
+	index: -1
+mali_runsge_82
+	rotate: true
+	xy: 602, 351
+	size: 64, 51
+	orig: 64, 51
+	offset: 0, 0
+	index: -1
+mali_runsge_85
+	rotate: true
+	xy: 211, 263
+	size: 79, 43
+	orig: 79, 43
+	offset: 0, 0
+	index: -1
+mali_runsge_87
+	rotate: true
+	xy: 572, 670
+	size: 61, 58
+	orig: 61, 58
+	offset: 0, 0
+	index: -1
+mali_runsge_86
+	rotate: false
+	xy: 460, 894
+	size: 70, 71
+	orig: 70, 71
+	offset: 0, 0
+	index: -1
+mali_runsge_88
+	rotate: true
+	xy: 248, 854
+	size: 39, 55
+	orig: 39, 55
+	offset: 0, 0
+	index: -1
+mali_shengl_11
+	rotate: false
+	xy: 642, 479
+	size: 52, 61
+	orig: 52, 61
+	offset: 0, 0
+	index: -1
+mali_shengl_13
+	rotate: false
+	xy: 334, 971
+	size: 67, 51
+	orig: 67, 51
+	offset: 0, 0
+	index: -1
+mali_shengl_12
+	rotate: false
+	xy: 141, 796
+	size: 48, 80
+	orig: 48, 80
+	offset: 0, 0
+	index: -1
+mali_skill_26
+	rotate: false
+	xy: 805, 767
+	size: 41, 55
+	orig: 41, 55
+	offset: 0, 0
+	index: -1
+mali_skill2_9
+	rotate: true
+	xy: 777, 892
+	size: 55, 43
+	orig: 57, 43
+	offset: 2, 0
+	index: -1
+mali_skill2_8
+	rotate: false
+	xy: 460, 761
+	size: 49, 71
+	orig: 49, 71
+	offset: 0, 0
+	index: -1
+mali_skill2_1
+	rotate: false
+	xy: 787, 479
+	size: 55, 56
+	orig: 55, 56
+	offset: 0, 0
+	index: -1
+mali_skill2_4
+	rotate: false
+	xy: 958, 980
+	size: 48, 42
+	orig: 48, 42
+	offset: 0, 0
+	index: -1
+mali_skill2_7
+	rotate: false
+	xy: 635, 892
+	size: 52, 58
+	orig: 52, 58
+	offset: 0, 0
+	index: -1
+mali_atk_79
+	rotate: false
+	xy: 531, 894
+	size: 47, 71
+	orig: 47, 71
+	offset: 0, 0
+	index: -1
+mali_atk_71
+	rotate: true
+	xy: 599, 953
+	size: 58, 53
+	orig: 58, 53
+	offset: 0, 0
+	index: -1
+mali_atk_72
+	rotate: true
+	xy: 847, 762
+	size: 54, 42
+	orig: 54, 42
+	offset: 0, 0
+	index: -1
+mali_skill2_11
+	rotate: true
+	xy: 809, 2
+	size: 44, 52
+	orig: 44, 52
+	offset: 0, 0
+	index: -1
+mali_skill2_10
+	rotate: false
+	xy: 260, 894
+	size: 44, 77
+	orig: 44, 77
+	offset: 0, 0
+	index: -1
+mali_skill2_13
+	rotate: false
+	xy: 862, 638
+	size: 40, 43
+	orig: 40, 43
+	offset: 0, 0
+	index: -1
+mali_skill2_14
+	rotate: false
+	xy: 715, 384
+	size: 33, 58
+	orig: 33, 58
+	offset: 0, 0
+	index: -1
+mali_skill2_19
+	rotate: false
+	xy: 79, 2
+	size: 73, 89
+	orig: 73, 89
+	offset: 0, 0
+	index: -1
+mali_runsge_32
+	rotate: false
+	xy: 875, 872
+	size: 30, 54
+	orig: 30, 54
+	offset: 0, 0
+	index: -1
+mali_skill2_89
+	rotate: true
+	xy: 705, 199
+	size: 58, 47
+	orig: 58, 47
+	offset: 0, 0
+	index: -1
+mali_atk_135
+	rotate: true
+	xy: 544, 217
+	size: 66, 61
+	orig: 66, 61
+	offset: 0, 0
+	index: -1
+mali_atk_137
+	rotate: false
+	xy: 255, 974
+	size: 78, 48
+	orig: 78, 48
+	offset: 0, 0
+	index: -1
+mali_atk_136
+	rotate: true
+	xy: 934, 926
+	size: 53, 46
+	orig: 53, 46
+	offset: 0, 0
+	index: -1
+mali_atk_131
+	rotate: false
+	xy: 357, 844
+	size: 71, 49
+	orig: 71, 49
+	offset: 0, 0
+	index: -1
+mali_atk_132
+	rotate: false
+	xy: 683, 2
+	size: 52, 65
+	orig: 52, 65
+	offset: 0, 0
+	index: -1
+mali_atk_139
+	rotate: false
+	xy: 665, 541
+	size: 40, 59
+	orig: 40, 59
+	offset: 0, 0
+	index: -1
+mali_atk_138
+	rotate: false
+	xy: 755, 655
+	size: 54, 55
+	orig: 54, 55
+	offset: 0, 0
+	index: -1
+mali_idle_8
+	rotate: false
+	xy: 474, 153
+	size: 34, 70
+	orig: 34, 70
+	offset: 0, 0
+	index: -1
+mali_idle_9
+	rotate: false
+	xy: 903, 653
+	size: 49, 35
+	orig: 49, 35
+	offset: 0, 0
+	index: -1
+mali_idle_3
+	rotate: false
+	xy: 981, 151
+	size: 41, 43
+	orig: 41, 43
+	offset: 0, 0
+	index: -1
+mali_idle_1
+	rotate: true
+	xy: 981, 2
+	size: 51, 41
+	orig: 51, 41
+	offset: 0, 0
+	index: -1
+mali_runsge_49
+	rotate: false
+	xy: 233, 343
+	size: 57, 76
+	orig: 57, 76
+	offset: 0, 0
+	index: -1
+mali_idle_7
+	rotate: false
+	xy: 373, 695
+	size: 55, 73
+	orig: 55, 73
+	offset: 0, 0
+	index: -1
+mali_idle_4
+	rotate: false
+	xy: 981, 195
+	size: 41, 42
+	orig: 41, 42
+	offset: 0, 0
+	index: -1
+mali_skill2_54
+	rotate: false
+	xy: 349, 319
+	size: 43, 75
+	orig: 43, 75
+	offset: 0, 0
+	index: -1
+mali_skill2_76
+	rotate: false
+	xy: 758, 594
+	size: 53, 55
+	orig: 53, 55
+	offset: 0, 0
+	index: -1
+mali_skill2_74
+	rotate: false
+	xy: 418, 894
+	size: 41, 73
+	orig: 41, 73
+	offset: 0, 0
+	index: -1
+mali_skill_27
+	rotate: true
+	xy: 925, 2
+	size: 50, 52
+	orig: 50, 52
+	offset: 0, 0
+	index: -1
+mali_atk_52
+	rotate: true
+	xy: 727, 839
+	size: 52, 55
+	orig: 52, 55
+	offset: 0, 0
+	index: -1
+mali_atk_12
+	rotate: false
+	xy: 185, 514
+	size: 49, 27
+	orig: 49, 27
+	offset: 0, 0
+	index: -1
+mali_shengl_9
+	rotate: false
+	xy: 893, 382
+	size: 44, 49
+	orig: 44, 49
+	offset: 0, 0
+	index: -1
+mali_shengl_2
+	rotate: false
+	xy: 981, 238
+	size: 41, 42
+	orig: 41, 42
+	offset: 0, 0
+	index: -1
+mali_shengl_6
+	rotate: true
+	xy: 2, 729
+	size: 88, 61
+	orig: 88, 61
+	offset: 0, 0
+	index: -1
+mali_shengl_4
+	rotate: false
+	xy: 379, 79
+	size: 55, 75
+	orig: 57, 75
+	offset: 1, 0
+	index: -1
+mali_runsge_0
+	rotate: false
+	xy: 821, 889
+	size: 53, 54
+	orig: 53, 54
+	offset: 0, 0
+	index: -1
+mali_runsge_1
+	rotate: false
+	xy: 982, 539
+	size: 40, 46
+	orig: 40, 46
+	offset: 0, 0
+	index: -1
+mali_skill2_79
+	rotate: false
+	xy: 450, 612
+	size: 37, 69
+	orig: 37, 69
+	offset: 0, 0
+	index: -1
+mali_atk_67
+	rotate: true
+	xy: 539, 740
+	size: 62, 47
+	orig: 62, 47
+	offset: 0, 0
+	index: -1
+mali_skill2_26
+	rotate: false
+	xy: 976, 742
+	size: 46, 50
+	orig: 46, 50
+	offset: 0, 0
+	index: -1
+mali_skill1_24
+	rotate: false
+	xy: 511, 439
+	size: 65, 42
+	orig: 65, 42
+	offset: 0, 0
+	index: -1
+mali_skill1_26
+	rotate: true
+	xy: 510, 741
+	size: 63, 28
+	orig: 63, 28
+	offset: 0, 0
+	index: -1
+mali_skill1_21
+	rotate: true
+	xy: 190, 864
+	size: 29, 57
+	orig: 29, 57
+	offset: 0, 0
+	index: -1
+mali_skill1_22
+	rotate: true
+	xy: 904, 982
+	size: 40, 53
+	orig: 40, 59
+	offset: 0, 6
+	index: -1
+mali_skill1_28
+	rotate: false
+	xy: 930, 765
+	size: 31, 51
+	orig: 31, 51
+	offset: 0, 0
+	index: -1
+mali_skill_12
+	rotate: false
+	xy: 296, 2
+	size: 57, 78
+	orig: 57, 78
+	offset: 0, 0
+	index: -1
+mali_skill_13
+	rotate: true
+	xy: 638, 729
+	size: 59, 40
+	orig: 59, 40
+	offset: 0, 0
+	index: -1
+mali_skill_17
+	rotate: true
+	xy: 872, 322
+	size: 48, 45
+	orig: 52, 45
+	offset: 1, 0
+	index: -1
+mali_skill_14
+	rotate: false
+	xy: 305, 894
+	size: 59, 76
+	orig: 59, 76
+	offset: 0, 0
+	index: -1
+mali_skill_18
+	rotate: true
+	xy: 981, 281
+	size: 40, 41
+	orig: 40, 41
+	offset: 0, 0
+	index: -1
+mali_skill_19
+	rotate: false
+	xy: 668, 453
+	size: 52, 25
+	orig: 52, 25
+	offset: 0, 0
+	index: -1
+
+asset/spine/maliML_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mali_skills_bu2
+	rotate: false
+	xy: 2, 743
+	size: 120, 206
+	orig: 120, 206
+	offset: 0, 0
+	index: -1
+mali_skill_8
+	rotate: true
+	xy: 466, 523
+	size: 127, 104
+	orig: 127, 104
+	offset: 0, 0
+	index: -1
+mali_skill_9
+	rotate: false
+	xy: 228, 950
+	size: 36, 72
+	orig: 36, 72
+	offset: 0, 0
+	index: -1
+mali_skill_4
+	rotate: false
+	xy: 522, 164
+	size: 84, 100
+	orig: 84, 100
+	offset: 0, 0
+	index: -1
+mali_skill_7
+	rotate: true
+	xy: 522, 809
+	size: 79, 95
+	orig: 81, 99
+	offset: 0, 3
+	index: -1
+mali_atk_22
+	rotate: false
+	xy: 470, 809
+	size: 51, 30
+	orig: 51, 30
+	offset: 0, 0
+	index: -1
+mali_atk_27
+	rotate: true
+	xy: 544, 651
+	size: 30, 66
+	orig: 30, 66
+	offset: 0, 0
+	index: -1
+mali_skill2_60
+	rotate: true
+	xy: 677, 395
+	size: 75, 76
+	orig: 81, 76
+	offset: 6, 0
+	index: -1
+mali_skill2_61
+	rotate: false
+	xy: 679, 939
+	size: 89, 83
+	orig: 89, 83
+	offset: 0, 0
+	index: -1
+mali_idle_24
+	rotate: false
+	xy: 908, 172
+	size: 46, 71
+	orig: 46, 71
+	offset: 0, 0
+	index: -1
+mali_atk_171
+	rotate: true
+	xy: 571, 523
+	size: 102, 39
+	orig: 102, 39
+	offset: 0, 0
+	index: -1
+mali_skill2_27
+	rotate: true
+	xy: 361, 889
+	size: 60, 77
+	orig: 60, 77
+	offset: 0, 0
+	index: -1
+mali_skill2_92
+	rotate: false
+	xy: 522, 265
+	size: 69, 33
+	orig: 69, 33
+	offset: 0, 0
+	index: -1
+mali_atk_90
+	rotate: false
+	xy: 837, 98
+	size: 70, 65
+	orig: 70, 65
+	offset: 0, 0
+	index: -1
+mali_atk_146
+	rotate: false
+	xy: 754, 624
+	size: 87, 83
+	orig: 87, 83
+	offset: 0, 0
+	index: -1
+mali_runsge_79
+	rotate: true
+	xy: 673, 99
+	size: 64, 73
+	orig: 64, 73
+	offset: 0, 0
+	index: -1
+mali_atk_10
+	rotate: false
+	xy: 908, 97
+	size: 46, 74
+	orig: 46, 74
+	offset: 0, 0
+	index: -1
+mali_atk_15
+	rotate: true
+	xy: 769, 939
+	size: 83, 68
+	orig: 83, 68
+	offset: 0, 0
+	index: -1
+mali_atk_14
+	rotate: false
+	xy: 265, 477
+	size: 64, 45
+	orig: 64, 45
+	offset: 0, 0
+	index: -1
+mali_idle_12
+	rotate: true
+	xy: 955, 92
+	size: 83, 67
+	orig: 83, 67
+	offset: 0, 0
+	index: -1
+mali_skills_bu
+	rotate: false
+	xy: 2, 300
+	size: 130, 222
+	orig: 130, 222
+	offset: 0, 0
+	index: -1
+mali_skill1_11
+	rotate: false
+	xy: 2, 2
+	size: 155, 297
+	orig: 155, 297
+	offset: 0, 0
+	index: -1
+mali_skill1_12
+	rotate: false
+	xy: 133, 300
+	size: 97, 192
+	orig: 97, 192
+	offset: 0, 0
+	index: -1
+mali_skill1_15
+	rotate: true
+	xy: 533, 889
+	size: 121, 84
+	orig: 121, 84
+	offset: 0, 0
+	index: -1
+mali_skill1_16
+	rotate: true
+	xy: 260, 184
+	size: 112, 83
+	orig: 112, 83
+	offset: 0, 0
+	index: -1
+mali_skill_28
+	rotate: false
+	xy: 608, 299
+	size: 64, 98
+	orig: 64, 98
+	offset: 0, 0
+	index: -1
+mali_die_22
+	rotate: true
+	xy: 238, 706
+	size: 182, 107
+	orig: 186, 107
+	offset: 1, 0
+	index: -1
+mali_die_23
+	rotate: true
+	xy: 231, 299
+	size: 177, 147
+	orig: 179, 147
+	offset: 2, 0
+	index: -1
+mali_die_21
+	rotate: true
+	xy: 262, 2
+	size: 176, 107
+	orig: 176, 107
+	offset: 0, 0
+	index: -1
+mali_skill_23
+	rotate: false
+	xy: 744, 299
+	size: 89, 93
+	orig: 89, 93
+	offset: 0, 0
+	index: -1
+mali_skill_22
+	rotate: true
+	xy: 582, 2
+	size: 98, 57
+	orig: 98, 57
+	offset: 0, 0
+	index: -1
+mali_die_24
+	rotate: false
+	xy: 379, 299
+	size: 141, 171
+	orig: 141, 171
+	offset: 0, 0
+	index: -1
+mali_runsge_34
+	rotate: true
+	xy: 754, 708
+	size: 76, 87
+	orig: 76, 87
+	offset: 0, 0
+	index: -1
+mali_runsge_38
+	rotate: true
+	xy: 955, 313
+	size: 61, 67
+	orig: 61, 67
+	offset: 0, 0
+	index: -1
+mali_atk_57
+	rotate: false
+	xy: 722, 2
+	size: 87, 95
+	orig: 87, 95
+	offset: 0, 0
+	index: -1
+mali_atk_113
+	rotate: false
+	xy: 611, 651
+	size: 61, 30
+	orig: 61, 30
+	offset: 0, 0
+	index: -1
+mali_atk_110
+	rotate: false
+	xy: 935, 668
+	size: 87, 43
+	orig: 87, 43
+	offset: 0, 0
+	index: -1
+mali_die_16
+	rotate: true
+	xy: 611, 523
+	size: 101, 64
+	orig: 101, 64
+	offset: 0, 0
+	index: -1
+mali_die_14
+	rotate: false
+	xy: 566, 471
+	size: 76, 51
+	orig: 76, 51
+	offset: 0, 0
+	index: -1
+mali_skill2_39
+	rotate: true
+	xy: 934, 918
+	size: 76, 88
+	orig: 76, 88
+	offset: 0, 0
+	index: -1
+mali_atk_97
+	rotate: false
+	xy: 676, 164
+	size: 81, 95
+	orig: 81, 95
+	offset: 0, 0
+	index: -1
+mali_skill2_32
+	rotate: true
+	xy: 640, 2
+	size: 96, 81
+	orig: 96, 81
+	offset: 0, 0
+	index: -1
+mali_atk_154
+	rotate: false
+	xy: 370, 2
+	size: 110, 175
+	orig: 110, 175
+	offset: 0, 0
+	index: -1
+mali_runsge_65
+	rotate: true
+	xy: 758, 164
+	size: 94, 79
+	orig: 94, 79
+	offset: 0, 0
+	index: -1
+mali_runsge_64
+	rotate: false
+	xy: 654, 261
+	size: 87, 37
+	orig: 87, 37
+	offset: 0, 0
+	index: -1
+mali_skill2_43
+	rotate: true
+	xy: 920, 244
+	size: 81, 34
+	orig: 81, 34
+	offset: 0, 0
+	index: -1
+mali_runsge_93
+	rotate: false
+	xy: 618, 806
+	size: 60, 75
+	orig: 60, 75
+	offset: 0, 0
+	index: -1
+mali_skill_37
+	rotate: false
+	xy: 216, 523
+	size: 116, 182
+	orig: 116, 182
+	offset: 0, 0
+	index: -1
+mali_skill1_17
+	rotate: true
+	xy: 158, 184
+	size: 114, 101
+	orig: 114, 101
+	offset: 0, 0
+	index: -1
+mali_skill1_18
+	rotate: true
+	xy: 521, 299
+	size: 116, 86
+	orig: 116, 86
+	offset: 0, 0
+	index: -1
+mali_skill1_19
+	rotate: false
+	xy: 934, 831
+	size: 88, 86
+	orig: 88, 86
+	offset: 0, 0
+	index: -1
+mali_atk_40
+	rotate: true
+	xy: 842, 778
+	size: 76, 91
+	orig: 76, 93
+	offset: 0, 0
+	index: -1
+mali_atk_41
+	rotate: true
+	xy: 199, 493
+	size: 29, 65
+	orig: 29, 65
+	offset: 0, 0
+	index: -1
+mali_skill1_4
+	rotate: false
+	xy: 108, 523
+	size: 107, 202
+	orig: 109, 206
+	offset: 0, 1
+	index: -1
+mali_skill1_2
+	rotate: true
+	xy: 481, 2
+	size: 161, 100
+	orig: 161, 100
+	offset: 0, 0
+	index: -1
+mali_skill1_3
+	rotate: true
+	xy: 123, 726
+	size: 187, 114
+	orig: 187, 120
+	offset: 0, 1
+	index: -1
+mali_skill1_1
+	rotate: true
+	xy: 333, 523
+	size: 158, 132
+	orig: 158, 132
+	offset: 0, 0
+	index: -1
+mali_atk_4
+	rotate: true
+	xy: 607, 164
+	size: 96, 68
+	orig: 96, 68
+	offset: 0, 0
+	index: -1
+mali_runsge_14
+	rotate: false
+	xy: 886, 2
+	size: 68, 94
+	orig: 68, 94
+	offset: 0, 0
+	index: -1
+mali_atk_38
+	rotate: false
+	xy: 618, 954
+	size: 60, 66
+	orig: 60, 70
+	offset: 0, 0
+	index: -1
+mali_atk_34
+	rotate: true
+	xy: 209, 914
+	size: 35, 71
+	orig: 35, 71
+	offset: 0, 0
+	index: -1
+mali_atk_31
+	rotate: true
+	xy: 133, 493
+	size: 29, 65
+	orig: 29, 65
+	offset: 0, 0
+	index: -1
+mali_skill2_50
+	rotate: false
+	xy: 384, 471
+	size: 91, 51
+	orig: 103, 63
+	offset: 12, 0
+	index: -1
+mali_shengl_18
+	rotate: false
+	xy: 618, 882
+	size: 60, 71
+	orig: 60, 71
+	offset: 0, 0
+	index: -1
+mali_runsge_89
+	rotate: false
+	xy: 83, 950
+	size: 78, 72
+	orig: 78, 72
+	offset: 0, 0
+	index: -1
+mali_shengl_14
+	rotate: false
+	xy: 838, 164
+	size: 69, 79
+	orig: 69, 79
+	offset: 0, 0
+	index: -1
+mali_skill2_0
+	rotate: true
+	xy: 842, 470
+	size: 89, 92
+	orig: 89, 92
+	offset: 0, 0
+	index: -1
+mali_skill2_3
+	rotate: true
+	xy: 676, 523
+	size: 100, 89
+	orig: 100, 89
+	offset: 0, 0
+	index: -1
+mali_skill2_2
+	rotate: false
+	xy: 470, 682
+	size: 116, 126
+	orig: 116, 126
+	offset: 0, 0
+	index: -1
+mali_skill2_5
+	rotate: false
+	xy: 466, 651
+	size: 77, 30
+	orig: 77, 30
+	offset: 0, 0
+	index: -1
+mali_atk_70
+	rotate: false
+	xy: 281, 889
+	size: 79, 60
+	orig: 79, 60
+	offset: 0, 0
+	index: -1
+mali_skill2_12
+	rotate: true
+	xy: 643, 471
+	size: 51, 73
+	orig: 51, 73
+	offset: 0, 0
+	index: -1
+mali_skill2_88
+	rotate: false
+	xy: 158, 2
+	size: 103, 181
+	orig: 107, 187
+	offset: 3, 5
+	index: -1
+mali_skill2_83
+	rotate: false
+	xy: 935, 584
+	size: 87, 83
+	orig: 87, 83
+	offset: 0, 0
+	index: -1
+mali_skill2_86
+	rotate: false
+	xy: 439, 889
+	size: 93, 132
+	orig: 93, 132
+	offset: 0, 0
+	index: -1
+mali_skill2_87
+	rotate: false
+	xy: 2, 523
+	size: 105, 219
+	orig: 107, 219
+	offset: 1, 0
+	index: -1
+mali_skill2_85
+	rotate: false
+	xy: 346, 682
+	size: 123, 157
+	orig: 123, 157
+	offset: 0, 0
+	index: -1
+mali_runsge_43
+	rotate: false
+	xy: 810, 2
+	size: 75, 95
+	orig: 75, 95
+	offset: 0, 0
+	index: -1
+mali_runsge_42
+	rotate: false
+	xy: 902, 855
+	size: 31, 64
+	orig: 31, 64
+	offset: 0, 0
+	index: -1
+mali_idle_5
+	rotate: true
+	xy: 747, 98
+	size: 65, 89
+	orig: 65, 89
+	offset: 0, 0
+	index: -1
+mali_atk_51
+	rotate: false
+	xy: 717, 471
+	size: 69, 51
+	orig: 69, 51
+	offset: 0, 0
+	index: -1
+mali_shengl_7
+	rotate: true
+	xy: 766, 584
+	size: 39, 58
+	orig: 39, 58
+	offset: 0, 0
+	index: -1
+mali_atk_58
+	rotate: false
+	xy: 679, 682
+	size: 74, 89
+	orig: 74, 89
+	offset: 0, 0
+	index: -1
+mali_skill1_25
+	rotate: false
+	xy: 162, 950
+	size: 65, 72
+	orig: 65, 72
+	offset: 0, 0
+	index: -1
+mali_skill1_20
+	rotate: false
+	xy: 842, 393
+	size: 77, 76
+	orig: 77, 76
+	offset: 0, 0
+	index: -1
+mali_skill1_23
+	rotate: true
+	xy: 905, 920
+	size: 66, 28
+	orig: 66, 28
+	offset: 0, 0
+	index: -1
+mali_skill_10
+	rotate: true
+	xy: 787, 471
+	size: 51, 50
+	orig: 51, 50
+	offset: 0, 0
+	index: -1
+mali_skill_11
+	rotate: true
+	xy: 828, 876
+	size: 62, 73
+	orig: 62, 73
+	offset: 0, 0
+	index: -1
+mali_skill_16
+	rotate: false
+	xy: 265, 950
+	size: 34, 72
+	orig: 34, 72
+	offset: 0, 0
+	index: -1
+mali_skill_15
+	rotate: false
+	xy: 673, 625
+	size: 80, 56
+	orig: 80, 56
+	offset: 0, 0
+	index: -1
+
+asset/spine/maliML_role2.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mali_skill_6
+	rotate: true
+	xy: 222, 144
+	size: 40, 32
+	orig: 40, 32
+	offset: 0, 0
+	index: -1
+mali_atk_28
+	rotate: true
+	xy: 85, 213
+	size: 35, 38
+	orig: 35, 38
+	offset: 0, 0
+	index: -1
+mali_atk_29
+	rotate: true
+	xy: 185, 318
+	size: 30, 33
+	orig: 30, 35
+	offset: 0, 0
+	index: -1
+mali_skill2_66
+	rotate: false
+	xy: 191, 284
+	size: 34, 33
+	orig: 38, 35
+	offset: 3, 0
+	index: -1
+mali_atk_104
+	rotate: false
+	xy: 171, 177
+	size: 39, 35
+	orig: 39, 35
+	offset: 0, 0
+	index: -1
+mali_atk_101
+	rotate: false
+	xy: 155, 284
+	size: 35, 31
+	orig: 35, 31
+	offset: 0, 0
+	index: -1
+mali_atk_179
+	rotate: false
+	xy: 124, 239
+	size: 37, 31
+	orig: 37, 31
+	offset: 0, 0
+	index: -1
+mali_atk_176
+	rotate: false
+	xy: 190, 2
+	size: 46, 33
+	orig: 46, 33
+	offset: 0, 0
+	index: -1
+mali_skill2_29
+	rotate: false
+	xy: 2, 74
+	size: 45, 31
+	orig: 51, 31
+	offset: 6, 0
+	index: -1
+mali_atk_60
+	rotate: true
+	xy: 143, 2
+	size: 34, 46
+	orig: 34, 46
+	offset: 0, 0
+	index: -1
+mali_skill2_93
+	rotate: true
+	xy: 89, 178
+	size: 34, 40
+	orig: 34, 40
+	offset: 0, 0
+	index: -1
+mali_atk_143
+	rotate: true
+	xy: 130, 203
+	size: 35, 39
+	orig: 37, 39
+	offset: 2, 0
+	index: -1
+mali_runsge_77
+	rotate: true
+	xy: 130, 168
+	size: 34, 40
+	orig: 34, 40
+	offset: 0, 0
+	index: -1
+mali_idle_16
+	rotate: false
+	xy: 46, 138
+	size: 42, 42
+	orig: 42, 42
+	offset: 0, 0
+	index: -1
+mali_idle_17
+	rotate: false
+	xy: 209, 217
+	size: 37, 30
+	orig: 37, 30
+	offset: 0, 0
+	index: -1
+mali_idle_10
+	rotate: false
+	xy: 225, 106
+	size: 29, 37
+	orig: 29, 37
+	offset: 0, 0
+	index: -1
+mali_runsge_78
+	rotate: false
+	xy: 92, 109
+	size: 43, 33
+	orig: 43, 33
+	offset: 0, 0
+	index: -1
+mali_runsge_31
+	rotate: false
+	xy: 78, 281
+	size: 35, 34
+	orig: 35, 34
+	offset: 0, 0
+	index: -1
+mali_skill2_73
+	rotate: false
+	xy: 142, 37
+	size: 45, 30
+	orig: 51, 30
+	offset: 0, 0
+	index: -1
+mali_atk_119
+	rotate: false
+	xy: 182, 106
+	size: 42, 36
+	orig: 42, 36
+	offset: 0, 0
+	index: -1
+mali_atk_117
+	rotate: false
+	xy: 2, 180
+	size: 42, 36
+	orig: 42, 36
+	offset: 0, 0
+	index: -1
+mali_runsge_62
+	rotate: false
+	xy: 118, 271
+	size: 36, 30
+	orig: 36, 30
+	offset: 0, 0
+	index: -1
+mali_runsge_61
+	rotate: false
+	xy: 80, 249
+	size: 37, 31
+	orig: 37, 31
+	offset: 0, 0
+	index: -1
+mali_runsge_96
+	rotate: false
+	xy: 2, 288
+	size: 35, 32
+	orig: 35, 34
+	offset: 0, 0
+	index: -1
+mali_skill_33
+	rotate: false
+	xy: 96, 2
+	size: 46, 34
+	orig: 48, 34
+	offset: 2, 0
+	index: -1
+mali_skill_35
+	rotate: false
+	xy: 188, 70
+	size: 43, 35
+	orig: 43, 35
+	offset: 0, 0
+	index: -1
+mali_skill_44
+	rotate: true
+	xy: 94, 70
+	size: 38, 43
+	orig: 38, 43
+	offset: 0, 0
+	index: -1
+mali_skill_43
+	rotate: false
+	xy: 2, 217
+	size: 39, 36
+	orig: 39, 36
+	offset: 0, 0
+	index: -1
+mali_runsge_23
+	rotate: true
+	xy: 109, 333
+	size: 32, 34
+	orig: 32, 34
+	offset: 0, 0
+	index: -1
+mali_runsge_20
+	rotate: true
+	xy: 114, 302
+	size: 30, 35
+	orig: 30, 35
+	offset: 0, 0
+	index: -1
+mali_runsge_25
+	rotate: true
+	xy: 190, 36
+	size: 33, 46
+	orig: 33, 46
+	offset: 0, 0
+	index: -1
+mali_skill1_6
+	rotate: false
+	xy: 38, 288
+	size: 35, 32
+	orig: 35, 32
+	offset: 0, 0
+	index: -1
+mali_atk_98
+	rotate: true
+	xy: 42, 220
+	size: 36, 37
+	orig: 38, 37
+	offset: 1, 0
+	index: -1
+mali_atk_82
+	rotate: false
+	xy: 40, 257
+	size: 37, 30
+	orig: 37, 30
+	offset: 0, 0
+	index: -1
+mali_atk_84
+	rotate: false
+	xy: 170, 213
+	size: 38, 37
+	orig: 38, 37
+	offset: 0, 0
+	index: -1
+mali_runsge_19
+	rotate: false
+	xy: 162, 251
+	size: 36, 32
+	orig: 36, 32
+	offset: 0, 0
+	index: -1
+mali_skill2_56
+	rotate: true
+	xy: 142, 68
+	size: 29, 45
+	orig: 29, 45
+	offset: 0, 0
+	index: -1
+mali_runsge_81
+	rotate: false
+	xy: 2, 106
+	size: 43, 35
+	orig: 43, 35
+	offset: 0, 0
+	index: -1
+mali_shengl_17
+	rotate: false
+	xy: 48, 69
+	size: 45, 31
+	orig: 53, 31
+	offset: 0, 0
+	index: -1
+mali_shengl_16
+	rotate: false
+	xy: 74, 316
+	size: 34, 33
+	orig: 34, 33
+	offset: 0, 0
+	index: -1
+mali_skill2_6
+	rotate: true
+	xy: 2, 2
+	size: 35, 46
+	orig: 35, 46
+	offset: 0, 0
+	index: -1
+mali_skill2_82
+	rotate: false
+	xy: 209, 248
+	size: 36, 35
+	orig: 42, 35
+	offset: 1, 0
+	index: -1
+mali_skill2_80
+	rotate: false
+	xy: 211, 185
+	size: 39, 31
+	orig: 39, 31
+	offset: 0, 0
+	index: -1
+mali_skill2_81
+	rotate: true
+	xy: 150, 316
+	size: 33, 34
+	orig: 41, 34
+	offset: 4, 0
+	index: -1
+mali_runsge_45
+	rotate: false
+	xy: 49, 37
+	size: 46, 31
+	orig: 46, 31
+	offset: 0, 0
+	index: -1
+mali_runsge_44
+	rotate: false
+	xy: 49, 2
+	size: 46, 34
+	orig: 48, 34
+	offset: 0, 0
+	index: -1
+mali_runsge_40
+	rotate: true
+	xy: 179, 143
+	size: 33, 42
+	orig: 33, 42
+	offset: 0, 0
+	index: -1
+mali_idle_2
+	rotate: true
+	xy: 2, 142
+	size: 37, 42
+	orig: 37, 42
+	offset: 0, 0
+	index: -1
+mali_idle_0
+	rotate: false
+	xy: 136, 133
+	size: 42, 34
+	orig: 42, 34
+	offset: 0, 0
+	index: -1
+mali_shengl_8
+	rotate: true
+	xy: 48, 101
+	size: 36, 43
+	orig: 36, 43
+	offset: 0, 0
+	index: -1
+mali_shengl_0
+	rotate: false
+	xy: 138, 98
+	size: 43, 34
+	orig: 43, 34
+	offset: 0, 0
+	index: -1
+mali_runsge_2
+	rotate: true
+	xy: 2, 254
+	size: 33, 37
+	orig: 33, 39
+	offset: 0, 2
+	index: -1
+mali_atk_63
+	rotate: false
+	xy: 45, 181
+	size: 39, 38
+	orig: 39, 38
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_paobu_yan2
+	rotate: false
+	xy: 978, 232
+	size: 43, 51
+	orig: 43, 51
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan3
+	rotate: false
+	xy: 978, 284
+	size: 43, 51
+	orig: 43, 51
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_diying_dy
+	rotate: false
+	xy: 656, 2
+	size: 305, 97
+	orig: 305, 97
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_paobu_yan0
+	rotate: false
+	xy: 532, 583
+	size: 49, 50
+	orig: 49, 50
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan1
+	rotate: false
+	xy: 345, 619
+	size: 49, 49
+	orig: 49, 49
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan4
+	rotate: false
+	xy: 532, 531
+	size: 49, 51
+	orig: 49, 51
+	offset: 0, 0
+	index: -1

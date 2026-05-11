@@ -1,0 +1,153 @@
+
+asset/spine/ctczLyzyCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/ctczsz_shui20250417_144612
+	rotate: true
+	xy: 2, 971
+	size: 49, 10
+	orig: 49, 10
+	offset: 0, 0
+	index: -1
+role/caotichaizhoushizhuang_kabei_c_8
+	rotate: true
+	xy: 669, 234
+	size: 194, 227
+	orig: 194, 227
+	offset: 0, 0
+	index: -1
+role/caotichaizhoushizhuang_kabei_c_9
+	rotate: false
+	xy: 330, 503
+	size: 201, 380
+	orig: 201, 380
+	offset: 0, 0
+	index: -1
+role/caotichaizhoushizhuang_kabei_c_2
+	rotate: true
+	xy: 130, 971
+	size: 29, 27
+	orig: 29, 27
+	offset: 0, 0
+	index: -1
+role/caotichaizhoushizhuang_kabei_c_3
+	rotate: true
+	xy: 465, 148
+	size: 165, 71
+	orig: 165, 71
+	offset: 0, 0
+	index: -1
+role/caotichaizhoushizhuang_kabei_c_0
+	rotate: true
+	xy: 855, 583
+	size: 172, 142
+	orig: 172, 142
+	offset: 0, 0
+	index: -1
+role/caotichaizhoushizhuang_kabei_c_1
+	rotate: false
+	xy: 558, 756
+	size: 140, 176
+	orig: 140, 176
+	offset: 0, 0
+	index: -1
+role/caotichaizhoushizhuang_kabei_c_6
+	rotate: false
+	xy: 669, 429
+	size: 185, 159
+	orig: 185, 159
+	offset: 0, 0
+	index: -1
+role/caotichaizhoushizhuang_kabei_c_7
+	rotate: false
+	xy: 2, 503
+	size: 159, 467
+	orig: 159, 467
+	offset: 0, 0
+	index: -1
+role/caotichaizhoushizhuang_kabei_c_4
+	rotate: false
+	xy: 465, 314
+	size: 203, 188
+	orig: 203, 188
+	offset: 0, 0
+	index: -1
+role/caotichaizhoushizhuang_kabei_c_5
+	rotate: true
+	xy: 162, 904
+	size: 115, 110
+	orig: 115, 110
+	offset: 0, 0
+	index: -1
+role/caotichaizhoushizhuang_kabei_c_20
+	rotate: false
+	xy: 162, 503
+	size: 167, 400
+	orig: 167, 400
+	offset: 0, 0
+	index: -1
+role/caotichaizhoushizhuang_kabei_c_18
+	rotate: false
+	xy: 2, 2
+	size: 462, 500
+	orig: 462, 500
+	offset: 0, 0
+	index: -1
+role/caotichaizhoushizhuang_kabei_c_19
+	rotate: false
+	xy: 13, 971
+	size: 31, 46
+	orig: 31, 46
+	offset: 0, 0
+	index: -1
+role/caotichaizhoushizhuang_kabei_c_14
+	rotate: true
+	xy: 558, 2
+	size: 231, 362
+	orig: 233, 362
+	offset: 1, 0
+	index: -1
+role/caotichaizhoushizhuang_kabei_c_15
+	rotate: false
+	xy: 273, 904
+	size: 151, 108
+	orig: 151, 108
+	offset: 0, 0
+	index: -1
+role/caotichaizhoushizhuang_kabei_c_16
+	rotate: true
+	xy: 45, 971
+	size: 43, 84
+	orig: 43, 84
+	offset: 0, 0
+	index: -1
+role/caotichaizhoushizhuang_kabei_c_17
+	rotate: false
+	xy: 855, 429
+	size: 162, 153
+	orig: 162, 153
+	offset: 0, 0
+	index: -1
+role/caotichaizhoushizhuang_kabei_c_10
+	rotate: true
+	xy: 425, 884
+	size: 137, 132
+	orig: 137, 132
+	offset: 0, 0
+	index: -1
+role/caotichaizhoushizhuang_kabei_c_11
+	rotate: true
+	xy: 897, 234
+	size: 105, 108
+	orig: 105, 108
+	offset: 0, 0
+	index: -1
+role/caotichaizhoushizhuang_kabei_c_13
+	rotate: false
+	xy: 465, 2
+	size: 91, 145
+	orig: 91, 145
+	offset: 0, 0
+	index: -1

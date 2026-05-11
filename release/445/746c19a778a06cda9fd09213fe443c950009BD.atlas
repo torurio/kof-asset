@@ -1,0 +1,146 @@
+
+asset/spine/maizhuoszCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/maizhuo_zailin_sz_tp_17
+	rotate: true
+	xy: 924, 338
+	size: 110, 51
+	orig: 112, 53
+	offset: 1, 1
+	index: -1
+role/maizhuo_zailin_sz_tp_18
+	rotate: true
+	xy: 2, 339
+	size: 115, 228
+	orig: 117, 230
+	offset: 1, 1
+	index: -1
+role/maizhuo_zailin_sz_tp_11
+	rotate: true
+	xy: 686, 243
+	size: 232, 237
+	orig: 234, 239
+	offset: 1, 1
+	index: -1
+role/maizhuo_zailin_sz_tp_16
+	rotate: true
+	xy: 976, 338
+	size: 47, 45
+	orig: 49, 47
+	offset: 1, 1
+	index: -1
+role/maizhuo_zailin_sz_tp_10
+	rotate: true
+	xy: 686, 2
+	size: 240, 241
+	orig: 242, 243
+	offset: 1, 1
+	index: -1
+role/yishanyishanliangjingjing
+	rotate: false
+	xy: 548, 407
+	size: 123, 123
+	orig: 123, 123
+	offset: 0, 0
+	index: -1
+role/maizhuo_zailin_sz_tp_15
+	rotate: true
+	xy: 983, 220
+	size: 25, 33
+	orig: 27, 35
+	offset: 1, 1
+	index: -1
+role/maizhuo_zailin_sz_tp_3
+	rotate: true
+	xy: 999, 101
+	size: 53, 23
+	orig: 55, 25
+	offset: 1, 1
+	index: -1
+role/maizhuo_zailin_sz_tp_2
+	rotate: false
+	xy: 355, 407
+	size: 192, 165
+	orig: 194, 167
+	offset: 1, 1
+	index: -1
+role/maizhuo_zailin_sz_tp_1
+	rotate: false
+	xy: 1002, 2
+	size: 9, 23
+	orig: 11, 25
+	offset: 1, 1
+	index: -1
+role/maizhuo_zailin_sz_tp_14
+	rotate: false
+	xy: 2, 455
+	size: 212, 173
+	orig: 214, 175
+	offset: 1, 1
+	index: -1
+role/maizhuo_zailin_sz_tp_13
+	rotate: false
+	xy: 215, 491
+	size: 116, 111
+	orig: 118, 113
+	offset: 1, 1
+	index: -1
+role/maizhuo_zailin_sz_tp_6
+	rotate: true
+	xy: 672, 476
+	size: 181, 183
+	orig: 183, 185
+	offset: 1, 1
+	index: -1
+role/maizhuo_zailin_sz_tp_5
+	rotate: false
+	xy: 2, 2
+	size: 379, 336
+	orig: 381, 338
+	offset: 1, 1
+	index: -1
+role/maizhuo_zailin_sz_tp_4
+	rotate: false
+	xy: 231, 339
+	size: 123, 151
+	orig: 125, 153
+	offset: 1, 1
+	index: -1
+role/maizhuo_zailin_sz_tp_7
+	rotate: false
+	xy: 928, 2
+	size: 73, 98
+	orig: 75, 100
+	offset: 1, 1
+	index: -1
+role/maizhuo_zailin_sz_tp_9
+	rotate: false
+	xy: 382, 2
+	size: 303, 251
+	orig: 305, 253
+	offset: 1, 1
+	index: -1
+role/maizhuo_zailin_sz_tp_8
+	rotate: true
+	xy: 928, 101
+	size: 118, 70
+	orig: 120, 72
+	offset: 1, 1
+	index: -1
+role/maizhuo_zailin_sz_tp_19
+	rotate: false
+	xy: 928, 220
+	size: 54, 117
+	orig: 56, 119
+	offset: 1, 1
+	index: -1
+role/maizhuo_zailin_sz_tp_12
+	rotate: true
+	xy: 382, 254
+	size: 152, 231
+	orig: 154, 233
+	offset: 1, 1
+	index: -1

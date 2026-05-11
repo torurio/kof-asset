@@ -1,0 +1,146 @@
+
+asset/spine/klXVszCard_role_shizhuang0.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kulaszlihui9
+	rotate: false
+	xy: 482, 297
+	size: 14, 12
+	orig: 14, 12
+	offset: 0, 0
+	index: -1
+kulaszlihui8
+	rotate: false
+	xy: 482, 271
+	size: 19, 13
+	orig: 19, 13
+	offset: 0, 0
+	index: -1
+kulaszlihui10
+	rotate: true
+	xy: 198, 551
+	size: 66, 70
+	orig: 66, 70
+	offset: 0, 0
+	index: -1
+kulaszlihui1
+	rotate: true
+	xy: 412, 397
+	size: 73, 79
+	orig: 73, 79
+	offset: 0, 0
+	index: -1
+kulaszlihui3
+	rotate: true
+	xy: 334, 551
+	size: 54, 59
+	orig: 54, 59
+	offset: 0, 0
+	index: -1
+kulaszlihui2
+	rotate: true
+	xy: 269, 551
+	size: 63, 64
+	orig: 63, 64
+	offset: 0, 0
+	index: -1
+kulaszlihui5
+	rotate: true
+	xy: 219, 267
+	size: 33, 45
+	orig: 33, 45
+	offset: 0, 0
+	index: -1
+kulaszlihui4
+	rotate: false
+	xy: 219, 215
+	size: 52, 51
+	orig: 52, 51
+	offset: 0, 0
+	index: -1
+kulaszlihui7
+	rotate: true
+	xy: 497, 297
+	size: 14, 10
+	orig: 14, 10
+	offset: 0, 0
+	index: -1
+kulaszlihui6
+	rotate: false
+	xy: 482, 285
+	size: 19, 11
+	orig: 19, 11
+	offset: 0, 0
+	index: -1
+kulaszlihui11
+	rotate: true
+	xy: 412, 471
+	size: 152, 78
+	orig: 152, 78
+	offset: 0, 0
+	index: -1
+kulaszlihui20
+	rotate: true
+	xy: 273, 2
+	size: 252, 236
+	orig: 252, 236
+	offset: 0, 0
+	index: -1
+kulaszlihui13
+	rotate: false
+	xy: 219, 397
+	size: 192, 153
+	orig: 192, 153
+	offset: 0, 0
+	index: -1
+kulaszlihui12
+	rotate: false
+	xy: 2, 215
+	size: 216, 187
+	orig: 216, 187
+	offset: 0, 0
+	index: -1
+kulaszlihui15
+	rotate: true
+	xy: 123, 518
+	size: 111, 74
+	orig: 111, 74
+	offset: 0, 0
+	index: -1
+kulaszlihui14
+	rotate: true
+	xy: 2, 518
+	size: 113, 120
+	orig: 113, 120
+	offset: 0, 0
+	index: -1
+kulaszlihui17
+	rotate: false
+	xy: 272, 255
+	size: 209, 141
+	orig: 209, 141
+	offset: 0, 0
+	index: -1
+kulaszlihui16
+	rotate: true
+	xy: 2, 403
+	size: 114, 171
+	orig: 114, 171
+	offset: 0, 0
+	index: -1
+kulaszlihui19
+	rotate: false
+	xy: 2, 2
+	size: 270, 212
+	orig: 270, 212
+	offset: 0, 0
+	index: -1
+kulaszlihui18
+	rotate: true
+	xy: 482, 255
+	size: 15, 26
+	orig: 15, 26
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,290 @@
+
+asset/spine/ctczLyzy_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/KOF_beijing_huo_18
+	rotate: false
+	xy: 625, 2
+	size: 146, 190
+	orig: 148, 192
+	offset: 1, 1
+	index: -1
+
+asset/spine/ctczLyzy_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/baoqihuang2_baoqihuangimage
+	rotate: false
+	xy: 820, 267
+	size: 77, 74
+	orig: 77, 74
+	offset: 0, 0
+	index: -1
+effect/common/KOF_beijing_huo_19
+	rotate: false
+	xy: 170, 421
+	size: 160, 204
+	orig: 162, 206
+	offset: 1, 1
+	index: -1
+effect/common/KOF_beijing_huo_16
+	rotate: false
+	xy: 2, 214
+	size: 153, 210
+	orig: 155, 212
+	offset: 1, 1
+	index: -1
+effect/common/KOF_beijing_huo_17
+	rotate: false
+	xy: 329, 209
+	size: 147, 204
+	orig: 149, 206
+	offset: 1, 1
+	index: -1
+effect/common/KOF_beijing_huo_14
+	rotate: false
+	xy: 156, 214
+	size: 172, 206
+	orig: 174, 208
+	offset: 1, 1
+	index: -1
+effect/common/KOF_beijing_huo_15
+	rotate: false
+	xy: 173, 626
+	size: 162, 203
+	orig: 164, 205
+	offset: 1, 1
+	index: -1
+effect/common/KOF_beijing_huo_12
+	rotate: false
+	xy: 356, 2
+	size: 175, 203
+	orig: 177, 205
+	offset: 1, 1
+	index: -1
+effect/common/KOF_beijing_huo_13
+	rotate: false
+	xy: 2, 839
+	size: 174, 183
+	orig: 176, 193
+	offset: 1, 1
+	index: -1
+effect/common/KOF_beijing_huo_10
+	rotate: false
+	xy: 2, 2
+	size: 183, 211
+	orig: 185, 213
+	offset: 1, 1
+	index: -1
+effect/common/KOF_beijing_huo_11
+	rotate: false
+	xy: 640, 203
+	size: 179, 195
+	orig: 181, 197
+	offset: 1, 1
+	index: -1
+effect/common/KOF_beijing_huo_5
+	rotate: false
+	xy: 2, 425
+	size: 167, 208
+	orig: 169, 210
+	offset: 1, 1
+	index: -1
+effect/common/KOF_beijing_huo_6
+	rotate: false
+	xy: 336, 618
+	size: 174, 199
+	orig: 176, 201
+	offset: 1, 1
+	index: -1
+effect/common/KOF_beijing_huo_7
+	rotate: false
+	xy: 492, 408
+	size: 172, 196
+	orig: 174, 198
+	offset: 1, 1
+	index: -1
+effect/common/KOF_beijing_huo_0
+	rotate: false
+	xy: 665, 399
+	size: 154, 180
+	orig: 156, 182
+	offset: 1, 1
+	index: -1
+effect/common/KOF_beijing_huo_1
+	rotate: false
+	xy: 331, 414
+	size: 160, 203
+	orig: 162, 205
+	offset: 1, 1
+	index: -1
+effect/common/KOF_beijing_huo_2
+	rotate: false
+	xy: 186, 2
+	size: 169, 206
+	orig: 171, 208
+	offset: 1, 1
+	index: -1
+effect/common/KOF_beijing_huo_8
+	rotate: false
+	xy: 2, 634
+	size: 170, 204
+	orig: 172, 206
+	offset: 1, 1
+	index: -1
+effect/common/KOF_beijing_huo_9
+	rotate: false
+	xy: 477, 206
+	size: 162, 201
+	orig: 164, 203
+	offset: 1, 1
+	index: -1
+effect/common/baoqihuang1_baoqihuangimage
+	rotate: false
+	xy: 820, 431
+	size: 57, 55
+	orig: 57, 55
+	offset: 0, 0
+	index: -1
+
+asset/spine/ctczLyzy_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/KOF_beijing_huo_4
+	rotate: false
+	xy: 2, 188
+	size: 169, 185
+	orig: 171, 187
+	offset: 1, 1
+	index: -1
+
+asset/spine/ctczUM_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/KOF_beijing_huo_3
+	rotate: false
+	xy: 2, 230
+	size: 201, 215
+	orig: 203, 217
+	offset: 1, 1
+	index: -1
+
+asset/spine/global_spinehero_effect13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_l3
+	rotate: false
+	xy: 914, 920
+	size: 88, 88
+	orig: 88, 88
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_l5
+	rotate: true
+	xy: 603, 984
+	size: 25, 24
+	orig: 25, 24
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_l6
+	rotate: false
+	xy: 454, 984
+	size: 32, 32
+	orig: 32, 32
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_l4
+	rotate: false
+	xy: 997, 774
+	size: 14, 14
+	orig: 14, 14
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_l7
+	rotate: true
+	xy: 661, 929
+	size: 92, 88
+	orig: 92, 88
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_l2
+	rotate: true
+	xy: 925, 929
+	size: 91, 88
+	orig: 91, 88
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_l8
+	rotate: true
+	xy: 750, 929
+	size: 92, 88
+	orig: 92, 88
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_l0
+	rotate: false
+	xy: 792, 307
+	size: 91, 88
+	orig: 91, 88
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_l1
+	rotate: false
+	xy: 584, 309
+	size: 82, 82
+	orig: 82, 82
+	offset: 0, 0
+	index: -1
+
+asset/spine/ctczUMsz_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/baoqihuang3_baoqihuangimage
+	rotate: false
+	xy: 243, 352
+	size: 22, 23
+	orig: 22, 23
+	offset: 0, 0
+	index: -1

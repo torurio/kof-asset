@@ -1,0 +1,720 @@
+
+asset/spine/global_spinehero_effect12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangsebo_00035
+	rotate: true
+	xy: 2, 841
+	size: 181, 169
+	orig: 181, 169
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baoqixuli_00019
+	rotate: true
+	xy: 172, 841
+	size: 181, 162
+	orig: 181, 162
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect10.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangxuanwo_00020
+	rotate: false
+	xy: 2, 839
+	size: 185, 183
+	orig: 185, 183
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baoqixuli_00011
+	rotate: true
+	xy: 795, 314
+	size: 253, 227
+	orig: 253, 227
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baoqixuli_00017
+	rotate: false
+	xy: 370, 839
+	size: 210, 182
+	orig: 210, 182
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baoqixuli_00009
+	rotate: true
+	xy: 804, 568
+	size: 252, 214
+	orig: 252, 214
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangxuanwo_00026
+	rotate: false
+	xy: 910, 345
+	size: 110, 96
+	orig: 110, 96
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baoqixuli_00015
+	rotate: false
+	xy: 792, 806
+	size: 230, 199
+	orig: 230, 199
+	offset: 0, 0
+	index: -1
+
+asset/spine/laerfuxv_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_laerfu_teshuji_xia_00007
+	rotate: true
+	xy: 324, 460
+	size: 51, 19
+	orig: 53, 19
+	offset: 1, 0
+	index: -1
+effect/common/New_laerfu_teshuji_shang_00016
+	rotate: false
+	xy: 944, 448
+	size: 77, 52
+	orig: 77, 52
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_xia_00013
+	rotate: true
+	xy: 324, 460
+	size: 51, 19
+	orig: 53, 19
+	offset: 1, 0
+	index: -1
+effect/common/New_laerfu_teshuji_shang_00010
+	rotate: false
+	xy: 944, 448
+	size: 77, 52
+	orig: 77, 52
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_shang_00004
+	rotate: false
+	xy: 944, 448
+	size: 77, 52
+	orig: 77, 52
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_ptbs2_baoqixuli_00013
+	rotate: true
+	xy: 775, 286
+	size: 237, 215
+	orig: 237, 215
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_ptbs2_baobo_00026
+	rotate: true
+	xy: 890, 150
+	size: 140, 132
+	orig: 140, 132
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baobo_00028
+	rotate: true
+	xy: 890, 511
+	size: 144, 126
+	orig: 144, 126
+	offset: 0, 0
+	index: -1
+
+asset/spine/laerfuxv_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_laerfu_teshuji_shang_00002
+	rotate: true
+	xy: 975, 426
+	size: 66, 47
+	orig: 66, 47
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_shang_00014
+	rotate: true
+	xy: 975, 426
+	size: 66, 47
+	orig: 66, 47
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_shang_00008
+	rotate: true
+	xy: 975, 426
+	size: 66, 47
+	orig: 66, 47
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt13
+	rotate: false
+	xy: 445, 559
+	size: 168, 177
+	orig: 168, 177
+	offset: 0, 0
+	index: -1
+
+asset/spine/kxv_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_kxv_xiaojineng_huoyan_00025
+	rotate: false
+	xy: 869, 574
+	size: 153, 255
+	orig: 153, 255
+	offset: 0, 0
+	index: -1
+effect/common/New_kxv_xiaojineng_huoyan_00015
+	rotate: true
+	xy: 811, 2
+	size: 131, 210
+	orig: 131, 210
+	offset: 0, 0
+	index: -1
+effect/common/New_sy_lmbs_shoubuhonghuo_00159
+	rotate: true
+	xy: 2, 864
+	size: 157, 238
+	orig: 171, 250
+	offset: 14, 12
+	index: -1
+effect/common/New_sy_lmbs_shoubuhonghuo_00153
+	rotate: true
+	xy: 660, 860
+	size: 161, 208
+	orig: 171, 250
+	offset: 2, 11
+	index: -1
+effect/common/New_sy_lmbs_shoubuhonghuo_00151
+	rotate: true
+	xy: 241, 864
+	size: 157, 194
+	orig: 171, 250
+	offset: 12, 3
+	index: -1
+effect/common/New_sy_lmbs_shoubuhonghuo_00171
+	rotate: true
+	xy: 811, 134
+	size: 143, 208
+	orig: 171, 250
+	offset: 15, 14
+	index: -1
+
+asset/spine/kxv_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_kxv_xiaojineng_huoyan_00021
+	rotate: true
+	xy: 276, 279
+	size: 170, 269
+	orig: 170, 269
+	offset: 0, 0
+	index: -1
+effect/common/New_sy_lmbs_shoubuhonghuo_00157
+	rotate: false
+	xy: 800, 796
+	size: 155, 226
+	orig: 171, 250
+	offset: 8, 5
+	index: -1
+effect/common/New_kxv_liumenbisha_huo_00025
+	rotate: false
+	xy: 2, 2
+	size: 282, 174
+	orig: 282, 174
+	offset: 0, 0
+	index: -1
+effect/common/New_kxv_xiaojineng_huoyan_00017
+	rotate: true
+	xy: 270, 450
+	size: 169, 267
+	orig: 169, 267
+	offset: 0, 0
+	index: -1
+effect/common/New_kxv_xiaojineng_huoyan_00013
+	rotate: true
+	xy: 834, 2
+	size: 117, 187
+	orig: 117, 187
+	offset: 0, 0
+	index: -1
+effect/common/New_sy_lmbs_shoubuhonghuo_00169
+	rotate: true
+	xy: 357, 881
+	size: 139, 208
+	orig: 171, 250
+	offset: 15, 6
+	index: -1
+effect/common/New_sy_lmbs_shoubuhonghuo_00173
+	rotate: true
+	xy: 834, 230
+	size: 149, 184
+	orig: 171, 250
+	offset: 11, 13
+	index: -1
+
+asset/spine/kxv_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_kxv_xiaojineng_huoyan_00029
+	rotate: true
+	xy: 516, 2
+	size: 120, 244
+	orig: 120, 244
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_xia_00009
+	rotate: false
+	xy: 761, 2
+	size: 243, 85
+	orig: 299, 107
+	offset: 36, 7
+	index: -1
+effect/common/New_laerfu_teshuji_xia_00003
+	rotate: false
+	xy: 761, 2
+	size: 243, 85
+	orig: 299, 107
+	offset: 36, 7
+	index: -1
+effect/common/New_sy_lmbs_shoubuhonghuo_00163
+	rotate: true
+	xy: 252, 256
+	size: 163, 224
+	orig: 171, 250
+	offset: 2, 15
+	index: -1
+effect/common/New_kxv_liumenbisha_huo_00009
+	rotate: true
+	xy: 382, 420
+	size: 120, 88
+	orig: 120, 88
+	offset: 0, 0
+	index: -1
+effect/common/New_sy_lmbs_shoubuhonghuo_00155
+	rotate: true
+	xy: 477, 361
+	size: 145, 206
+	orig: 171, 250
+	offset: 15, 9
+	index: -1
+effect/common/New_kxv_liumenbisha_huo_00021
+	rotate: false
+	xy: 2, 201
+	size: 249, 208
+	orig: 249, 208
+	offset: 0, 0
+	index: -1
+effect/common/New_kxv_putongbisha_quan_00009
+	rotate: false
+	xy: 382, 541
+	size: 86, 115
+	orig: 86, 115
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_xia_00015
+	rotate: false
+	xy: 761, 2
+	size: 243, 85
+	orig: 299, 107
+	offset: 36, 7
+	index: -1
+effect/common/New_kxv_liumenbisha_huo_00017
+	rotate: false
+	xy: 2, 2
+	size: 258, 198
+	orig: 258, 198
+	offset: 0, 0
+	index: -1
+effect/common/New_kxv_liumenbisha_huo_00013
+	rotate: false
+	xy: 2, 410
+	size: 209, 192
+	orig: 209, 192
+	offset: 0, 0
+	index: -1
+effect/common/New_kxv_putongbisha_quan_00013
+	rotate: false
+	xy: 684, 361
+	size: 71, 90
+	orig: 71, 90
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangxuanwo_00014
+	rotate: true
+	xy: 761, 475
+	size: 243, 261
+	orig: 243, 261
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangxuanwo_00016
+	rotate: true
+	xy: 780, 650
+	size: 221, 236
+	orig: 221, 236
+	offset: 0, 0
+	index: -1
+
+asset/spine/laerfuxv_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_laerfu_teshuji_xia_00000
+	rotate: false
+	xy: 476, 675
+	size: 88, 32
+	orig: 88, 32
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_xia_00001
+	rotate: false
+	xy: 498, 995
+	size: 73, 27
+	orig: 73, 27
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_xia_00005
+	rotate: false
+	xy: 910, 981
+	size: 88, 32
+	orig: 88, 32
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_xia_00011
+	rotate: false
+	xy: 910, 981
+	size: 88, 32
+	orig: 88, 32
+	offset: 0, 0
+	index: -1
+
+asset/spine/laerfuxv_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_laerfu_teshuji_shang_00000
+	rotate: true
+	xy: 870, 927
+	size: 84, 56
+	orig: 84, 56
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_shang_00006
+	rotate: false
+	xy: 803, 837
+	size: 84, 58
+	orig: 84, 58
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_shang_00012
+	rotate: false
+	xy: 803, 837
+	size: 84, 58
+	orig: 84, 58
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect16.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangxuanwo_00022
+	rotate: false
+	xy: 2, 141
+	size: 160, 158
+	orig: 160, 158
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_lmbs_huangxuanwo_00024
+	rotate: false
+	xy: 143, 572
+	size: 135, 134
+	orig: 135, 134
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baobo_00020
+	rotate: false
+	xy: 2, 581
+	size: 126, 125
+	orig: 126, 125
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baoqixuli_00005
+	rotate: false
+	xy: 2, 2
+	size: 163, 138
+	orig: 163, 138
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt19
+	rotate: true
+	xy: 147, 437
+	size: 134, 143
+	orig: 134, 143
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_lmbs_huangsebo_00031
+	rotate: true
+	xy: 2, 441
+	size: 139, 140
+	orig: 139, 140
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt16
+	rotate: false
+	xy: 166, 2
+	size: 162, 140
+	orig: 162, 140
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt17
+	rotate: true
+	xy: 291, 559
+	size: 124, 136
+	orig: 124, 136
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_ptbs2_baobo_00024
+	rotate: false
+	xy: 521, 593
+	size: 187, 187
+	orig: 187, 187
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_lmbs_huangsebo_00037
+	rotate: true
+	xy: 508, 2
+	size: 191, 147
+	orig: 191, 147
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baobo_00022
+	rotate: false
+	xy: 800, 2
+	size: 171, 169
+	orig: 171, 169
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt15
+	rotate: false
+	xy: 2, 851
+	size: 176, 171
+	orig: 176, 171
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangxuanwo_00018
+	rotate: false
+	xy: 810, 742
+	size: 209, 209
+	orig: 209, 209
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangsebo_00033
+	rotate: true
+	xy: 858, 307
+	size: 165, 163
+	orig: 165, 163
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baoqixuli_00007
+	rotate: false
+	xy: 777, 694
+	size: 234, 143
+	orig: 234, 143
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt18
+	rotate: false
+	xy: 858, 166
+	size: 164, 140
+	orig: 164, 140
+	offset: 0, 0
+	index: -1
+
+asset/spine/kxv_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_kxv_putongbisha_huo_00015
+	rotate: false
+	xy: 335, 2
+	size: 329, 56
+	orig: 329, 56
+	offset: 0, 0
+	index: -1
+effect/common/New_kxv_putongbisha_huo_00011
+	rotate: false
+	xy: 2, 2
+	size: 332, 57
+	orig: 332, 57
+	offset: 0, 0
+	index: -1
+effect/common/New_kxv_putongbisha_huo_00019
+	rotate: false
+	xy: 539, 971
+	size: 288, 51
+	orig: 288, 51
+	offset: 0, 0
+	index: -1
+effect/common/New_sy_lmbs_shoubuhonghuo_00167
+	rotate: false
+	xy: 445, 457
+	size: 161, 226
+	orig: 171, 250
+	offset: 8, 5
+	index: -1
+effect/common/New_sy_lmbs_shoubuhonghuo_00165
+	rotate: false
+	xy: 283, 800
+	size: 161, 222
+	orig: 171, 250
+	offset: 2, 15
+	index: -1
+effect/common/New_sy_lmbs_shoubuhonghuo_00161
+	rotate: false
+	xy: 445, 684
+	size: 161, 208
+	orig: 171, 250
+	offset: 0, 21
+	index: -1
+effect/common/New_kxv_putongbisha_quan_00005
+	rotate: false
+	xy: 942, 336
+	size: 71, 97
+	orig: 71, 97
+	offset: 0, 0
+	index: -1
+effect/common/New_kxv_putongbisha_huo_00007
+	rotate: false
+	xy: 191, 715
+	size: 251, 56
+	orig: 255, 60
+	offset: 4, 4
+	index: -1
+effect/common/New_kxv_putongbisha_huo_00003
+	rotate: false
+	xy: 308, 457
+	size: 133, 53
+	orig: 133, 55
+	offset: 0, 2
+	index: -1
+effect/common/New_kxv_putongbisha_quan_00017
+	rotate: false
+	xy: 983, 29
+	size: 29, 60
+	orig: 29, 60
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangsebo_00027
+	rotate: false
+	xy: 771, 499
+	size: 62, 62
+	orig: 62, 62
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangsebo_00029
+	rotate: false
+	xy: 457, 560
+	size: 102, 101
+	orig: 102, 101
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baobo_00018
+	rotate: false
+	xy: 976, 774
+	size: 20, 20
+	orig: 20, 20
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt14
+	rotate: false
+	xy: 384, 381
+	size: 176, 178
+	orig: 176, 178
+	offset: 0, 0
+	index: -1

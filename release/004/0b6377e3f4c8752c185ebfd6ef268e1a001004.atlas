@@ -1,0 +1,237 @@
+
+asset/spine/szliannaCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/zailin_jx_lianna_sz_tu_17
+	rotate: false
+	xy: 745, 390
+	size: 157, 135
+	orig: 159, 137
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_16
+	rotate: false
+	xy: 745, 526
+	size: 192, 153
+	orig: 194, 155
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_15
+	rotate: true
+	xy: 529, 2
+	size: 107, 146
+	orig: 109, 148
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_14
+	rotate: true
+	xy: 398, 147
+	size: 66, 89
+	orig: 68, 91
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_13
+	rotate: true
+	xy: 573, 989
+	size: 31, 66
+	orig: 33, 68
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_12
+	rotate: true
+	xy: 258, 649
+	size: 56, 70
+	orig: 58, 72
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_11
+	rotate: false
+	xy: 329, 649
+	size: 58, 56
+	orig: 60, 58
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_10
+	rotate: false
+	xy: 461, 649
+	size: 67, 50
+	orig: 69, 52
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_31
+	rotate: false
+	xy: 2, 2
+	size: 288, 357
+	orig: 290, 359
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_30
+	rotate: true
+	xy: 946, 89
+	size: 261, 63
+	orig: 263, 65
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_33
+	rotate: false
+	xy: 240, 707
+	size: 212, 292
+	orig: 214, 294
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_32
+	rotate: false
+	xy: 453, 700
+	size: 227, 288
+	orig: 229, 290
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_19
+	rotate: true
+	xy: 539, 522
+	size: 161, 205
+	orig: 163, 207
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_18
+	rotate: false
+	xy: 489, 522
+	size: 49, 121
+	orig: 51, 123
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_9
+	rotate: false
+	xy: 442, 317
+	size: 67, 38
+	orig: 69, 40
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_8
+	rotate: true
+	xy: 398, 214
+	size: 98, 82
+	orig: 100, 84
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_7
+	rotate: true
+	xy: 903, 351
+	size: 82, 101
+	orig: 84, 103
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_6
+	rotate: true
+	xy: 359, 314
+	size: 44, 82
+	orig: 46, 84
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_5
+	rotate: true
+	xy: 946, 51
+	size: 37, 67
+	orig: 39, 69
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_4
+	rotate: true
+	xy: 528, 110
+	size: 34, 91
+	orig: 36, 93
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_3
+	rotate: true
+	xy: 291, 317
+	size: 41, 67
+	orig: 43, 69
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_2
+	rotate: true
+	xy: 388, 649
+	size: 50, 72
+	orig: 52, 74
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_1
+	rotate: false
+	xy: 291, 2
+	size: 236, 144
+	orig: 238, 146
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_28
+	rotate: false
+	xy: 2, 360
+	size: 255, 346
+	orig: 257, 348
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_29
+	rotate: false
+	xy: 681, 175
+	size: 221, 214
+	orig: 223, 216
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_26
+	rotate: false
+	xy: 258, 360
+	size: 230, 288
+	orig: 232, 290
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_27
+	rotate: false
+	xy: 946, 2
+	size: 75, 48
+	orig: 77, 50
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_24
+	rotate: false
+	xy: 529, 317
+	size: 143, 204
+	orig: 145, 206
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_25
+	rotate: true
+	xy: 681, 2
+	size: 172, 264
+	orig: 174, 266
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_22
+	rotate: false
+	xy: 291, 147
+	size: 106, 166
+	orig: 108, 168
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_23
+	rotate: false
+	xy: 2, 707
+	size: 237, 305
+	orig: 239, 307
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_20
+	rotate: true
+	xy: 453, 989
+	size: 33, 119
+	orig: 35, 121
+	offset: 1, 1
+	index: -1
+role/zailin_jx_lianna_sz_tu_21
+	rotate: true
+	xy: 489, 147
+	size: 169, 185
+	orig: 171, 187
+	offset: 1, 1
+	index: -1

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>mask1_bawangwankapaiimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{344,323}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{344,323}}</string>
+			<key>sourceSize</key>
+			<string>{344,323}</string>
+		</dict>
+		<key>yezi01_bawangwankapaiimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{414,2},{40,11}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{40,11}}</string>
+			<key>sourceSize</key>
+			<string>{40,11}</string>
+		</dict>
+		<key>yezi02_bawangwankapaiimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{348,2},{64,12}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{64,12}}</string>
+			<key>sourceSize</key>
+			<string>{64,12}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>bawangwankapaiimage.png</string>
+		<key>size</key>
+		<string>{512,512}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>bawangwankapaiimage.png</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,2186 @@
+
+asset/spine/caotijingshisi_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/ctj_ex_daji2_00102
+	rotate: false
+	xy: 2, 273
+	size: 249, 148
+	orig: 249, 148
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_00103
+	rotate: false
+	xy: 522, 140
+	size: 253, 147
+	orig: 253, 147
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_00100
+	rotate: false
+	xy: 496, 540
+	size: 242, 145
+	orig: 242, 145
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_00101
+	rotate: false
+	xy: 2, 422
+	size: 247, 147
+	orig: 247, 147
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_00105
+	rotate: false
+	xy: 739, 558
+	size: 239, 154
+	orig: 239, 156
+	offset: 0, 2
+	index: -1
+effect/common/ctj_skill_diyan_00061
+	rotate: false
+	xy: 776, 210
+	size: 246, 100
+	orig: 246, 100
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00016
+	rotate: false
+	xy: 140, 763
+	size: 19, 38
+	orig: 19, 38
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00077
+	rotate: true
+	xy: 817, 806
+	size: 160, 114
+	orig: 160, 114
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_fire_up_00026
+	rotate: false
+	xy: 527, 2
+	size: 260, 137
+	orig: 260, 137
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_fire_up_00027
+	rotate: false
+	xy: 265, 137
+	size: 256, 131
+	orig: 256, 131
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_2_00052
+	rotate: false
+	xy: 788, 2
+	size: 233, 96
+	orig: 233, 100
+	offset: 0, 4
+	index: -1
+effect/common/ctj_ex_daji2_2_00055
+	rotate: true
+	xy: 478, 898
+	size: 124, 123
+	orig: 124, 123
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_diyan_00062
+	rotate: false
+	xy: 252, 410
+	size: 248, 81
+	orig: 248, 85
+	offset: 0, 3
+	index: -1
+effect/common/ctj_exMAX_fire_up_00023
+	rotate: false
+	xy: 257, 269
+	size: 253, 140
+	orig: 253, 140
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00100
+	rotate: true
+	xy: 979, 614
+	size: 41, 43
+	orig: 41, 45
+	offset: 0, 1
+	index: -1
+effect/common/ctj_skill_bao_00068
+	rotate: false
+	xy: 314, 736
+	size: 176, 161
+	orig: 176, 161
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00099
+	rotate: false
+	xy: 979, 708
+	size: 41, 46
+	orig: 41, 46
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00040
+	rotate: false
+	xy: 960, 994
+	size: 27, 27
+	orig: 27, 27
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00041
+	rotate: false
+	xy: 988, 994
+	size: 27, 27
+	orig: 27, 27
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_fire_up_00035
+	rotate: false
+	xy: 491, 686
+	size: 239, 119
+	orig: 239, 119
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_diyan_00060
+	rotate: false
+	xy: 2, 663
+	size: 242, 99
+	orig: 242, 101
+	offset: 0, 2
+	index: -1
+effect/common/ctj_exMAX_fire_up_00030
+	rotate: false
+	xy: 760, 311
+	size: 247, 123
+	orig: 247, 127
+	offset: 0, 4
+	index: -1
+effect/common/ctj_exMAX_shengli_00039
+	rotate: false
+	xy: 932, 994
+	size: 27, 27
+	orig: 27, 27
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00031
+	rotate: false
+	xy: 34, 763
+	size: 27, 41
+	orig: 27, 41
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00030
+	rotate: false
+	xy: 62, 763
+	size: 26, 41
+	orig: 26, 41
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00033
+	rotate: true
+	xy: 979, 656
+	size: 31, 43
+	orig: 31, 43
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00035
+	rotate: false
+	xy: 992, 478
+	size: 29, 39
+	orig: 31, 39
+	offset: 1, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00034
+	rotate: false
+	xy: 2, 763
+	size: 31, 41
+	orig: 31, 43
+	offset: 0, 2
+	index: -1
+effect/common/ctj_exMAX_shengli_00037
+	rotate: true
+	xy: 213, 763
+	size: 25, 31
+	orig: 25, 33
+	offset: 0, 2
+	index: -1
+effect/common/ctj_exMAX_shengli_00036
+	rotate: false
+	xy: 114, 763
+	size: 25, 39
+	orig: 25, 39
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00044
+	rotate: true
+	xy: 932, 904
+	size: 89, 90
+	orig: 89, 90
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00042
+	rotate: false
+	xy: 180, 763
+	size: 32, 32
+	orig: 32, 32
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00043
+	rotate: false
+	xy: 979, 571
+	size: 43, 42
+	orig: 43, 42
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00110
+	rotate: false
+	xy: 817, 967
+	size: 73, 55
+	orig: 73, 55
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_fire_up_00034
+	rotate: false
+	xy: 248, 615
+	size: 242, 120
+	orig: 242, 120
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_fire_up_00033
+	rotate: false
+	xy: 250, 492
+	size: 245, 122
+	orig: 245, 122
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_fire_up_00032
+	rotate: false
+	xy: 747, 435
+	size: 244, 122
+	orig: 244, 122
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_fire_up_00031
+	rotate: false
+	xy: 501, 417
+	size: 245, 122
+	orig: 245, 122
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00028
+	rotate: true
+	xy: 932, 713
+	size: 23, 44
+	orig: 23, 48
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00029
+	rotate: false
+	xy: 89, 763
+	size: 24, 41
+	orig: 24, 49
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00024
+	rotate: false
+	xy: 912, 967
+	size: 19, 54
+	orig: 19, 54
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_diyan_00051
+	rotate: true
+	xy: 223, 806
+	size: 213, 90
+	orig: 217, 92
+	offset: 0, 2
+	index: -1
+effect/common/ctj_skill_diyan_00052
+	rotate: false
+	xy: 491, 806
+	size: 209, 91
+	orig: 223, 93
+	offset: 0, 1
+	index: -1
+effect/common/ctj_skill_diyan_00053
+	rotate: true
+	xy: 2, 806
+	size: 216, 92
+	orig: 216, 94
+	offset: 0, 1
+	index: -1
+effect/common/ctj_exMAX_fire_up_00037
+	rotate: false
+	xy: 788, 99
+	size: 231, 110
+	orig: 231, 110
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00017
+	rotate: false
+	xy: 160, 763
+	size: 19, 38
+	orig: 19, 38
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00015
+	rotate: true
+	xy: 992, 554
+	size: 16, 29
+	orig: 16, 29
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00014
+	rotate: true
+	xy: 992, 536
+	size: 17, 29
+	orig: 17, 29
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_fire_up_00024
+	rotate: false
+	xy: 2, 2
+	size: 262, 139
+	orig: 262, 139
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00011
+	rotate: true
+	xy: 213, 789
+	size: 16, 26
+	orig: 16, 26
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_fire_up_00028
+	rotate: false
+	xy: 2, 142
+	size: 254, 130
+	orig: 256, 130
+	offset: 1, 0
+	index: -1
+effect/common/ctj_ex_daji2_00127
+	rotate: true
+	xy: 245, 736
+	size: 60, 61
+	orig: 60, 63
+	offset: 0, 1
+	index: -1
+effect/common/ctj_exMAX_shengli_00018
+	rotate: true
+	xy: 979, 688
+	size: 19, 43
+	orig: 19, 43
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00013
+	rotate: true
+	xy: 992, 518
+	size: 17, 29
+	orig: 17, 29
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_fire_up_00025
+	rotate: false
+	xy: 265, 2
+	size: 261, 134
+	orig: 261, 134
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00025
+	rotate: false
+	xy: 891, 967
+	size: 20, 54
+	orig: 20, 54
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00001
+	rotate: true
+	xy: 760, 288
+	size: 16, 15
+	orig: 16, 15
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_00124
+	rotate: false
+	xy: 314, 898
+	size: 163, 124
+	orig: 163, 124
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_luodi_00153
+	rotate: false
+	xy: 2, 570
+	size: 245, 92
+	orig: 245, 92
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_luodi_00159
+	rotate: true
+	xy: 932, 755
+	size: 148, 90
+	orig: 148, 92
+	offset: 0, 1
+	index: -1
+effect/common/ctj_skill_bao_00090
+	rotate: false
+	xy: 602, 898
+	size: 117, 124
+	orig: 121, 126
+	offset: 3, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00005
+	rotate: true
+	xy: 958, 737
+	size: 17, 20
+	orig: 17, 20
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00032
+	rotate: false
+	xy: 992, 435
+	size: 29, 42
+	orig: 29, 42
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00120
+	rotate: false
+	xy: 720, 898
+	size: 96, 115
+	orig: 96, 115
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_fire_up_00029
+	rotate: false
+	xy: 511, 288
+	size: 248, 128
+	orig: 248, 130
+	offset: 0, 2
+	index: -1
+effect/common/ctj_exmax_fire_00121
+	rotate: true
+	xy: 701, 806
+	size: 91, 115
+	orig: 91, 115
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00009
+	rotate: true
+	xy: 932, 737
+	size: 17, 25
+	orig: 17, 25
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_diyan_00049
+	rotate: false
+	xy: 731, 713
+	size: 200, 92
+	orig: 200, 92
+	offset: 0, 0
+	index: -1
+
+asset/spine/caotijingshisi_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/ctj_skill_diyan_00044
+	rotate: true
+	xy: 952, 2
+	size: 137, 70
+	orig: 137, 70
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_diyan_00058
+	rotate: false
+	xy: 478, 116
+	size: 235, 102
+	orig: 235, 104
+	offset: 0, 2
+	index: -1
+effect/common/ctj_skill_diyan_00059
+	rotate: false
+	xy: 2, 2
+	size: 238, 104
+	orig: 240, 106
+	offset: 1, 2
+	index: -1
+effect/common/ctj_exMAX_fire_up_00022
+	rotate: false
+	xy: 2, 493
+	size: 220, 120
+	orig: 220, 122
+	offset: 0, 1
+	index: -1
+effect/common/ctj_ex_daji2_00116
+	rotate: false
+	xy: 2, 855
+	size: 200, 167
+	orig: 204, 175
+	offset: 3, 3
+	index: -1
+effect/common/ctj_skill_bao_00075
+	rotate: false
+	xy: 223, 517
+	size: 209, 105
+	orig: 209, 157
+	offset: 0, 50
+	index: -1
+effect/common/ctj_skill_bao_00074
+	rotate: false
+	xy: 450, 551
+	size: 208, 150
+	orig: 208, 172
+	offset: 0, 20
+	index: -1
+effect/common/ctj_skill_bao_00073
+	rotate: false
+	xy: 680, 607
+	size: 204, 167
+	orig: 204, 167
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_2_00057
+	rotate: true
+	xy: 885, 721
+	size: 133, 137
+	orig: 133, 137
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00019
+	rotate: false
+	xy: 203, 614
+	size: 19, 52
+	orig: 19, 52
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00069
+	rotate: false
+	xy: 393, 855
+	size: 182, 166
+	orig: 182, 166
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00062
+	rotate: true
+	xy: 404, 702
+	size: 152, 130
+	orig: 152, 130
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_diyan_00055
+	rotate: false
+	xy: 233, 288
+	size: 227, 96
+	orig: 227, 100
+	offset: 0, 1
+	index: -1
+effect/common/ctj_skill_bao_00098
+	rotate: false
+	xy: 659, 775
+	size: 78, 61
+	orig: 80, 73
+	offset: 0, 10
+	index: -1
+effect/common/ctj_ex_daji2_2_00060
+	rotate: true
+	xy: 952, 140
+	size: 91, 68
+	orig: 91, 68
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_diyan_00047
+	rotate: true
+	xy: 576, 838
+	size: 184, 95
+	orig: 188, 97
+	offset: 1, 1
+	index: -1
+effect/common/ctj_exMAX_shengli_00042
+	rotate: false
+	xy: 659, 563
+	size: 25, 25
+	orig: 25, 25
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00050
+	rotate: true
+	xy: 2, 614
+	size: 202, 200
+	orig: 204, 200
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00109
+	rotate: true
+	xy: 828, 775
+	size: 57, 51
+	orig: 59, 51
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00038
+	rotate: false
+	xy: 2, 817
+	size: 26, 26
+	orig: 26, 26
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00047
+	rotate: true
+	xy: 672, 837
+	size: 185, 188
+	orig: 185, 188
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_fire_up_00036
+	rotate: false
+	xy: 478, 2
+	size: 236, 113
+	orig: 236, 113
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_diyan_00056
+	rotate: false
+	xy: 714, 192
+	size: 231, 101
+	orig: 231, 103
+	offset: 0, 2
+	index: -1
+effect/common/ctj_exMAX_fire_up_00039
+	rotate: false
+	xy: 700, 294
+	size: 226, 105
+	orig: 226, 105
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_fire_up_00038
+	rotate: false
+	xy: 2, 250
+	size: 230, 107
+	orig: 230, 107
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00022
+	rotate: false
+	xy: 659, 643
+	size: 20, 52
+	orig: 20, 52
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_diyan_00050
+	rotate: false
+	xy: 451, 457
+	size: 210, 93
+	orig: 210, 93
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00020
+	rotate: false
+	xy: 662, 457
+	size: 21, 53
+	orig: 21, 53
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00021
+	rotate: false
+	xy: 662, 511
+	size: 21, 51
+	orig: 21, 53
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00027
+	rotate: true
+	xy: 896, 402
+	size: 22, 47
+	orig: 22, 47
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_1_00056
+	rotate: true
+	xy: 535, 702
+	size: 135, 123
+	orig: 135, 123
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00023
+	rotate: false
+	xy: 659, 589
+	size: 20, 53
+	orig: 20, 53
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00012
+	rotate: false
+	xy: 433, 544
+	size: 16, 25
+	orig: 16, 25
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00010
+	rotate: false
+	xy: 433, 517
+	size: 16, 26
+	orig: 16, 26
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00026
+	rotate: false
+	xy: 659, 696
+	size: 20, 47
+	orig: 20, 49
+	offset: 0, 2
+	index: -1
+effect/common/ctj_ex_daji2_00122
+	rotate: false
+	xy: 203, 855
+	size: 189, 166
+	orig: 197, 166
+	offset: 4, 0
+	index: -1
+effect/common/ctj_exMAX_luodi_00152
+	rotate: false
+	xy: 715, 103
+	size: 236, 88
+	orig: 236, 88
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_diyan_00054
+	rotate: false
+	xy: 461, 359
+	size: 223, 97
+	orig: 223, 97
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00008
+	rotate: false
+	xy: 927, 312
+	size: 17, 23
+	orig: 17, 23
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00004
+	rotate: false
+	xy: 927, 382
+	size: 17, 19
+	orig: 17, 19
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_luodi_00164
+	rotate: false
+	xy: 738, 775
+	size: 89, 60
+	orig: 91, 62
+	offset: 0, 2
+	index: -1
+effect/common/ctj_exMAX_shengli_00006
+	rotate: false
+	xy: 927, 336
+	size: 17, 22
+	orig: 17, 22
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_luodi_00155
+	rotate: false
+	xy: 896, 434
+	size: 126, 79
+	orig: 126, 83
+	offset: 0, 1
+	index: -1
+effect/common/ctj_exMAX_luodi_00151
+	rotate: true
+	xy: 946, 232
+	size: 201, 76
+	orig: 201, 76
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00002
+	rotate: false
+	xy: 433, 570
+	size: 16, 16
+	orig: 16, 16
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00003
+	rotate: true
+	xy: 927, 294
+	size: 17, 18
+	orig: 17, 18
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_shengli_00007
+	rotate: false
+	xy: 927, 359
+	size: 17, 22
+	orig: 17, 22
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_diyan_00057
+	rotate: false
+	xy: 715, 2
+	size: 236, 100
+	orig: 236, 106
+	offset: 0, 2
+	index: -1
+effect/common/ctj_ex_daji2_00123
+	rotate: false
+	xy: 861, 855
+	size: 161, 162
+	orig: 165, 164
+	offset: 2, 2
+	index: -1
+
+asset/spine/caotijingshisi_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/ctj_exMAX_fire_up_00040
+	rotate: false
+	xy: 814, 373
+	size: 200, 98
+	orig: 200, 98
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_00112
+	rotate: false
+	xy: 401, 343
+	size: 195, 173
+	orig: 199, 175
+	offset: 2, 2
+	index: -1
+effect/common/ctj_ex_daji2_00106
+	rotate: true
+	xy: 585, 839
+	size: 181, 158
+	orig: 181, 160
+	offset: 0, 2
+	index: -1
+effect/common/ctj_ex_daji2_00107
+	rotate: false
+	xy: 385, 677
+	size: 182, 161
+	orig: 184, 163
+	offset: 1, 1
+	index: -1
+effect/common/ctj_ex_daji2_00108
+	rotate: false
+	xy: 792, 472
+	size: 185, 164
+	orig: 185, 166
+	offset: 0, 2
+	index: -1
+effect/common/ctj_ex_daji2_00109
+	rotate: false
+	xy: 2, 639
+	size: 188, 165
+	orig: 188, 169
+	offset: 0, 2
+	index: -1
+effect/common/ctj_ex_daji2_00119
+	rotate: false
+	xy: 410, 2
+	size: 203, 171
+	orig: 203, 175
+	offset: 0, 2
+	index: -1
+effect/common/ctj_ex_daji2_00118
+	rotate: false
+	xy: 410, 174
+	size: 202, 168
+	orig: 204, 176
+	offset: 0, 4
+	index: -1
+effect/common/ctj_ex_daji2_00115
+	rotate: false
+	xy: 2, 2
+	size: 203, 172
+	orig: 203, 178
+	offset: 0, 5
+	index: -1
+effect/common/ctj_ex_daji2_00114
+	rotate: false
+	xy: 817, 200
+	size: 200, 172
+	orig: 202, 176
+	offset: 1, 4
+	index: -1
+effect/common/ctj_ex_daji2_00117
+	rotate: false
+	xy: 206, 2
+	size: 203, 172
+	orig: 205, 176
+	offset: 1, 0
+	index: -1
+effect/common/ctj_ex_daji2_00113
+	rotate: false
+	xy: 202, 175
+	size: 198, 172
+	orig: 200, 176
+	offset: 1, 4
+	index: -1
+effect/common/ctj_skill_bao_00071
+	rotate: false
+	xy: 396, 517
+	size: 193, 159
+	orig: 193, 159
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00070
+	rotate: true
+	xy: 2, 805
+	size: 188, 154
+	orig: 188, 154
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00072
+	rotate: false
+	xy: 2, 175
+	size: 199, 164
+	orig: 199, 164
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_2_00059
+	rotate: false
+	xy: 776, 637
+	size: 92, 64
+	orig: 92, 64
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_diyan_00063
+	rotate: false
+	xy: 200, 518
+	size: 193, 78
+	orig: 193, 84
+	offset: 0, 6
+	index: -1
+effect/common/ctj_exmax_fire_00133
+	rotate: true
+	xy: 744, 839
+	size: 133, 116
+	orig: 133, 158
+	offset: 0, 41
+	index: -1
+effect/common/ctj_exmax_fire_00132
+	rotate: true
+	xy: 861, 813
+	size: 132, 158
+	orig: 132, 158
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00063
+	rotate: false
+	xy: 568, 705
+	size: 158, 133
+	orig: 158, 133
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00051
+	rotate: false
+	xy: 614, 2
+	size: 202, 202
+	orig: 206, 202
+	offset: 1, 0
+	index: -1
+effect/common/ctj_skill_bao_00045
+	rotate: false
+	xy: 727, 705
+	size: 133, 133
+	orig: 133, 133
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00046
+	rotate: true
+	xy: 326, 860
+	size: 162, 164
+	orig: 162, 164
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00048
+	rotate: false
+	xy: 2, 340
+	size: 197, 196
+	orig: 197, 196
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00049
+	rotate: false
+	xy: 817, 2
+	size: 201, 197
+	orig: 201, 199
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_00110
+	rotate: true
+	xy: 157, 805
+	size: 186, 168
+	orig: 192, 172
+	offset: 5, 3
+	index: -1
+effect/common/ctj_ex_daji2_1_00053
+	rotate: true
+	xy: 326, 779
+	size: 80, 57
+	orig: 80, 57
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_diyan_00046
+	rotate: true
+	xy: 491, 839
+	size: 182, 93
+	orig: 182, 95
+	offset: 0, 1
+	index: -1
+effect/common/ctj_ex_daji2_00120
+	rotate: false
+	xy: 613, 205
+	size: 200, 172
+	orig: 200, 172
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_00121
+	rotate: false
+	xy: 200, 348
+	size: 195, 169
+	orig: 197, 173
+	offset: 1, 4
+	index: -1
+effect/common/ctj_ex_daji2_00111
+	rotate: false
+	xy: 597, 378
+	size: 194, 169
+	orig: 196, 173
+	offset: 0, 4
+	index: -1
+effect/common/ctj_skill_bao_00066
+	rotate: true
+	xy: 869, 637
+	size: 175, 151
+	orig: 175, 151
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_00089
+	rotate: false
+	xy: 590, 548
+	size: 185, 156
+	orig: 187, 156
+	offset: 2, 0
+	index: -1
+effect/common/ctj_exMAX_luodi_00149
+	rotate: false
+	xy: 861, 946
+	size: 113, 76
+	orig: 113, 76
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_diyan_00048
+	rotate: false
+	xy: 2, 537
+	size: 191, 101
+	orig: 193, 101
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_tongyongbaoqi_00005
+	rotate: false
+	xy: 930, 841
+	size: 90, 105
+	orig: 90, 105
+	offset: 0, 0
+	index: -1
+
+asset/spine/meixing_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/ctj_ex_daji2_00091
+	rotate: false
+	xy: 830, 411
+	size: 192, 193
+	orig: 206, 193
+	offset: 14, 0
+	index: -1
+effect/common/ctj_ex_daji2_00092
+	rotate: true
+	xy: 615, 462
+	size: 171, 213
+	orig: 217, 213
+	offset: 46, 0
+	index: -1
+
+asset/spine/meixing_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/ctj_ex_daji2_00104
+	rotate: false
+	xy: 604, 253
+	size: 180, 154
+	orig: 244, 156
+	offset: 64, 2
+	index: -1
+effect/common/ctj_ex_daji2_00090
+	rotate: false
+	xy: 412, 141
+	size: 191, 187
+	orig: 201, 187
+	offset: 10, 0
+	index: -1
+
+asset/spine/global_spinehero_role6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt111
+	rotate: true
+	xy: 2, 510
+	size: 107, 112
+	orig: 107, 112
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_dun2
+	rotate: false
+	xy: 866, 2
+	size: 149, 129
+	orig: 149, 129
+	offset: 0, 0
+	index: -1
+
+asset/spine/ctj14xsz_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_x4
+	rotate: false
+	xy: 801, 684
+	size: 221, 105
+	orig: 229, 107
+	offset: 3, 2
+	index: -1
+effect/global/ty_baoqi_x5
+	rotate: true
+	xy: 2, 785
+	size: 236, 136
+	orig: 240, 136
+	offset: 3, 0
+	index: -1
+effect/global/ty_baoqi_x6
+	rotate: false
+	xy: 2, 620
+	size: 240, 164
+	orig: 240, 166
+	offset: 0, 1
+	index: -1
+
+asset/spine/caotijingshisi_common4.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/ctj_exmax_fire_00124
+	rotate: false
+	xy: 124, 231
+	size: 117, 113
+	orig: 117, 113
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00086
+	rotate: false
+	xy: 130, 116
+	size: 122, 114
+	orig: 124, 138
+	offset: 1, 23
+	index: -1
+effect/common/ctj_skill_bao_00087
+	rotate: false
+	xy: 384, 2
+	size: 122, 118
+	orig: 124, 118
+	offset: 1, 0
+	index: -1
+effect/common/ctj_skill_bao_00088
+	rotate: false
+	xy: 375, 121
+	size: 120, 120
+	orig: 124, 122
+	offset: 3, 0
+	index: -1
+effect/common/ctj_skill_bao_00089
+	rotate: true
+	xy: 2, 117
+	size: 120, 121
+	orig: 122, 121
+	offset: 1, 0
+	index: -1
+effect/common/ctj_ex_daji2_2_00054
+	rotate: false
+	xy: 227, 432
+	size: 105, 105
+	orig: 105, 105
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_luodi_00163
+	rotate: false
+	xy: 101, 623
+	size: 91, 86
+	orig: 91, 86
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00139
+	rotate: true
+	xy: 130, 2
+	size: 113, 127
+	orig: 113, 127
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00096
+	rotate: true
+	xy: 107, 525
+	size: 97, 99
+	orig: 99, 151
+	offset: 0, 50
+	index: -1
+effect/common/ctj_skill_bao_00053
+	rotate: false
+	xy: 356, 343
+	size: 107, 95
+	orig: 107, 95
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00057
+	rotate: false
+	xy: 258, 2
+	size: 125, 115
+	orig: 125, 115
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00056
+	rotate: false
+	xy: 253, 118
+	size: 121, 109
+	orig: 121, 109
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00055
+	rotate: false
+	xy: 253, 228
+	size: 118, 104
+	orig: 118, 104
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00054
+	rotate: false
+	xy: 372, 242
+	size: 113, 100
+	orig: 113, 100
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00117
+	rotate: false
+	xy: 333, 439
+	size: 98, 96
+	orig: 98, 96
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00116
+	rotate: false
+	xy: 2, 540
+	size: 98, 96
+	orig: 98, 102
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00115
+	rotate: true
+	xy: 432, 439
+	size: 97, 76
+	orig: 97, 76
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_1_00058
+	rotate: false
+	xy: 333, 536
+	size: 94, 83
+	orig: 94, 83
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_1_00054
+	rotate: false
+	xy: 118, 433
+	size: 105, 91
+	orig: 105, 91
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_fire_up_00021
+	rotate: false
+	xy: 2, 344
+	size: 115, 92
+	orig: 115, 92
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00143
+	rotate: true
+	xy: 2, 637
+	size: 83, 88
+	orig: 85, 88
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_00087
+	rotate: true
+	xy: 2, 437
+	size: 102, 104
+	orig: 104, 104
+	offset: 1, 0
+	index: -1
+effect/common/ctj_exmax_fire_00142
+	rotate: true
+	xy: 118, 345
+	size: 87, 108
+	orig: 87, 108
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_1_00055
+	rotate: false
+	xy: 2, 238
+	size: 115, 105
+	orig: 115, 107
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00144
+	rotate: false
+	xy: 428, 537
+	size: 82, 90
+	orig: 82, 90
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00145
+	rotate: true
+	xy: 207, 613
+	size: 81, 92
+	orig: 81, 92
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00147
+	rotate: true
+	xy: 207, 538
+	size: 74, 93
+	orig: 74, 93
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00122
+	rotate: true
+	xy: 242, 333
+	size: 98, 113
+	orig: 98, 113
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00138
+	rotate: true
+	xy: 2, 2
+	size: 114, 127
+	orig: 114, 127
+	offset: 0, 0
+	index: -1
+
+asset/spine/caotijingshisi_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ctjss97
+	rotate: false
+	xy: 246, 373
+	size: 132, 136
+	orig: 132, 136
+	offset: 0, 0
+	index: -1
+ctjss7
+	rotate: false
+	xy: 493, 469
+	size: 42, 39
+	orig: 42, 39
+	offset: 0, 0
+	index: -1
+
+asset/spine/meixing_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/ctj_ex_daji2_00097
+	rotate: false
+	xy: 510, 276
+	size: 160, 130
+	orig: 238, 142
+	offset: 78, 12
+	index: -1
+effect/common/ctj_ex_daji2_00098
+	rotate: false
+	xy: 520, 142
+	size: 163, 133
+	orig: 241, 143
+	offset: 77, 10
+	index: -1
+effect/common/ctj_ex_daji2_00096
+	rotate: false
+	xy: 322, 391
+	size: 154, 125
+	orig: 234, 139
+	offset: 80, 14
+	index: -1
+effect/common/ctj_ex_daji2_00095
+	rotate: false
+	xy: 318, 517
+	size: 152, 121
+	orig: 228, 135
+	offset: 76, 14
+	index: -1
+effect/common/ctj_ex_daji2_00099
+	rotate: false
+	xy: 520, 2
+	size: 170, 139
+	orig: 244, 147
+	offset: 74, 8
+	index: -1
+effect/common/ctj_ex_daji2_00094
+	rotate: false
+	xy: 818, 531
+	size: 147, 117
+	orig: 221, 131
+	offset: 74, 14
+	index: -1
+effect/common/ctj_ex_daji2_00093
+	rotate: false
+	xy: 2, 508
+	size: 153, 113
+	orig: 213, 129
+	offset: 60, 16
+	index: -1
+
+asset/spine/global_spinehero_effect4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_x2
+	rotate: false
+	xy: 485, 900
+	size: 113, 121
+	orig: 113, 121
+	offset: 0, 0
+	index: -1
+effect/global/ty_tongyongbaoqi_00001
+	rotate: true
+	xy: 341, 685
+	size: 214, 169
+	orig: 214, 169
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_x3
+	rotate: true
+	xy: 890, 386
+	size: 124, 130
+	orig: 124, 130
+	offset: 0, 0
+	index: -1
+effect/global/ty_tongyongbaoqi_00002
+	rotate: true
+	xy: 902, 656
+	size: 156, 118
+	orig: 156, 118
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_dun5
+	rotate: true
+	xy: 237, 961
+	size: 61, 107
+	orig: 61, 107
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt113
+	rotate: false
+	xy: 687, 844
+	size: 176, 178
+	orig: 176, 178
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt112
+	rotate: false
+	xy: 867, 390
+	size: 149, 143
+	orig: 149, 143
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_dun3
+	rotate: true
+	xy: 172, 647
+	size: 203, 185
+	orig: 203, 185
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt13
+	rotate: false
+	xy: 445, 559
+	size: 168, 177
+	orig: 168, 177
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_tongyongbaoqi_00003
+	rotate: true
+	xy: 155, 612
+	size: 72, 70
+	orig: 72, 70
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt14
+	rotate: false
+	xy: 384, 381
+	size: 176, 178
+	orig: 176, 178
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt110
+	rotate: true
+	xy: 936, 302
+	size: 129, 85
+	orig: 129, 85
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_dun1
+	rotate: true
+	xy: 2, 511
+	size: 226, 225
+	orig: 226, 225
+	offset: 0, 0
+	index: -1
+effect/global/ty_dun4
+	rotate: true
+	xy: 169, 271
+	size: 223, 187
+	orig: 223, 187
+	offset: 0, 0
+	index: -1
+
+asset/spine/caotijingshisi_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/ctj_exmax_fire_00128
+	rotate: true
+	xy: 666, 318
+	size: 132, 145
+	orig: 132, 145
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00129
+	rotate: true
+	xy: 165, 367
+	size: 132, 148
+	orig: 132, 148
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00080
+	rotate: false
+	xy: 514, 2
+	size: 166, 125
+	orig: 166, 125
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00081
+	rotate: true
+	xy: 799, 796
+	size: 119, 129
+	orig: 167, 129
+	offset: 2, 0
+	index: -1
+effect/common/ctj_skill_bao_00082
+	rotate: true
+	xy: 799, 677
+	size: 118, 133
+	orig: 122, 133
+	offset: 3, 0
+	index: -1
+effect/common/ctj_skill_bao_00083
+	rotate: true
+	xy: 800, 554
+	size: 122, 135
+	orig: 124, 137
+	offset: 1, 0
+	index: -1
+effect/common/ctj_skill_bao_00084
+	rotate: true
+	xy: 293, 535
+	size: 121, 139
+	orig: 123, 141
+	offset: 1, 0
+	index: -1
+effect/common/ctj_skill_bao_00085
+	rotate: true
+	xy: 433, 570
+	size: 121, 134
+	orig: 125, 146
+	offset: 3, 11
+	index: -1
+effect/common/ctj_skill_diyan_00045
+	rotate: false
+	xy: 510, 128
+	size: 158, 85
+	orig: 158, 85
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00127
+	rotate: false
+	xy: 664, 538
+	size: 135, 130
+	orig: 135, 130
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00079
+	rotate: false
+	xy: 173, 148
+	size: 164, 121
+	orig: 164, 121
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00078
+	rotate: false
+	xy: 2, 265
+	size: 162, 118
+	orig: 162, 118
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00125
+	rotate: true
+	xy: 2, 786
+	size: 123, 131
+	orig: 123, 131
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00076
+	rotate: false
+	xy: 840, 2
+	size: 157, 109
+	orig: 211, 109
+	offset: 53, 0
+	index: -1
+effect/common/ctj_ex_daji2_00086
+	rotate: false
+	xy: 895, 944
+	size: 77, 78
+	orig: 79, 78
+	offset: 2, 0
+	index: -1
+effect/common/ctj_ex_daji2_2_00053
+	rotate: false
+	xy: 664, 451
+	size: 136, 86
+	orig: 144, 86
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_2_00056
+	rotate: false
+	xy: 314, 392
+	size: 142, 142
+	orig: 142, 142
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_2_00058
+	rotate: true
+	xy: 2, 516
+	size: 136, 140
+	orig: 136, 140
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_luodi_00161
+	rotate: false
+	xy: 338, 219
+	size: 154, 86
+	orig: 154, 86
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_00088
+	rotate: false
+	xy: 228, 890
+	size: 128, 130
+	orig: 130, 130
+	offset: 2, 0
+	index: -1
+effect/common/ctj_exmax_fire_00131
+	rotate: true
+	xy: 681, 2
+	size: 130, 158
+	orig: 132, 158
+	offset: 2, 0
+	index: -1
+effect/common/ctj_exmax_fire_00135
+	rotate: false
+	xy: 416, 692
+	size: 130, 129
+	orig: 130, 129
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00067
+	rotate: false
+	xy: 2, 2
+	size: 170, 157
+	orig: 180, 157
+	offset: 10, 0
+	index: -1
+effect/common/ctj_skill_bao_00064
+	rotate: false
+	xy: 344, 79
+	size: 165, 139
+	orig: 165, 139
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00065
+	rotate: false
+	xy: 173, 2
+	size: 170, 145
+	orig: 170, 145
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00060
+	rotate: false
+	xy: 457, 440
+	size: 142, 129
+	orig: 142, 129
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00061
+	rotate: false
+	xy: 826, 207
+	size: 146, 132
+	orig: 146, 132
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00097
+	rotate: true
+	xy: 950, 340
+	size: 78, 72
+	orig: 80, 76
+	offset: 1, 3
+	index: -1
+effect/common/ctj_ex_daji2_2_00061
+	rotate: true
+	xy: 725, 788
+	size: 95, 73
+	orig: 95, 73
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_2_00062
+	rotate: true
+	xy: 273, 741
+	size: 79, 77
+	orig: 79, 77
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00052
+	rotate: true
+	xy: 936, 593
+	size: 99, 86
+	orig: 99, 86
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00059
+	rotate: false
+	xy: 812, 428
+	size: 136, 125
+	orig: 136, 125
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00058
+	rotate: true
+	xy: 357, 890
+	size: 130, 120
+	orig: 130, 120
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00092
+	rotate: true
+	xy: 664, 669
+	size: 118, 134
+	orig: 118, 134
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_luodi_00162
+	rotate: false
+	xy: 669, 133
+	size: 156, 86
+	orig: 156, 88
+	offset: 0, 2
+	index: -1
+effect/common/ctj_exMAX_luodi_00160
+	rotate: false
+	xy: 316, 306
+	size: 149, 85
+	orig: 151, 85
+	offset: 1, 0
+	index: -1
+effect/common/ctj_exmax_fire_00119
+	rotate: false
+	xy: 568, 646
+	size: 95, 114
+	orig: 95, 116
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00118
+	rotate: false
+	xy: 799, 916
+	size: 95, 106
+	orig: 95, 106
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00113
+	rotate: true
+	xy: 600, 467
+	size: 97, 63
+	orig: 97, 67
+	offset: 0, 1
+	index: -1
+effect/common/ctj_exmax_fire_00112
+	rotate: true
+	xy: 600, 565
+	size: 80, 63
+	orig: 80, 63
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00111
+	rotate: false
+	xy: 273, 822
+	size: 78, 63
+	orig: 78, 63
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00114
+	rotate: true
+	xy: 949, 493
+	size: 99, 73
+	orig: 99, 75
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00130
+	rotate: true
+	xy: 2, 384
+	size: 131, 147
+	orig: 131, 147
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_1_00059
+	rotate: false
+	xy: 933, 693
+	size: 89, 56
+	orig: 89, 56
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_1_00057
+	rotate: false
+	xy: 510, 214
+	size: 155, 134
+	orig: 155, 136
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00126
+	rotate: false
+	xy: 2, 653
+	size: 138, 132
+	orig: 138, 136
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_00126
+	rotate: false
+	xy: 165, 270
+	size: 150, 96
+	orig: 154, 96
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_luodi_00158
+	rotate: false
+	xy: 466, 349
+	size: 144, 90
+	orig: 144, 90
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00134
+	rotate: false
+	xy: 141, 725
+	size: 131, 130
+	orig: 131, 130
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00137
+	rotate: false
+	xy: 547, 761
+	size: 116, 128
+	orig: 126, 128
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00136
+	rotate: true
+	xy: 596, 890
+	size: 129, 128
+	orig: 129, 128
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_luodi_00157
+	rotate: false
+	xy: 812, 340
+	size: 137, 87
+	orig: 137, 91
+	offset: 0, 1
+	index: -1
+effect/common/ctj_exMAX_luodi_00156
+	rotate: false
+	xy: 283, 657
+	size: 132, 83
+	orig: 132, 87
+	offset: 0, 1
+	index: -1
+effect/common/ctj_exMAX_luodi_00154
+	rotate: false
+	xy: 344, 2
+	size: 169, 76
+	orig: 169, 80
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exMAX_luodi_00150
+	rotate: false
+	xy: 840, 112
+	size: 157, 94
+	orig: 157, 94
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_diyan_00043
+	rotate: true
+	xy: 611, 349
+	size: 117, 52
+	orig: 119, 52
+	offset: 0, 0
+	index: -1
+effect/common/ctj_ex_daji2_00125
+	rotate: false
+	xy: 2, 160
+	size: 164, 104
+	orig: 164, 108
+	offset: 0, 4
+	index: -1
+effect/common/ctj_exmax_fire_00140
+	rotate: true
+	xy: 102, 910
+	size: 109, 125
+	orig: 109, 125
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00141
+	rotate: false
+	xy: 933, 750
+	size: 88, 112
+	orig: 88, 112
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00146
+	rotate: true
+	xy: 929, 863
+	size: 80, 93
+	orig: 80, 93
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00148
+	rotate: false
+	xy: 725, 884
+	size: 73, 92
+	orig: 73, 92
+	offset: 0, 0
+	index: -1
+effect/common/ctj_exmax_fire_00149
+	rotate: false
+	xy: 950, 419
+	size: 71, 73
+	orig: 71, 73
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00095
+	rotate: true
+	xy: 666, 220
+	size: 97, 146
+	orig: 101, 146
+	offset: 2, 0
+	index: -1
+effect/common/ctj_skill_bao_00094
+	rotate: true
+	xy: 150, 500
+	size: 108, 142
+	orig: 110, 142
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00093
+	rotate: true
+	xy: 143, 609
+	size: 115, 139
+	orig: 117, 139
+	offset: 0, 0
+	index: -1
+effect/common/ctj_skill_bao_00091
+	rotate: false
+	xy: 478, 890
+	size: 117, 130
+	orig: 119, 130
+	offset: 2, 0
+	index: -1
+effect/common/ctj_exmax_fire_00123
+	rotate: false
+	xy: 2, 910
+	size: 99, 112
+	orig: 99, 112
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect16.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt19
+	rotate: true
+	xy: 147, 437
+	size: 134, 143
+	orig: 134, 143
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt16
+	rotate: false
+	xy: 166, 2
+	size: 162, 140
+	orig: 162, 140
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt17
+	rotate: true
+	xy: 291, 559
+	size: 124, 136
+	orig: 124, 136
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_x0
+	rotate: true
+	xy: 368, 840
+	size: 176, 192
+	orig: 176, 192
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_x1
+	rotate: true
+	xy: 709, 698
+	size: 146, 157
+	orig: 146, 157
+	offset: 0, 0
+	index: -1
+effect/global/ty_tongyongbaoqi_00000
+	rotate: true
+	xy: 169, 647
+	size: 200, 165
+	orig: 200, 165
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt15
+	rotate: false
+	xy: 2, 851
+	size: 176, 171
+	orig: 176, 171
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_tongyongbaoqi_00004
+	rotate: false
+	xy: 780, 319
+	size: 76, 87
+	orig: 76, 87
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt18
+	rotate: false
+	xy: 858, 166
+	size: 164, 140
+	orig: 164, 140
+	offset: 0, 0
+	index: -1

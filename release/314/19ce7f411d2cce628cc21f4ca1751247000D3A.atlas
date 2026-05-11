@@ -1,0 +1,209 @@
+
+asset/spine/bzbashenszCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/bzbs_sz_kabei__29
+	rotate: false
+	xy: 2, 2
+	size: 538, 102
+	orig: 540, 104
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__28
+	rotate: true
+	xy: 755, 365
+	size: 29, 124
+	orig: 31, 126
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__25
+	rotate: true
+	xy: 579, 653
+	size: 183, 103
+	orig: 185, 105
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__24
+	rotate: true
+	xy: 541, 2
+	size: 362, 466
+	orig: 364, 468
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__27
+	rotate: false
+	xy: 704, 392
+	size: 31, 122
+	orig: 33, 124
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__26
+	rotate: false
+	xy: 2, 367
+	size: 353, 305
+	orig: 355, 307
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__21
+	rotate: false
+	xy: 2, 105
+	size: 372, 118
+	orig: 374, 120
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__20
+	rotate: true
+	xy: 671, 837
+	size: 35, 32
+	orig: 37, 34
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__23
+	rotate: true
+	xy: 316, 673
+	size: 284, 107
+	orig: 286, 109
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__22
+	rotate: false
+	xy: 2, 224
+	size: 371, 142
+	orig: 373, 144
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__18
+	rotate: true
+	xy: 611, 439
+	size: 81, 89
+	orig: 83, 91
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__19
+	rotate: false
+	xy: 356, 367
+	size: 16, 22
+	orig: 18, 24
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__10
+	rotate: false
+	xy: 607, 837
+	size: 27, 45
+	orig: 29, 47
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__11
+	rotate: true
+	xy: 611, 365
+	size: 73, 92
+	orig: 75, 94
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__12
+	rotate: false
+	xy: 424, 901
+	size: 47, 50
+	orig: 49, 52
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__13
+	rotate: true
+	xy: 356, 390
+	size: 262, 254
+	orig: 264, 256
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__14
+	rotate: true
+	xy: 363, 958
+	size: 56, 117
+	orig: 58, 119
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__15
+	rotate: false
+	xy: 162, 673
+	size: 153, 336
+	orig: 155, 338
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__16
+	rotate: false
+	xy: 635, 837
+	size: 35, 38
+	orig: 37, 40
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__17
+	rotate: true
+	xy: 704, 365
+	size: 26, 32
+	orig: 28, 34
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__8
+	rotate: false
+	xy: 337, 958
+	size: 25, 60
+	orig: 27, 62
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__9
+	rotate: false
+	xy: 579, 837
+	size: 27, 49
+	orig: 29, 51
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__6
+	rotate: false
+	xy: 2, 673
+	size: 159, 336
+	orig: 161, 338
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__7
+	rotate: false
+	xy: 316, 958
+	size: 20, 63
+	orig: 22, 65
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__4
+	rotate: true
+	xy: 375, 105
+	size: 262, 162
+	orig: 264, 164
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__5
+	rotate: true
+	xy: 424, 653
+	size: 247, 154
+	orig: 249, 156
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__2
+	rotate: false
+	xy: 611, 521
+	size: 27, 109
+	orig: 29, 111
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__3
+	rotate: true
+	xy: 481, 901
+	size: 115, 175
+	orig: 117, 177
+	offset: 1, 1
+	index: -1
+role/bzbs_sz_kabei__1
+	rotate: false
+	xy: 657, 876
+	size: 97, 139
+	orig: 99, 141
+	offset: 1, 1
+	index: -1

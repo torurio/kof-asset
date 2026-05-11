@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>pic_diban_hongdikuang.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{630,2},{179,288}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{179,288}}</string>
+			<key>sourceSize</key>
+			<string>{179,288}</string>
+		</dict>
+		<key>pic_paiziditu.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{626,430}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{626,430}}</string>
+			<key>sourceSize</key>
+			<string>{626,430}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>ActivityLimitSaleUi0.png</string>
+		<key>size</key>
+		<string>{811,434}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>ActivityLimitSaleUi0.png</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,153 @@
+
+asset/spine/burenshi_txk_role0.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/haiwai_txk_burenshi_14
+	rotate: false
+	xy: 378, 326
+	size: 70, 59
+	orig: 72, 61
+	offset: 1, 1
+	index: -1
+role/haiwai_txk_burenshi_15
+	rotate: false
+	xy: 470, 42
+	size: 38, 128
+	orig: 40, 130
+	offset: 1, 1
+	index: -1
+role/haiwai_txk_burenshi_16
+	rotate: false
+	xy: 449, 378
+	size: 59, 59
+	orig: 61, 61
+	offset: 1, 1
+	index: -1
+role/haiwai_txk_burenshi_17
+	rotate: true
+	xy: 290, 132
+	size: 29, 124
+	orig: 31, 126
+	offset: 1, 1
+	index: -1
+role/haiwai_txk_burenshi_10
+	rotate: true
+	xy: 290, 280
+	size: 261, 87
+	orig: 263, 89
+	offset: 1, 1
+	index: -1
+role/haiwai_txk_burenshi_11
+	rotate: false
+	xy: 2, 88
+	size: 287, 273
+	orig: 289, 275
+	offset: 1, 1
+	index: -1
+role/haiwai_txk_burenshi_12
+	rotate: true
+	xy: 378, 386
+	size: 48, 51
+	orig: 50, 53
+	offset: 1, 1
+	index: -1
+role/haiwai_txk_burenshi_13
+	rotate: false
+	xy: 415, 132
+	size: 53, 85
+	orig: 55, 87
+	offset: 1, 1
+	index: -1
+role/haiwai_txk_burenshi_18
+	rotate: true
+	xy: 414, 218
+	size: 107, 96
+	orig: 109, 98
+	offset: 1, 1
+	index: -1
+role/haiwai_txk_burenshi_19
+	rotate: true
+	xy: 2, 362
+	size: 226, 247
+	orig: 228, 249
+	offset: 1, 1
+	index: -1
+role/haiwai_txk_burenshi_3
+	rotate: true
+	xy: 449, 326
+	size: 51, 61
+	orig: 53, 63
+	offset: 1, 1
+	index: -1
+role/haiwai_txk_burenshi_8
+	rotate: true
+	xy: 290, 162
+	size: 69, 123
+	orig: 71, 125
+	offset: 1, 1
+	index: -1
+role/haiwai_txk_burenshi_9
+	rotate: false
+	xy: 2, 2
+	size: 293, 85
+	orig: 295, 87
+	offset: 1, 1
+	index: -1
+role/haiwai_txk_burenshi_6
+	rotate: true
+	xy: 296, 2
+	size: 129, 173
+	orig: 131, 175
+	offset: 1, 1
+	index: -1
+role/haiwai_txk_burenshi_7
+	rotate: true
+	xy: 469, 171
+	size: 11, 41
+	orig: 13, 43
+	offset: 1, 1
+	index: -1
+role/haiwai_txk_burenshi_4
+	rotate: true
+	xy: 470, 2
+	size: 39, 40
+	orig: 41, 42
+	offset: 1, 1
+	index: -1
+role/haiwai_txk_burenshi_5
+	rotate: true
+	xy: 390, 278
+	size: 24, 17
+	orig: 26, 19
+	offset: 1, 1
+	index: -1
+role/haiwai_txk_burenshi_2
+	rotate: true
+	xy: 290, 232
+	size: 47, 99
+	orig: 49, 101
+	offset: 1, 1
+	index: -1
+role/haiwai_txk_burenshi_20
+	rotate: false
+	xy: 250, 542
+	size: 245, 242
+	orig: 247, 244
+	offset: 1, 1
+	index: -1
+role/haiwai_txk_burenshi_0
+	rotate: false
+	xy: 469, 183
+	size: 24, 30
+	orig: 26, 32
+	offset: 1, 1
+	index: -1
+role/haiwai_txk_burenshi_1
+	rotate: false
+	xy: 390, 232
+	size: 22, 45
+	orig: 24, 47
+	offset: 1, 1
+	index: -1

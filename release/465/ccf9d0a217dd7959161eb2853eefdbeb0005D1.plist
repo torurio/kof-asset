@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>di_dianbishatsimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{508,83}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{508,83}}</string>
+			<key>sourceSize</key>
+			<string>{508,83}</string>
+		</dict>
+		<key>tiao_dianbishatsimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{87,2},{508,43}}</string>
+			<key>offset</key>
+			<string>{0,1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0,1},{508,43}}</string>
+			<key>sourceSize</key>
+			<string>{508,47}</string>
+		</dict>
+		<key>wz_dianbishatsimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{132,2},{372,102}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{372,102}}</string>
+			<key>sourceSize</key>
+			<string>{372,102}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>dianbishatsimage.png</string>
+		<key>size</key>
+		<string>{256,512}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>dianbishatsimage.png</string>
+	</dict>
+</dict>
+</plist>

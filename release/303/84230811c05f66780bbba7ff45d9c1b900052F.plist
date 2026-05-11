@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>New_klk_ptbs_baodian_00024.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{164,160}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{164,160}}</string>
+			<key>sourceSize</key>
+			<string>{164,160}</string>
+		</dict>
+		<key>New_klk_ptbs_baodian_00025.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{164,160}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{164,160}}</string>
+			<key>sourceSize</key>
+			<string>{164,160}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>extension</key>
+		<integer>1</integer>
+		<key>format</key>
+		<integer>2</integer>
+		<key>imageFormat</key>
+		<string>RGBA8888</string>
+		<key>realTextureFileName</key>
+		<string>kelakexv_common2.png</string>
+		<key>scale</key>
+		<real>0.87</real>
+		<key>size</key>
+		<string>{256,256}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>kelakexv_common2.png</string>
+	</dict>
+</dict>
+</plist>

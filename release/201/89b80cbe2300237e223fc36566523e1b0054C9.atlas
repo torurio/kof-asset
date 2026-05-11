@@ -1,0 +1,1127 @@
+
+asset/spine/global_spinehero_effect14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx1
+	rotate: false
+	xy: 855, 584
+	size: 167, 157
+	orig: 167, 157
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx0
+	rotate: true
+	xy: 777, 838
+	size: 184, 180
+	orig: 184, 180
+	offset: 0, 0
+	index: -1
+
+asset/spine/lzxemKVSZ_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_xemjxsz_shengli_sd4_00113
+	rotate: false
+	xy: 684, 453
+	size: 39, 86
+	orig: 135, 254
+	offset: 19, 50
+	index: -1
+effect/common/New_xemjxsz_shengli_sd_00038
+	rotate: true
+	xy: 2, 631
+	size: 39, 62
+	orig: 65, 118
+	offset: 13, 24
+	index: -1
+effect/common/New_xemjxsz_shengli_sd2_00037
+	rotate: true
+	xy: 158, 779
+	size: 86, 64
+	orig: 94, 90
+	offset: 0, 18
+	index: -1
+effect/common/New_xemjxsz_shengli_sd2_00039
+	rotate: true
+	xy: 961, 428
+	size: 90, 60
+	orig: 94, 90
+	offset: 0, 20
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00042
+	rotate: true
+	xy: 977, 115
+	size: 108, 45
+	orig: 138, 163
+	offset: 13, 3
+	index: -1
+effect/common/New_xemjxsz_putongbisha_ll_00043
+	rotate: true
+	xy: 452, 2
+	size: 97, 281
+	orig: 581, 519
+	offset: 213, 72
+	index: -1
+effect/common/New_xemjxsz_shengli_sd4_00101
+	rotate: true
+	xy: 2, 673
+	size: 105, 216
+	orig: 135, 254
+	offset: 7, 2
+	index: -1
+effect/common/New_xemjxsz_shengli_sd4_00107
+	rotate: true
+	xy: 448, 226
+	size: 97, 236
+	orig: 135, 254
+	offset: 19, 8
+	index: -1
+effect/common/New_xemjxsz_shengli_sd4_00105
+	rotate: true
+	xy: 2, 388
+	size: 113, 236
+	orig: 135, 254
+	offset: 10, 14
+	index: -1
+effect/common/New_xemjxsz_shengli_sd4_00109
+	rotate: true
+	xy: 2, 934
+	size: 87, 184
+	orig: 135, 254
+	offset: 26, 10
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_ll_00003
+	rotate: false
+	xy: 956, 934
+	size: 65, 56
+	orig: 99, 180
+	offset: 16, 124
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_ll_00008
+	rotate: true
+	xy: 187, 934
+	size: 87, 158
+	orig: 99, 180
+	offset: 3, 2
+	index: -1
+effect/common/New_xemjxsz_shengli_sd_00016
+	rotate: false
+	xy: 851, 1004
+	size: 15, 18
+	orig: 65, 118
+	offset: 22, 18
+	index: -1
+effect/common/New_xemjxsz_shengli_sd_00014
+	rotate: true
+	xy: 599, 807
+	size: 21, 26
+	orig: 65, 118
+	offset: 20, 11
+	index: -1
+effect/common/New_xemjxsz_shengli_sd_00018
+	rotate: false
+	xy: 987, 51
+	size: 33, 36
+	orig: 65, 118
+	offset: 22, 0
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_bo_00026
+	rotate: true
+	xy: 2, 502
+	size: 128, 235
+	orig: 184, 241
+	offset: 25, 0
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_bo_00025
+	rotate: true
+	xy: 448, 324
+	size: 138, 235
+	orig: 184, 241
+	offset: 28, 2
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_bo_00023
+	rotate: true
+	xy: 724, 628
+	size: 150, 231
+	orig: 184, 241
+	offset: 33, 6
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_bo_00022
+	rotate: true
+	xy: 2, 203
+	size: 184, 241
+	orig: 184, 241
+	offset: 0, 0
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00012
+	rotate: false
+	xy: 628, 763
+	size: 94, 111
+	orig: 138, 163
+	offset: 12, 3
+	index: -1
+effect/common/New_xemjxsz_putongbisha_ll_00029
+	rotate: true
+	xy: 244, 203
+	size: 234, 203
+	orig: 250, 223
+	offset: 8, 0
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_ll_00013
+	rotate: false
+	xy: 956, 775
+	size: 65, 158
+	orig: 99, 180
+	offset: 12, 6
+	index: -1
+effect/common/New_xemjxsz_putongbisha_lldl_00030
+	rotate: false
+	xy: 2, 2
+	size: 449, 200
+	orig: 449, 200
+	offset: 0, 0
+	index: -1
+effect/common/New_xemjxsz_shengli_sd2_00061
+	rotate: true
+	xy: 956, 714
+	size: 60, 66
+	orig: 94, 90
+	offset: 6, 15
+	index: -1
+effect/common/New_xemjxsz_shengli_sd2_00067
+	rotate: false
+	xy: 970, 224
+	size: 52, 68
+	orig: 94, 90
+	offset: 14, 11
+	index: -1
+effect/common/New_xemjxsz_shengli_sd4_00089
+	rotate: true
+	xy: 441, 463
+	size: 115, 234
+	orig: 135, 254
+	offset: 4, 16
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00002
+	rotate: true
+	xy: 676, 540
+	size: 132, 47
+	orig: 138, 163
+	offset: 1, 6
+	index: -1
+effect/common/New_xemjxsz_shengli_sd3_00089
+	rotate: true
+	xy: 293, 832
+	size: 68, 142
+	orig: 92, 212
+	offset: 24, 2
+	index: -1
+effect/common/New_xemjxsz_shengli_sd3_00083
+	rotate: true
+	xy: 437, 934
+	size: 86, 190
+	orig: 92, 212
+	offset: 3, 14
+	index: -1
+effect/common/New_xemjxsz_shengli_sd3_00085
+	rotate: true
+	xy: 759, 779
+	size: 84, 196
+	orig: 92, 212
+	offset: 6, 1
+	index: -1
+effect/common/New_xemjxsz_shengli_sd3_00087
+	rotate: true
+	xy: 437, 724
+	size: 82, 190
+	orig: 92, 212
+	offset: 9, 0
+	index: -1
+effect/common/New_xemjxsz_shengli_sd_00044
+	rotate: false
+	xy: 987, 2
+	size: 35, 48
+	orig: 65, 118
+	offset: 13, 54
+	index: -1
+effect/common/New_xemjxsz_shengli_sd_00046
+	rotate: true
+	xy: 699, 100
+	size: 41, 30
+	orig: 65, 118
+	offset: 15, 71
+	index: -1
+effect/common/New_xemjxsz_shengli_sd_00042
+	rotate: false
+	xy: 685, 230
+	size: 41, 64
+	orig: 65, 118
+	offset: 9, 37
+	index: -1
+effect/common/New_xemjxsz_shengli_sd2_00071
+	rotate: false
+	xy: 676, 742
+	size: 26, 20
+	orig: 94, 90
+	offset: 14, 15
+	index: -1
+effect/common/New_xemjxsz_shengli_sd_00048
+	rotate: false
+	xy: 699, 209
+	size: 27, 20
+	orig: 65, 118
+	offset: 27, 78
+	index: -1
+effect/common/New_xemjxsz_shengli_sd4_00091
+	rotate: true
+	xy: 734, 2
+	size: 99, 252
+	orig: 135, 254
+	offset: 14, 2
+	index: -1
+effect/common/New_xemjxsz_shengli_sd4_00093
+	rotate: true
+	xy: 727, 210
+	size: 103, 242
+	orig: 135, 254
+	offset: 12, 8
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_sd_00024
+	rotate: false
+	xy: 685, 295
+	size: 40, 157
+	orig: 44, 159
+	offset: 2, 2
+	index: -1
+effect/common/New_xemjxsz_putongbisha_bd_00021
+	rotate: true
+	xy: 628, 875
+	size: 147, 130
+	orig: 213, 200
+	offset: 24, 37
+	index: -1
+effect/common/New_xemjxsz_putongbisha_bd_00020
+	rotate: false
+	xy: 223, 631
+	size: 213, 200
+	orig: 213, 200
+	offset: 0, 0
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_sd_00029
+	rotate: false
+	xy: 2, 779
+	size: 36, 153
+	orig: 44, 159
+	offset: 6, 4
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_sd_00028
+	rotate: true
+	xy: 65, 631
+	size: 38, 157
+	orig: 44, 159
+	offset: 5, 2
+	index: -1
+effect/common/New_xemjxsz_shengli_sd4_00095
+	rotate: true
+	xy: 724, 504
+	size: 123, 234
+	orig: 135, 254
+	offset: 2, 14
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00036
+	rotate: true
+	xy: 437, 807
+	size: 126, 161
+	orig: 138, 163
+	offset: 4, 2
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_ll_00015
+	rotate: false
+	xy: 759, 864
+	size: 71, 158
+	orig: 99, 180
+	offset: 8, 2
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00032
+	rotate: true
+	xy: 676, 540
+	size: 132, 47
+	orig: 138, 163
+	offset: 1, 6
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00030
+	rotate: false
+	xy: 39, 832
+	size: 118, 101
+	orig: 138, 163
+	offset: 16, 6
+	index: -1
+effect/common/New_xemjxsz_shengli_sd4_00097
+	rotate: true
+	xy: 452, 100
+	size: 125, 246
+	orig: 135, 254
+	offset: 10, 1
+	index: -1
+effect/common/New_xemjxsz_shengli_sd4_00099
+	rotate: true
+	xy: 730, 102
+	size: 107, 246
+	orig: 135, 254
+	offset: 8, 0
+	index: -1
+effect/common/New_xemjxsz_putongbisha_bd_00023
+	rotate: true
+	xy: 346, 934
+	size: 87, 90
+	orig: 213, 200
+	offset: 52, 57
+	index: -1
+effect/common/New_xemjxsz_putongbisha_bd_00018
+	rotate: false
+	xy: 239, 438
+	size: 201, 192
+	orig: 213, 200
+	offset: 3, 3
+	index: -1
+effect/common/New_xemjxsz_putongbisha_ll_00039
+	rotate: false
+	xy: 831, 864
+	size: 124, 139
+	orig: 250, 223
+	offset: 84, 17
+	index: -1
+effect/common/New_xemjxsz_putongbisha_ll_00031
+	rotate: false
+	xy: 726, 314
+	size: 234, 189
+	orig: 250, 223
+	offset: 8, 2
+	index: -1
+effect/common/New_xemjxsz_shengli_sd_00052
+	rotate: false
+	xy: 699, 142
+	size: 29, 40
+	orig: 65, 118
+	offset: 22, 61
+	index: -1
+effect/common/New_xemjxsz_shengli_sd_00050
+	rotate: false
+	xy: 987, 88
+	size: 33, 26
+	orig: 65, 118
+	offset: 20, 60
+	index: -1
+effect/common/New_xemjxsz_shengli_sd_00054
+	rotate: true
+	xy: 867, 1004
+	size: 15, 12
+	orig: 65, 118
+	offset: 36, 86
+	index: -1
+effect/common/New_xemjxsz_shengli_sd2_00057
+	rotate: false
+	xy: 956, 637
+	size: 66, 76
+	orig: 94, 90
+	offset: 6, 7
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00020
+	rotate: false
+	xy: 39, 779
+	size: 118, 51
+	orig: 138, 163
+	offset: 3, 4
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00022
+	rotate: true
+	xy: 970, 293
+	size: 134, 51
+	orig: 138, 163
+	offset: 4, 2
+	index: -1
+effect/common/New_xemjxsz_putongbisha_ll_00025
+	rotate: true
+	xy: 441, 579
+	size: 144, 185
+	orig: 250, 223
+	offset: 53, 3
+	index: -1
+effect/common/New_xemjxsz_putongbisha_ll_00023
+	rotate: false
+	xy: 959, 519
+	size: 62, 117
+	orig: 250, 223
+	offset: 88, 106
+	index: -1
+effect/common/New_xemjxsz_shengli_sd_00026
+	rotate: false
+	xy: 676, 673
+	size: 47, 68
+	orig: 65, 118
+	offset: 10, 5
+	index: -1
+effect/common/New_xemjxsz_shengli_sd_00024
+	rotate: false
+	xy: 628, 708
+	size: 47, 54
+	orig: 65, 118
+	offset: 11, 1
+	index: -1
+effect/common/New_xemjxsz_shengli_sd_00022
+	rotate: true
+	xy: 699, 183
+	size: 25, 28
+	orig: 65, 118
+	offset: 22, 0
+	index: -1
+effect/common/New_xemjxsz_shengli_sd_00020
+	rotate: false
+	xy: 831, 1004
+	size: 19, 18
+	orig: 65, 118
+	offset: 26, 5
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00058
+	rotate: true
+	xy: 628, 579
+	size: 128, 47
+	orig: 138, 163
+	offset: 7, 4
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00052
+	rotate: false
+	xy: 158, 866
+	size: 134, 67
+	orig: 138, 163
+	offset: 4, 2
+	index: -1
+
+asset/spine/global_spinehero_effect5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx3
+	rotate: false
+	xy: 899, 851
+	size: 121, 106
+	orig: 121, 106
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx2
+	rotate: false
+	xy: 341, 900
+	size: 143, 122
+	orig: 143, 122
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx5
+	rotate: true
+	xy: 575, 984
+	size: 29, 27
+	orig: 29, 27
+	offset: 0, 0
+	index: -1
+effect/global/swdjtx4
+	rotate: true
+	xy: 226, 612
+	size: 67, 60
+	orig: 67, 60
+	offset: 0, 0
+	index: -1
+
+asset/spine/lzxemKVSZ_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_xemjxsz_liumenbisha_yan_00024
+	rotate: false
+	xy: 313, 823
+	size: 172, 42
+	orig: 184, 132
+	offset: 5, 12
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_yan_00020
+	rotate: true
+	xy: 387, 455
+	size: 176, 64
+	orig: 184, 132
+	offset: 2, 1
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_yan_00022
+	rotate: false
+	xy: 486, 820
+	size: 172, 44
+	orig: 184, 132
+	offset: 5, 12
+	index: -1
+effect/common/New_xemjxsz_shengli_sd4_00111
+	rotate: false
+	xy: 264, 866
+	size: 99, 148
+	orig: 135, 254
+	offset: 11, 37
+	index: -1
+effect/common/New_xemjxsz_shengli_sd_00034
+	rotate: true
+	xy: 457, 340
+	size: 57, 98
+	orig: 65, 118
+	offset: 8, 20
+	index: -1
+effect/common/New_xemjxsz_shengli_sd_00036
+	rotate: true
+	xy: 339, 2
+	size: 43, 94
+	orig: 65, 118
+	offset: 22, 21
+	index: -1
+effect/common/New_xemjxsz_shengli_sd_00030
+	rotate: true
+	xy: 544, 108
+	size: 53, 112
+	orig: 65, 118
+	offset: 12, 4
+	index: -1
+effect/common/New_xemjxsz_shengli_sd_00032
+	rotate: true
+	xy: 554, 398
+	size: 53, 104
+	orig: 65, 118
+	offset: 12, 9
+	index: -1
+effect/common/New_xemjxsz_shengli_sd2_00035
+	rotate: true
+	xy: 577, 574
+	size: 64, 62
+	orig: 94, 90
+	offset: 8, 10
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_yan_00018
+	rotate: true
+	xy: 254, 456
+	size: 184, 132
+	orig: 184, 132
+	offset: 0, 0
+	index: -1
+effect/common/New_xemjxsz_shengli_sd2_00033
+	rotate: false
+	xy: 659, 2
+	size: 48, 46
+	orig: 94, 90
+	offset: 24, 6
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00048
+	rotate: true
+	xy: 658, 49
+	size: 124, 49
+	orig: 138, 163
+	offset: 5, 2
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00046
+	rotate: false
+	xy: 306, 401
+	size: 128, 53
+	orig: 138, 163
+	offset: 4, 0
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00044
+	rotate: false
+	xy: 868, 416
+	size: 130, 51
+	orig: 138, 163
+	offset: 1, 1
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00040
+	rotate: false
+	xy: 435, 2
+	size: 108, 51
+	orig: 138, 163
+	offset: 11, 3
+	index: -1
+effect/common/New_xemjxsz_putongbisha_ll_00041
+	rotate: true
+	xy: 868, 359
+	size: 56, 131
+	orig: 250, 223
+	offset: 86, 21
+	index: -1
+effect/common/New_xemjxsz_shengli_sd4_00103
+	rotate: false
+	xy: 136, 457
+	size: 117, 192
+	orig: 135, 254
+	offset: 6, 10
+	index: -1
+effect/common/New_xemjxsz_xiaojineng_sd_00009
+	rotate: true
+	xy: 457, 139
+	size: 115, 86
+	orig: 199, 222
+	offset: 68, 20
+	index: -1
+effect/common/New_xemjxsz_xiaojineng_sd_00008
+	rotate: false
+	xy: 372, 641
+	size: 171, 178
+	orig: 199, 222
+	offset: 20, 9
+	index: -1
+effect/common/New_xemjxsz_xiaojineng_sd_00007
+	rotate: false
+	xy: 2, 234
+	size: 199, 222
+	orig: 199, 222
+	offset: 0, 0
+	index: -1
+effect/common/New_xemjxsz_xiaojineng_sd_00006
+	rotate: true
+	xy: 771, 914
+	size: 77, 72
+	orig: 199, 222
+	offset: 103, 15
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_ll_00006
+	rotate: true
+	xy: 708, 175
+	size: 75, 172
+	orig: 99, 180
+	offset: 10, 0
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_bdsd_00052
+	rotate: true
+	xy: 663, 746
+	size: 84, 82
+	orig: 86, 86
+	offset: 0, 4
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_bdsd_00053
+	rotate: false
+	xy: 629, 452
+	size: 78, 84
+	orig: 86, 86
+	offset: 7, 2
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_bdsd_00050
+	rotate: false
+	xy: 457, 255
+	size: 86, 84
+	orig: 86, 86
+	offset: 0, 0
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_bdsd_00051
+	rotate: false
+	xy: 556, 303
+	size: 84, 86
+	orig: 86, 86
+	offset: 0, 0
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_bdsd_00054
+	rotate: true
+	xy: 920, 468
+	size: 78, 82
+	orig: 86, 86
+	offset: 6, 4
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_bdsd_00055
+	rotate: true
+	xy: 554, 452
+	size: 60, 74
+	orig: 86, 86
+	offset: 15, 7
+	index: -1
+effect/common/New_xemjxsz_xiaojineng_sd_00010
+	rotate: true
+	xy: 708, 914
+	size: 79, 62
+	orig: 199, 222
+	offset: 92, 27
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_bo_00027
+	rotate: false
+	xy: 313, 641
+	size: 58, 181
+	orig: 184, 241
+	offset: 82, 32
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_bo_00024
+	rotate: false
+	xy: 2, 2
+	size: 146, 231
+	orig: 184, 241
+	offset: 32, 5
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00010
+	rotate: true
+	xy: 339, 303
+	size: 96, 117
+	orig: 138, 163
+	offset: 10, 3
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00014
+	rotate: false
+	xy: 868, 416
+	size: 130, 51
+	orig: 138, 163
+	offset: 1, 1
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00016
+	rotate: true
+	xy: 882, 123
+	size: 128, 131
+	orig: 138, 163
+	offset: 4, 0
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00018
+	rotate: false
+	xy: 452, 513
+	size: 124, 127
+	orig: 138, 163
+	offset: 5, 2
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_bdsd_00049
+	rotate: false
+	xy: 669, 624
+	size: 80, 84
+	orig: 86, 86
+	offset: 4, 2
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_bdsd_00048
+	rotate: false
+	xy: 821, 675
+	size: 72, 72
+	orig: 86, 86
+	offset: 5, 8
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_ll_00018
+	rotate: false
+	xy: 2, 869
+	size: 65, 150
+	orig: 99, 180
+	offset: 14, 4
+	index: -1
+effect/common/New_xemjxsz_shengli_sd3_00091
+	rotate: false
+	xy: 577, 513
+	size: 50, 60
+	orig: 92, 212
+	offset: 32, 6
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_ll_00010
+	rotate: true
+	xy: 708, 251
+	size: 81, 160
+	orig: 99, 180
+	offset: 3, 2
+	index: -1
+effect/common/New_xemjxsz_shengli_sd2_00069
+	rotate: false
+	xy: 257, 401
+	size: 48, 54
+	orig: 94, 90
+	offset: 15, 14
+	index: -1
+effect/common/New_xemjxsz_shengli_sd2_00063
+	rotate: false
+	xy: 202, 401
+	size: 54, 54
+	orig: 94, 90
+	offset: 9, 28
+	index: -1
+effect/common/New_xemjxsz_shengli_sd2_00065
+	rotate: false
+	xy: 339, 265
+	size: 46, 36
+	orig: 94, 90
+	offset: 15, 44
+	index: -1
+effect/common/New_xemjxsz_shengli_sd4_00087
+	rotate: false
+	xy: 2, 668
+	size: 121, 200
+	orig: 135, 254
+	offset: 6, 34
+	index: -1
+effect/common/New_xemjxsz_shengli_sd4_00085
+	rotate: false
+	xy: 2, 457
+	size: 133, 210
+	orig: 135, 254
+	offset: 0, 24
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00000
+	rotate: true
+	xy: 659, 303
+	size: 118, 43
+	orig: 138, 163
+	offset: 16, 6
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00006
+	rotate: false
+	xy: 581, 865
+	size: 126, 139
+	orig: 138, 163
+	offset: 4, 3
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00004
+	rotate: false
+	xy: 364, 866
+	size: 128, 145
+	orig: 138, 163
+	offset: 4, 2
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00008
+	rotate: true
+	xy: 869, 252
+	size: 106, 131
+	orig: 138, 163
+	offset: 10, 4
+	index: -1
+effect/common/New_xemjxsz_shengli_sd3_00081
+	rotate: true
+	xy: 339, 46
+	size: 42, 94
+	orig: 92, 212
+	offset: 2, 110
+	index: -1
+effect/common/New_xemjxsz_shengli_sd_00040
+	rotate: false
+	xy: 452, 454
+	size: 49, 56
+	orig: 65, 118
+	offset: 7, 34
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_sd_00023
+	rotate: false
+	xy: 538, 865
+	size: 42, 157
+	orig: 44, 159
+	offset: 0, 2
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_sd_00027
+	rotate: true
+	xy: 708, 376
+	size: 42, 159
+	orig: 44, 159
+	offset: 2, 0
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_sd_00026
+	rotate: false
+	xy: 493, 865
+	size: 44, 157
+	orig: 44, 159
+	offset: 0, 1
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_sd_00025
+	rotate: true
+	xy: 708, 333
+	size: 42, 159
+	orig: 44, 159
+	offset: 2, 0
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00038
+	rotate: true
+	xy: 882, 2
+	size: 120, 139
+	orig: 138, 163
+	offset: 9, 0
+	index: -1
+effect/common/New_xemjxsz_putongbisha_ll_00035
+	rotate: false
+	xy: 202, 215
+	size: 136, 185
+	orig: 250, 223
+	offset: 37, 16
+	index: -1
+effect/common/New_xemjxsz_putongbisha_bd_00022
+	rotate: true
+	xy: 339, 89
+	size: 123, 112
+	orig: 213, 200
+	offset: 35, 47
+	index: -1
+effect/common/New_xemjxsz_shengli_sd2_00049
+	rotate: true
+	xy: 750, 598
+	size: 76, 72
+	orig: 94, 90
+	offset: 6, 9
+	index: -1
+effect/common/New_xemjxsz_shengli_sd2_00045
+	rotate: false
+	xy: 781, 786
+	size: 72, 74
+	orig: 94, 90
+	offset: 11, 11
+	index: -1
+effect/common/New_xemjxsz_shengli_sd2_00047
+	rotate: false
+	xy: 717, 513
+	size: 80, 84
+	orig: 94, 90
+	offset: 5, 0
+	index: -1
+effect/common/New_xemjxsz_shengli_sd2_00041
+	rotate: false
+	xy: 452, 54
+	size: 90, 84
+	orig: 94, 90
+	offset: 4, 4
+	index: -1
+effect/common/New_xemjxsz_shengli_sd2_00043
+	rotate: true
+	xy: 746, 709
+	size: 76, 74
+	orig: 94, 90
+	offset: 4, 6
+	index: -1
+effect/common/New_xemjxsz_putongbisha_bd_00019
+	rotate: true
+	xy: 124, 668
+	size: 197, 188
+	orig: 213, 200
+	offset: 5, 4
+	index: -1
+effect/common/New_xemjxsz_putongbisha_ll_00033
+	rotate: true
+	xy: 68, 869
+	size: 148, 195
+	orig: 250, 223
+	offset: 59, 10
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00034
+	rotate: true
+	xy: 544, 174
+	size: 128, 161
+	orig: 138, 163
+	offset: 4, 2
+	index: -1
+effect/common/New_xemjxsz_putongbisha_ll_00037
+	rotate: true
+	xy: 708, 2
+	size: 172, 173
+	orig: 250, 223
+	offset: 37, 19
+	index: -1
+effect/common/New_xemjxsz_shengli_sd2_00053
+	rotate: true
+	xy: 640, 537
+	size: 86, 76
+	orig: 94, 90
+	offset: 2, 9
+	index: -1
+effect/common/New_xemjxsz_shengli_sd2_00051
+	rotate: false
+	xy: 837, 468
+	size: 82, 78
+	orig: 94, 90
+	offset: 6, 8
+	index: -1
+effect/common/New_xemjxsz_shengli_sd2_00055
+	rotate: true
+	xy: 708, 831
+	size: 82, 72
+	orig: 94, 90
+	offset: 3, 11
+	index: -1
+effect/common/New_xemjxsz_shengli_sd2_00059
+	rotate: false
+	xy: 823, 547
+	size: 62, 70
+	orig: 94, 90
+	offset: 7, 9
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00028
+	rotate: false
+	xy: 708, 419
+	size: 128, 93
+	orig: 138, 163
+	offset: 7, 4
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00024
+	rotate: false
+	xy: 544, 766
+	size: 118, 49
+	orig: 138, 163
+	offset: 11, 2
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00026
+	rotate: false
+	xy: 339, 213
+	size: 116, 51
+	orig: 138, 163
+	offset: 8, 2
+	index: -1
+effect/common/New_xemjxsz_putongbisha_ll_00027
+	rotate: true
+	xy: 149, 2
+	size: 212, 189
+	orig: 250, 223
+	offset: 20, 2
+	index: -1
+effect/common/xemjxsz_liumenbisha_bo2_00023
+	rotate: false
+	xy: 544, 2
+	size: 113, 105
+	orig: 115, 105
+	offset: 2, 0
+	index: -1
+effect/common/New_xemjxsz_liumenbisha_yan_00016
+	rotate: true
+	xy: 544, 641
+	size: 124, 74
+	orig: 184, 132
+	offset: 30, 0
+	index: -1
+effect/common/New_xemjxsz_shengli_sd_00028
+	rotate: false
+	xy: 619, 639
+	size: 49, 106
+	orig: 65, 118
+	offset: 12, 0
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00054
+	rotate: false
+	xy: 544, 766
+	size: 118, 49
+	orig: 138, 163
+	offset: 11, 2
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00056
+	rotate: false
+	xy: 339, 213
+	size: 116, 51
+	orig: 138, 163
+	offset: 8, 2
+	index: -1
+effect/common/New_xemjxsz_daiji_sd_00050
+	rotate: false
+	xy: 435, 400
+	size: 118, 53
+	orig: 138, 163
+	offset: 3, 4
+	index: -1

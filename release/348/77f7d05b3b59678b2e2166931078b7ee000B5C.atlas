@@ -1,0 +1,152 @@
+
+asset/spine/axiu13hd_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_axsz_liumenbisha_baoqi_00012
+	rotate: false
+	xy: 710, 255
+	size: 175, 180
+	orig: 175, 180
+	offset: 0, 0
+	index: -1
+
+asset/spine/axiu13hd_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_axsz_liumenbisha_baoqi_00010
+	rotate: false
+	xy: 347, 513
+	size: 168, 158
+	orig: 168, 158
+	offset: 0, 0
+	index: -1
+effect/common/New_axsz_liumenbisha_baoqi_00014
+	rotate: false
+	xy: 381, 2
+	size: 180, 179
+	orig: 180, 179
+	offset: 0, 0
+	index: -1
+effect/common/New_axsz_liumenbisha_baoqi_00018
+	rotate: true
+	xy: 186, 179
+	size: 160, 180
+	orig: 160, 180
+	offset: 0, 0
+	index: -1
+
+asset/spine/axiu13hd_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_axsz_liumenbisha_baoqi_00020
+	rotate: false
+	xy: 485, 758
+	size: 179, 203
+	orig: 181, 203
+	offset: 1, 0
+	index: -1
+effect/common/New_axsz_liumenbisha_baoqi_00022
+	rotate: false
+	xy: 167, 496
+	size: 189, 214
+	orig: 193, 214
+	offset: 0, 0
+	index: -1
+
+asset/spine/axiu13hd_common4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_axsz_liumenbisha_baoqi_00008
+	rotate: true
+	xy: 119, 329
+	size: 158, 157
+	orig: 158, 157
+	offset: 0, 0
+	index: -1
+effect/common/New_axsz_liumenbisha_baoqi_00006
+	rotate: false
+	xy: 220, 645
+	size: 138, 155
+	orig: 138, 155
+	offset: 0, 0
+	index: -1
+effect/common/New_axsz_liumenbisha_baoqi_00016
+	rotate: false
+	xy: 164, 165
+	size: 155, 158
+	orig: 155, 158
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_tongyongbaoqi_00000
+	rotate: true
+	xy: 169, 647
+	size: 200, 165
+	orig: 200, 165
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_tongyongbaoqi_00004
+	rotate: false
+	xy: 780, 319
+	size: 76, 87
+	orig: 76, 87
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_tongyongbaoqi_00001
+	rotate: true
+	xy: 341, 685
+	size: 214, 169
+	orig: 214, 169
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_tongyongbaoqi_00002
+	rotate: true
+	xy: 902, 656
+	size: 156, 118
+	orig: 156, 118
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_tongyongbaoqi_00003
+	rotate: true
+	xy: 155, 612
+	size: 72, 70
+	orig: 72, 70
+	offset: 0, 0
+	index: -1

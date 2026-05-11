@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>drywz_ycjhimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,296},{139,19}}</string>
+			<key>offset</key>
+			<string>{0,-1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{14,2},{139,19}}</string>
+			<key>sourceSize</key>
+			<string>{167,21}</string>
+		</dict>
+		<key>gxjh_ycjhimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{292,115}}</string>
+			<key>offset</key>
+			<string>{2,0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4,0},{292,115}}</string>
+			<key>sourceSize</key>
+			<string>{296,115}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>ycjhimage.png</string>
+		<key>size</key>
+		<string>{128,512}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>ycjhimage.png</string>
+	</dict>
+</dict>
+</plist>

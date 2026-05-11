@@ -1,0 +1,381 @@
+
+asset/spine/global_spinehero_effect12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/sz_New_dscz_daiji_fz2_00026
+	rotate: false
+	xy: 2, 376
+	size: 310, 89
+	orig: 318, 91
+	offset: 5, 2
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00038
+	rotate: false
+	xy: 627, 377
+	size: 310, 89
+	orig: 318, 91
+	offset: 6, 2
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00034
+	rotate: true
+	xy: 488, 713
+	size: 306, 89
+	orig: 318, 91
+	offset: 8, 2
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00032
+	rotate: true
+	xy: 398, 713
+	size: 306, 89
+	orig: 318, 91
+	offset: 7, 2
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00012
+	rotate: false
+	xy: 319, 2
+	size: 316, 91
+	orig: 318, 91
+	offset: 2, 0
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00024
+	rotate: false
+	xy: 316, 364
+	size: 310, 89
+	orig: 318, 91
+	offset: 6, 2
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00028
+	rotate: false
+	xy: 313, 454
+	size: 308, 89
+	orig: 318, 91
+	offset: 6, 2
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00022
+	rotate: false
+	xy: 316, 94
+	size: 312, 89
+	orig: 318, 91
+	offset: 5, 2
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00046
+	rotate: false
+	xy: 636, 2
+	size: 316, 89
+	orig: 318, 91
+	offset: 2, 2
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00030
+	rotate: false
+	xy: 2, 556
+	size: 306, 89
+	orig: 318, 91
+	offset: 7, 2
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00042
+	rotate: false
+	xy: 316, 274
+	size: 312, 89
+	orig: 318, 91
+	offset: 5, 2
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00010
+	rotate: false
+	xy: 2, 2
+	size: 316, 91
+	orig: 318, 91
+	offset: 2, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/sz_New_dscz_daiji_fz2_00056
+	rotate: true
+	xy: 370, 640
+	size: 318, 91
+	orig: 318, 91
+	offset: 0, 0
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00050
+	rotate: true
+	xy: 674, 2
+	size: 316, 91
+	orig: 318, 91
+	offset: 2, 0
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00052
+	rotate: true
+	xy: 688, 319
+	size: 316, 91
+	orig: 318, 91
+	offset: 2, 0
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00016
+	rotate: true
+	xy: 582, 2
+	size: 316, 91
+	orig: 318, 91
+	offset: 2, 0
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00014
+	rotate: true
+	xy: 504, 321
+	size: 316, 91
+	orig: 318, 91
+	offset: 2, 0
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00058
+	rotate: true
+	xy: 412, 321
+	size: 318, 91
+	orig: 318, 91
+	offset: 0, 0
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00000
+	rotate: true
+	xy: 2, 649
+	size: 318, 91
+	orig: 318, 91
+	offset: 0, 0
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00006
+	rotate: true
+	xy: 278, 649
+	size: 318, 91
+	orig: 318, 91
+	offset: 0, 0
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00004
+	rotate: true
+	xy: 186, 649
+	size: 318, 91
+	orig: 318, 91
+	offset: 0, 0
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00054
+	rotate: true
+	xy: 766, 2
+	size: 316, 91
+	orig: 318, 91
+	offset: 2, 0
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00048
+	rotate: true
+	xy: 596, 319
+	size: 316, 91
+	orig: 318, 91
+	offset: 2, 0
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00008
+	rotate: true
+	xy: 320, 321
+	size: 318, 91
+	orig: 318, 91
+	offset: 0, 0
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00002
+	rotate: true
+	xy: 94, 649
+	size: 318, 91
+	orig: 318, 91
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/sz_New_dscz_daiji_fz2_00018
+	rotate: false
+	xy: 708, 380
+	size: 314, 89
+	orig: 318, 91
+	offset: 4, 2
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00020
+	rotate: false
+	xy: 708, 470
+	size: 314, 89
+	orig: 318, 91
+	offset: 4, 2
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00044
+	rotate: false
+	xy: 708, 560
+	size: 314, 89
+	orig: 318, 91
+	offset: 4, 2
+	index: -1
+
+asset/spine/dasheXISZ_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/sz_New_dscz_daiji_fz2_00036
+	rotate: true
+	xy: 685, 702
+	size: 178, 51
+	orig: 184, 53
+	offset: 4, 0
+	index: -1
+effect/global/sz_New_dscz_daiji_fz2_00040
+	rotate: true
+	xy: 794, 539
+	size: 178, 53
+	orig: 184, 53
+	offset: 3, 0
+	index: -1
+
+asset/spine/global_spinehero_effect1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z1
+	rotate: false
+	xy: 775, 950
+	size: 137, 66
+	orig: 137, 66
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z0
+	rotate: true
+	xy: 552, 662
+	size: 85, 3
+	orig: 85, 3
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z5
+	rotate: false
+	xy: 858, 984
+	size: 154, 36
+	orig: 154, 36
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z3
+	rotate: false
+	xy: 616, 499
+	size: 154, 64
+	orig: 154, 64
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z4
+	rotate: false
+	xy: 834, 499
+	size: 154, 60
+	orig: 154, 60
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z2
+	rotate: true
+	xy: 412, 131
+	size: 94, 88
+	orig: 94, 88
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z6
+	rotate: false
+	xy: 867, 295
+	size: 154, 57
+	orig: 154, 57
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z8
+	rotate: false
+	xy: 867, 91
+	size: 154, 77
+	orig: 154, 77
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z9
+	rotate: false
+	xy: 867, 2
+	size: 154, 88
+	orig: 154, 88
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z7
+	rotate: false
+	xy: 115, 510
+	size: 111, 88
+	orig: 111, 88
+	offset: 0, 0
+	index: -1
+
+asset/spine/weisiKIV_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_kls_xiaojineng_db_00025
+	rotate: true
+	xy: 524, 99
+	size: 106, 45
+	orig: 196, 87
+	offset: 44, 15
+	index: -1
+effect/common/New_kls_xiaojineng_db_00029
+	rotate: true
+	xy: 88, 746
+	size: 192, 81
+	orig: 196, 87
+	offset: 1, 0
+	index: -1
+effect/common/New_kls_xiaojineng_db_00027
+	rotate: true
+	xy: 2, 746
+	size: 196, 85
+	orig: 196, 87
+	offset: 0, 0
+	index: -1
+effect/common/New_kls_xiaojineng_db_00032
+	rotate: false
+	xy: 181, 930
+	size: 174, 55
+	orig: 196, 87
+	offset: 11, 2
+	index: -1
+effect/common/New_kls_xiaojineng_db_00031
+	rotate: false
+	xy: 2, 943
+	size: 178, 65
+	orig: 196, 87
+	offset: 8, 0
+	index: -1

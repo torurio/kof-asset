@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>pic_jifen_taitouwenzi.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{69,2},{102,40}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{102,40}}</string>
+			<key>sourceSize</key>
+			<string>{102,40}</string>
+		</dict>
+		<key>pic_jjc_jifen_yjlq.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{65,60}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{65,60}}</string>
+			<key>sourceSize</key>
+			<string>{65,60}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>lang_ArenaTask0.png</string>
+		<key>size</key>
+		<string>{173,64}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>lang_ArenaTask0.png</string>
+	</dict>
+</dict>
+</plist>

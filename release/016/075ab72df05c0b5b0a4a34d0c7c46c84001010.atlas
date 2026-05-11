@@ -1,0 +1,245 @@
+
+asset/spine/adehd_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/adrhd_10015
+	rotate: false
+	xy: 15, 1010
+	size: 10, 10
+	orig: 10, 10
+	offset: 0, 0
+	index: -1
+effect/common/adrhd_10014
+	rotate: false
+	xy: 34, 991
+	size: 7, 8
+	orig: 7, 8
+	offset: 0, 0
+	index: -1
+effect/common/adrhd_10017
+	rotate: false
+	xy: 34, 991
+	size: 7, 8
+	orig: 7, 8
+	offset: 0, 0
+	index: -1
+effect/common/adrhd_10016
+	rotate: false
+	xy: 15, 1010
+	size: 10, 10
+	orig: 10, 10
+	offset: 0, 0
+	index: -1
+effect/common/adrhd_10031
+	rotate: true
+	xy: 2, 991
+	size: 18, 15
+	orig: 18, 15
+	offset: 0, 0
+	index: -1
+effect/common/adrhd_10019
+	rotate: false
+	xy: 15, 1010
+	size: 10, 10
+	orig: 10, 10
+	offset: 0, 0
+	index: -1
+effect/common/adrhd_10018
+	rotate: false
+	xy: 34, 991
+	size: 7, 8
+	orig: 7, 8
+	offset: 0, 0
+	index: -1
+effect/common/adrhd_10030
+	rotate: false
+	xy: 26, 1007
+	size: 15, 15
+	orig: 15, 15
+	offset: 0, 0
+	index: -1
+effect/common/adrhd_10028
+	rotate: false
+	xy: 2, 1010
+	size: 12, 12
+	orig: 12, 12
+	offset: 0, 0
+	index: -1
+effect/common/adrhd_10029
+	rotate: false
+	xy: 26, 1007
+	size: 15, 15
+	orig: 15, 15
+	offset: 0, 0
+	index: -1
+effect/common/adrhd_10032
+	rotate: true
+	xy: 2, 991
+	size: 18, 15
+	orig: 18, 15
+	offset: 0, 0
+	index: -1
+effect/common/adrhd_10024
+	rotate: false
+	xy: 2, 1010
+	size: 12, 12
+	orig: 12, 12
+	offset: 0, 0
+	index: -1
+effect/common/adrhd_10025
+	rotate: false
+	xy: 18, 991
+	size: 15, 15
+	orig: 15, 15
+	offset: 0, 0
+	index: -1
+effect/common/adrhd_10026
+	rotate: false
+	xy: 18, 991
+	size: 15, 15
+	orig: 15, 15
+	offset: 0, 0
+	index: -1
+effect/common/adrhd_10027
+	rotate: false
+	xy: 2, 1010
+	size: 12, 12
+	orig: 12, 12
+	offset: 0, 0
+	index: -1
+effect/common/adrhd_10020
+	rotate: false
+	xy: 15, 1010
+	size: 10, 10
+	orig: 10, 10
+	offset: 0, 0
+	index: -1
+effect/common/adrhd_10021
+	rotate: false
+	xy: 15, 1010
+	size: 10, 10
+	orig: 10, 10
+	offset: 0, 0
+	index: -1
+effect/common/adrhd_10022
+	rotate: false
+	xy: 15, 1010
+	size: 10, 10
+	orig: 10, 10
+	offset: 0, 0
+	index: -1
+effect/common/adrhd_10023
+	rotate: false
+	xy: 2, 1010
+	size: 12, 12
+	orig: 12, 12
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z1
+	rotate: false
+	xy: 775, 950
+	size: 137, 66
+	orig: 137, 66
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z0
+	rotate: true
+	xy: 552, 662
+	size: 85, 3
+	orig: 85, 3
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z5
+	rotate: false
+	xy: 858, 984
+	size: 154, 36
+	orig: 154, 36
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z3
+	rotate: false
+	xy: 616, 499
+	size: 154, 64
+	orig: 154, 64
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z4
+	rotate: false
+	xy: 834, 499
+	size: 154, 60
+	orig: 154, 60
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z2
+	rotate: true
+	xy: 412, 131
+	size: 94, 88
+	orig: 94, 88
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z6
+	rotate: false
+	xy: 867, 295
+	size: 154, 57
+	orig: 154, 57
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z8
+	rotate: false
+	xy: 867, 91
+	size: 154, 77
+	orig: 154, 77
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z9
+	rotate: false
+	xy: 867, 2
+	size: 154, 88
+	orig: 154, 88
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z7
+	rotate: false
+	xy: 115, 510
+	size: 111, 88
+	orig: 111, 88
+	offset: 0, 0
+	index: -1

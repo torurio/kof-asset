@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>pic_damenshouweizhan_100003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{201,75}}</string>
+			<key>offset</key>
+			<string>{-1,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{201,75}}</string>
+			<key>sourceSize</key>
+			<string>{203,75}</string>
+		</dict>
+		<key>pic_damenshouweizhan_100012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,156},{195,75}}</string>
+			<key>offset</key>
+			<string>{-4,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{195,75}}</string>
+			<key>sourceSize</key>
+			<string>{203,75}</string>
+		</dict>
+		<key>pic_damenshouweizhan_100020.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,79},{199,75}}</string>
+			<key>offset</key>
+			<string>{-2,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{199,75}}</string>
+			<key>sourceSize</key>
+			<string>{203,75}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>CrossGuardBattleExt0.png</string>
+		<key>size</key>
+		<string>{205,233}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>CrossGuardBattleExt0.png</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,453 @@
+
+asset/spine/kXVJRCard_role7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+K_XV_kabei_tx09
+	rotate: false
+	xy: 350, 350
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+K_XV_kabei_tx03
+	rotate: false
+	xy: 2, 2
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+K_XV_kabei_tx05
+	rotate: false
+	xy: 2, 435
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+K_XV_kabei_tx07
+	rotate: true
+	xy: 350, 2
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+
+asset/spine/kXVJRCard_role6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+K_XV_kabei_tx11
+	rotate: false
+	xy: 2, 2
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+K_XV_kabei_tx15
+	rotate: true
+	xy: 350, 2
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+K_XV_kabei_tx17
+	rotate: false
+	xy: 350, 350
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+K_XV_kabei_tx13
+	rotate: false
+	xy: 2, 435
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+
+asset/spine/kXVJRCard_role5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+K_XV_kabei_tx25
+	rotate: false
+	xy: 350, 350
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+K_XV_kabei_tx21
+	rotate: false
+	xy: 2, 435
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+K_XV_kabei_tx23
+	rotate: true
+	xy: 350, 2
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+K_XV_kabei_tx19
+	rotate: false
+	xy: 2, 2
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+
+asset/spine/kXVJRCard_role4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+K_XV_kabei_tx29
+	rotate: false
+	xy: 2, 435
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+K_XV_kabei_tx27
+	rotate: false
+	xy: 2, 2
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+K_XV_kabei_tx33
+	rotate: false
+	xy: 350, 350
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+K_XV_kabei_tx31
+	rotate: true
+	xy: 350, 2
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+
+asset/spine/kXVJRCard_role3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+K_XV_kabei_tx41
+	rotate: false
+	xy: 350, 350
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+K_XV_kabei_tx37
+	rotate: false
+	xy: 2, 435
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+K_XV_kabei_tx35
+	rotate: false
+	xy: 2, 2
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+K_XV_kabei_tx39
+	rotate: true
+	xy: 350, 2
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+
+asset/spine/kXVJRCard_role2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+K_XV_kabei_tx47
+	rotate: true
+	xy: 350, 2
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+K_XV_kabei_tx45
+	rotate: false
+	xy: 2, 435
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+K_XV_kabei_tx43
+	rotate: false
+	xy: 2, 2
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+K_XV_kabei_tx49
+	rotate: false
+	xy: 350, 350
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+
+asset/spine/kXVJRCard_role1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+K_XV_kabei_tx55
+	rotate: true
+	xy: 350, 2
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+K_XV_kabei_tx57
+	rotate: false
+	xy: 350, 350
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+K_XV_kabei_tx51
+	rotate: false
+	xy: 2, 2
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+K_XV_kabei_tx53
+	rotate: false
+	xy: 2, 435
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+
+asset/spine/kXVJRCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KXV_kabei4
+	rotate: false
+	xy: 498, 106
+	size: 43, 50
+	orig: 43, 50
+	offset: 0, 0
+	index: -1
+KXV_kabei3
+	rotate: true
+	xy: 542, 106
+	size: 37, 75
+	orig: 37, 75
+	offset: 0, 0
+	index: -1
+KXV_kabei1
+	rotate: true
+	xy: 699, 2
+	size: 177, 302
+	orig: 177, 302
+	offset: 0, 0
+	index: -1
+KXV_kabei7
+	rotate: false
+	xy: 375, 948
+	size: 81, 74
+	orig: 81, 74
+	offset: 0, 0
+	index: -1
+KXV_kabei5
+	rotate: false
+	xy: 316, 952
+	size: 58, 62
+	orig: 58, 62
+	offset: 0, 0
+	index: -1
+KXV_kabei8
+	rotate: false
+	xy: 670, 2
+	size: 23, 21
+	orig: 23, 21
+	offset: 0, 0
+	index: -1
+KXV_kabei9
+	rotate: true
+	xy: 118, 952
+	size: 66, 45
+	orig: 66, 45
+	offset: 0, 0
+	index: -1
+KXV_kabei10
+	rotate: true
+	xy: 542, 144
+	size: 32, 75
+	orig: 32, 75
+	offset: 0, 0
+	index: -1
+KXV_kabei11
+	rotate: true
+	xy: 699, 492
+	size: 126, 127
+	orig: 126, 127
+	offset: 0, 0
+	index: -1
+KXV_kabei12
+	rotate: false
+	xy: 242, 952
+	size: 73, 62
+	orig: 73, 62
+	offset: 0, 0
+	index: -1
+KXV_kabei13
+	rotate: true
+	xy: 457, 948
+	size: 71, 117
+	orig: 71, 117
+	offset: 0, 0
+	index: -1
+KXV_kabei14
+	rotate: false
+	xy: 903, 268
+	size: 92, 129
+	orig: 92, 129
+	offset: 0, 0
+	index: -1
+KXV_kabei15
+	rotate: false
+	xy: 2, 952
+	size: 67, 70
+	orig: 67, 70
+	offset: 0, 0
+	index: -1
+KXV_kabei16
+	rotate: true
+	xy: 617, 948
+	size: 60, 79
+	orig: 60, 79
+	offset: 0, 0
+	index: -1
+KXV_kabei17
+	rotate: false
+	xy: 903, 180
+	size: 103, 87
+	orig: 103, 87
+	offset: 0, 0
+	index: -1
+KXV_kabei18
+	rotate: false
+	xy: 858, 398
+	size: 132, 79
+	orig: 132, 79
+	offset: 0, 0
+	index: -1
+KXV_kabei19
+	rotate: true
+	xy: 670, 348
+	size: 143, 187
+	orig: 143, 187
+	offset: 0, 0
+	index: -1
+K_XV_kabei_tx59
+	rotate: false
+	xy: 351, 515
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1
+KXV_kabei2
+	rotate: false
+	xy: 575, 948
+	size: 41, 71
+	orig: 41, 71
+	offset: 0, 0
+	index: -1
+KXV_kabei0
+	rotate: false
+	xy: 2, 2
+	size: 383, 512
+	orig: 383, 512
+	offset: 0, 0
+	index: -1
+KXV_kabei25
+	rotate: true
+	xy: 386, 2
+	size: 174, 111
+	orig: 174, 111
+	offset: 0, 0
+	index: -1
+KXV_kabei24
+	rotate: true
+	xy: 386, 180
+	size: 332, 283
+	orig: 332, 283
+	offset: 0, 0
+	index: -1
+KXV_kabei26
+	rotate: false
+	xy: 2, 515
+	size: 348, 436
+	orig: 348, 436
+	offset: 0, 0
+	index: -1
+KXV_kabei21
+	rotate: true
+	xy: 498, 2
+	size: 103, 170
+	orig: 103, 170
+	offset: 0, 0
+	index: -1
+KXV_kabei20
+	rotate: true
+	xy: 70, 952
+	size: 70, 47
+	orig: 70, 47
+	offset: 0, 0
+	index: -1
+KXV_kabei23
+	rotate: false
+	xy: 699, 180
+	size: 203, 167
+	orig: 203, 167
+	offset: 0, 0
+	index: -1
+KXV_kabei22
+	rotate: false
+	xy: 858, 478
+	size: 130, 127
+	orig: 130, 127
+	offset: 0, 0
+	index: -1
+KXV_kabei6
+	rotate: true
+	xy: 164, 952
+	size: 65, 77
+	orig: 65, 77
+	offset: 0, 0
+	index: -1
+
+asset/spine/kXVJRCard_role8.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+K_XV_kabei_tx01
+	rotate: false
+	xy: 2, 2
+	size: 347, 432
+	orig: 347, 432
+	offset: 0, 0
+	index: -1

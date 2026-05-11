@@ -1,0 +1,1265 @@
+
+asset/spine/global_spinehero_effect12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_dlls_ptbs_baibo_00047
+	rotate: false
+	xy: 622, 467
+	size: 307, 305
+	orig: 307, 305
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baoqixuli_00019
+	rotate: true
+	xy: 172, 841
+	size: 181, 162
+	orig: 181, 162
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_lmbs_huangsebo_00035
+	rotate: true
+	xy: 2, 841
+	size: 181, 169
+	orig: 181, 169
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect10.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_ptbs2_baoqixuli_00011
+	rotate: true
+	xy: 795, 314
+	size: 253, 227
+	orig: 253, 227
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baoqixuli_00017
+	rotate: false
+	xy: 370, 839
+	size: 210, 182
+	orig: 210, 182
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_lmbs_huangxuanwo_00020
+	rotate: false
+	xy: 2, 839
+	size: 185, 183
+	orig: 185, 183
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baoqixuli_00009
+	rotate: true
+	xy: 804, 568
+	size: 252, 214
+	orig: 252, 214
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangxuanwo_00026
+	rotate: false
+	xy: 910, 345
+	size: 110, 96
+	orig: 110, 96
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baoqixuli_00015
+	rotate: false
+	xy: 792, 806
+	size: 230, 199
+	orig: 230, 199
+	offset: 0, 0
+	index: -1
+
+asset/spine/bzqjsxv_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_dlls_ptbs_baibo_00041
+	rotate: false
+	xy: 212, 924
+	size: 96, 96
+	orig: 96, 96
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptbs_baibo_00037
+	rotate: true
+	xy: 983, 943
+	size: 37, 39
+	orig: 39, 39
+	offset: 0, 0
+	index: -1
+
+asset/spine/lianna_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_lan_xjn_daoguang2_00026
+	rotate: false
+	xy: 783, 276
+	size: 92, 107
+	orig: 92, 107
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_dangedaoguang_00049
+	rotate: false
+	xy: 505, 775
+	size: 72, 189
+	orig: 72, 189
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_dangedaoguang_00048
+	rotate: false
+	xy: 2, 394
+	size: 98, 195
+	orig: 100, 195
+	offset: 1, 0
+	index: -1
+effect/common/New_lan_ptbs_baozhabaodian_00078
+	rotate: true
+	xy: 536, 579
+	size: 188, 185
+	orig: 190, 185
+	offset: 1, 0
+	index: -1
+effect/common/New_lan_xjn_dangedaoguang_00047
+	rotate: false
+	xy: 660, 192
+	size: 122, 187
+	orig: 122, 187
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_baodian3_00060
+	rotate: false
+	xy: 112, 979
+	size: 159, 38
+	orig: 159, 38
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozhabaodian_00071
+	rotate: false
+	xy: 382, 972
+	size: 55, 50
+	orig: 55, 50
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_daoguang1_00022
+	rotate: false
+	xy: 78, 979
+	size: 33, 42
+	orig: 33, 44
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00096
+	rotate: false
+	xy: 687, 2
+	size: 159, 185
+	orig: 159, 185
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00094
+	rotate: false
+	xy: 350, 584
+	size: 185, 190
+	orig: 185, 190
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00093
+	rotate: false
+	xy: 503, 2
+	size: 183, 189
+	orig: 183, 189
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00092
+	rotate: false
+	xy: 2, 2
+	size: 185, 195
+	orig: 185, 195
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00090
+	rotate: false
+	xy: 2, 590
+	size: 189, 194
+	orig: 189, 194
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_daoguang1_00021
+	rotate: false
+	xy: 78, 979
+	size: 33, 42
+	orig: 33, 44
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00085
+	rotate: true
+	xy: 623, 384
+	size: 187, 175
+	orig: 187, 177
+	offset: 0, 2
+	index: -1
+effect/common/New_lan_ptbs_baozha_00087
+	rotate: false
+	xy: 470, 194
+	size: 189, 189
+	orig: 189, 189
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00082
+	rotate: false
+	xy: 847, 2
+	size: 175, 168
+	orig: 175, 176
+	offset: 0, 8
+	index: -1
+effect/common/New_lan_ptbs_baozha_00088
+	rotate: true
+	xy: 282, 196
+	size: 191, 187
+	orig: 191, 187
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00089
+	rotate: false
+	xy: 319, 781
+	size: 185, 190
+	orig: 185, 190
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_daoguang2_00032
+	rotate: false
+	xy: 2, 979
+	size: 75, 42
+	orig: 75, 42
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00101
+	rotate: true
+	xy: 721, 769
+	size: 120, 142
+	orig: 126, 144
+	offset: 0, 1
+	index: -1
+effect/common/New_lan_lmbs_baodian3_00063
+	rotate: false
+	xy: 722, 709
+	size: 150, 59
+	orig: 150, 59
+	offset: 0, 0
+	index: -1
+
+asset/spine/lianna_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_lan_xjn_daoguang2_00031
+	rotate: false
+	xy: 670, 763
+	size: 88, 58
+	orig: 88, 58
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozhabaodian_00073
+	rotate: true
+	xy: 410, 644
+	size: 125, 109
+	orig: 125, 109
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_daoguang2_00024
+	rotate: false
+	xy: 658, 130
+	size: 89, 108
+	orig: 89, 108
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00075
+	rotate: true
+	xy: 524, 826
+	size: 120, 108
+	orig: 120, 108
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00076
+	rotate: true
+	xy: 420, 453
+	size: 131, 116
+	orig: 131, 116
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_dangedaoguang_00054
+	rotate: true
+	xy: 587, 763
+	size: 62, 82
+	orig: 64, 84
+	offset: 1, 0
+	index: -1
+effect/common/New_lan_xjn_dangedaoguang_00051
+	rotate: false
+	xy: 472, 150
+	size: 64, 136
+	orig: 66, 136
+	offset: 1, 0
+	index: -1
+effect/common/New_lan_xjn_dangedaoguang_00053
+	rotate: true
+	xy: 587, 763
+	size: 62, 82
+	orig: 64, 84
+	offset: 1, 0
+	index: -1
+effect/common/New_lan_xjn_daoguang2_00025
+	rotate: false
+	xy: 745, 640
+	size: 90, 107
+	orig: 90, 107
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_daoguang2_00022
+	rotate: true
+	xy: 902, 91
+	size: 87, 107
+	orig: 87, 107
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_daoguang2_00023
+	rotate: true
+	xy: 902, 2
+	size: 88, 107
+	orig: 88, 107
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_shoubujianguang_00023
+	rotate: true
+	xy: 193, 492
+	size: 157, 86
+	orig: 157, 86
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_shoubujianguang_00024
+	rotate: true
+	xy: 92, 336
+	size: 163, 90
+	orig: 163, 90
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_daoguang2_00028
+	rotate: true
+	xy: 903, 283
+	size: 95, 103
+	orig: 95, 103
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_daoguang1_00016
+	rotate: true
+	xy: 413, 2
+	size: 147, 108
+	orig: 147, 108
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptbs_baodian_00041
+	rotate: true
+	xy: 820, 205
+	size: 95, 81
+	orig: 95, 81
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_daoguang1_00018
+	rotate: false
+	xy: 648, 375
+	size: 92, 107
+	orig: 92, 107
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_daoguang1_00019
+	rotate: true
+	xy: 836, 659
+	size: 87, 94
+	orig: 87, 94
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00104
+	rotate: true
+	xy: 527, 770
+	size: 55, 59
+	orig: 55, 59
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00100
+	rotate: false
+	xy: 280, 480
+	size: 139, 139
+	orig: 139, 147
+	offset: 0, 2
+	index: -1
+effect/common/New_lan_ptbs_baozha_00103
+	rotate: true
+	xy: 903, 570
+	size: 88, 95
+	orig: 94, 97
+	offset: 5, 1
+	index: -1
+effect/common/New_lan_ptbs_baozha_00079
+	rotate: false
+	xy: 98, 169
+	size: 152, 162
+	orig: 152, 162
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00078
+	rotate: false
+	xy: 2, 828
+	size: 147, 161
+	orig: 147, 161
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_daoguang2_00029
+	rotate: false
+	xy: 843, 379
+	size: 96, 96
+	orig: 96, 96
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_baodian3_00062
+	rotate: true
+	xy: 356, 2
+	size: 152, 56
+	orig: 152, 56
+	offset: 0, 0
+	index: -1
+
+asset/spine/lianna_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_lan_lmbs_baodian3_00061
+	rotate: true
+	xy: 484, 357
+	size: 175, 47
+	orig: 175, 47
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_daoguang2_00030
+	rotate: true
+	xy: 805, 765
+	size: 96, 81
+	orig: 96, 81
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_daoguang2_00027
+	rotate: false
+	xy: 710, 121
+	size: 94, 109
+	orig: 94, 109
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptbs_baibo_00045
+	rotate: true
+	xy: 94, 555
+	size: 182, 181
+	orig: 182, 181
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_dangedaoguang_00046
+	rotate: false
+	xy: 2, 371
+	size: 140, 183
+	orig: 142, 183
+	offset: 1, 0
+	index: -1
+effect/common/New_lan_xjn_dangedaoguang_00045
+	rotate: true
+	xy: 805, 241
+	size: 153, 168
+	orig: 153, 168
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozhabaodian_00072
+	rotate: false
+	xy: 634, 163
+	size: 69, 62
+	orig: 69, 62
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozhabaodian_00076
+	rotate: true
+	xy: 611, 705
+	size: 171, 161
+	orig: 171, 161
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozhabaodian_00074
+	rotate: false
+	xy: 896, 862
+	size: 125, 109
+	orig: 125, 109
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_shoubujianguang_00044
+	rotate: true
+	xy: 621, 353
+	size: 172, 88
+	orig: 172, 88
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_shoubujianguang_00046
+	rotate: true
+	xy: 276, 554
+	size: 179, 86
+	orig: 183, 86
+	offset: 4, 0
+	index: -1
+effect/common/New_lan_lmbs_shoubujianguang_00041
+	rotate: true
+	xy: 547, 178
+	size: 174, 86
+	orig: 174, 86
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_shoubujianguang_00040
+	rotate: false
+	xy: 805, 2
+	size: 170, 88
+	orig: 170, 88
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_shoubujianguang_00043
+	rotate: true
+	xy: 532, 357
+	size: 174, 88
+	orig: 176, 88
+	offset: 2, 0
+	index: -1
+effect/common/New_lan_lmbs_shoubujianguang_00042
+	rotate: true
+	xy: 183, 738
+	size: 181, 86
+	orig: 181, 86
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00074
+	rotate: false
+	xy: 201, 920
+	size: 111, 101
+	orig: 111, 101
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_daoguang1_00020
+	rotate: false
+	xy: 974, 479
+	size: 34, 64
+	orig: 34, 64
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00073
+	rotate: true
+	xy: 113, 923
+	size: 99, 87
+	orig: 99, 87
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_dangedaoguang_00052
+	rotate: false
+	xy: 634, 231
+	size: 66, 121
+	orig: 66, 123
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_shoubujianguang_00030
+	rotate: true
+	xy: 185, 2
+	size: 181, 87
+	orig: 181, 87
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_shoubujianguang_00031
+	rotate: true
+	xy: 2, 739
+	size: 183, 90
+	orig: 183, 90
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_shoubujianguang_00032
+	rotate: true
+	xy: 270, 738
+	size: 179, 90
+	orig: 179, 90
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_shoubujianguang_00033
+	rotate: true
+	xy: 456, 2
+	size: 177, 88
+	orig: 177, 88
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_shoubujianguang_00034
+	rotate: true
+	xy: 273, 2
+	size: 178, 90
+	orig: 178, 90
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_shoubujianguang_00035
+	rotate: true
+	xy: 2, 555
+	size: 183, 91
+	orig: 183, 91
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_shoubujianguang_00036
+	rotate: true
+	xy: 364, 2
+	size: 177, 91
+	orig: 177, 91
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_shoubujianguang_00037
+	rotate: true
+	xy: 304, 364
+	size: 178, 90
+	orig: 178, 90
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_shoubujianguang_00038
+	rotate: true
+	xy: 181, 187
+	size: 181, 88
+	orig: 181, 88
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_shoubujianguang_00039
+	rotate: true
+	xy: 93, 739
+	size: 183, 89
+	orig: 183, 89
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00097
+	rotate: false
+	xy: 143, 371
+	size: 160, 182
+	orig: 160, 182
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptbs_baodian_00042
+	rotate: true
+	xy: 710, 336
+	size: 109, 94
+	orig: 109, 94
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_shoubujianguang_00026
+	rotate: true
+	xy: 395, 359
+	size: 176, 88
+	orig: 176, 88
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_shoubujianguang_00025
+	rotate: true
+	xy: 631, 526
+	size: 170, 90
+	orig: 170, 90
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_shoubujianguang_00029
+	rotate: true
+	xy: 545, 2
+	size: 175, 88
+	orig: 177, 88
+	offset: 2, 0
+	index: -1
+effect/common/New_lan_lmbs_shoubujianguang_00028
+	rotate: false
+	xy: 805, 91
+	size: 169, 88
+	orig: 179, 88
+	offset: 10, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00084
+	rotate: true
+	xy: 2, 187
+	size: 183, 178
+	orig: 183, 182
+	offset: 0, 4
+	index: -1
+effect/common/New_lan_ptbs_baozha_00086
+	rotate: false
+	xy: 2, 2
+	size: 182, 184
+	orig: 182, 184
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00080
+	rotate: true
+	xy: 722, 544
+	size: 160, 164
+	orig: 166, 164
+	offset: 6, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00083
+	rotate: true
+	xy: 363, 543
+	size: 176, 174
+	orig: 176, 174
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_daoguang1_00017
+	rotate: true
+	xy: 2, 923
+	size: 99, 110
+	orig: 101, 110
+	offset: 2, 0
+	index: -1
+effect/common/New_lan_xjn_daoguang1_00010
+	rotate: true
+	xy: 975, 138
+	size: 138, 47
+	orig: 138, 47
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_daoguang1_00012
+	rotate: true
+	xy: 468, 180
+	size: 176, 78
+	orig: 176, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptbs_baodian_00040
+	rotate: true
+	xy: 634, 81
+	size: 81, 70
+	orig: 81, 70
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptbs_baodian_00037
+	rotate: true
+	xy: 896, 972
+	size: 37, 34
+	orig: 37, 34
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00102
+	rotate: true
+	xy: 887, 659
+	size: 110, 135
+	orig: 112, 141
+	offset: 1, 1
+	index: -1
+effect/common/New_dlls_ptbs_baodian_00039
+	rotate: true
+	xy: 634, 81
+	size: 81, 70
+	orig: 81, 70
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_ptbs2_baoqixuli_00013
+	rotate: true
+	xy: 775, 286
+	size: 237, 215
+	orig: 237, 215
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_ptbs2_baobo_00028
+	rotate: true
+	xy: 890, 511
+	size: 144, 126
+	orig: 144, 126
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baobo_00026
+	rotate: true
+	xy: 890, 150
+	size: 140, 132
+	orig: 140, 132
+	offset: 0, 0
+	index: -1
+
+asset/spine/bzqjsxv_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_dlls_ptbs_baibo_00040
+	rotate: true
+	xy: 923, 551
+	size: 84, 85
+	orig: 86, 85
+	offset: 1, 0
+	index: -1
+
+asset/spine/lianna_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_lan_xjn_daoguang2_00034
+	rotate: true
+	xy: 845, 866
+	size: 46, 25
+	orig: 46, 25
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_daoguang2_00033
+	rotate: false
+	xy: 622, 996
+	size: 49, 26
+	orig: 49, 26
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_baodian3_00066
+	rotate: true
+	xy: 204, 504
+	size: 100, 30
+	orig: 100, 38
+	offset: 0, 8
+	index: -1
+effect/common/New_lan_ptbs_baozhabaodian_00079
+	rotate: false
+	xy: 244, 230
+	size: 203, 196
+	orig: 203, 196
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozhabaodian_00070
+	rotate: false
+	xy: 418, 427
+	size: 29, 28
+	orig: 29, 28
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozhabaodian_00077
+	rotate: true
+	xy: 244, 427
+	size: 177, 173
+	orig: 177, 173
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozhabaodian_00075
+	rotate: false
+	xy: 876, 790
+	size: 146, 125
+	orig: 146, 125
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_shoubujianguang_00045
+	rotate: true
+	xy: 469, 842
+	size: 177, 89
+	orig: 177, 89
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00077
+	rotate: false
+	xy: 881, 644
+	size: 141, 145
+	orig: 141, 145
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00071
+	rotate: false
+	xy: 162, 388
+	size: 41, 38
+	orig: 41, 38
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_dangedaoguang_00050
+	rotate: false
+	xy: 559, 849
+	size: 62, 173
+	orig: 64, 175
+	offset: 1, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00095
+	rotate: false
+	xy: 2, 234
+	size: 159, 192
+	orig: 159, 192
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00091
+	rotate: true
+	xy: 684, 270
+	size: 185, 205
+	orig: 185, 205
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00099
+	rotate: false
+	xy: 881, 493
+	size: 141, 150
+	orig: 149, 150
+	offset: 8, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00098
+	rotate: false
+	xy: 2, 842
+	size: 150, 180
+	orig: 150, 182
+	offset: 0, 2
+	index: -1
+effect/common/New_lan_lmbs_shoubujianguang_00027
+	rotate: true
+	xy: 331, 605
+	size: 183, 86
+	orig: 183, 86
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00072
+	rotate: false
+	xy: 331, 789
+	size: 56, 52
+	orig: 56, 52
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozha_00081
+	rotate: true
+	xy: 678, 866
+	size: 156, 166
+	orig: 164, 166
+	offset: 8, 0
+	index: -1
+effect/common/New_lan_xjn_daoguang1_00014
+	rotate: false
+	xy: 153, 903
+	size: 177, 100
+	orig: 177, 100
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_daoguang1_00015
+	rotate: true
+	xy: 907, 89
+	size: 176, 103
+	orig: 176, 103
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_daoguang1_00013
+	rotate: false
+	xy: 845, 916
+	size: 177, 93
+	orig: 177, 93
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_xjn_daoguang1_00011
+	rotate: true
+	xy: 418, 460
+	size: 173, 51
+	orig: 173, 51
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptbs_baodian_00036
+	rotate: true
+	xy: 649, 587
+	size: 21, 20
+	orig: 21, 20
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptbs_baodian_00038
+	rotate: true
+	xy: 607, 587
+	size: 46, 41
+	orig: 46, 41
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_baodian3_00065
+	rotate: false
+	xy: 470, 587
+	size: 136, 46
+	orig: 136, 46
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_lmbs_baodian3_00064
+	rotate: true
+	xy: 622, 849
+	size: 146, 55
+	orig: 146, 55
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozhabaodian_00082
+	rotate: false
+	xy: 2, 2
+	size: 241, 231
+	orig: 241, 231
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozhabaodian_00081
+	rotate: false
+	xy: 244, 2
+	size: 225, 214
+	orig: 225, 214
+	offset: 0, 0
+	index: -1
+effect/common/New_lan_ptbs_baozhabaodian_00080
+	rotate: false
+	xy: 684, 64
+	size: 212, 205
+	orig: 214, 205
+	offset: 1, 0
+	index: -1
+
+asset/spine/global_spinehero_effect13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_dlls_ptbs_baibo_00043
+	rotate: false
+	xy: 358, 308
+	size: 252, 250
+	orig: 252, 250
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangsebo_00029
+	rotate: false
+	xy: 457, 560
+	size: 102, 101
+	orig: 102, 101
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baobo_00018
+	rotate: false
+	xy: 976, 774
+	size: 20, 20
+	orig: 20, 20
+	offset: 0, 0
+	index: -1
+
+asset/spine/lkhhdXV_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_dlls_ptbs_baibo_00036
+	rotate: false
+	xy: 780, 999
+	size: 21, 21
+	orig: 21, 21
+	offset: 0, 0
+	index: -1
+
+asset/spine/bzqjsxv_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_dlls_ptbs_baibo_00042
+	rotate: false
+	xy: 573, 2
+	size: 108, 107
+	orig: 108, 107
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptbs_baibo_00046
+	rotate: true
+	xy: 573, 205
+	size: 138, 137
+	orig: 138, 137
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptbs_baibo_00039
+	rotate: true
+	xy: 682, 547
+	size: 73, 74
+	orig: 75, 74
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptbs_baibo_00038
+	rotate: false
+	xy: 966, 682
+	size: 55, 55
+	orig: 55, 55
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangxuanwo_00014
+	rotate: true
+	xy: 761, 475
+	size: 243, 261
+	orig: 243, 261
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangxuanwo_00016
+	rotate: true
+	xy: 780, 650
+	size: 221, 236
+	orig: 221, 236
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect16.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangxuanwo_00024
+	rotate: false
+	xy: 143, 572
+	size: 135, 134
+	orig: 135, 134
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_lmbs_huangxuanwo_00022
+	rotate: false
+	xy: 2, 141
+	size: 160, 158
+	orig: 160, 158
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_lmbs_huangsebo_00031
+	rotate: true
+	xy: 2, 441
+	size: 139, 140
+	orig: 139, 140
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baoqixuli_00005
+	rotate: false
+	xy: 2, 2
+	size: 163, 138
+	orig: 163, 138
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baobo_00020
+	rotate: false
+	xy: 2, 581
+	size: 126, 125
+	orig: 126, 125
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_ptbs2_baobo_00024
+	rotate: false
+	xy: 521, 593
+	size: 187, 187
+	orig: 187, 187
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baobo_00022
+	rotate: false
+	xy: 800, 2
+	size: 171, 169
+	orig: 171, 169
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_lmbs_huangsebo_00037
+	rotate: true
+	xy: 508, 2
+	size: 191, 147
+	orig: 191, 147
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangxuanwo_00018
+	rotate: false
+	xy: 810, 742
+	size: 209, 209
+	orig: 209, 209
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangsebo_00033
+	rotate: true
+	xy: 858, 307
+	size: 165, 163
+	orig: 165, 163
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baoqixuli_00007
+	rotate: false
+	xy: 777, 694
+	size: 234, 143
+	orig: 234, 143
+	offset: 0, 0
+	index: -1
+
+asset/spine/bzxem_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_dlls_ptbs_baibo_00048
+	rotate: true
+	xy: 280, 522
+	size: 163, 162
+	orig: 163, 162
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptbs_baibo_00044
+	rotate: false
+	xy: 190, 887
+	size: 134, 135
+	orig: 136, 135
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangsebo_00027
+	rotate: false
+	xy: 771, 499
+	size: 62, 62
+	orig: 62, 62
+	offset: 0, 0
+	index: -1

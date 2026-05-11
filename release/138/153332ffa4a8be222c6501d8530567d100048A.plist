@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>bg_bosscjerimage.jpg</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{900,507}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{900,507}}</string>
+			<key>sourceSize</key>
+			<string>{900,507}</string>
+		</dict>
+		<key>hw_bosscjerimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,904},{195,84}}</string>
+			<key>offset</key>
+			<string>{0,1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{195,84}}</string>
+			<key>sourceSize</key>
+			<string>{195,86}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>bosscjerimage.png</string>
+		<key>size</key>
+		<string>{512,1024}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>bosscjerimage.png</string>
+	</dict>
+</dict>
+</plist>

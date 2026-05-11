@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>bg_huodong_zadan_mainbg.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{811,507}}</string>
+			<key>offset</key>
+			<string>{0,-5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,10},{811,507}}</string>
+			<key>sourceSize</key>
+			<string>{811,517}</string>
+		</dict>
+		<key>pic_huodong_zadan_hamer.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{815,2},{30,33}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{30,33}}</string>
+			<key>sourceSize</key>
+			<string>{30,33}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>ActivityGoldenEggUi0.png</string>
+		<key>size</key>
+		<string>{847,511}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>ActivityGoldenEggUi0.png</string>
+	</dict>
+</dict>
+</plist>

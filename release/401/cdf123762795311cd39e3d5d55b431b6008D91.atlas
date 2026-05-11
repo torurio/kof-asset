@@ -1,0 +1,2354 @@
+
+asset/spine/global_spinehero_role2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_diying_dy
+	rotate: false
+	xy: 656, 2
+	size: 305, 97
+	orig: 305, 97
+	offset: 0, 0
+	index: -1
+
+asset/spine/dasheXI_role1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dase_xunhuan2_0
+	rotate: false
+	xy: 242, 496
+	size: 80, 48
+	orig: 80, 48
+	offset: 0, 0
+	index: -1
+
+asset/spine/dasheXISR_role_shizhuang2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dashe_rf_daodi_24
+	rotate: false
+	xy: 43, 2
+	size: 38, 45
+	orig: 38, 45
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_29
+	rotate: true
+	xy: 39, 52
+	size: 46, 35
+	orig: 46, 35
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_21
+	rotate: true
+	xy: 190, 42
+	size: 38, 39
+	orig: 38, 39
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_26
+	rotate: false
+	xy: 131, 175
+	size: 33, 32
+	orig: 33, 32
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_0
+	rotate: true
+	xy: 110, 134
+	size: 40, 35
+	orig: 40, 35
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_18
+	rotate: false
+	xy: 156, 44
+	size: 30, 40
+	orig: 30, 40
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_40
+	rotate: true
+	xy: 2, 152
+	size: 49, 36
+	orig: 49, 36
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_BU_3
+	rotate: false
+	xy: 2, 52
+	size: 36, 49
+	orig: 36, 49
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_28
+	rotate: false
+	xy: 187, 81
+	size: 38, 33
+	orig: 38, 33
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_12
+	rotate: false
+	xy: 75, 48
+	size: 40, 43
+	orig: 40, 43
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_14
+	rotate: true
+	xy: 178, 115
+	size: 35, 37
+	orig: 35, 37
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_5
+	rotate: false
+	xy: 39, 99
+	size: 27, 45
+	orig: 27, 45
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_14
+	rotate: false
+	xy: 159, 2
+	size: 30, 40
+	orig: 30, 40
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_21
+	rotate: false
+	xy: 30, 202
+	size: 35, 46
+	orig: 35, 46
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_13
+	rotate: false
+	xy: 39, 145
+	size: 40, 44
+	orig: 40, 44
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_25
+	rotate: false
+	xy: 80, 144
+	size: 29, 43
+	orig: 29, 43
+	offset: 0, 0
+	index: -1
+dashe_rf_gedang_1
+	rotate: false
+	xy: 116, 46
+	size: 39, 41
+	orig: 39, 41
+	offset: 0, 0
+	index: -1
+dashe_rf_daodi_3
+	rotate: false
+	xy: 131, 208
+	size: 32, 33
+	orig: 32, 33
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_38
+	rotate: false
+	xy: 226, 81
+	size: 28, 36
+	orig: 28, 36
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_31
+	rotate: false
+	xy: 190, 2
+	size: 39, 39
+	orig: 39, 39
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_32
+	rotate: false
+	xy: 144, 88
+	size: 33, 40
+	orig: 33, 40
+	offset: 0, 0
+	index: -1
+dashe_rf_bu_z_shou3
+	rotate: false
+	xy: 66, 190
+	size: 33, 43
+	orig: 33, 43
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_31
+	rotate: false
+	xy: 67, 99
+	size: 35, 44
+	orig: 35, 44
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_BU_5
+	rotate: false
+	xy: 2, 2
+	size: 40, 49
+	orig: 40, 49
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_21
+	rotate: false
+	xy: 103, 92
+	size: 40, 41
+	orig: 40, 41
+	offset: 0, 0
+	index: -1
+dashe_rf_run_0
+	rotate: false
+	xy: 2, 102
+	size: 36, 49
+	orig: 36, 49
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_27
+	rotate: false
+	xy: 177, 151
+	size: 36, 36
+	orig: 36, 36
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_28
+	rotate: false
+	xy: 214, 155
+	size: 36, 36
+	orig: 36, 36
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_23
+	rotate: true
+	xy: 100, 188
+	size: 41, 30
+	orig: 41, 30
+	offset: 0, 0
+	index: -1
+dashe_rf_run_16
+	rotate: false
+	xy: 216, 118
+	size: 36, 36
+	orig: 36, 36
+	offset: 0, 0
+	index: -1
+dashe_rf_gedang_2
+	rotate: false
+	xy: 123, 2
+	size: 35, 41
+	orig: 35, 43
+	offset: 0, 2
+	index: -1
+
+asset/spine/dasheXISR_role_shizhuang1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dashe_rf_daodi_25
+	rotate: true
+	xy: 237, 816
+	size: 46, 64
+	orig: 46, 64
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_18
+	rotate: true
+	xy: 114, 891
+	size: 43, 56
+	orig: 45, 56
+	offset: 2, 0
+	index: -1
+dashe_rf_daodi_21
+	rotate: true
+	xy: 685, 917
+	size: 46, 42
+	orig: 46, 42
+	offset: 0, 0
+	index: -1
+dashe_rf_daodi_22
+	rotate: false
+	xy: 916, 797
+	size: 48, 33
+	orig: 48, 33
+	offset: 0, 0
+	index: -1
+dashe_rf_daodi_23
+	rotate: false
+	xy: 851, 917
+	size: 37, 46
+	orig: 37, 46
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_22
+	rotate: true
+	xy: 974, 967
+	size: 36, 46
+	orig: 36, 54
+	offset: 0, 8
+	index: -1
+dashe_rf_beiji_bu_c
+	rotate: false
+	xy: 114, 427
+	size: 57, 60
+	orig: 57, 60
+	offset: 0, 0
+	index: -1
+dashe_rf_bu_tafa2
+	rotate: true
+	xy: 603, 758
+	size: 62, 49
+	orig: 62, 49
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_25
+	rotate: false
+	xy: 654, 362
+	size: 99, 93
+	orig: 99, 93
+	offset: 0, 0
+	index: -1
+dashe_rf_bu_tafa1
+	rotate: true
+	xy: 71, 711
+	size: 58, 42
+	orig: 58, 42
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_5
+	rotate: false
+	xy: 68, 902
+	size: 45, 52
+	orig: 45, 52
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_22_1
+	rotate: false
+	xy: 892, 205
+	size: 101, 92
+	orig: 101, 92
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_18
+	rotate: false
+	xy: 680, 762
+	size: 48, 40
+	orig: 48, 40
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_1
+	rotate: true
+	xy: 755, 355
+	size: 41, 34
+	orig: 41, 34
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_10
+	rotate: false
+	xy: 842, 863
+	size: 24, 53
+	orig: 24, 53
+	offset: 0, 0
+	index: -1
+dashe_rf_ski2_bu_6
+	rotate: true
+	xy: 353, 2
+	size: 122, 168
+	orig: 122, 168
+	offset: 0, 0
+	index: -1
+dashe_rf_ski2_bu_4
+	rotate: true
+	xy: 522, 106
+	size: 111, 131
+	orig: 111, 131
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_17
+	rotate: false
+	xy: 391, 917
+	size: 54, 46
+	orig: 54, 46
+	offset: 0, 0
+	index: -1
+dashe_rf_skill4_3
+	rotate: false
+	xy: 641, 917
+	size: 43, 46
+	orig: 43, 46
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_5_1
+	rotate: false
+	xy: 978, 641
+	size: 44, 69
+	orig: 44, 71
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_bu__10
+	rotate: true
+	xy: 790, 356
+	size: 93, 97
+	orig: 93, 97
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_7
+	rotate: true
+	xy: 352, 623
+	size: 45, 71
+	orig: 45, 71
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_6
+	rotate: false
+	xy: 771, 917
+	size: 40, 46
+	orig: 40, 46
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_5
+	rotate: false
+	xy: 39, 957
+	size: 36, 62
+	orig: 36, 62
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_4
+	rotate: true
+	xy: 653, 673
+	size: 48, 75
+	orig: 48, 75
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_3
+	rotate: true
+	xy: 305, 702
+	size: 65, 46
+	orig: 65, 46
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_2
+	rotate: true
+	xy: 481, 858
+	size: 27, 62
+	orig: 27, 62
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_1
+	rotate: true
+	xy: 2, 628
+	size: 46, 68
+	orig: 46, 68
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_0
+	rotate: true
+	xy: 755, 305
+	size: 49, 34
+	orig: 49, 34
+	offset: 0, 0
+	index: -1
+dashe_rf_run_4
+	rotate: false
+	xy: 827, 803
+	size: 52, 59
+	orig: 52, 59
+	offset: 0, 0
+	index: -1
+dashe_rf_gedang_8
+	rotate: false
+	xy: 264, 431
+	size: 87, 90
+	orig: 87, 90
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_0a
+	rotate: true
+	xy: 294, 298
+	size: 60, 58
+	orig: 62, 60
+	offset: 1, 1
+	index: -1
+dashe_rf_idle_bu_0b
+	rotate: false
+	xy: 253, 564
+	size: 71, 65
+	orig: 71, 65
+	offset: 0, 0
+	index: -1
+dashe_rf_atk_0
+	rotate: false
+	xy: 484, 125
+	size: 37, 59
+	orig: 37, 59
+	offset: 0, 0
+	index: -1
+dashe_rf_atk_1
+	rotate: true
+	xy: 986, 407
+	size: 79, 36
+	orig: 79, 36
+	offset: 0, 0
+	index: -1
+dashe_rf_atk_2
+	rotate: true
+	xy: 790, 803
+	size: 60, 36
+	orig: 60, 36
+	offset: 0, 0
+	index: -1
+dashe_rf_atk_4
+	rotate: false
+	xy: 653, 722
+	size: 71, 39
+	orig: 71, 39
+	offset: 0, 0
+	index: -1
+dashe_rf_atk_5
+	rotate: true
+	xy: 617, 502
+	size: 69, 36
+	orig: 69, 36
+	offset: 0, 0
+	index: -1
+dashe_rf_atk_6
+	rotate: false
+	xy: 442, 964
+	size: 36, 55
+	orig: 36, 55
+	offset: 0, 0
+	index: -1
+dashe_rf_atk_7
+	rotate: false
+	xy: 440, 516
+	size: 81, 47
+	orig: 81, 47
+	offset: 0, 0
+	index: -1
+dashe_rf_atk_8
+	rotate: true
+	xy: 499, 917
+	size: 46, 49
+	orig: 46, 49
+	offset: 0, 0
+	index: -1
+dashe_rf_atk_9
+	rotate: true
+	xy: 136, 964
+	size: 58, 27
+	orig: 58, 27
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_27
+	rotate: true
+	xy: 76, 964
+	size: 58, 59
+	orig: 58, 59
+	offset: 0, 0
+	index: -1
+dashe_rf_daodi_1
+	rotate: false
+	xy: 2, 957
+	size: 36, 62
+	orig: 36, 62
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_41
+	rotate: false
+	xy: 549, 917
+	size: 46, 46
+	orig: 46, 46
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_42
+	rotate: true
+	xy: 303, 768
+	size: 45, 48
+	orig: 45, 48
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_45
+	rotate: true
+	xy: 603, 821
+	size: 45, 41
+	orig: 45, 41
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_44
+	rotate: false
+	xy: 2, 565
+	size: 68, 62
+	orig: 68, 62
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_46
+	rotate: true
+	xy: 522, 479
+	size: 74, 94
+	orig: 74, 94
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_6
+	rotate: false
+	xy: 522, 386
+	size: 96, 92
+	orig: 96, 92
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_1
+	rotate: false
+	xy: 754, 449
+	size: 35, 46
+	orig: 35, 46
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_13
+	rotate: false
+	xy: 833, 964
+	size: 47, 52
+	orig: 47, 52
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_8
+	rotate: true
+	xy: 2, 423
+	size: 97, 111
+	orig: 97, 111
+	offset: 0, 0
+	index: -1
+dashe_rf_die_bu_f
+	rotate: true
+	xy: 114, 595
+	size: 65, 56
+	orig: 65, 56
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_2
+	rotate: true
+	xy: 568, 664
+	size: 33, 34
+	orig: 33, 34
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_0
+	rotate: true
+	xy: 114, 727
+	size: 63, 56
+	orig: 65, 56
+	offset: 1, 0
+	index: -1
+dashe_rf_idle_bu_1
+	rotate: true
+	xy: 522, 288
+	size: 97, 99
+	orig: 97, 99
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_11
+	rotate: true
+	xy: 541, 886
+	size: 30, 52
+	orig: 30, 52
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_4
+	rotate: true
+	xy: 141, 348
+	size: 68, 30
+	orig: 68, 30
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_13
+	rotate: true
+	xy: 69, 836
+	size: 65, 44
+	orig: 65, 44
+	offset: 0, 0
+	index: -1
+dashe_rf_atk_10
+	rotate: true
+	xy: 749, 571
+	size: 68, 40
+	orig: 68, 40
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_23
+	rotate: true
+	xy: 234, 917
+	size: 46, 61
+	orig: 46, 61
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_12
+	rotate: true
+	xy: 654, 226
+	size: 41, 101
+	orig: 41, 101
+	offset: 0, 0
+	index: -1
+dashe_rf_bu_tou
+	rotate: true
+	xy: 446, 917
+	size: 46, 52
+	orig: 46, 52
+	offset: 0, 0
+	index: -1
+dashe_rf_skill4_4
+	rotate: false
+	xy: 348, 918
+	size: 42, 45
+	orig: 42, 45
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_8
+	rotate: true
+	xy: 654, 128
+	size: 97, 101
+	orig: 97, 101
+	offset: 0, 0
+	index: -1
+dashe_rf_skill4_5
+	rotate: true
+	xy: 239, 630
+	size: 59, 66
+	orig: 59, 66
+	offset: 0, 0
+	index: -1
+szgcds_daiji_fw_00030
+	rotate: true
+	xy: 351, 964
+	size: 55, 49
+	orig: 55, 49
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_2
+	rotate: false
+	xy: 171, 762
+	size: 65, 65
+	orig: 65, 65
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_4
+	rotate: false
+	xy: 998, 188
+	size: 24, 61
+	orig: 24, 61
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_5
+	rotate: false
+	xy: 622, 336
+	size: 31, 42
+	orig: 31, 42
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_7
+	rotate: false
+	xy: 451, 341
+	size: 70, 49
+	orig: 70, 49
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_16
+	rotate: true
+	xy: 790, 690
+	size: 68, 71
+	orig: 68, 71
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_15
+	rotate: true
+	xy: 754, 397
+	size: 51, 35
+	orig: 51, 35
+	offset: 0, 0
+	index: -1
+dashe_rf_cchang_3
+	rotate: true
+	xy: 450, 437
+	size: 78, 71
+	orig: 78, 71
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_32
+	rotate: true
+	xy: 991, 382
+	size: 24, 31
+	orig: 26, 33
+	offset: 1, 1
+	index: -1
+dashe_rf_idle_bu_18
+	rotate: false
+	xy: 899, 2
+	size: 107, 65
+	orig: 107, 65
+	offset: 0, 0
+	index: -1
+dashe_rf_sk1_bu__10
+	rotate: false
+	xy: 353, 125
+	size: 130, 78
+	orig: 130, 78
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_10
+	rotate: false
+	xy: 325, 564
+	size: 26, 39
+	orig: 26, 39
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_bu__5
+	rotate: false
+	xy: 172, 194
+	size: 127, 30
+	orig: 127, 30
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_bu__8
+	rotate: false
+	xy: 353, 204
+	size: 118, 105
+	orig: 118, 105
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_26
+	rotate: true
+	xy: 790, 614
+	size: 75, 93
+	orig: 75, 93
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_13
+	rotate: false
+	xy: 796, 964
+	size: 36, 53
+	orig: 36, 53
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_19
+	rotate: false
+	xy: 986, 487
+	size: 36, 78
+	orig: 36, 78
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_16
+	rotate: false
+	xy: 496, 664
+	size: 71, 41
+	orig: 71, 41
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_7_1
+	rotate: true
+	xy: 418, 737
+	size: 48, 65
+	orig: 48, 65
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_15
+	rotate: false
+	xy: 899, 68
+	size: 104, 57
+	orig: 104, 57
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_13
+	rotate: false
+	xy: 70, 770
+	size: 43, 65
+	orig: 43, 65
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_10
+	rotate: true
+	xy: 352, 835
+	size: 55, 62
+	orig: 55, 62
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_17
+	rotate: true
+	xy: 481, 886
+	size: 30, 59
+	orig: 30, 59
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_15
+	rotate: false
+	xy: 352, 669
+	size: 66, 40
+	orig: 66, 40
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_1b
+	rotate: false
+	xy: 790, 450
+	size: 97, 88
+	orig: 97, 88
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_3
+	rotate: false
+	xy: 998, 126
+	size: 24, 61
+	orig: 24, 61
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_2
+	rotate: false
+	xy: 300, 203
+	size: 52, 94
+	orig: 52, 94
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_0
+	rotate: false
+	xy: 472, 242
+	size: 49, 98
+	orig: 49, 98
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_10
+	rotate: true
+	xy: 296, 918
+	size: 45, 51
+	orig: 45, 51
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_9
+	rotate: false
+	xy: 418, 826
+	size: 62, 62
+	orig: 62, 62
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_8
+	rotate: true
+	xy: 352, 710
+	size: 49, 65
+	orig: 49, 65
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_4
+	rotate: false
+	xy: 164, 974
+	size: 43, 48
+	orig: 43, 48
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_5
+	rotate: false
+	xy: 484, 185
+	size: 37, 56
+	orig: 37, 56
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_6
+	rotate: false
+	xy: 71, 652
+	size: 42, 58
+	orig: 42, 58
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_7
+	rotate: true
+	xy: 114, 549
+	size: 45, 57
+	orig: 45, 57
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_0
+	rotate: false
+	xy: 867, 863
+	size: 28, 52
+	orig: 28, 52
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_1
+	rotate: true
+	xy: 974, 868
+	size: 33, 48
+	orig: 33, 48
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_2
+	rotate: false
+	xy: 889, 916
+	size: 42, 47
+	orig: 42, 47
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_3
+	rotate: false
+	xy: 680, 867
+	size: 41, 49
+	orig: 41, 49
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_24
+	rotate: true
+	xy: 568, 698
+	size: 52, 33
+	orig: 52, 33
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_16
+	rotate: false
+	xy: 976, 711
+	size: 46, 79
+	orig: 46, 79
+	offset: 0, 0
+	index: -1
+dashe_rf_cchang_17
+	rotate: false
+	xy: 352, 891
+	size: 59, 25
+	orig: 61, 27
+	offset: 1, 1
+	index: -1
+dashe_rf_atk_bu_e
+	rotate: true
+	xy: 172, 100
+	size: 93, 147
+	orig: 93, 147
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_16
+	rotate: true
+	xy: 520, 614
+	size: 49, 75
+	orig: 49, 75
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_12
+	rotate: false
+	xy: 516, 964
+	size: 52, 54
+	orig: 52, 54
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_8
+	rotate: true
+	xy: 752, 964
+	size: 53, 43
+	orig: 53, 43
+	offset: 0, 0
+	index: -1
+dashe_rf_cchang_10
+	rotate: false
+	xy: 884, 636
+	size: 93, 46
+	orig: 93, 46
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_11
+	rotate: true
+	xy: 114, 661
+	size: 65, 56
+	orig: 65, 56
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_9_1
+	rotate: false
+	xy: 686, 803
+	size: 59, 60
+	orig: 59, 60
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_10_1
+	rotate: false
+	xy: 548, 806
+	size: 54, 60
+	orig: 54, 60
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_BU_1
+	rotate: true
+	xy: 603, 572
+	size: 36, 50
+	orig: 36, 50
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_24
+	rotate: true
+	xy: 822, 759
+	size: 43, 52
+	orig: 43, 52
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_25
+	rotate: false
+	xy: 208, 974
+	size: 43, 48
+	orig: 43, 48
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_22
+	rotate: false
+	xy: 790, 188
+	size: 101, 92
+	orig: 101, 92
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_11
+	rotate: true
+	xy: 237, 766
+	size: 49, 65
+	orig: 49, 65
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_20
+	rotate: true
+	xy: 481, 829
+	size: 28, 62
+	orig: 28, 62
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_19
+	rotate: true
+	xy: 352, 804
+	size: 30, 65
+	orig: 30, 65
+	offset: 0, 0
+	index: -1
+dashe_rf_skill4_6
+	rotate: true
+	xy: 325, 604
+	size: 36, 26
+	orig: 36, 26
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_5_1
+	rotate: true
+	xy: 778, 777
+	size: 25, 43
+	orig: 25, 43
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_14
+	rotate: false
+	xy: 484, 756
+	size: 65, 41
+	orig: 65, 43
+	offset: 0, 2
+	index: -1
+dashe_rf_chuchang_BU_2
+	rotate: false
+	xy: 936, 862
+	size: 37, 47
+	orig: 37, 49
+	offset: 0, 2
+	index: -1
+dashe_rf_cchang_11
+	rotate: false
+	xy: 353, 310
+	size: 97, 66
+	orig: 97, 66
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_10
+	rotate: true
+	xy: 302, 858
+	size: 59, 49
+	orig: 59, 49
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_7
+	rotate: true
+	xy: 235, 863
+	size: 53, 62
+	orig: 53, 62
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_7
+	rotate: true
+	xy: 419, 687
+	size: 49, 65
+	orig: 49, 65
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_14
+	rotate: false
+	xy: 238, 690
+	size: 66, 47
+	orig: 66, 47
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_3
+	rotate: true
+	xy: 352, 493
+	size: 75, 87
+	orig: 75, 87
+	offset: 0, 0
+	index: -1
+dashe_rf_skill4_7
+	rotate: false
+	xy: 974, 902
+	size: 48, 27
+	orig: 48, 27
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_19a
+	rotate: false
+	xy: 172, 225
+	size: 121, 88
+	orig: 121, 88
+	offset: 0, 0
+	index: -1
+dashe_rf_gedang_7
+	rotate: false
+	xy: 885, 560
+	size: 93, 75
+	orig: 93, 75
+	offset: 0, 0
+	index: -1
+dashe_rf_cchang_4
+	rotate: true
+	xy: 654, 325
+	size: 36, 100
+	orig: 36, 100
+	offset: 0, 0
+	index: -1
+dashe_rf_run_bu_d
+	rotate: true
+	xy: 290, 964
+	size: 55, 60
+	orig: 55, 60
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_1a
+	rotate: false
+	xy: 653, 624
+	size: 75, 48
+	orig: 75, 48
+	offset: 0, 0
+	index: -1
+dashe_rf_run_bu_b
+	rotate: false
+	xy: 238, 738
+	size: 66, 27
+	orig: 66, 27
+	offset: 0, 0
+	index: -1
+dashe_rf_gedang_0
+	rotate: true
+	xy: 976, 791
+	size: 39, 46
+	orig: 39, 46
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_bu__13
+	rotate: false
+	xy: 2, 2
+	size: 176, 41
+	orig: 176, 41
+	offset: 0, 0
+	index: -1
+dashe_rf_run_18_1
+	rotate: true
+	xy: 72, 521
+	size: 69, 41
+	orig: 69, 43
+	offset: 0, 2
+	index: -1
+dashe_rf_cchang_9
+	rotate: false
+	xy: 2, 343
+	size: 113, 79
+	orig: 113, 79
+	offset: 0, 0
+	index: -1
+dashe_rf_daodi_4
+	rotate: true
+	xy: 171, 882
+	size: 46, 62
+	orig: 46, 62
+	offset: 0, 0
+	index: -1
+dashe_rf_daodi_6
+	rotate: false
+	xy: 891, 298
+	size: 99, 92
+	orig: 99, 92
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_23_1
+	rotate: true
+	xy: 171, 929
+	size: 44, 61
+	orig: 46, 61
+	offset: 2, 0
+	index: -1
+dashe_rf_daodi_2
+	rotate: false
+	xy: 2, 857
+	size: 65, 59
+	orig: 65, 59
+	offset: 0, 0
+	index: -1
+dashe_rf_daodi_9
+	rotate: true
+	xy: 884, 683
+	size: 68, 91
+	orig: 68, 91
+	offset: 0, 0
+	index: -1
+dashe_rf_daodi_8
+	rotate: false
+	xy: 930, 831
+	size: 43, 30
+	orig: 43, 30
+	offset: 0, 0
+	index: -1
+dashe_rf_daodi_19
+	rotate: false
+	xy: 114, 935
+	size: 54, 28
+	orig: 54, 28
+	offset: 0, 0
+	index: -1
+dashe_rf_daodi_18
+	rotate: true
+	xy: 288, 359
+	size: 71, 64
+	orig: 71, 64
+	offset: 0, 0
+	index: -1
+dashe_rf_daodi_15
+	rotate: false
+	xy: 484, 798
+	size: 63, 30
+	orig: 63, 30
+	offset: 0, 0
+	index: -1
+dashe_rf_daodi_14
+	rotate: false
+	xy: 451, 391
+	size: 70, 45
+	orig: 70, 45
+	offset: 0, 0
+	index: -1
+dashe_rf_daodi_17
+	rotate: true
+	xy: 729, 640
+	size: 71, 60
+	orig: 71, 60
+	offset: 0, 0
+	index: -1
+dashe_rf_daodi_16
+	rotate: false
+	xy: 974, 831
+	size: 48, 36
+	orig: 52, 40
+	offset: 0, 4
+	index: -1
+dashe_rf_daodi_11
+	rotate: false
+	xy: 2, 675
+	size: 68, 45
+	orig: 68, 45
+	offset: 0, 0
+	index: -1
+dashe_rf_daodi_10
+	rotate: false
+	xy: 2, 917
+	size: 62, 39
+	orig: 62, 39
+	offset: 0, 0
+	index: -1
+dashe_rf_daodi_13
+	rotate: false
+	xy: 896, 862
+	size: 39, 51
+	orig: 39, 51
+	offset: 0, 0
+	index: -1
+dashe_rf_daodi_12
+	rotate: true
+	xy: 622, 964
+	size: 54, 36
+	orig: 54, 36
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_16
+	rotate: true
+	xy: 790, 96
+	size: 91, 103
+	orig: 91, 103
+	offset: 0, 0
+	index: -1
+dashe_rf_run_5
+	rotate: true
+	xy: 114, 488
+	size: 60, 57
+	orig: 60, 57
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_34
+	rotate: false
+	xy: 894, 126
+	size: 103, 78
+	orig: 103, 78
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_35
+	rotate: true
+	xy: 932, 914
+	size: 43, 41
+	orig: 43, 41
+	offset: 0, 0
+	index: -1
+dashe_rf_bu_z_shou4
+	rotate: false
+	xy: 991, 341
+	size: 31, 40
+	orig: 31, 40
+	offset: 0, 0
+	index: -1
+dashe_rf_bu_z_shou1
+	rotate: false
+	xy: 594, 867
+	size: 42, 49
+	orig: 42, 49
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_37
+	rotate: false
+	xy: 303, 814
+	size: 48, 43
+	orig: 48, 43
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_30
+	rotate: true
+	xy: 569, 964
+	size: 54, 52
+	orig: 54, 52
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_30
+	rotate: false
+	xy: 263, 522
+	size: 87, 41
+	orig: 87, 41
+	offset: 0, 0
+	index: -1
+dashe_rf_sk1_bu__5
+	rotate: true
+	xy: 603, 688
+	size: 69, 49
+	orig: 69, 49
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_35
+	rotate: false
+	xy: 875, 752
+	size: 40, 49
+	orig: 40, 49
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_38
+	rotate: true
+	xy: 645, 821
+	size: 45, 40
+	orig: 45, 40
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_39
+	rotate: false
+	xy: 974, 930
+	size: 46, 36
+	orig: 46, 36
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_26
+	rotate: false
+	xy: 412, 891
+	size: 55, 25
+	orig: 55, 25
+	offset: 0, 0
+	index: -1
+dashe_rf_xunhuan3_1
+	rotate: true
+	xy: 888, 485
+	size: 74, 97
+	orig: 74, 97
+	offset: 0, 0
+	index: -1
+dashe_rf_xunhuan3_0
+	rotate: true
+	xy: 654, 549
+	size: 74, 94
+	orig: 74, 94
+	offset: 0, 0
+	index: -1
+dashe_rf_xunhuan3_2
+	rotate: true
+	xy: 790, 281
+	size: 74, 100
+	orig: 74, 100
+	offset: 0, 0
+	index: -1
+dashe_rf_xunhuan3_7
+	rotate: true
+	xy: 353, 418
+	size: 74, 96
+	orig: 74, 96
+	offset: 0, 0
+	index: -1
+dashe_rf_xunhuan3_6
+	rotate: true
+	xy: 790, 539
+	size: 74, 94
+	orig: 74, 94
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_23
+	rotate: true
+	xy: 979, 566
+	size: 74, 43
+	orig: 74, 43
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_22
+	rotate: false
+	xy: 722, 864
+	size: 59, 52
+	orig: 59, 52
+	offset: 0, 0
+	index: -1
+dashe_rf_run_1
+	rotate: false
+	xy: 881, 964
+	size: 40, 51
+	orig: 40, 51
+	offset: 0, 0
+	index: -1
+dashe_rf_run_3
+	rotate: true
+	xy: 729, 777
+	size: 25, 48
+	orig: 25, 48
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_26
+	rotate: true
+	xy: 622, 379
+	size: 42, 31
+	orig: 42, 31
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_25
+	rotate: true
+	xy: 479, 964
+	size: 55, 36
+	orig: 55, 36
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_22
+	rotate: true
+	xy: 320, 160
+	size: 42, 32
+	orig: 42, 32
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_23
+	rotate: true
+	xy: 880, 831
+	size: 30, 49
+	orig: 30, 49
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_21
+	rotate: true
+	xy: 812, 917
+	size: 46, 38
+	orig: 46, 38
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_BU_4
+	rotate: false
+	xy: 637, 867
+	size: 42, 49
+	orig: 42, 49
+	offset: 0, 0
+	index: -1
+dashe_rf_bu_z_shou2
+	rotate: false
+	xy: 932, 958
+	size: 41, 42
+	orig: 41, 42
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_29
+	rotate: true
+	xy: 485, 706
+	size: 49, 65
+	orig: 49, 65
+	offset: 0, 0
+	index: -1
+dashe_rf_bu_y_shou1
+	rotate: true
+	xy: 320, 100
+	size: 59, 32
+	orig: 59, 32
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_24
+	rotate: true
+	xy: 401, 964
+	size: 55, 40
+	orig: 55, 40
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_8
+	rotate: false
+	xy: 653, 762
+	size: 25, 54
+	orig: 25, 54
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_21
+	rotate: true
+	xy: 994, 250
+	size: 90, 28
+	orig: 90, 30
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_9
+	rotate: false
+	xy: 756, 252
+	size: 33, 52
+	orig: 33, 52
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_27
+	rotate: true
+	xy: 619, 422
+	size: 40, 34
+	orig: 40, 34
+	offset: 0, 0
+	index: -1
+dashe_rf_run_18
+	rotate: false
+	xy: 2, 521
+	size: 69, 43
+	orig: 69, 43
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_25
+	rotate: false
+	xy: 624, 280
+	size: 29, 55
+	orig: 29, 55
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_22
+	rotate: true
+	xy: 728, 917
+	size: 46, 42
+	orig: 46, 42
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_20
+	rotate: true
+	xy: 596, 917
+	size: 46, 44
+	orig: 46, 44
+	offset: 0, 0
+	index: -1
+dashe_rf_skill4_1
+	rotate: true
+	xy: 171, 663
+	size: 53, 66
+	orig: 53, 66
+	offset: 0, 0
+	index: -1
+dashe_rf_cchang_1
+	rotate: true
+	xy: 756, 192
+	size: 59, 33
+	orig: 59, 33
+	offset: 0, 0
+	index: -1
+dashe_rf_run_13
+	rotate: false
+	xy: 707, 964
+	size: 44, 53
+	orig: 44, 53
+	offset: 0, 0
+	index: -1
+dashe_rf_run_14
+	rotate: false
+	xy: 659, 964
+	size: 47, 53
+	orig: 47, 53
+	offset: 0, 0
+	index: -1
+dashe_rf_run_17
+	rotate: true
+	xy: 114, 791
+	size: 52, 56
+	orig: 52, 56
+	offset: 0, 0
+	index: -1
+
+asset/spine/dasheXISR_role_shizhuang0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dashe_rf_daodi_20
+	rotate: true
+	xy: 949, 598
+	size: 93, 73
+	orig: 93, 73
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_4
+	rotate: false
+	xy: 211, 937
+	size: 49, 84
+	orig: 49, 84
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_3
+	rotate: false
+	xy: 985, 388
+	size: 37, 74
+	orig: 37, 74
+	offset: 0, 0
+	index: -1
+dashe_rf_ski2_bu_7
+	rotate: true
+	xy: 769, 408
+	size: 123, 183
+	orig: 123, 183
+	offset: 0, 0
+	index: -1
+dashe_rf_ski2_bu_5
+	rotate: false
+	xy: 525, 460
+	size: 182, 60
+	orig: 182, 60
+	offset: 0, 0
+	index: -1
+dashe_rf_skill4_0
+	rotate: true
+	xy: 948, 937
+	size: 66, 74
+	orig: 66, 74
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_14
+	rotate: false
+	xy: 555, 733
+	size: 75, 39
+	orig: 75, 39
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_toufa1b
+	rotate: true
+	xy: 282, 406
+	size: 46, 191
+	orig: 46, 191
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_9
+	rotate: false
+	xy: 991, 128
+	size: 31, 64
+	orig: 31, 64
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_8
+	rotate: true
+	xy: 379, 658
+	size: 51, 76
+	orig: 51, 76
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_33
+	rotate: true
+	xy: 282, 453
+	size: 61, 187
+	orig: 63, 187
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_34
+	rotate: true
+	xy: 769, 2
+	size: 191, 221
+	orig: 191, 221
+	offset: 0, 0
+	index: -1
+dashe_rf_sk1_bu__16
+	rotate: true
+	xy: 200, 734
+	size: 72, 49
+	orig: 72, 55
+	offset: 0, 6
+	index: -1
+dashe_rf_shengli_20
+	rotate: true
+	xy: 457, 733
+	size: 39, 97
+	orig: 39, 97
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_32
+	rotate: true
+	xy: 531, 2
+	size: 149, 237
+	orig: 149, 239
+	offset: 0, 2
+	index: -1
+dashe_rf_shengli_33
+	rotate: true
+	xy: 282, 132
+	size: 129, 234
+	orig: 129, 236
+	offset: 0, 2
+	index: -1
+dashe_rf_shengli_34
+	rotate: true
+	xy: 769, 194
+	size: 213, 215
+	orig: 213, 215
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_35
+	rotate: false
+	xy: 2, 230
+	size: 228, 217
+	orig: 228, 217
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_43
+	rotate: false
+	xy: 398, 710
+	size: 58, 62
+	orig: 58, 62
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_17
+	rotate: true
+	xy: 110, 758
+	size: 48, 89
+	orig: 48, 89
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_31
+	rotate: true
+	xy: 769, 724
+	size: 59, 179
+	orig: 61, 179
+	offset: 1, 0
+	index: -1
+dashe_rf_chuchang_15
+	rotate: false
+	xy: 71, 937
+	size: 87, 84
+	orig: 87, 84
+	offset: 0, 0
+	index: -1
+dashe_rf_sk1_bu__3
+	rotate: false
+	xy: 2, 2
+	size: 279, 110
+	orig: 279, 110
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_9
+	rotate: true
+	xy: 148, 807
+	size: 129, 125
+	orig: 129, 125
+	offset: 0, 0
+	index: -1
+dashe_rf_die_bu_a
+	rotate: false
+	xy: 525, 521
+	size: 182, 57
+	orig: 182, 81
+	offset: 0, 0
+	index: -1
+dashe_rf_die_bu_c
+	rotate: true
+	xy: 953, 463
+	size: 134, 69
+	orig: 134, 69
+	offset: 0, 0
+	index: -1
+dashe_rf_die_bu_b
+	rotate: true
+	xy: 457, 594
+	size: 138, 67
+	orig: 138, 67
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_2
+	rotate: true
+	xy: 817, 1007
+	size: 15, 14
+	orig: 15, 14
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_5
+	rotate: true
+	xy: 560, 949
+	size: 62, 70
+	orig: 62, 70
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_6
+	rotate: true
+	xy: 685, 940
+	size: 81, 90
+	orig: 81, 90
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_7
+	rotate: false
+	xy: 523, 807
+	size: 36, 126
+	orig: 36, 126
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_toufa1
+	rotate: true
+	xy: 525, 411
+	size: 48, 192
+	orig: 48, 192
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_20
+	rotate: true
+	xy: 706, 807
+	size: 94, 62
+	orig: 94, 62
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_0
+	rotate: false
+	xy: 953, 408
+	size: 30, 54
+	orig: 30, 54
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_3
+	rotate: true
+	xy: 746, 283
+	size: 14, 20
+	orig: 14, 20
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_6
+	rotate: false
+	xy: 706, 902
+	size: 62, 36
+	orig: 62, 36
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_12
+	rotate: true
+	xy: 985, 256
+	size: 131, 37
+	orig: 131, 37
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_13
+	rotate: false
+	xy: 776, 957
+	size: 171, 49
+	orig: 171, 49
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_10
+	rotate: true
+	xy: 282, 658
+	size: 75, 96
+	orig: 75, 96
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_11
+	rotate: true
+	xy: 2, 448
+	size: 125, 68
+	orig: 125, 68
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_19
+	rotate: false
+	xy: 261, 937
+	size: 45, 84
+	orig: 45, 84
+	offset: 0, 0
+	index: -1
+dashe_rf_sk1_bu__0
+	rotate: true
+	xy: 525, 335
+	size: 75, 192
+	orig: 75, 192
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_bu__1
+	rotate: true
+	xy: 2, 694
+	size: 112, 107
+	orig: 112, 107
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_bu__0
+	rotate: false
+	xy: 490, 773
+	size: 69, 33
+	orig: 69, 33
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_bu__6
+	rotate: false
+	xy: 769, 784
+	size: 178, 45
+	orig: 178, 45
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_bu__4
+	rotate: false
+	xy: 71, 448
+	size: 159, 95
+	orig: 159, 95
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_19
+	rotate: false
+	xy: 949, 777
+	size: 72, 49
+	orig: 72, 49
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_bu__9
+	rotate: false
+	xy: 769, 592
+	size: 179, 131
+	orig: 179, 131
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_18
+	rotate: true
+	xy: 148, 734
+	size: 23, 46
+	orig: 23, 46
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_17
+	rotate: false
+	xy: 481, 363
+	size: 43, 84
+	orig: 43, 84
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_18
+	rotate: false
+	xy: 991, 193
+	size: 31, 62
+	orig: 31, 62
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_16
+	rotate: false
+	xy: 474, 448
+	size: 50, 73
+	orig: 50, 73
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_6
+	rotate: true
+	xy: 948, 1004
+	size: 17, 42
+	orig: 19, 42
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_4
+	rotate: false
+	xy: 746, 298
+	size: 19, 46
+	orig: 19, 46
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_1
+	rotate: false
+	xy: 525, 152
+	size: 220, 182
+	orig: 220, 182
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_bu__17
+	rotate: false
+	xy: 896, 830
+	size: 51, 66
+	orig: 51, 66
+	offset: 0, 0
+	index: -1
+dashe_rf_atk_bu_d
+	rotate: true
+	xy: 769, 830
+	size: 109, 126
+	orig: 109, 142
+	offset: 0, 0
+	index: -1
+dashe_rf_cchang_19
+	rotate: false
+	xy: 769, 532
+	size: 180, 59
+	orig: 180, 59
+	offset: 0, 0
+	index: -1
+dashe_rf_cchang_18
+	rotate: true
+	xy: 708, 495
+	size: 160, 60
+	orig: 162, 60
+	offset: 2, 0
+	index: -1
+dashe_rf_idle_4_1
+	rotate: true
+	xy: 148, 544
+	size: 17, 45
+	orig: 17, 45
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_3_1
+	rotate: false
+	xy: 746, 223
+	size: 22, 59
+	orig: 22, 59
+	offset: 0, 0
+	index: -1
+dashe_rf_run_11
+	rotate: false
+	xy: 194, 544
+	size: 14, 17
+	orig: 14, 17
+	offset: 0, 0
+	index: -1
+dashe_rf_cchang_0
+	rotate: true
+	xy: 560, 773
+	size: 175, 70
+	orig: 175, 70
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_bu__12
+	rotate: true
+	xy: 991, 2
+	size: 125, 31
+	orig: 125, 31
+	offset: 0, 0
+	index: -1
+dashe_rf_cchang_8
+	rotate: false
+	xy: 949, 692
+	size: 72, 84
+	orig: 72, 84
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_bu__15
+	rotate: true
+	xy: 2, 807
+	size: 129, 145
+	orig: 129, 145
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_6_1
+	rotate: true
+	xy: 776, 1007
+	size: 15, 40
+	orig: 15, 40
+	offset: 0, 0
+	index: -1
+dashe_rf_daodi_5
+	rotate: false
+	xy: 324, 872
+	size: 71, 64
+	orig: 71, 64
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_20
+	rotate: false
+	xy: 718, 439
+	size: 50, 55
+	orig: 50, 55
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_22
+	rotate: false
+	xy: 517, 132
+	size: 7, 21
+	orig: 7, 21
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_37
+	rotate: false
+	xy: 110, 694
+	size: 37, 63
+	orig: 37, 63
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_17
+	rotate: true
+	xy: 2, 574
+	size: 119, 68
+	orig: 119, 68
+	offset: 0, 0
+	index: -1
+dashe_rf_atk_3
+	rotate: false
+	xy: 243, 183
+	size: 38, 68
+	orig: 38, 68
+	offset: 0, 0
+	index: -1
+dashe_rf_chuchang_26_1
+	rotate: true
+	xy: 71, 605
+	size: 88, 67
+	orig: 88, 67
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_bu__16
+	rotate: false
+	xy: 274, 830
+	size: 49, 106
+	orig: 49, 106
+	offset: 0, 0
+	index: -1
+dashe_rf_sk1_bu__4
+	rotate: false
+	xy: 2, 113
+	size: 240, 116
+	orig: 240, 116
+	offset: 0, 0
+	index: -1
+dashe_rf_sk1_bu__2
+	rotate: true
+	xy: 282, 2
+	size: 129, 248
+	orig: 129, 248
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_36
+	rotate: true
+	xy: 509, 936
+	size: 43, 50
+	orig: 43, 50
+	offset: 0, 0
+	index: -1
+dashe_rf_run_20
+	rotate: false
+	xy: 469, 522
+	size: 55, 71
+	orig: 55, 71
+	offset: 0, 0
+	index: -1
+dashe_rf_run_21
+	rotate: true
+	xy: 297, 734
+	size: 95, 100
+	orig: 95, 100
+	offset: 0, 0
+	index: -1
+dashe_rf_xunhuan3_3
+	rotate: false
+	xy: 631, 733
+	size: 74, 104
+	orig: 74, 104
+	offset: 0, 0
+	index: -1
+dashe_rf_xunhuan3_5
+	rotate: true
+	xy: 525, 658
+	size: 74, 108
+	orig: 74, 108
+	offset: 0, 0
+	index: -1
+dashe_rf_xunhuan3_4
+	rotate: false
+	xy: 631, 838
+	size: 74, 101
+	orig: 74, 101
+	offset: 0, 0
+	index: -1
+dashe_rf_run_6
+	rotate: true
+	xy: 231, 519
+	size: 43, 50
+	orig: 43, 50
+	offset: 0, 0
+	index: -1
+dashe_rf_run_2
+	rotate: true
+	xy: 509, 980
+	size: 42, 49
+	orig: 42, 49
+	offset: 0, 0
+	index: -1
+dashe_rf_skill_24
+	rotate: true
+	xy: 324, 830
+	size: 41, 72
+	orig: 41, 72
+	offset: 0, 0
+	index: -1
+dashe_rf_shengli_11
+	rotate: false
+	xy: 159, 937
+	size: 51, 84
+	orig: 51, 84
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_23
+	rotate: true
+	xy: 231, 252
+	size: 193, 50
+	orig: 193, 50
+	offset: 0, 0
+	index: -1
+dashe_rf_idle_bu_20
+	rotate: true
+	xy: 948, 827
+	size: 109, 74
+	orig: 109, 74
+	offset: 0, 0
+	index: -1
+dashe_rf_cchang_7
+	rotate: true
+	xy: 631, 940
+	size: 82, 53
+	orig: 82, 53
+	offset: 0, 0
+	index: -1
+dashe_rf_gedang_4
+	rotate: true
+	xy: 231, 446
+	size: 72, 50
+	orig: 72, 50
+	offset: 0, 0
+	index: -1
+dashe_rf_skill2_21
+	rotate: true
+	xy: 896, 897
+	size: 59, 51
+	orig: 59, 51
+	offset: 0, 0
+	index: -1

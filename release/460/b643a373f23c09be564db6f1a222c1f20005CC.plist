@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>guangquan_wujiekpimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,229},{83,83}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{83,83}}</string>
+			<key>sourceSize</key>
+			<string>{83,83}</string>
+		</dict>
+		<key>mask1_wujiekpimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{321,2},{173,225}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{173,225}}</string>
+			<key>sourceSize</key>
+			<string>{173,225}</string>
+		</dict>
+		<key>mask2_wujiekpimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{317,206}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{317,206}}</string>
+			<key>sourceSize</key>
+			<string>{317,206}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>wujiekpimage.png</string>
+		<key>size</key>
+		<string>{512,512}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>wujiekpimage.png</string>
+	</dict>
+</dict>
+</plist>

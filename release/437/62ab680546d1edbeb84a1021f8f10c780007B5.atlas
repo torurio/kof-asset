@@ -1,0 +1,117 @@
+
+asset/spine/jshhdJDCard_role1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/jisi_jidaodashi_tp_7
+	rotate: false
+	xy: 2, 2
+	size: 211, 204
+	orig: 211, 204
+	offset: 0, 0
+	index: -1
+
+asset/spine/jshhdJDCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/jisi_jidaodashi_tp_12
+	rotate: false
+	xy: 579, 173
+	size: 350, 308
+	orig: 350, 308
+	offset: 0, 0
+	index: -1
+role/jisi_jidaodashi_tp_13
+	rotate: false
+	xy: 952, 122
+	size: 51, 227
+	orig: 51, 227
+	offset: 0, 0
+	index: -1
+role/jisi_jidaodashi_tp_10
+	rotate: true
+	xy: 298, 2
+	size: 150, 240
+	orig: 150, 240
+	offset: 0, 0
+	index: -1
+role/jisi_jidaodashi_tp_11
+	rotate: false
+	xy: 952, 2
+	size: 70, 119
+	orig: 70, 119
+	offset: 0, 0
+	index: -1
+role/jisi_jidaodashi_tp_14
+	rotate: false
+	xy: 2, 641
+	size: 545, 357
+	orig: 545, 357
+	offset: 0, 0
+	index: -1
+role/jisi_jidaodashi_tp_8
+	rotate: false
+	xy: 548, 639
+	size: 144, 320
+	orig: 144, 320
+	offset: 0, 0
+	index: -1
+role/jisi_jidaodashi_tp_9
+	rotate: true
+	xy: 298, 173
+	size: 140, 102
+	orig: 140, 102
+	offset: 0, 0
+	index: -1
+role/jisi_jidaodashi_tp_0
+	rotate: false
+	xy: 2, 2
+	size: 295, 638
+	orig: 295, 640
+	offset: 0, 0
+	index: -1
+role/jisi_jidaodashi_tp_1
+	rotate: true
+	xy: 548, 2
+	size: 170, 403
+	orig: 170, 403
+	offset: 0, 0
+	index: -1
+role/jisi_jidaodashi_tp_2
+	rotate: false
+	xy: 298, 350
+	size: 280, 288
+	orig: 280, 288
+	offset: 0, 0
+	index: -1
+role/jisi_jidaodashi_tp_3
+	rotate: true
+	xy: 401, 153
+	size: 107, 108
+	orig: 107, 108
+	offset: 0, 0
+	index: -1
+role/jisi_jidaodashi_tp_4
+	rotate: true
+	xy: 2, 999
+	size: 16, 13
+	orig: 18, 15
+	offset: 1, 1
+	index: -1
+role/jisi_jidaodashi_tp_5
+	rotate: true
+	xy: 693, 482
+	size: 204, 288
+	orig: 206, 290
+	offset: 0, 2
+	index: -1
+role/jisi_jidaodashi_tp_6
+	rotate: true
+	xy: 693, 687
+	size: 216, 228
+	orig: 216, 232
+	offset: 0, 2
+	index: -1

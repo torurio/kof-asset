@@ -1,0 +1,496 @@
+
+asset/spine/sqleXVDY_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_klk_ptbs_baodian2_00032
+	rotate: true
+	xy: 829, 241
+	size: 186, 162
+	orig: 190, 190
+	offset: 4, 28
+	index: -1
+effect/common/New_hongquan__00018
+	rotate: true
+	xy: 829, 428
+	size: 150, 162
+	orig: 172, 174
+	offset: 12, 12
+	index: -1
+
+asset/spine/lkhhdXV_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_dlls_ptbs_baibo_00036
+	rotate: false
+	xy: 780, 999
+	size: 21, 21
+	orig: 21, 21
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect16.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt19
+	rotate: true
+	xy: 147, 437
+	size: 134, 143
+	orig: 134, 143
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt16
+	rotate: false
+	xy: 166, 2
+	size: 162, 140
+	orig: 162, 140
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt17
+	rotate: true
+	xy: 291, 559
+	size: 124, 136
+	orig: 124, 136
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt14
+	rotate: false
+	xy: 384, 381
+	size: 176, 178
+	orig: 176, 178
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_hongquan__00019
+	rotate: false
+	xy: 2, 2
+	size: 306, 306
+	orig: 400, 404
+	offset: 52, 27
+	index: -1
+effect/common/New_dlls_ptbs_baibo_00043
+	rotate: false
+	xy: 358, 308
+	size: 252, 250
+	orig: 252, 250
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt13
+	rotate: false
+	xy: 445, 559
+	size: 168, 177
+	orig: 168, 177
+	offset: 0, 0
+	index: -1
+
+asset/spine/sqleXV_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_klk_ptbs_baodian2_00033
+	rotate: false
+	xy: 354, 171
+	size: 126, 37
+	orig: 126, 37
+	offset: 0, 0
+	index: -1
+effect/common/New_klk_ptbs_baodian2_00024
+	rotate: false
+	xy: 709, 258
+	size: 121, 107
+	orig: 121, 107
+	offset: 0, 0
+	index: -1
+effect/common/New_klk_ptbs_baodian2_00027
+	rotate: false
+	xy: 852, 2
+	size: 126, 70
+	orig: 126, 70
+	offset: 0, 0
+	index: -1
+
+asset/spine/sqleXV_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_hongquan__00017
+	rotate: true
+	xy: 558, 856
+	size: 164, 178
+	orig: 180, 182
+	offset: 7, 3
+	index: -1
+effect/common/New_klk_ptbs_baodian2_00026
+	rotate: false
+	xy: 867, 685
+	size: 154, 65
+	orig: 154, 65
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt18
+	rotate: false
+	xy: 858, 166
+	size: 164, 140
+	orig: 164, 140
+	offset: 0, 0
+	index: -1
+
+asset/spine/bzxem_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_dlls_ptbs_baibo_00048
+	rotate: true
+	xy: 280, 522
+	size: 163, 162
+	orig: 163, 162
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptbs_baibo_00044
+	rotate: false
+	xy: 190, 887
+	size: 134, 135
+	orig: 136, 135
+	offset: 0, 0
+	index: -1
+
+asset/spine/bzqjsxv_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_qjs_liumenbisha_shikuai_00003
+	rotate: false
+	xy: 604, 98
+	size: 297, 95
+	orig: 297, 95
+	offset: 0, 0
+	index: -1
+effect/common/New_qjs_liumenbisha_shikuai_00007
+	rotate: false
+	xy: 604, 2
+	size: 300, 95
+	orig: 300, 95
+	offset: 0, 0
+	index: -1
+effect/common/New_hongquan__00020
+	rotate: false
+	xy: 252, 733
+	size: 128, 128
+	orig: 188, 190
+	offset: 35, 37
+	index: -1
+effect/common/New_qjs_liumenbisha_shikuai_00061
+	rotate: false
+	xy: 2, 2
+	size: 300, 146
+	orig: 300, 146
+	offset: 0, 0
+	index: -1
+effect/common/New_qjs_liumenbisha_shikuai_00057
+	rotate: false
+	xy: 303, 2
+	size: 300, 144
+	orig: 300, 144
+	offset: 0, 0
+	index: -1
+effect/common/New_hongquan__00016
+	rotate: true
+	xy: 837, 364
+	size: 186, 184
+	orig: 188, 190
+	offset: 0, 4
+	index: -1
+effect/common/New_dlls_ptbs_baibo_00040
+	rotate: true
+	xy: 923, 551
+	size: 84, 85
+	orig: 86, 85
+	offset: 1, 0
+	index: -1
+effect/common/New_klk_ptbs_baodian2_00025
+	rotate: true
+	xy: 167, 796
+	size: 160, 84
+	orig: 160, 84
+	offset: 0, 0
+	index: -1
+effect/common/New_klk_ptbs_baodian2_00022
+	rotate: true
+	xy: 583, 605
+	size: 122, 152
+	orig: 122, 152
+	offset: 0, 0
+	index: -1
+
+asset/spine/bzqjsxv_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_qjs_liumenbisha_shikuai_00049
+	rotate: true
+	xy: 365, 2
+	size: 303, 130
+	orig: 303, 130
+	offset: 0, 0
+	index: -1
+effect/common/New_qjs_liumenbisha_shikuai_00045
+	rotate: true
+	xy: 211, 673
+	size: 303, 120
+	orig: 303, 120
+	offset: 0, 0
+	index: -1
+effect/common/New_qjs_liumenbisha_shikuai_00043
+	rotate: true
+	xy: 283, 335
+	size: 303, 119
+	orig: 303, 119
+	offset: 0, 0
+	index: -1
+effect/common/New_qjs_liumenbisha_shikuai_00029
+	rotate: true
+	xy: 924, 445
+	size: 303, 95
+	orig: 303, 95
+	offset: 0, 0
+	index: -1
+effect/common/New_qjs_liumenbisha_shikuai_00021
+	rotate: true
+	xy: 729, 666
+	size: 303, 95
+	orig: 303, 95
+	offset: 0, 0
+	index: -1
+effect/common/New_qjs_liumenbisha_shikuai_00025
+	rotate: true
+	xy: 924, 445
+	size: 303, 95
+	orig: 303, 95
+	offset: 0, 0
+	index: -1
+effect/common/New_qjs_liumenbisha_shikuai_00013
+	rotate: true
+	xy: 537, 666
+	size: 303, 95
+	orig: 303, 95
+	offset: 0, 0
+	index: -1
+effect/common/New_qjs_liumenbisha_shikuai_00011
+	rotate: true
+	xy: 825, 665
+	size: 300, 95
+	orig: 300, 95
+	offset: 0, 0
+	index: -1
+effect/common/New_qjs_liumenbisha_shikuai_00017
+	rotate: true
+	xy: 633, 666
+	size: 303, 95
+	orig: 303, 95
+	offset: 0, 0
+	index: -1
+effect/common/New_qjs_liumenbisha_shikuai_00015
+	rotate: true
+	xy: 516, 332
+	size: 303, 95
+	orig: 303, 95
+	offset: 0, 0
+	index: -1
+effect/common/New_qjs_liumenbisha_shikuai_00053
+	rotate: true
+	xy: 211, 2
+	size: 303, 153
+	orig: 303, 153
+	offset: 0, 0
+	index: -1
+effect/common/New_qjs_liumenbisha_shikuai_00041
+	rotate: true
+	xy: 403, 335
+	size: 303, 112
+	orig: 303, 112
+	offset: 0, 0
+	index: -1
+effect/common/New_qjs_liumenbisha_shikuai_00039
+	rotate: true
+	xy: 332, 666
+	size: 303, 105
+	orig: 303, 105
+	offset: 0, 0
+	index: -1
+effect/common/New_qjs_liumenbisha_shikuai_00037
+	rotate: true
+	xy: 438, 666
+	size: 303, 98
+	orig: 303, 98
+	offset: 0, 0
+	index: -1
+
+asset/spine/bzqjsxv_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_klk_ptbs_baodian2_00031
+	rotate: false
+	xy: 635, 637
+	size: 130, 45
+	orig: 130, 45
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptbs_baibo_00039
+	rotate: true
+	xy: 682, 547
+	size: 73, 74
+	orig: 75, 74
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptbs_baibo_00038
+	rotate: false
+	xy: 966, 682
+	size: 55, 55
+	orig: 55, 55
+	offset: 0, 0
+	index: -1
+effect/common/New_hongquan__00022
+	rotate: false
+	xy: 573, 110
+	size: 94, 94
+	orig: 188, 190
+	offset: 50, 53
+	index: -1
+effect/common/New_klk_ptbs_baodian2_00023
+	rotate: false
+	xy: 711, 205
+	size: 130, 133
+	orig: 132, 133
+	offset: 0, 0
+	index: -1
+effect/common/New_klk_ptbs_baodian2_00029
+	rotate: true
+	xy: 635, 509
+	size: 127, 46
+	orig: 127, 46
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptbs_baibo_00046
+	rotate: true
+	xy: 573, 205
+	size: 138, 137
+	orig: 138, 137
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptbs_baibo_00042
+	rotate: false
+	xy: 573, 2
+	size: 108, 107
+	orig: 108, 107
+	offset: 0, 0
+	index: -1
+effect/common/New_klk_ptbs_baodian2_00030
+	rotate: true
+	xy: 966, 738
+	size: 129, 45
+	orig: 129, 45
+	offset: 0, 0
+	index: -1
+
+asset/spine/bzqjsxv_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_qjs_liumenbisha_shikuai_00065
+	rotate: false
+	xy: 728, 280
+	size: 291, 138
+	orig: 291, 138
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptbs_baibo_00037
+	rotate: true
+	xy: 983, 943
+	size: 37, 39
+	orig: 39, 39
+	offset: 0, 0
+	index: -1
+effect/common/New_qjs_liumenbisha_shikuai_00073
+	rotate: false
+	xy: 368, 80
+	size: 9, 22
+	orig: 9, 24
+	offset: 0, 1
+	index: -1
+effect/common/New_dlls_ptbs_baibo_00041
+	rotate: false
+	xy: 212, 924
+	size: 96, 96
+	orig: 96, 96
+	offset: 0, 0
+	index: -1
+effect/common/New_qjs_liumenbisha_shikuai_00069
+	rotate: true
+	xy: 911, 598
+	size: 85, 46
+	orig: 85, 46
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt15
+	rotate: false
+	xy: 2, 851
+	size: 176, 171
+	orig: 176, 171
+	offset: 0, 0
+	index: -1
+
+asset/spine/sqleXVDY_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_hongquan__00021
+	rotate: false
+	xy: 704, 910
+	size: 102, 104
+	orig: 172, 174
+	offset: 40, 40
+	index: -1
+effect/common/New_klk_ptbs_baodian2_00028
+	rotate: false
+	xy: 740, 2
+	size: 172, 168
+	orig: 190, 190
+	offset: 13, 20
+	index: -1

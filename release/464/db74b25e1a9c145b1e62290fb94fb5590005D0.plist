@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>wy_2_2_2587_znqdriimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{138,292}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{138,292}}</string>
+			<key>sourceSize</key>
+			<string>{138,292}</string>
+		</dict>
+		<key>wy_3_3_66718_znqdriimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{209,2},{13,13}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{13,13}}</string>
+			<key>sourceSize</key>
+			<string>{13,13}</string>
+		</dict>
+		<key>wy_4_4_41535_znqdriimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{142,2},{46,65}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{46,65}}</string>
+			<key>sourceSize</key>
+			<string>{46,65}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>znqdriimage.png</string>
+		<key>size</key>
+		<string>{256,512}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>znqdriimage.png</string>
+	</dict>
+</dict>
+</plist>

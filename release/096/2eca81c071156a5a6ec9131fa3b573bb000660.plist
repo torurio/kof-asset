@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>largepic_10000301.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{504,620}}</string>
+			<key>offset</key>
+			<string>{-23,10}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{161,20},{504,620}}</string>
+			<key>sourceSize</key>
+			<string>{872,640}</string>
+		</dict>
+		<key>longpic_10000301.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,624},{153,278}}</string>
+			<key>offset</key>
+			<string>{-18,4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2,9},{153,278}}</string>
+			<key>sourceSize</key>
+			<string>{193,288}</string>
+		</dict>
+		<key>middlepic_10000301.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,904},{139,71}}</string>
+			<key>offset</key>
+			<string>{-19,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3,0},{139,71}}</string>
+			<key>sourceSize</key>
+			<string>{183,71}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>extension</key>
+		<integer>1</integer>
+		<key>format</key>
+		<integer>2</integer>
+		<key>imageFormat</key>
+		<string>RGBA8888</string>
+		<key>realTextureFileName</key>
+		<string>heros_10000301.png</string>
+		<key>scale</key>
+		<real>1.0</real>
+		<key>size</key>
+		<string>{512,1024}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>heros_10000301.png</string>
+	</dict>
+</dict>
+</plist>

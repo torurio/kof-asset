@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>bronzehero_100034.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{206,270}}</string>
+			<key>offset</key>
+			<string>{-2,-2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5,5},{206,270}}</string>
+			<key>sourceSize</key>
+			<string>{220,276}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>Bronze_t3_20.png</string>
+		<key>size</key>
+		<string>{210,274}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>Bronze_t3_20.png</string>
+	</dict>
+</dict>
+</plist>

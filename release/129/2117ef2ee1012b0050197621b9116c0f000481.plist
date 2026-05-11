@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>kuang_txfdimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{151,142}}</string>
+			<key>offset</key>
+			<string>{-1,1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2,2},{151,142}}</string>
+			<key>sourceSize</key>
+			<string>{157,148}</string>
+		</dict>
+		<key>tx_txfdimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,146},{130,122}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{130,122}}</string>
+			<key>sourceSize</key>
+			<string>{130,122}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>txfdimage.png</string>
+		<key>size</key>
+		<string>{256,512}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>txfdimage.png</string>
+	</dict>
+</dict>
+</plist>

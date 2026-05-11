@@ -1,0 +1,1680 @@
+
+asset/spine/sqleXV_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SQLEXV_g1_yj
+	rotate: false
+	xy: 909, 694
+	size: 51, 34
+	orig: 51, 34
+	offset: 0, 0
+	index: -1
+SQLEXV_h1_wt01
+	rotate: false
+	xy: 192, 797
+	size: 59, 170
+	orig: 59, 170
+	offset: 0, 0
+	index: -1
+SQLEXV_h1_wt03
+	rotate: false
+	xy: 349, 558
+	size: 74, 39
+	orig: 74, 39
+	offset: 0, 0
+	index: -1
+SQLEXV_h1_wt02
+	rotate: false
+	xy: 343, 243
+	size: 65, 137
+	orig: 65, 137
+	offset: 0, 0
+	index: -1
+SQLEXV_c1_zdb
+	rotate: false
+	xy: 858, 2
+	size: 48, 71
+	orig: 48, 71
+	offset: 0, 0
+	index: -1
+SQLEXV_g3_zdt
+	rotate: true
+	xy: 482, 534
+	size: 63, 46
+	orig: 63, 46
+	offset: 0, 0
+	index: -1
+SQLEXV_c1_ys
+	rotate: false
+	xy: 918, 339
+	size: 40, 40
+	orig: 40, 40
+	offset: 0, 0
+	index: -1
+SQLEXV_i5_yxt
+	rotate: true
+	xy: 691, 336
+	size: 66, 51
+	orig: 66, 51
+	offset: 0, 0
+	index: -1
+SQLEXV_f3_ydb
+	rotate: false
+	xy: 747, 2
+	size: 48, 73
+	orig: 48, 73
+	offset: 0, 0
+	index: -1
+SQLEXV_i8_zj
+	rotate: false
+	xy: 531, 693
+	size: 32, 27
+	orig: 32, 27
+	offset: 0, 0
+	index: -1
+SQLEXV_b_ydt
+	rotate: false
+	xy: 594, 101
+	size: 65, 57
+	orig: 65, 57
+	offset: 0, 0
+	index: -1
+SQLEXV_e2_yao
+	rotate: false
+	xy: 820, 719
+	size: 50, 41
+	orig: 50, 41
+	offset: 0, 0
+	index: -1
+SQLEXV_i2_zs
+	rotate: true
+	xy: 606, 693
+	size: 24, 32
+	orig: 24, 32
+	offset: 0, 0
+	index: -1
+SQLEXV_b_yxt
+	rotate: false
+	xy: 801, 464
+	size: 34, 61
+	orig: 34, 61
+	offset: 0, 0
+	index: -1
+SQLEXV_e3_wt02
+	rotate: true
+	xy: 252, 797
+	size: 158, 38
+	orig: 158, 38
+	offset: 0, 0
+	index: -1
+SQLEXV_e3_wt03
+	rotate: true
+	xy: 323, 759
+	size: 37, 56
+	orig: 37, 56
+	offset: 0, 0
+	index: -1
+SQLEXV_e3_wt01
+	rotate: true
+	xy: 125, 799
+	size: 179, 66
+	orig: 179, 66
+	offset: 0, 0
+	index: -1
+SQLEXV_h4_zj
+	rotate: false
+	xy: 537, 501
+	size: 44, 32
+	orig: 44, 32
+	offset: 0, 0
+	index: -1
+SQLEXV_g1_yao
+	rotate: true
+	xy: 836, 378
+	size: 52, 45
+	orig: 52, 45
+	offset: 0, 0
+	index: -1
+SQLEXV_j1_yao
+	rotate: false
+	xy: 744, 662
+	size: 60, 56
+	orig: 60, 56
+	offset: 0, 0
+	index: -1
+SQLEXV_f2_zxb
+	rotate: false
+	xy: 939, 405
+	size: 52, 51
+	orig: 52, 51
+	offset: 0, 0
+	index: -1
+SQLEXV_h5_zdb
+	rotate: false
+	xy: 733, 719
+	size: 43, 65
+	orig: 43, 65
+	offset: 0, 0
+	index: -1
+SQLEXV_e2_xiong
+	rotate: true
+	xy: 480, 404
+	size: 96, 64
+	orig: 96, 64
+	offset: 0, 0
+	index: -1
+SQLEXV_c1_xiong
+	rotate: false
+	xy: 570, 2
+	size: 88, 98
+	orig: 88, 98
+	offset: 0, 0
+	index: -1
+SQLEXV_b_yxb
+	rotate: true
+	xy: 959, 240
+	size: 43, 57
+	orig: 43, 57
+	offset: 0, 0
+	index: -1
+SQLEXV_f2_ydb
+	rotate: false
+	xy: 770, 243
+	size: 51, 73
+	orig: 51, 73
+	offset: 0, 0
+	index: -1
+SQLEXV_h1_zs
+	rotate: true
+	xy: 794, 843
+	size: 38, 40
+	orig: 38, 40
+	offset: 0, 0
+	index: -1
+SQLEXV_i5_tou
+	rotate: false
+	xy: 380, 741
+	size: 63, 55
+	orig: 63, 55
+	offset: 0, 0
+	index: -1
+SQLEXV_h4_zxb
+	rotate: true
+	xy: 771, 532
+	size: 62, 49
+	orig: 62, 49
+	offset: 0, 0
+	index: -1
+SQLEXV_i4_ydb
+	rotate: false
+	xy: 515, 938
+	size: 47, 82
+	orig: 47, 82
+	offset: 0, 0
+	index: -1
+SQLEXV_h5_yao
+	rotate: true
+	xy: 836, 463
+	size: 56, 44
+	orig: 56, 44
+	offset: 0, 0
+	index: -1
+SQLEXV_f2_tou
+	rotate: true
+	xy: 485, 188
+	size: 54, 47
+	orig: 54, 47
+	offset: 0, 0
+	index: -1
+SQLEXV_e3_yao
+	rotate: false
+	xy: 756, 187
+	size: 42, 55
+	orig: 42, 55
+	offset: 0, 0
+	index: -1
+SQLEXV_c1_zs
+	rotate: true
+	xy: 753, 851
+	size: 37, 40
+	orig: 37, 40
+	offset: 0, 0
+	index: -1
+SQLEXV_j17_yj
+	rotate: true
+	xy: 882, 520
+	size: 46, 42
+	orig: 46, 42
+	offset: 0, 0
+	index: -1
+SQLEXV_i3_wt01
+	rotate: true
+	xy: 204, 243
+	size: 160, 138
+	orig: 160, 138
+	offset: 0, 0
+	index: -1
+SQLEXV_h1_tou
+	rotate: true
+	xy: 292, 190
+	size: 52, 71
+	orig: 52, 71
+	offset: 0, 0
+	index: -1
+SQLEXV_e1_ydt
+	rotate: true
+	xy: 621, 534
+	size: 63, 38
+	orig: 63, 38
+	offset: 0, 0
+	index: -1
+SQLEXV_e1_tou
+	rotate: false
+	xy: 716, 597
+	size: 53, 64
+	orig: 53, 64
+	offset: 0, 0
+	index: -1
+SQLEXV_j10_zdb
+	rotate: false
+	xy: 717, 534
+	size: 53, 62
+	orig: 53, 62
+	offset: 0, 0
+	index: -1
+SQLEXV_i8_yj
+	rotate: true
+	xy: 919, 816
+	size: 35, 38
+	orig: 35, 38
+	offset: 0, 0
+	index: -1
+SQLEXV_f3_tou
+	rotate: false
+	xy: 925, 507
+	size: 52, 47
+	orig: 52, 47
+	offset: 0, 0
+	index: -1
+SQLEXV_b_wt03
+	rotate: false
+	xy: 820, 761
+	size: 49, 43
+	orig: 49, 43
+	offset: 0, 0
+	index: -1
+SQLEXV_i4_zj
+	rotate: true
+	xy: 909, 729
+	size: 38, 49
+	orig: 38, 49
+	offset: 0, 0
+	index: -1
+SQLEXV_b_wt02
+	rotate: false
+	xy: 426, 598
+	size: 104, 124
+	orig: 104, 124
+	offset: 0, 0
+	index: -1
+SQLEXV_a2_zs01
+	rotate: true
+	xy: 165, 410
+	size: 23, 31
+	orig: 23, 31
+	offset: 0, 0
+	index: -1
+SQLEXV_a2_zs03
+	rotate: false
+	xy: 186, 784
+	size: 18, 12
+	orig: 18, 12
+	offset: 0, 0
+	index: -1
+SQLEXV_j12_yxt
+	rotate: true
+	xy: 273, 558
+	size: 39, 75
+	orig: 39, 75
+	offset: 0, 0
+	index: -1
+SQLEXV_a2_zs05
+	rotate: false
+	xy: 224, 784
+	size: 18, 12
+	orig: 18, 12
+	offset: 0, 0
+	index: -1
+SQLEXV_e3_yxb
+	rotate: true
+	xy: 799, 187
+	size: 54, 37
+	orig: 54, 37
+	offset: 0, 0
+	index: -1
+SQLEXV_a2_zs06
+	rotate: false
+	xy: 192, 968
+	size: 16, 10
+	orig: 16, 10
+	offset: 0, 0
+	index: -1
+SQLEXV_j4_zxb
+	rotate: true
+	xy: 751, 785
+	size: 65, 42
+	orig: 65, 42
+	offset: 0, 0
+	index: -1
+SQLEXV_f1_zs
+	rotate: true
+	xy: 794, 882
+	size: 34, 38
+	orig: 34, 38
+	offset: 0, 0
+	index: -1
+SQLEXV_a_zj
+	rotate: false
+	xy: 404, 159
+	size: 51, 28
+	orig: 51, 28
+	offset: 0, 0
+	index: -1
+SQLEXV_h5_xiong
+	rotate: false
+	xy: 429, 938
+	size: 85, 82
+	orig: 85, 82
+	offset: 0, 0
+	index: -1
+SQLEXV_i4_zs
+	rotate: false
+	xy: 639, 686
+	size: 43, 32
+	orig: 43, 32
+	offset: 0, 0
+	index: -1
+SQLEXV_j3_yao
+	rotate: false
+	xy: 959, 366
+	size: 56, 38
+	orig: 56, 38
+	offset: 0, 0
+	index: -1
+SQLEXV_c1_wt02
+	rotate: false
+	xy: 353, 598
+	size: 72, 142
+	orig: 72, 142
+	offset: 0, 0
+	index: -1
+SQLEXV_c1_wt03
+	rotate: false
+	xy: 625, 868
+	size: 66, 42
+	orig: 66, 42
+	offset: 0, 0
+	index: -1
+SQLEXV_a_zsz03
+	rotate: true
+	xy: 190, 598
+	size: 12, 18
+	orig: 12, 18
+	offset: 0, 0
+	index: -1
+SQLEXV_c1_wt01
+	rotate: false
+	xy: 176, 612
+	size: 51, 171
+	orig: 51, 171
+	offset: 0, 0
+	index: -1
+SQLEXV_a_zsz05
+	rotate: false
+	xy: 176, 784
+	size: 9, 14
+	orig: 9, 14
+	offset: 0, 0
+	index: -1
+SQLEXV_c2_zxb
+	rotate: false
+	xy: 698, 498
+	size: 52, 35
+	orig: 52, 35
+	offset: 0, 0
+	index: -1
+SQLEXV_c1_wt04
+	rotate: false
+	xy: 591, 911
+	size: 112, 106
+	orig: 112, 106
+	offset: 0, 0
+	index: -1
+SQLEXV_h1_ydb
+	rotate: false
+	xy: 508, 104
+	size: 44, 54
+	orig: 44, 54
+	offset: 0, 0
+	index: -1
+SQLEXV_d_zxt
+	rotate: true
+	xy: 961, 699
+	size: 47, 50
+	orig: 47, 50
+	offset: 0, 0
+	index: -1
+SQLEXV_a2_zs04
+	rotate: false
+	xy: 205, 784
+	size: 18, 12
+	orig: 18, 12
+	offset: 0, 0
+	index: -1
+SQLEXV_j11_wt01
+	rotate: false
+	xy: 2, 800
+	size: 122, 181
+	orig: 122, 181
+	offset: 0, 0
+	index: -1
+SQLEXV_c1_yao
+	rotate: true
+	xy: 872, 74
+	size: 60, 47
+	orig: 60, 47
+	offset: 0, 0
+	index: -1
+SQLEXV_j11_xiong
+	rotate: false
+	xy: 646, 243
+	size: 77, 92
+	orig: 77, 92
+	offset: 0, 0
+	index: -1
+SQLEXV_h1_ydt
+	rotate: false
+	xy: 959, 196
+	size: 57, 43
+	orig: 57, 43
+	offset: 0, 0
+	index: -1
+SQLEXV_d_zxb
+	rotate: false
+	xy: 710, 187
+	size: 45, 55
+	orig: 45, 55
+	offset: 0, 0
+	index: -1
+SQLEXV_d_zj
+	rotate: false
+	xy: 317, 159
+	size: 31, 30
+	orig: 31, 30
+	offset: 0, 0
+	index: -1
+SQLEXV_i8_ydt
+	rotate: false
+	xy: 76, 982
+	size: 66, 40
+	orig: 66, 40
+	offset: 0, 0
+	index: -1
+SQLEXV_a_xiong
+	rotate: false
+	xy: 380, 2
+	size: 95, 103
+	orig: 95, 103
+	offset: 0, 0
+	index: -1
+SQLEXV_j16_yao
+	rotate: false
+	xy: 925, 555
+	size: 52, 47
+	orig: 52, 47
+	offset: 0, 0
+	index: -1
+SQLEXV_g2_zj
+	rotate: true
+	xy: 878, 587
+	size: 48, 46
+	orig: 48, 46
+	offset: 0, 0
+	index: -1
+SQLEXV_i5_yao
+	rotate: false
+	xy: 871, 241
+	size: 46, 51
+	orig: 46, 51
+	offset: 0, 0
+	index: -1
+SQLEXV_j5_yao
+	rotate: false
+	xy: 882, 389
+	size: 56, 41
+	orig: 56, 41
+	offset: 0, 0
+	index: -1
+SQLEXV_g3_zxt
+	rotate: false
+	xy: 538, 721
+	size: 51, 75
+	orig: 51, 75
+	offset: 0, 0
+	index: -1
+SQLEXV_d_zs
+	rotate: true
+	xy: 838, 815
+	size: 34, 41
+	orig: 34, 41
+	offset: 0, 0
+	index: -1
+SQLEXV_e2_yxb
+	rotate: true
+	xy: 751, 478
+	size: 53, 49
+	orig: 53, 49
+	offset: 0, 0
+	index: -1
+SQLEXV_a_ydt01
+	rotate: true
+	xy: 197, 410
+	size: 23, 28
+	orig: 23, 28
+	offset: 0, 0
+	index: -1
+SQLEXV_d_xiong
+	rotate: true
+	xy: 444, 723
+	size: 73, 93
+	orig: 73, 93
+	offset: 0, 0
+	index: -1
+SQLEXV_a_yj
+	rotate: true
+	xy: 349, 159
+	size: 30, 29
+	orig: 30, 29
+	offset: 0, 0
+	index: -1
+SQLEXV_i9_yao
+	rotate: true
+	xy: 959, 93
+	size: 51, 57
+	orig: 51, 57
+	offset: 0, 0
+	index: -1
+SQLEXV_h1_zdb
+	rotate: true
+	xy: 692, 859
+	size: 51, 60
+	orig: 51, 60
+	offset: 0, 0
+	index: -1
+SQLEXV_j13_tx
+	rotate: false
+	xy: 2, 2
+	size: 80, 240
+	orig: 80, 240
+	offset: 0, 0
+	index: -1
+SQLEXV_b_yao
+	rotate: true
+	xy: 778, 402
+	size: 61, 49
+	orig: 61, 49
+	offset: 0, 0
+	index: -1
+SQLEXV_b_yj
+	rotate: true
+	xy: 563, 938
+	size: 52, 27
+	orig: 52, 27
+	offset: 0, 0
+	index: -1
+SQLEXV_j4_wt01
+	rotate: false
+	xy: 83, 2
+	size: 141, 187
+	orig: 141, 187
+	offset: 0, 0
+	index: -1
+SQLEXV_f3_zs
+	rotate: false
+	xy: 226, 404
+	size: 46, 29
+	orig: 50, 29
+	offset: 0, 0
+	index: -1
+SQLEXV_e2_wt01
+	rotate: true
+	xy: 2, 434
+	size: 182, 113
+	orig: 182, 113
+	offset: 0, 0
+	index: -1
+SQLEXV_h5_zs
+	rotate: false
+	xy: 958, 785
+	size: 43, 43
+	orig: 43, 43
+	offset: 0, 0
+	index: -1
+SQLEXV_a_ys
+	rotate: false
+	xy: 563, 991
+	size: 27, 27
+	orig: 27, 27
+	offset: 0, 0
+	index: -1
+SQLEXV_a_yxb
+	rotate: false
+	xy: 960, 2
+	size: 59, 49
+	orig: 59, 49
+	offset: 0, 0
+	index: -1
+SQLEXV_j4_wt04
+	rotate: false
+	xy: 476, 2
+	size: 93, 101
+	orig: 93, 101
+	offset: 0, 0
+	index: -1
+SQLEXV_e3_ys
+	rotate: false
+	xy: 274, 159
+	size: 42, 30
+	orig: 42, 30
+	offset: 0, 0
+	index: -1
+SQLEXV_h1_yxb
+	rotate: false
+	xy: 575, 534
+	size: 45, 63
+	orig: 45, 63
+	offset: 0, 0
+	index: -1
+SQLEXV_f2_wt02
+	rotate: false
+	xy: 190, 434
+	size: 82, 163
+	orig: 82, 163
+	offset: 0, 0
+	index: -1
+SQLEXV_a_ydb
+	rotate: false
+	xy: 529, 534
+	size: 45, 63
+	orig: 45, 63
+	offset: 0, 0
+	index: -1
+SQLEXV_b_zdt
+	rotate: false
+	xy: 820, 595
+	size: 57, 61
+	orig: 57, 61
+	offset: 0, 0
+	index: -1
+SQLEXV_c1_yxb
+	rotate: true
+	xy: 920, 62
+	size: 57, 38
+	orig: 57, 38
+	offset: 0, 0
+	index: -1
+SQLEXV_c1_tou
+	rotate: true
+	xy: 523, 344
+	size: 59, 69
+	orig: 59, 69
+	offset: 0, 0
+	index: -1
+SQLEXV_i3_zs01
+	rotate: true
+	xy: 561, 159
+	size: 28, 33
+	orig: 28, 33
+	offset: 0, 0
+	index: -1
+SQLEXV_b_zdb
+	rotate: true
+	xy: 960, 52
+	size: 40, 59
+	orig: 40, 59
+	offset: 0, 0
+	index: -1
+SQLEXV_a_ydt
+	rotate: false
+	xy: 770, 597
+	size: 49, 64
+	orig: 49, 64
+	offset: 0, 0
+	index: -1
+SQLEXV_d_tou
+	rotate: true
+	xy: 364, 190
+	size: 52, 70
+	orig: 52, 70
+	offset: 0, 0
+	index: -1
+SQLEXV_a_zsz01
+	rotate: false
+	xy: 252, 956
+	size: 23, 21
+	orig: 23, 21
+	offset: 0, 0
+	index: -1
+SQLEXV_a_yxt
+	rotate: false
+	xy: 837, 187
+	size: 44, 53
+	orig: 44, 53
+	offset: 0, 0
+	index: -1
+SQLEXV_j4_xiong
+	rotate: false
+	xy: 481, 243
+	size: 70, 100
+	orig: 70, 100
+	offset: 0, 0
+	index: -1
+SQLEXV_j12_yj
+	rotate: false
+	xy: 645, 159
+	size: 42, 27
+	orig: 42, 27
+	offset: 0, 0
+	index: -1
+SQLEXV_i7_tou
+	rotate: true
+	xy: 959, 316
+	size: 49, 56
+	orig: 49, 56
+	offset: 0, 0
+	index: -1
+SQLEXV_c2_ys
+	rotate: true
+	xy: 552, 911
+	size: 26, 38
+	orig: 26, 38
+	offset: 0, 0
+	index: -1
+SQLEXV_e1_yxt
+	rotate: false
+	xy: 610, 187
+	size: 49, 55
+	orig: 49, 55
+	offset: 0, 0
+	index: -1
+SQLEXV_f3_ys
+	rotate: true
+	xy: 880, 816
+	size: 37, 38
+	orig: 37, 38
+	offset: 0, 0
+	index: -1
+SQLEXV_h1_xiong
+	rotate: true
+	xy: 545, 404
+	size: 95, 89
+	orig: 95, 89
+	offset: 0, 0
+	index: -1
+SQLEXV_b_tou
+	rotate: true
+	xy: 380, 106
+	size: 52, 66
+	orig: 52, 66
+	offset: 0, 0
+	index: -1
+SQLEXV_b_ydb
+	rotate: true
+	xy: 590, 719
+	size: 76, 51
+	orig: 76, 51
+	offset: 0, 0
+	index: -1
+SQLEXV_a_zsz02
+	rotate: false
+	xy: 403, 938
+	size: 15, 16
+	orig: 15, 16
+	offset: 0, 0
+	index: -1
+SQLEXV_b_wt04
+	rotate: true
+	xy: 62, 617
+	size: 181, 113
+	orig: 181, 113
+	offset: 0, 0
+	index: -1
+SQLEXV_b_wt01
+	rotate: true
+	xy: 228, 598
+	size: 160, 124
+	orig: 160, 124
+	offset: 0, 0
+	index: -1
+SQLEXV_e1_yxb
+	rotate: true
+	xy: 857, 682
+	size: 36, 51
+	orig: 36, 51
+	offset: 0, 0
+	index: -1
+SQLEXV_i1_yj
+	rotate: true
+	xy: 225, 159
+	size: 30, 48
+	orig: 30, 48
+	offset: 0, 0
+	index: -1
+SQLEXV_j9_zj
+	rotate: true
+	xy: 595, 159
+	size: 27, 49
+	orig: 27, 49
+	offset: 0, 0
+	index: -1
+SQLEXV_d_zdb
+	rotate: true
+	xy: 435, 188
+	size: 54, 49
+	orig: 54, 49
+	offset: 0, 0
+	index: -1
+SQLEXV_j4_tou
+	rotate: false
+	xy: 660, 534
+	size: 56, 62
+	orig: 56, 62
+	offset: 0, 0
+	index: -1
+SQLEXV_i2_yao
+	rotate: true
+	xy: 871, 293
+	size: 51, 46
+	orig: 51, 46
+	offset: 0, 0
+	index: -1
+SQLEXV_e2_wt02
+	rotate: false
+	xy: 143, 979
+	size: 137, 43
+	orig: 137, 43
+	offset: 0, 0
+	index: -1
+SQLEXV_j8_yao
+	rotate: false
+	xy: 683, 678
+	size: 60, 40
+	orig: 60, 40
+	offset: 0, 0
+	index: -1
+SQLEXV_j1_zxt
+	rotate: false
+	xy: 669, 789
+	size: 44, 69
+	orig: 44, 69
+	offset: 0, 0
+	index: -1
+SQLEXV_b_zxb
+	rotate: false
+	xy: 882, 186
+	size: 35, 52
+	orig: 35, 52
+	offset: 0, 0
+	index: -1
+SQLEXV_a_yao
+	rotate: true
+	xy: 777, 719
+	size: 62, 42
+	orig: 62, 42
+	offset: 0, 0
+	index: -1
+SQLEXV_i3_xiong
+	rotate: true
+	xy: 531, 598
+	size: 94, 79
+	orig: 94, 79
+	offset: 0, 0
+	index: -1
+SQLEXV_h5_ydb
+	rotate: false
+	xy: 918, 243
+	size: 40, 48
+	orig: 40, 48
+	offset: 0, 0
+	index: -1
+SQLEXV_j20_zdb
+	rotate: false
+	xy: 660, 99
+	size: 68, 59
+	orig: 68, 59
+	offset: 0, 0
+	index: -1
+SQLEXV_a_wt02
+	rotate: false
+	xy: 165, 243
+	size: 38, 166
+	orig: 38, 166
+	offset: 0, 0
+	index: -1
+SQLEXV_a_wt03
+	rotate: false
+	xy: 2, 982
+	size: 73, 40
+	orig: 73, 40
+	offset: 0, 0
+	index: -1
+SQLEXV_a_tou
+	rotate: false
+	xy: 281, 956
+	size: 52, 66
+	orig: 52, 66
+	offset: 0, 0
+	index: -1
+SQLEXV_b_zxt
+	rotate: false
+	xy: 859, 147
+	size: 58, 38
+	orig: 58, 38
+	offset: 0, 0
+	index: -1
+SQLEXV_h3_zs
+	rotate: false
+	xy: 343, 381
+	size: 29, 22
+	orig: 29, 22
+	offset: 0, 0
+	index: -1
+SQLEXV_a_wt04
+	rotate: false
+	xy: 511, 797
+	size: 113, 113
+	orig: 113, 113
+	offset: 0, 0
+	index: -1
+SQLEXV_g2_zxt
+	rotate: true
+	xy: 424, 534
+	size: 63, 57
+	orig: 63, 57
+	offset: 0, 0
+	index: -1
+SQLEXV_a_zdb
+	rotate: false
+	xy: 572, 188
+	size: 37, 54
+	orig: 37, 54
+	offset: 0, 0
+	index: -1
+SQLEXV_i2_yj
+	rotate: true
+	xy: 815, 147
+	size: 39, 43
+	orig: 39, 43
+	offset: 0, 0
+	index: -1
+SQLEXV_j6_zs
+	rotate: false
+	xy: 878, 636
+	size: 45, 45
+	orig: 45, 45
+	offset: 0, 0
+	index: -1
+SQLEXV_i3_ydb
+	rotate: true
+	xy: 660, 187
+	size: 55, 49
+	orig: 55, 49
+	offset: 0, 0
+	index: -1
+SQLEXV_a_zdt
+	rotate: true
+	xy: 638, 498
+	size: 35, 59
+	orig: 35, 59
+	offset: 0, 0
+	index: -1
+SQLEXV_e1_zdb
+	rotate: true
+	xy: 728, 403
+	size: 74, 49
+	orig: 74, 49
+	offset: 0, 0
+	index: -1
+SQLEXV_e3_xiong
+	rotate: true
+	xy: 409, 243
+	size: 101, 71
+	orig: 101, 71
+	offset: 0, 0
+	index: -1
+SQLEXV_j1_zj
+	rotate: false
+	xy: 794, 805
+	size: 43, 37
+	orig: 43, 37
+	offset: 0, 0
+	index: -1
+SQLEXV_j11_zdb
+	rotate: false
+	xy: 243, 759
+	size: 79, 37
+	orig: 79, 37
+	offset: 0, 0
+	index: -1
+SQLEXV_j11_zs
+	rotate: false
+	xy: 564, 693
+	size: 41, 25
+	orig: 41, 25
+	offset: 0, 0
+	index: -1
+SQLEXV_e1_yj
+	rotate: true
+	xy: 985, 457
+	size: 50, 37
+	orig: 50, 37
+	offset: 0, 0
+	index: -1
+SQLEXV_a_wt01
+	rotate: false
+	xy: 2, 617
+	size: 59, 182
+	orig: 59, 182
+	offset: 0, 0
+	index: -1
+SQLEXV_e2_zj
+	rotate: false
+	xy: 582, 500
+	size: 55, 33
+	orig: 55, 33
+	offset: 0, 0
+	index: -1
+SQLEXV_e3_tou
+	rotate: true
+	xy: 805, 662
+	size: 56, 51
+	orig: 56, 51
+	offset: 0, 0
+	index: -1
+SQLEXV_j6_yao
+	rotate: false
+	xy: 918, 292
+	size: 40, 46
+	orig: 40, 46
+	offset: 0, 0
+	index: -1
+SQLEXV_h2_zs
+	rotate: true
+	xy: 526, 159
+	size: 28, 34
+	orig: 28, 34
+	offset: 0, 0
+	index: -1
+SQLEXV_g2_zdt
+	rotate: false
+	xy: 796, 2
+	size: 61, 72
+	orig: 61, 72
+	offset: 0, 0
+	index: -1
+SQLEXV_j9_zxt
+	rotate: true
+	xy: 828, 431
+	size: 31, 56
+	orig: 31, 56
+	offset: 0, 0
+	index: -1
+SQLEXV_g1_zj
+	rotate: false
+	xy: 918, 193
+	size: 40, 49
+	orig: 40, 49
+	offset: 0, 0
+	index: -1
+SQLEXV_i5_yj
+	rotate: false
+	xy: 491, 159
+	size: 34, 28
+	orig: 34, 28
+	offset: 0, 0
+	index: -1
+SQLEXV_e2_tou
+	rotate: false
+	xy: 959, 145
+	size: 57, 50
+	orig: 57, 50
+	offset: 0, 0
+	index: -1
+SQLEXV_i4_yao
+	rotate: true
+	xy: 978, 603
+	size: 51, 43
+	orig: 51, 43
+	offset: 0, 0
+	index: -1
+SQLEXV_j20_ys
+	rotate: false
+	xy: 835, 850
+	size: 38, 34
+	orig: 38, 34
+	offset: 0, 0
+	index: -1
+SQLEXV_c2_wt03
+	rotate: false
+	xy: 593, 338
+	size: 49, 65
+	orig: 49, 65
+	offset: 0, 0
+	index: -1
+SQLEXV_i7_yao
+	rotate: true
+	xy: 470, 345
+	size: 58, 52
+	orig: 58, 52
+	offset: 0, 0
+	index: -1
+SQLEXV_h5_wt01
+	rotate: false
+	xy: 273, 404
+	size: 84, 153
+	orig: 84, 153
+	offset: 0, 0
+	index: -1
+SQLEXV_h5_wt03
+	rotate: true
+	xy: 881, 463
+	size: 56, 43
+	orig: 56, 43
+	offset: 0, 0
+	index: -1
+SQLEXV_h5_wt02
+	rotate: false
+	xy: 319, 2
+	size: 60, 156
+	orig: 60, 156
+	offset: 0, 0
+	index: -1
+SQLEXV_h1_yxt
+	rotate: false
+	xy: 533, 188
+	size: 38, 54
+	orig: 38, 54
+	offset: 0, 0
+	index: -1
+SQLEXV_i3_tou
+	rotate: false
+	xy: 815, 75
+	size: 56, 71
+	orig: 56, 71
+	offset: 0, 0
+	index: -1
+SQLEXV_a_zxt
+	rotate: true
+	xy: 480, 501
+	size: 32, 56
+	orig: 32, 56
+	offset: 0, 0
+	index: -1
+SQLEXV_h3_yj
+	rotate: true
+	xy: 871, 719
+	size: 49, 37
+	orig: 49, 37
+	offset: 0, 0
+	index: -1
+SQLEXV_c2_zdb
+	rotate: true
+	xy: 642, 719
+	size: 69, 46
+	orig: 69, 46
+	offset: 0, 0
+	index: -1
+SQLEXV_a_zsz04
+	rotate: true
+	xy: 209, 968
+	size: 9, 16
+	orig: 9, 16
+	offset: 0, 0
+	index: -1
+SQLEXV_f2_wt01
+	rotate: false
+	xy: 116, 434
+	size: 73, 177
+	orig: 73, 177
+	offset: 0, 0
+	index: -1
+SQLEXV_j13_yao
+	rotate: true
+	xy: 932, 457
+	size: 49, 52
+	orig: 49, 52
+	offset: 0, 0
+	index: -1
+SQLEXV_c2_wt01
+	rotate: true
+	xy: 83, 190
+	size: 52, 133
+	orig: 52, 133
+	offset: 0, 0
+	index: -1
+SQLEXV_i8_yxt
+	rotate: true
+	xy: 689, 719
+	size: 68, 43
+	orig: 68, 43
+	offset: 0, 0
+	index: -1
+SQLEXV_c2_wt04
+	rotate: true
+	xy: 358, 404
+	size: 129, 121
+	orig: 129, 121
+	offset: 0, 0
+	index: -1
+SQLEXV_a_zs
+	rotate: true
+	xy: 379, 159
+	size: 30, 24
+	orig: 30, 24
+	offset: 0, 0
+	index: -1
+SQLEXV_h1_zj
+	rotate: false
+	xy: 456, 159
+	size: 34, 28
+	orig: 34, 28
+	offset: 0, 0
+	index: -1
+SQLEXV_i3_wt04
+	rotate: false
+	xy: 643, 598
+	size: 72, 79
+	orig: 72, 79
+	offset: 0, 0
+	index: -1
+SQLEXV_e2_ydb
+	rotate: false
+	xy: 643, 338
+	size: 47, 65
+	orig: 47, 65
+	offset: 0, 0
+	index: -1
+SQLEXV_j15_yao
+	rotate: true
+	xy: 553, 104
+	size: 54, 40
+	orig: 54, 40
+	offset: 0, 0
+	index: -1
+SQLEXV_j13_yxt
+	rotate: true
+	xy: 217, 190
+	size: 52, 74
+	orig: 52, 74
+	offset: 0, 0
+	index: -1
+SQLEXV_c1_ydb
+	rotate: false
+	xy: 743, 335
+	size: 49, 66
+	orig: 49, 66
+	offset: 0, 0
+	index: -1
+SQLEXV_a_zxb
+	rotate: false
+	xy: 909, 768
+	size: 48, 47
+	orig: 48, 47
+	offset: 0, 0
+	index: -1
+SQLEXV_c2_wt02
+	rotate: true
+	xy: 403, 797
+	size: 140, 107
+	orig: 140, 107
+	offset: 0, 0
+	index: -1
+SQLEXV_e1_zs
+	rotate: false
+	xy: 885, 431
+	size: 46, 31
+	orig: 46, 31
+	offset: 0, 0
+	index: -1
+SQLEXV_j2_yao
+	rotate: false
+	xy: 925, 603
+	size: 52, 38
+	orig: 52, 38
+	offset: 0, 0
+	index: -1
+SQLEXV_j20_zj
+	rotate: false
+	xy: 688, 159
+	size: 38, 27
+	orig: 38, 27
+	offset: 0, 0
+	index: -1
+SQLEXV_f1_ys
+	rotate: true
+	xy: 882, 345
+	size: 43, 35
+	orig: 43, 35
+	offset: 0, 0
+	index: -1
+SQLEXV_j20_ydb
+	rotate: false
+	xy: 334, 955
+	size: 54, 67
+	orig: 54, 67
+	offset: 0, 0
+	index: -1
+SQLEXV_g1_zxt
+	rotate: true
+	xy: 978, 550
+	size: 52, 43
+	orig: 52, 43
+	offset: 0, 0
+	index: -1
+SQLEXV_f2_yao
+	rotate: true
+	xy: 918, 135
+	size: 57, 40
+	orig: 57, 40
+	offset: 0, 0
+	index: -1
+SQLEXV_c2_zs
+	rotate: false
+	xy: 511, 911
+	size: 40, 26
+	orig: 40, 26
+	offset: 0, 0
+	index: -1
+SQLEXV_d_zdt
+	rotate: false
+	xy: 821, 526
+	size: 60, 60
+	orig: 60, 60
+	offset: 0, 0
+	index: -1
+SQLEXV_b_xiong
+	rotate: true
+	xy: 659, 2
+	size: 96, 87
+	orig: 96, 87
+	offset: 0, 0
+	index: -1
+SQLEXV_i6_yj
+	rotate: false
+	xy: 959, 747
+	size: 49, 37
+	orig: 49, 37
+	offset: 0, 0
+	index: -1
+SQLEXV_f2_xiong
+	rotate: true
+	xy: 729, 99
+	size: 87, 85
+	orig: 87, 85
+	offset: 0, 0
+	index: -1
+SQLEXV_a2_zs02
+	rotate: false
+	xy: 353, 741
+	size: 19, 17
+	orig: 19, 17
+	offset: 0, 0
+	index: -1
+SQLEXV_c2_yao
+	rotate: false
+	xy: 447, 106
+	size: 60, 52
+	orig: 60, 52
+	offset: 0, 0
+	index: -1
+SQLEXV_g2_tou
+	rotate: false
+	xy: 907, 2
+	size: 52, 59
+	orig: 52, 59
+	offset: 0, 0
+	index: -1
+SQLEXV_i5_ydt
+	rotate: false
+	xy: 978, 508
+	size: 44, 41
+	orig: 44, 41
+	offset: 0, 0
+	index: -1
+SQLEXV_e1_ydb
+	rotate: false
+	xy: 793, 317
+	size: 57, 60
+	orig: 57, 60
+	offset: 0, 0
+	index: -1
+SQLEXV_f1_zdb
+	rotate: true
+	xy: 625, 796
+	size: 71, 43
+	orig: 71, 43
+	offset: 0, 0
+	index: -1
+SQLEXV_i8_wt01
+	rotate: false
+	xy: 2, 243
+	size: 162, 190
+	orig: 162, 190
+	offset: 0, 0
+	index: -1
+SQLEXV_j12_yao
+	rotate: false
+	xy: 822, 242
+	size: 48, 60
+	orig: 48, 60
+	offset: 0, 0
+	index: -1
+SQLEXV_j14_yao
+	rotate: true
+	xy: 409, 345
+	size: 58, 60
+	orig: 58, 62
+	offset: 0, 2
+	index: -1
+SQLEXV_i8_zxt
+	rotate: true
+	xy: 959, 284
+	size: 31, 57
+	orig: 31, 57
+	offset: 0, 0
+	index: -1
+SQLEXV_c2_xiong
+	rotate: true
+	xy: 635, 404
+	size: 93, 92
+	orig: 93, 92
+	offset: 0, 0
+	index: -1
+SQLEXV_j13_yj
+	rotate: false
+	xy: 976, 655
+	size: 45, 43
+	orig: 45, 43
+	offset: 0, 0
+	index: -1
+SQLEXV_f2_yj
+	rotate: false
+	xy: 870, 769
+	size: 38, 45
+	orig: 38, 45
+	offset: 0, 0
+	index: -1
+SQLEXV_h3_sb
+	rotate: true
+	xy: 225, 2
+	size: 156, 93
+	orig: 156, 93
+	offset: 0, 0
+	index: -1
+SQLEXV_d_wt05
+	rotate: false
+	xy: 724, 243
+	size: 45, 91
+	orig: 45, 91
+	offset: 0, 0
+	index: -1
+SQLEXV_d_wt04
+	rotate: true
+	xy: 552, 243
+	size: 94, 93
+	orig: 94, 93
+	offset: 0, 0
+	index: -1
+SQLEXV_h1_yao
+	rotate: true
+	xy: 714, 788
+	size: 66, 36
+	orig: 66, 36
+	offset: 0, 0
+	index: -1
+SQLEXV_d_wt01
+	rotate: false
+	xy: 611, 598
+	size: 31, 87
+	orig: 31, 87
+	offset: 0, 0
+	index: -1
+SQLEXV_d_wt03
+	rotate: true
+	xy: 389, 955
+	size: 67, 39
+	orig: 67, 39
+	offset: 0, 0
+	index: -1
+SQLEXV_d_wt02
+	rotate: false
+	xy: 291, 797
+	size: 111, 157
+	orig: 111, 157
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_paobu_yan2
+	rotate: false
+	xy: 978, 232
+	size: 43, 51
+	orig: 43, 51
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan3
+	rotate: false
+	xy: 978, 284
+	size: 43, 51
+	orig: 43, 51
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_diying_dy
+	rotate: false
+	xy: 656, 2
+	size: 305, 97
+	orig: 305, 97
+	offset: 0, 0
+	index: -1
+global/ty_dun5
+	rotate: true
+	xy: 237, 961
+	size: 61, 107
+	orig: 61, 107
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_dun1
+	rotate: true
+	xy: 2, 511
+	size: 226, 225
+	orig: 226, 225
+	offset: 0, 0
+	index: -1
+global/ty_dun4
+	rotate: true
+	xy: 169, 271
+	size: 223, 187
+	orig: 223, 187
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_paobu_yan0
+	rotate: false
+	xy: 532, 583
+	size: 49, 50
+	orig: 49, 50
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan1
+	rotate: false
+	xy: 345, 619
+	size: 49, 49
+	orig: 49, 49
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan4
+	rotate: false
+	xy: 532, 531
+	size: 49, 51
+	orig: 49, 51
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_dun2
+	rotate: false
+	xy: 866, 2
+	size: 149, 129
+	orig: 149, 129
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_dun3
+	rotate: true
+	xy: 172, 647
+	size: 203, 185
+	orig: 203, 185
+	offset: 0, 0
+	index: -1

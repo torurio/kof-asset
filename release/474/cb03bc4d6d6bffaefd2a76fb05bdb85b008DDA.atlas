@@ -1,0 +1,1869 @@
+
+asset/spine/sqleXVDY_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_hongquan__00018
+	rotate: true
+	xy: 829, 428
+	size: 150, 162
+	orig: 172, 174
+	offset: 12, 12
+	index: -1
+effect/common/New_klk_ptbs_shenhoubaibo_00027
+	rotate: true
+	xy: 968, 938
+	size: 80, 49
+	orig: 82, 49
+	offset: 0, 0
+	index: -1
+effect/common/New_klk_ptbs_shenhoubaibo_00029
+	rotate: false
+	xy: 829, 793
+	size: 106, 62
+	orig: 106, 62
+	offset: 0, 0
+	index: -1
+
+asset/spine/jshhdXVJD_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_hhdds_putongbisha1_bz_00010
+	rotate: false
+	xy: 464, 2
+	size: 223, 178
+	orig: 223, 178
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha2_bd_00019
+	rotate: true
+	xy: 2, 169
+	size: 165, 225
+	orig: 165, 225
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00136
+	rotate: false
+	xy: 440, 679
+	size: 209, 110
+	orig: 209, 110
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00134
+	rotate: false
+	xy: 688, 2
+	size: 220, 115
+	orig: 220, 115
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00132
+	rotate: true
+	xy: 909, 2
+	size: 214, 113
+	orig: 214, 113
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00138
+	rotate: false
+	xy: 440, 565
+	size: 211, 113
+	orig: 211, 113
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha2_bd_00024
+	rotate: false
+	xy: 865, 611
+	size: 157, 189
+	orig: 157, 189
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha2_bd_00020
+	rotate: true
+	xy: 235, 726
+	size: 174, 203
+	orig: 174, 203
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00018
+	rotate: false
+	xy: 881, 410
+	size: 141, 200
+	orig: 255, 230
+	offset: 40, 20
+	index: -1
+effect/common/New_hhdds_putonggongji_bd_00014
+	rotate: true
+	xy: 148, 729
+	size: 70, 86
+	orig: 70, 86
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_cr_00015
+	rotate: false
+	xy: 650, 685
+	size: 70, 84
+	orig: 70, 84
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00019
+	rotate: false
+	xy: 721, 821
+	size: 143, 133
+	orig: 143, 133
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00026
+	rotate: true
+	xy: 2, 533
+	size: 195, 214
+	orig: 255, 230
+	offset: 17, 6
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00024
+	rotate: true
+	xy: 228, 171
+	size: 187, 222
+	orig: 255, 230
+	offset: 20, 8
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00022
+	rotate: true
+	xy: 440, 389
+	size: 175, 212
+	orig: 255, 230
+	offset: 24, 13
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00020
+	rotate: true
+	xy: 235, 572
+	size: 153, 204
+	orig: 255, 230
+	offset: 36, 18
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00028
+	rotate: true
+	xy: 451, 181
+	size: 207, 216
+	orig: 255, 230
+	offset: 13, 6
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00030
+	rotate: false
+	xy: 224, 359
+	size: 215, 212
+	orig: 255, 230
+	offset: 10, 3
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00032
+	rotate: false
+	xy: 688, 118
+	size: 219, 216
+	orig: 255, 230
+	offset: 10, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00034
+	rotate: false
+	xy: 234, 2
+	size: 229, 168
+	orig: 255, 230
+	offset: 5, 33
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00036
+	rotate: false
+	xy: 2, 2
+	size: 231, 166
+	orig: 255, 230
+	offset: 6, 31
+	index: -1
+effect/common/New_hhdds_putongbisha3_db_00027
+	rotate: false
+	xy: 721, 955
+	size: 85, 67
+	orig: 85, 67
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00115
+	rotate: false
+	xy: 807, 960
+	size: 89, 62
+	orig: 89, 62
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00021
+	rotate: false
+	xy: 721, 685
+	size: 143, 135
+	orig: 143, 135
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00054
+	rotate: false
+	xy: 653, 534
+	size: 211, 150
+	orig: 255, 230
+	offset: 13, 38
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00178
+	rotate: true
+	xy: 897, 960
+	size: 61, 94
+	orig: 61, 94
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha1_bz_00003
+	rotate: true
+	xy: 196, 901
+	size: 121, 78
+	orig: 121, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha1_bz_00007
+	rotate: true
+	xy: 2, 801
+	size: 209, 193
+	orig: 209, 193
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha1_bz_00005
+	rotate: true
+	xy: 668, 335
+	size: 198, 212
+	orig: 198, 212
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha1_bz_00004
+	rotate: false
+	xy: 275, 901
+	size: 139, 120
+	orig: 139, 120
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha1_bz_00008
+	rotate: false
+	xy: 2, 335
+	size: 221, 197
+	orig: 221, 197
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_bd_00009
+	rotate: true
+	xy: 439, 790
+	size: 110, 67
+	orig: 110, 67
+	offset: 0, 0
+	index: -1
+
+asset/spine/jshhdXVJD_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_hhdds_liumenbisha_bo_00156
+	rotate: false
+	xy: 715, 285
+	size: 174, 79
+	orig: 174, 79
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00120
+	rotate: false
+	xy: 540, 2
+	size: 178, 93
+	orig: 178, 93
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_bd_00017
+	rotate: false
+	xy: 709, 365
+	size: 166, 100
+	orig: 166, 100
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_bd_00011
+	rotate: false
+	xy: 518, 392
+	size: 165, 149
+	orig: 165, 149
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha2_bd_00031
+	rotate: false
+	xy: 361, 2
+	size: 178, 94
+	orig: 178, 94
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putonggongji_bd_00009
+	rotate: true
+	xy: 704, 632
+	size: 89, 87
+	orig: 89, 87
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha2_bd_00028
+	rotate: false
+	xy: 2, 307
+	size: 171, 94
+	orig: 171, 94
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha2_bd_00029
+	rotate: false
+	xy: 182, 122
+	size: 176, 94
+	orig: 176, 94
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha2_bd_00026
+	rotate: false
+	xy: 169, 415
+	size: 166, 101
+	orig: 166, 101
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha2_bd_00025
+	rotate: false
+	xy: 2, 402
+	size: 166, 146
+	orig: 166, 146
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00154
+	rotate: false
+	xy: 2, 231
+	size: 172, 75
+	orig: 172, 77
+	offset: 0, 1
+	index: -1
+effect/common/New_hhdds_putongbisha3_jbd_00027
+	rotate: false
+	xy: 2, 549
+	size: 151, 83
+	orig: 151, 83
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_jbd_00025
+	rotate: true
+	xy: 559, 750
+	size: 146, 80
+	orig: 146, 80
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_jbd_00021
+	rotate: false
+	xy: 888, 897
+	size: 127, 125
+	orig: 127, 125
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_dg_00006
+	rotate: false
+	xy: 2, 902
+	size: 148, 119
+	orig: 148, 119
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_dg_00007
+	rotate: false
+	xy: 151, 902
+	size: 137, 119
+	orig: 137, 119
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_dg_00005
+	rotate: false
+	xy: 2, 633
+	size: 150, 118
+	orig: 150, 118
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00014
+	rotate: true
+	xy: 182, 2
+	size: 119, 178
+	orig: 255, 230
+	offset: 48, 29
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00051
+	rotate: false
+	xy: 898, 2
+	size: 124, 139
+	orig: 126, 139
+	offset: 1, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00158
+	rotate: false
+	xy: 359, 199
+	size: 175, 94
+	orig: 175, 94
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putonggongji_bd_00012
+	rotate: true
+	xy: 792, 556
+	size: 91, 83
+	orig: 91, 83
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putonggongji_bd_00013
+	rotate: false
+	xy: 392, 665
+	size: 99, 84
+	orig: 99, 84
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putonggongji_bd_00011
+	rotate: true
+	xy: 153, 668
+	size: 83, 81
+	orig: 83, 81
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_cr_00014
+	rotate: false
+	xy: 235, 668
+	size: 61, 81
+	orig: 61, 81
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00071
+	rotate: false
+	xy: 621, 897
+	size: 133, 125
+	orig: 133, 125
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_db_00025
+	rotate: false
+	xy: 928, 764
+	size: 94, 78
+	orig: 110, 78
+	offset: 16, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_db_00026
+	rotate: true
+	xy: 322, 665
+	size: 86, 69
+	orig: 86, 69
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00025
+	rotate: false
+	xy: 785, 764
+	size: 142, 132
+	orig: 144, 132
+	offset: 1, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00118
+	rotate: false
+	xy: 684, 466
+	size: 150, 89
+	orig: 150, 89
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_bd_00015
+	rotate: false
+	xy: 177, 217
+	size: 172, 98
+	orig: 172, 98
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_dg_00009
+	rotate: true
+	xy: 289, 901
+	size: 118, 115
+	orig: 118, 115
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00035
+	rotate: false
+	xy: 876, 572
+	size: 146, 133
+	orig: 146, 133
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00037
+	rotate: true
+	xy: 211, 752
+	size: 148, 132
+	orig: 148, 134
+	offset: 0, 1
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00069
+	rotate: false
+	xy: 755, 897
+	size: 132, 125
+	orig: 132, 125
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00039
+	rotate: true
+	xy: 2, 752
+	size: 149, 134
+	orig: 149, 134
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00162
+	rotate: false
+	xy: 535, 293
+	size: 173, 98
+	orig: 173, 98
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00164
+	rotate: false
+	xy: 718, 185
+	size: 177, 99
+	orig: 177, 99
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00166
+	rotate: false
+	xy: 361, 97
+	size: 176, 101
+	orig: 176, 101
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_bd_00021
+	rotate: false
+	xy: 538, 198
+	size: 176, 94
+	orig: 176, 94
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00041
+	rotate: true
+	xy: 344, 752
+	size: 146, 133
+	orig: 146, 135
+	offset: 0, 1
+	index: -1
+effect/common/New_hhdds_putongbisha3_db_00008
+	rotate: true
+	xy: 405, 899
+	size: 116, 80
+	orig: 116, 80
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00047
+	rotate: false
+	xy: 897, 142
+	size: 125, 137
+	orig: 129, 137
+	offset: 4, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00049
+	rotate: false
+	xy: 896, 280
+	size: 126, 138
+	orig: 126, 138
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_db_00005
+	rotate: true
+	xy: 627, 648
+	size: 101, 76
+	orig: 101, 76
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00170
+	rotate: false
+	xy: 492, 648
+	size: 134, 101
+	orig: 134, 101
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00031
+	rotate: false
+	xy: 640, 764
+	size: 144, 132
+	orig: 144, 132
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_db_00012
+	rotate: true
+	xy: 792, 648
+	size: 115, 82
+	orig: 115, 82
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00055
+	rotate: true
+	xy: 486, 897
+	size: 125, 134
+	orig: 127, 138
+	offset: 2, 1
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00060
+	rotate: false
+	xy: 2, 2
+	size: 179, 140
+	orig: 255, 230
+	offset: 37, 45
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00148
+	rotate: false
+	xy: 2, 143
+	size: 174, 87
+	orig: 174, 87
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baoqixuli_00019
+	rotate: true
+	xy: 172, 841
+	size: 181, 162
+	orig: 181, 162
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangsebo_00035
+	rotate: true
+	xy: 2, 841
+	size: 181, 169
+	orig: 181, 169
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect10.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baoqixuli_00011
+	rotate: true
+	xy: 795, 314
+	size: 253, 227
+	orig: 253, 227
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baoqixuli_00017
+	rotate: false
+	xy: 370, 839
+	size: 210, 182
+	orig: 210, 182
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baoqixuli_00009
+	rotate: true
+	xy: 804, 568
+	size: 252, 214
+	orig: 252, 214
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangxuanwo_00020
+	rotate: false
+	xy: 2, 839
+	size: 185, 183
+	orig: 185, 183
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baoqixuli_00015
+	rotate: false
+	xy: 792, 806
+	size: 230, 199
+	orig: 230, 199
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangxuanwo_00026
+	rotate: false
+	xy: 910, 345
+	size: 110, 96
+	orig: 110, 96
+	offset: 0, 0
+	index: -1
+
+asset/spine/jshhdXV_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_klk_ptbs_shenhoubaibo_00033
+	rotate: false
+	xy: 506, 697
+	size: 160, 94
+	orig: 162, 94
+	offset: 0, 0
+	index: -1
+
+asset/spine/sqleXV_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_klk_ptbs_shenhoubaibo_00030
+	rotate: false
+	xy: 640, 132
+	size: 124, 72
+	orig: 124, 72
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baoqixuli_00013
+	rotate: true
+	xy: 775, 286
+	size: 237, 215
+	orig: 237, 215
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baobo_00028
+	rotate: true
+	xy: 890, 511
+	size: 144, 126
+	orig: 144, 126
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baobo_00026
+	rotate: true
+	xy: 890, 150
+	size: 140, 132
+	orig: 140, 132
+	offset: 0, 0
+	index: -1
+
+asset/spine/bzqjsxv_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_hongquan__00016
+	rotate: true
+	xy: 837, 364
+	size: 186, 184
+	orig: 188, 190
+	offset: 0, 4
+	index: -1
+effect/common/New_hongquan__00020
+	rotate: false
+	xy: 252, 733
+	size: 128, 128
+	orig: 188, 190
+	offset: 35, 37
+	index: -1
+
+asset/spine/sqleXVDY_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_hongquan__00021
+	rotate: false
+	xy: 704, 910
+	size: 102, 104
+	orig: 172, 174
+	offset: 40, 40
+	index: -1
+
+asset/spine/jshhdXVJD_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_hhdds_putongbisha1_bz_00019
+	rotate: false
+	xy: 729, 534
+	size: 236, 117
+	orig: 236, 117
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha1_bz_00015
+	rotate: false
+	xy: 368, 408
+	size: 239, 122
+	orig: 239, 122
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha1_bz_00017
+	rotate: false
+	xy: 2, 363
+	size: 241, 122
+	orig: 241, 122
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha1_bz_00011
+	rotate: false
+	xy: 376, 780
+	size: 228, 164
+	orig: 228, 164
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha1_bz_00013
+	rotate: false
+	xy: 368, 531
+	size: 236, 128
+	orig: 236, 128
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00038
+	rotate: false
+	xy: 2, 486
+	size: 239, 148
+	orig: 255, 230
+	offset: 2, 36
+	index: -1
+effect/common/New_hhdds_putongbisha3_bd_00019
+	rotate: true
+	xy: 274, 851
+	size: 171, 101
+	orig: 171, 101
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00130
+	rotate: true
+	xy: 620, 176
+	size: 214, 108
+	orig: 214, 108
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putonggongji_bd_00008
+	rotate: false
+	xy: 90, 780
+	size: 76, 71
+	orig: 76, 71
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha2_bd_00027
+	rotate: true
+	xy: 172, 851
+	size: 171, 101
+	orig: 171, 101
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_dg_00008
+	rotate: false
+	xy: 605, 861
+	size: 121, 119
+	orig: 121, 119
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00016
+	rotate: false
+	xy: 242, 494
+	size: 125, 190
+	orig: 255, 230
+	offset: 45, 24
+	index: -1
+effect/common/New_hhdds_putonggongji_bd_00015
+	rotate: true
+	xy: 2, 780
+	size: 71, 87
+	orig: 71, 87
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_cr_00011
+	rotate: false
+	xy: 376, 981
+	size: 44, 41
+	orig: 44, 41
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_cr_00010
+	rotate: false
+	xy: 982, 2
+	size: 37, 33
+	orig: 37, 33
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00180
+	rotate: false
+	xy: 962, 681
+	size: 59, 94
+	orig: 59, 94
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha2_bd_00017
+	rotate: false
+	xy: 608, 512
+	size: 120, 144
+	orig: 120, 144
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_cr_00008
+	rotate: true
+	xy: 1013, 116
+	size: 21, 8
+	orig: 21, 8
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_cr_00009
+	rotate: false
+	xy: 982, 116
+	size: 30, 14
+	orig: 30, 14
+	offset: 0, 0
+	index: -1
+effect/common/hhdds_putongbisha1_di_00006
+	rotate: false
+	xy: 368, 2
+	size: 361, 173
+	orig: 361, 173
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00114
+	rotate: true
+	xy: 971, 391
+	size: 67, 51
+	orig: 67, 51
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00046
+	rotate: false
+	xy: 368, 176
+	size: 251, 124
+	orig: 255, 230
+	offset: 3, 48
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00040
+	rotate: false
+	xy: 2, 635
+	size: 237, 144
+	orig: 255, 230
+	offset: 4, 34
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00042
+	rotate: false
+	xy: 729, 272
+	size: 245, 114
+	orig: 255, 230
+	offset: 1, 64
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00048
+	rotate: false
+	xy: 730, 139
+	size: 251, 132
+	orig: 255, 230
+	offset: 4, 46
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00063
+	rotate: true
+	xy: 244, 363
+	size: 130, 123
+	orig: 130, 123
+	offset: 0, 0
+	index: -1
+effect/common/hhdds_putongbisha3_wq_00014
+	rotate: false
+	xy: 982, 131
+	size: 24, 108
+	orig: 24, 108
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_jbd_00019
+	rotate: false
+	xy: 616, 391
+	size: 112, 120
+	orig: 112, 120
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_jbd_00017
+	rotate: true
+	xy: 975, 333
+	size: 57, 47
+	orig: 57, 47
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_jbd_00016
+	rotate: true
+	xy: 971, 518
+	size: 21, 46
+	orig: 21, 46
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_bd_00023
+	rotate: false
+	xy: 240, 685
+	size: 178, 94
+	orig: 178, 94
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00052
+	rotate: false
+	xy: 729, 387
+	size: 241, 146
+	orig: 255, 230
+	offset: 14, 41
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00050
+	rotate: false
+	xy: 730, 2
+	size: 251, 136
+	orig: 255, 230
+	offset: 4, 44
+	index: -1
+effect/common/New_hhdds_putongbisha1_bz_00009
+	rotate: false
+	xy: 729, 652
+	size: 232, 199
+	orig: 232, 199
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00062
+	rotate: true
+	xy: 728, 852
+	size: 169, 132
+	orig: 255, 230
+	offset: 48, 46
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00064
+	rotate: true
+	xy: 605, 657
+	size: 129, 122
+	orig: 255, 230
+	offset: 48, 49
+	index: -1
+effect/common/hhdds_putongbisha3_wq2_00017
+	rotate: false
+	xy: 982, 240
+	size: 24, 92
+	orig: 24, 92
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00044
+	rotate: false
+	xy: 368, 301
+	size: 247, 106
+	orig: 255, 230
+	offset: 5, 61
+	index: -1
+
+asset/spine/global_spinehero_effect13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_hongquan__00019
+	rotate: false
+	xy: 2, 2
+	size: 306, 306
+	orig: 400, 404
+	offset: 52, 27
+	index: -1
+
+asset/spine/sqleXV_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_hongquan__00017
+	rotate: true
+	xy: 558, 856
+	size: 164, 178
+	orig: 180, 182
+	offset: 7, 3
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_lmbs_huangsebo_00029
+	rotate: false
+	xy: 457, 560
+	size: 102, 101
+	orig: 102, 101
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baobo_00018
+	rotate: false
+	xy: 976, 774
+	size: 20, 20
+	orig: 20, 20
+	offset: 0, 0
+	index: -1
+
+asset/spine/jshhdXV_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_klk_ptbs_shenhoubaibo_00032
+	rotate: true
+	xy: 908, 870
+	size: 152, 89
+	orig: 154, 89
+	offset: 0, 0
+	index: -1
+effect/common/New_klk_ptbs_shenhoubaibo_00026
+	rotate: false
+	xy: 647, 698
+	size: 69, 43
+	orig: 71, 43
+	offset: 0, 0
+	index: -1
+effect/common/New_klk_ptbs_shenhoubaibo_00031
+	rotate: true
+	xy: 384, 408
+	size: 143, 85
+	orig: 145, 85
+	offset: 0, 0
+	index: -1
+
+asset/spine/bzqjsxv_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_klk_ptbs_shenhoubaibo_00034
+	rotate: true
+	xy: 584, 344
+	size: 164, 96
+	orig: 166, 96
+	offset: 0, 0
+	index: -1
+effect/common/New_klk_ptbs_shenhoubaibo_00025
+	rotate: false
+	xy: 842, 309
+	size: 50, 31
+	orig: 52, 31
+	offset: 1, 0
+	index: -1
+effect/common/New_hongquan__00022
+	rotate: false
+	xy: 573, 110
+	size: 94, 94
+	orig: 188, 190
+	offset: 50, 53
+	index: -1
+
+asset/spine/global_spinehero_effect9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_lmbs_huangxuanwo_00014
+	rotate: true
+	xy: 761, 475
+	size: 243, 261
+	orig: 243, 261
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_lmbs_huangxuanwo_00016
+	rotate: true
+	xy: 780, 650
+	size: 221, 236
+	orig: 221, 236
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect16.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baoqixuli_00005
+	rotate: false
+	xy: 2, 2
+	size: 163, 138
+	orig: 163, 138
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangsebo_00031
+	rotate: true
+	xy: 2, 441
+	size: 139, 140
+	orig: 139, 140
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baobo_00020
+	rotate: false
+	xy: 2, 581
+	size: 126, 125
+	orig: 126, 125
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangxuanwo_00024
+	rotate: false
+	xy: 143, 572
+	size: 135, 134
+	orig: 135, 134
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangxuanwo_00022
+	rotate: false
+	xy: 2, 141
+	size: 160, 158
+	orig: 160, 158
+	offset: 0, 0
+	index: -1
+
+asset/spine/jshhdXVJD_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_hhdds_liumenbisha_bo_00150
+	rotate: true
+	xy: 100, 624
+	size: 197, 83
+	orig: 197, 83
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00152
+	rotate: true
+	xy: 201, 414
+	size: 196, 81
+	orig: 196, 81
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00124
+	rotate: false
+	xy: 729, 460
+	size: 178, 97
+	orig: 178, 97
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00126
+	rotate: true
+	xy: 456, 394
+	size: 184, 99
+	orig: 184, 99
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00122
+	rotate: true
+	xy: 678, 2
+	size: 182, 95
+	orig: 182, 95
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00128
+	rotate: true
+	xy: 2, 210
+	size: 207, 107
+	orig: 207, 107
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_bd_00013
+	rotate: true
+	xy: 718, 740
+	size: 181, 158
+	orig: 181, 158
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putonggongji_bd_00007
+	rotate: false
+	xy: 455, 968
+	size: 44, 44
+	orig: 44, 44
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha2_bd_00022
+	rotate: false
+	xy: 360, 203
+	size: 189, 190
+	orig: 189, 190
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha2_bd_00023
+	rotate: false
+	xy: 283, 398
+	size: 172, 191
+	orig: 172, 191
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_jbd_00029
+	rotate: false
+	xy: 865, 624
+	size: 154, 83
+	orig: 154, 83
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putonggongji_bd_00016
+	rotate: false
+	xy: 953, 371
+	size: 69, 86
+	orig: 69, 86
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_cr_00013
+	rotate: true
+	xy: 330, 970
+	size: 52, 70
+	orig: 52, 70
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_cr_00012
+	rotate: true
+	xy: 401, 970
+	size: 52, 53
+	orig: 52, 53
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha2_bd_00018
+	rotate: false
+	xy: 2, 418
+	size: 198, 205
+	orig: 198, 205
+	offset: 0, 0
+	index: -1
+effect/common/hhdds_putongbisha2_di_00019
+	rotate: false
+	xy: 545, 962
+	size: 147, 57
+	orig: 147, 57
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_jbd_00031
+	rotate: false
+	xy: 865, 144
+	size: 157, 83
+	orig: 157, 83
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha2_bd_00021
+	rotate: false
+	xy: 496, 2
+	size: 181, 189
+	orig: 181, 189
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_db_00020
+	rotate: false
+	xy: 908, 543
+	size: 113, 80
+	orig: 113, 80
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha1_bz_00021
+	rotate: true
+	xy: 545, 779
+	size: 182, 90
+	orig: 182, 90
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00033
+	rotate: false
+	xy: 877, 708
+	size: 145, 132
+	orig: 145, 132
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00160
+	rotate: false
+	xy: 693, 926
+	size: 171, 96
+	orig: 171, 96
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00056
+	rotate: true
+	xy: 110, 210
+	size: 203, 148
+	orig: 255, 230
+	offset: 20, 37
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00172
+	rotate: false
+	xy: 865, 922
+	size: 126, 100
+	orig: 126, 100
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_stw_00058
+	rotate: true
+	xy: 2, 824
+	size: 197, 144
+	orig: 255, 230
+	offset: 23, 39
+	index: -1
+effect/common/New_hhdds_putongbisha1_bz_00006
+	rotate: false
+	xy: 2, 2
+	size: 180, 207
+	orig: 180, 207
+	offset: 0, 0
+	index: -1
+effect/common/hhdds_putongbisha3_dl_00016
+	rotate: false
+	xy: 877, 841
+	size: 145, 65
+	orig: 145, 65
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_db_00014
+	rotate: false
+	xy: 908, 460
+	size: 114, 82
+	orig: 114, 82
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00053
+	rotate: false
+	xy: 737, 185
+	size: 127, 138
+	orig: 127, 138
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00059
+	rotate: false
+	xy: 737, 324
+	size: 127, 135
+	orig: 127, 135
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00146
+	rotate: true
+	xy: 2, 624
+	size: 199, 97
+	orig: 199, 97
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00144
+	rotate: true
+	xy: 259, 203
+	size: 194, 100
+	orig: 194, 100
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00142
+	rotate: true
+	xy: 444, 779
+	size: 188, 100
+	orig: 188, 100
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00140
+	rotate: true
+	xy: 184, 624
+	size: 196, 115
+	orig: 196, 115
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_lmbs_huangxuanwo_00018
+	rotate: false
+	xy: 810, 742
+	size: 209, 209
+	orig: 209, 209
+	offset: 0, 0
+	index: -1
+
+asset/spine/jshhdXVJD_common4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_hhdds_putongbisha3_bd_00010
+	rotate: false
+	xy: 721, 133
+	size: 138, 132
+	orig: 138, 132
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00065
+	rotate: false
+	xy: 698, 477
+	size: 130, 124
+	orig: 130, 124
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00061
+	rotate: true
+	xy: 836, 474
+	size: 129, 130
+	orig: 129, 130
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00079
+	rotate: false
+	xy: 702, 348
+	size: 133, 128
+	orig: 135, 128
+	offset: 1, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00009
+	rotate: false
+	xy: 2, 136
+	size: 141, 130
+	orig: 141, 130
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_jbd_00023
+	rotate: false
+	xy: 864, 132
+	size: 139, 79
+	orig: 139, 79
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00007
+	rotate: false
+	xy: 723, 2
+	size: 140, 130
+	orig: 140, 130
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putonggongji_bd_00010
+	rotate: true
+	xy: 96, 690
+	size: 97, 95
+	orig: 97, 95
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00085
+	rotate: false
+	xy: 565, 340
+	size: 136, 129
+	orig: 136, 129
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00087
+	rotate: false
+	xy: 853, 343
+	size: 137, 130
+	orig: 137, 130
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00081
+	rotate: false
+	xy: 282, 396
+	size: 135, 128
+	orig: 135, 128
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00083
+	rotate: false
+	xy: 428, 265
+	size: 136, 129
+	orig: 136, 129
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00017
+	rotate: false
+	xy: 437, 2
+	size: 143, 131
+	orig: 143, 131
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha2_bd_00016
+	rotate: false
+	xy: 2, 950
+	size: 93, 65
+	orig: 93, 65
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00015
+	rotate: false
+	xy: 147, 134
+	size: 142, 131
+	orig: 142, 131
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00013
+	rotate: false
+	xy: 292, 133
+	size: 142, 131
+	orig: 142, 131
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00011
+	rotate: false
+	xy: 435, 134
+	size: 139, 130
+	orig: 141, 130
+	offset: 1, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00073
+	rotate: false
+	xy: 564, 470
+	size: 133, 126
+	orig: 133, 126
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00075
+	rotate: false
+	xy: 2, 507
+	size: 134, 127
+	orig: 134, 127
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00095
+	rotate: false
+	xy: 860, 212
+	size: 138, 130
+	orig: 140, 130
+	offset: 1, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00093
+	rotate: false
+	xy: 864, 2
+	size: 139, 129
+	orig: 139, 131
+	offset: 0, 1
+	index: -1
+effect/common/New_hhdds_putongbisha3_db_00024
+	rotate: false
+	xy: 912, 604
+	size: 108, 79
+	orig: 112, 79
+	offset: 4, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00027
+	rotate: false
+	xy: 292, 2
+	size: 144, 130
+	orig: 144, 130
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_db_00022
+	rotate: false
+	xy: 794, 683
+	size: 113, 79
+	orig: 113, 79
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00116
+	rotate: false
+	xy: 795, 604
+	size: 116, 78
+	orig: 116, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00023
+	rotate: false
+	xy: 2, 2
+	size: 144, 133
+	orig: 144, 137
+	offset: 0, 3
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00168
+	rotate: false
+	xy: 2, 404
+	size: 135, 102
+	orig: 135, 102
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00067
+	rotate: false
+	xy: 418, 524
+	size: 132, 124
+	orig: 132, 124
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_jbd_00018
+	rotate: false
+	xy: 2, 845
+	size: 89, 104
+	orig: 89, 104
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00077
+	rotate: false
+	xy: 428, 395
+	size: 135, 128
+	orig: 135, 128
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00043
+	rotate: false
+	xy: 581, 71
+	size: 139, 136
+	orig: 139, 136
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00029
+	rotate: false
+	xy: 147, 2
+	size: 144, 131
+	orig: 144, 131
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00089
+	rotate: false
+	xy: 290, 265
+	size: 137, 130
+	orig: 137, 130
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_db_00007
+	rotate: false
+	xy: 678, 602
+	size: 116, 80
+	orig: 116, 80
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_db_00006
+	rotate: false
+	xy: 906, 765
+	size: 106, 79
+	orig: 106, 79
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00176
+	rotate: true
+	xy: 2, 766
+	size: 76, 92
+	orig: 76, 92
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_db_00016
+	rotate: false
+	xy: 794, 763
+	size: 111, 80
+	orig: 111, 80
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_db_00010
+	rotate: false
+	xy: 678, 683
+	size: 115, 82
+	orig: 115, 82
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00057
+	rotate: true
+	xy: 139, 397
+	size: 127, 135
+	orig: 127, 135
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00091
+	rotate: false
+	xy: 575, 208
+	size: 138, 131
+	orig: 138, 131
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_db_00018
+	rotate: false
+	xy: 908, 684
+	size: 112, 80
+	orig: 112, 80
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_yan_00045
+	rotate: true
+	xy: 144, 266
+	size: 130, 137
+	orig: 132, 137
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_liumenbisha_bo_00174
+	rotate: false
+	xy: 551, 597
+	size: 126, 92
+	orig: 126, 92
+	offset: 0, 0
+	index: -1
+effect/common/New_hhdds_putongbisha3_bd_00008
+	rotate: false
+	xy: 2, 690
+	size: 93, 65
+	orig: 93, 65
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baoqixuli_00007
+	rotate: false
+	xy: 777, 694
+	size: 234, 143
+	orig: 234, 143
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangsebo_00033
+	rotate: true
+	xy: 858, 307
+	size: 165, 163
+	orig: 165, 163
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_lmbs_huangsebo_00027
+	rotate: false
+	xy: 771, 499
+	size: 62, 62
+	orig: 62, 62
+	offset: 0, 0
+	index: -1
+
+asset/spine/jshhdXV_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_klk_ptbs_shenhoubaibo_00024
+	rotate: true
+	xy: 547, 983
+	size: 34, 24
+	orig: 36, 24
+	offset: 1, 0
+	index: -1
+effect/common/New_klk_ptbs_shenhoubaibo_00028
+	rotate: true
+	xy: 960, 242
+	size: 103, 62
+	orig: 105, 62
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_lmbs_huangsebo_00037
+	rotate: true
+	xy: 508, 2
+	size: 191, 147
+	orig: 191, 147
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baobo_00024
+	rotate: false
+	xy: 521, 593
+	size: 187, 187
+	orig: 187, 187
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baobo_00022
+	rotate: false
+	xy: 800, 2
+	size: 171, 169
+	orig: 171, 169
+	offset: 0, 0
+	index: -1

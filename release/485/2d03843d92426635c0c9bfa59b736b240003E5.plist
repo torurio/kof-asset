@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>New_xt_shengli_yan_00023.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{276,283}}</string>
+			<key>offset</key>
+			<string>{-1,1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2,5},{276,283}}</string>
+			<key>sourceSize</key>
+			<string>{282,295}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>extension</key>
+		<integer>1</integer>
+		<key>format</key>
+		<integer>2</integer>
+		<key>imageFormat</key>
+		<string>RGBA8888</string>
+		<key>realTextureFileName</key>
+		<string>xietou_common4.png</string>
+		<key>scale</key>
+		<real>0.67</real>
+		<key>size</key>
+		<string>{512,512}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>xietou_common4.png</string>
+	</dict>
+</dict>
+</plist>

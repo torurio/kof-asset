@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>wy_21_21_3451_eryzltxk23image.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{136,115},{28,27}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{28,27}}</string>
+			<key>sourceSize</key>
+			<string>{28,27}</string>
+		</dict>
+		<key>wy_23_23_44369_eryzltxk23image.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{136,2},{111,111}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{111,111}}</string>
+			<key>sourceSize</key>
+			<string>{111,111}</string>
+		</dict>
+		<key>wy_9_9_1882_eryzltxk23image.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{132,123}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{132,123}}</string>
+			<key>sourceSize</key>
+			<string>{132,123}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>eryzltxk23image.png</string>
+		<key>size</key>
+		<string>{256,256}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>eryzltxk23image.png</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,2290 @@
+
+asset/spine/yadiannaMGSZ_role1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+magongyadianna_nt_atk_225
+	rotate: true
+	xy: 777, 583
+	size: 27, 30
+	orig: 29, 32
+	offset: 1, 1
+	index: -1
+magongyadianna_nt_skl2_6
+	rotate: true
+	xy: 631, 303
+	size: 47, 28
+	orig: 47, 32
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_35
+	rotate: true
+	xy: 322, 208
+	size: 60, 40
+	orig: 60, 44
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_36
+	rotate: false
+	xy: 497, 610
+	size: 44, 55
+	orig: 44, 55
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_33
+	rotate: true
+	xy: 218, 893
+	size: 62, 59
+	orig: 62, 59
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_66
+	rotate: true
+	xy: 901, 871
+	size: 27, 25
+	orig: 27, 25
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_shengli_5
+	rotate: true
+	xy: 535, 472
+	size: 53, 46
+	orig: 53, 48
+	offset: 0, 2
+	index: -1
+magongyadianna_nt_shengli_6
+	rotate: false
+	xy: 970, 203
+	size: 41, 32
+	orig: 41, 32
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_shengli_7
+	rotate: false
+	xy: 60, 561
+	size: 62, 70
+	orig: 62, 70
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_shengli_0
+	rotate: false
+	xy: 2, 976
+	size: 63, 46
+	orig: 63, 46
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_shengli_1
+	rotate: true
+	xy: 966, 473
+	size: 24, 38
+	orig: 24, 38
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_35
+	rotate: false
+	xy: 807, 968
+	size: 26, 44
+	orig: 26, 44
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_51
+	rotate: true
+	xy: 488, 472
+	size: 53, 46
+	orig: 53, 46
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_shengli_8
+	rotate: false
+	xy: 878, 234
+	size: 41, 27
+	orig: 41, 27
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_204
+	rotate: false
+	xy: 987, 934
+	size: 29, 24
+	orig: 29, 24
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_207
+	rotate: false
+	xy: 843, 443
+	size: 33, 36
+	orig: 33, 36
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_200
+	rotate: true
+	xy: 742, 432
+	size: 27, 34
+	orig: 27, 34
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_202
+	rotate: true
+	xy: 742, 338
+	size: 30, 28
+	orig: 30, 28
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_208
+	rotate: true
+	xy: 812, 159
+	size: 33, 30
+	orig: 33, 34
+	offset: 0, 1
+	index: -1
+magongyadianna_nt_atk_79
+	rotate: true
+	xy: 211, 213
+	size: 68, 36
+	orig: 68, 36
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_shengli_31
+	rotate: false
+	xy: 957, 916
+	size: 29, 28
+	orig: 29, 28
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_75
+	rotate: false
+	xy: 509, 1001
+	size: 38, 21
+	orig: 38, 21
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_76
+	rotate: true
+	xy: 325, 411
+	size: 60, 34
+	orig: 60, 34
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_77
+	rotate: true
+	xy: 2, 910
+	size: 65, 62
+	orig: 65, 62
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_34
+	rotate: false
+	xy: 965, 534
+	size: 36, 33
+	orig: 36, 33
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_22
+	rotate: true
+	xy: 690, 647
+	size: 46, 34
+	orig: 46, 34
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_28
+	rotate: false
+	xy: 971, 60
+	size: 43, 22
+	orig: 43, 22
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_29
+	rotate: false
+	xy: 927, 877
+	size: 29, 29
+	orig: 29, 29
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_39
+	rotate: false
+	xy: 2, 289
+	size: 55, 138
+	orig: 55, 138
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_12
+	rotate: true
+	xy: 495, 308
+	size: 51, 48
+	orig: 51, 50
+	offset: 0, 1
+	index: -1
+magongyadianna_nt_runsgd_10
+	rotate: true
+	xy: 771, 85
+	size: 39, 40
+	orig: 39, 44
+	offset: 0, 1
+	index: -1
+magongyadianna_nt_runsgd_11
+	rotate: true
+	xy: 878, 357
+	size: 37, 39
+	orig: 37, 41
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_16
+	rotate: true
+	xy: 92, 499
+	size: 61, 67
+	orig: 61, 67
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_14
+	rotate: true
+	xy: 927, 587
+	size: 31, 36
+	orig: 31, 36
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_15
+	rotate: true
+	xy: 872, 725
+	size: 29, 28
+	orig: 29, 28
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_232
+	rotate: false
+	xy: 487, 903
+	size: 55, 36
+	orig: 55, 36
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_194
+	rotate: true
+	xy: 787, 782
+	size: 44, 34
+	orig: 44, 34
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_141
+	rotate: false
+	xy: 771, 45
+	size: 40, 39
+	orig: 40, 39
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_140
+	rotate: false
+	xy: 122, 2
+	size: 65, 71
+	orig: 65, 71
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_147
+	rotate: false
+	xy: 807, 618
+	size: 32, 25
+	orig: 32, 27
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_shengli_35
+	rotate: true
+	xy: 843, 243
+	size: 36, 34
+	orig: 36, 34
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_66
+	rotate: false
+	xy: 382, 69
+	size: 34, 57
+	orig: 34, 69
+	offset: 0, 7
+	index: -1
+magongyadianna_nt_bisha1_19
+	rotate: true
+	xy: 577, 155
+	size: 49, 32
+	orig: 49, 32
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_bu_1
+	rotate: false
+	xy: 901, 843
+	size: 25, 27
+	orig: 25, 27
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_bu_2
+	rotate: false
+	xy: 872, 755
+	size: 27, 30
+	orig: 27, 30
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_54
+	rotate: false
+	xy: 812, 293
+	size: 30, 31
+	orig: 30, 31
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_bu_5
+	rotate: true
+	xy: 314, 533
+	size: 19, 30
+	orig: 19, 30
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_0
+	rotate: false
+	xy: 901, 927
+	size: 29, 29
+	orig: 29, 29
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_2
+	rotate: true
+	xy: 878, 285
+	size: 31, 40
+	orig: 31, 40
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_108
+	rotate: true
+	xy: 845, 550
+	size: 33, 32
+	orig: 33, 32
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_4
+	rotate: false
+	xy: 927, 364
+	size: 39, 36
+	orig: 39, 36
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_59
+	rotate: true
+	xy: 181, 629
+	size: 64, 59
+	orig: 64, 69
+	offset: 0, 2
+	index: -1
+magongyadianna_nt_atk_129
+	rotate: false
+	xy: 351, 553
+	size: 43, 59
+	orig: 43, 59
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_65
+	rotate: true
+	xy: 589, 307
+	size: 50, 41
+	orig: 50, 41
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_63
+	rotate: true
+	xy: 92, 428
+	size: 70, 53
+	orig: 70, 53
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_60
+	rotate: false
+	xy: 2, 633
+	size: 57, 71
+	orig: 57, 71
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_121
+	rotate: true
+	xy: 720, 835
+	size: 41, 43
+	orig: 41, 43
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_124
+	rotate: false
+	xy: 557, 412
+	size: 44, 51
+	orig: 44, 57
+	offset: 0, 6
+	index: -1
+magongyadianna_nt_skl2_26
+	rotate: false
+	xy: 230, 282
+	size: 60, 67
+	orig: 60, 67
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_126
+	rotate: false
+	xy: 961, 691
+	size: 33, 29
+	orig: 33, 29
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_0
+	rotate: false
+	xy: 674, 842
+	size: 45, 34
+	orig: 45, 34
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_die_bu6_2
+	rotate: false
+	xy: 927, 239
+	size: 41, 23
+	orig: 41, 23
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_4
+	rotate: false
+	xy: 927, 286
+	size: 39, 39
+	orig: 39, 39
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_154
+	rotate: false
+	xy: 308, 752
+	size: 34, 62
+	orig: 34, 62
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_42
+	rotate: true
+	xy: 306, 141
+	size: 66, 63
+	orig: 66, 63
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_153
+	rotate: true
+	xy: 384, 472
+	size: 56, 46
+	orig: 56, 46
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_19
+	rotate: false
+	xy: 543, 661
+	size: 39, 53
+	orig: 39, 53
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_31
+	rotate: true
+	xy: 538, 53
+	size: 50, 32
+	orig: 50, 32
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_56
+	rotate: false
+	xy: 878, 647
+	size: 22, 26
+	orig: 22, 26
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_55
+	rotate: false
+	xy: 178, 900
+	size: 39, 63
+	orig: 39, 63
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_shengli_29
+	rotate: false
+	xy: 660, 326
+	size: 41, 31
+	orig: 41, 31
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_53
+	rotate: false
+	xy: 193, 74
+	size: 63, 66
+	orig: 63, 66
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_50
+	rotate: true
+	xy: 340, 815
+	size: 61, 48
+	orig: 61, 48
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_46
+	rotate: false
+	xy: 687, 51
+	size: 27, 48
+	orig: 27, 48
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_47
+	rotate: false
+	xy: 544, 307
+	size: 44, 50
+	orig: 44, 50
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_40
+	rotate: false
+	xy: 407, 127
+	size: 48, 53
+	orig: 48, 53
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_41
+	rotate: false
+	xy: 627, 701
+	size: 39, 46
+	orig: 39, 46
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_43
+	rotate: false
+	xy: 417, 60
+	size: 48, 53
+	orig: 48, 53
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_35
+	rotate: false
+	xy: 822, 801
+	size: 32, 25
+	orig: 32, 25
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_34
+	rotate: false
+	xy: 970, 180
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_10
+	rotate: false
+	xy: 778, 644
+	size: 27, 37
+	orig: 27, 37
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_48
+	rotate: true
+	xy: 335, 338
+	size: 57, 43
+	orig: 57, 43
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_33
+	rotate: true
+	xy: 542, 607
+	size: 53, 41
+	orig: 53, 41
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_32
+	rotate: false
+	xy: 459, 529
+	size: 53, 23
+	orig: 53, 23
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_139
+	rotate: true
+	xy: 878, 67
+	size: 39, 42
+	orig: 39, 42
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_70
+	rotate: true
+	xy: 375, 2
+	size: 66, 33
+	orig: 66, 33
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_71
+	rotate: false
+	xy: 931, 907
+	size: 25, 25
+	orig: 25, 25
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_26
+	rotate: true
+	xy: 843, 280
+	size: 35, 34
+	orig: 35, 34
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_133
+	rotate: true
+	xy: 132, 700
+	size: 64, 62
+	orig: 64, 62
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_166
+	rotate: false
+	xy: 639, 409
+	size: 43, 46
+	orig: 43, 46
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_134
+	rotate: true
+	xy: 700, 100
+	size: 48, 25
+	orig: 48, 25
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_80
+	rotate: true
+	xy: 351, 472
+	size: 60, 32
+	orig: 60, 32
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_9
+	rotate: false
+	xy: 74, 213
+	size: 68, 71
+	orig: 68, 71
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_40
+	rotate: false
+	xy: 683, 400
+	size: 25, 39
+	orig: 25, 39
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_44
+	rotate: true
+	xy: 190, 285
+	size: 69, 39
+	orig: 69, 41
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_47
+	rotate: false
+	xy: 312, 688
+	size: 34, 62
+	orig: 34, 62
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_46
+	rotate: false
+	xy: 248, 213
+	size: 40, 67
+	orig: 40, 67
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_22
+	rotate: true
+	xy: 927, 431
+	size: 25, 39
+	orig: 25, 39
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_173
+	rotate: true
+	xy: 243, 423
+	size: 64, 42
+	orig: 64, 42
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_56
+	rotate: false
+	xy: 456, 114
+	size: 39, 51
+	orig: 39, 51
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_26
+	rotate: false
+	xy: 967, 445
+	size: 38, 27
+	orig: 38, 27
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_shengli_32
+	rotate: true
+	xy: 878, 395
+	size: 35, 39
+	orig: 35, 41
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_shengli_33
+	rotate: false
+	xy: 808, 581
+	size: 36, 36
+	orig: 36, 36
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_shengli_34
+	rotate: false
+	xy: 492, 2
+	size: 32, 51
+	orig: 32, 51
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_23
+	rotate: true
+	xy: 843, 351
+	size: 33, 34
+	orig: 33, 34
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_21
+	rotate: false
+	xy: 347, 677
+	size: 60, 60
+	orig: 60, 60
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_19
+	rotate: false
+	xy: 777, 611
+	size: 29, 32
+	orig: 29, 32
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_74
+	rotate: false
+	xy: 702, 326
+	size: 39, 39
+	orig: 39, 39
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_49
+	rotate: false
+	xy: 58, 289
+	size: 63, 75
+	orig: 63, 77
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_70
+	rotate: false
+	xy: 993, 775
+	size: 29, 32
+	orig: 29, 34
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_72
+	rotate: false
+	xy: 878, 531
+	size: 37, 27
+	orig: 39, 27
+	offset: 2, 0
+	index: -1
+magongyadianna_nt_atk_102
+	rotate: true
+	xy: 630, 931
+	size: 53, 29
+	orig: 53, 29
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_40
+	rotate: false
+	xy: 633, 101
+	size: 36, 48
+	orig: 36, 48
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_100
+	rotate: false
+	xy: 305, 815
+	size: 34, 62
+	orig: 34, 62
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_212
+	rotate: false
+	xy: 146, 141
+	size: 61, 71
+	orig: 61, 71
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_51
+	rotate: false
+	xy: 629, 358
+	size: 36, 50
+	orig: 38, 52
+	offset: 1, 1
+	index: -1
+magongyadianna_nt_atk_89
+	rotate: false
+	xy: 771, 2
+	size: 40, 42
+	orig: 40, 42
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_137
+	rotate: false
+	xy: 445, 671
+	size: 53, 57
+	orig: 53, 57
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_34
+	rotate: true
+	xy: 963, 664
+	size: 26, 35
+	orig: 26, 35
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_30
+	rotate: false
+	xy: 309, 948
+	size: 60, 61
+	orig: 62, 61
+	offset: 2, 0
+	index: -1
+magongyadianna_nt_atk_32
+	rotate: true
+	xy: 360, 396
+	size: 56, 48
+	orig: 56, 48
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_12
+	rotate: true
+	xy: 591, 2
+	size: 49, 32
+	orig: 49, 32
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_11
+	rotate: false
+	xy: 191, 355
+	size: 60, 67
+	orig: 60, 67
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_17
+	rotate: false
+	xy: 533, 105
+	size: 32, 50
+	orig: 32, 50
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_15
+	rotate: false
+	xy: 653, 553
+	size: 42, 46
+	orig: 42, 46
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_14
+	rotate: true
+	xy: 538, 360
+	size: 51, 46
+	orig: 51, 46
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_35
+	rotate: true
+	xy: 878, 107
+	size: 36, 42
+	orig: 36, 42
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_17
+	rotate: false
+	xy: 289, 553
+	size: 61, 61
+	orig: 61, 61
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_19
+	rotate: false
+	xy: 584, 607
+	size: 46, 46
+	orig: 46, 46
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_18
+	rotate: false
+	xy: 444, 368
+	size: 46, 53
+	orig: 46, 53
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_shengli_24
+	rotate: true
+	xy: 927, 183
+	size: 22, 42
+	orig: 22, 42
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_111
+	rotate: false
+	xy: 2, 561
+	size: 57, 71
+	orig: 57, 71
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_5
+	rotate: false
+	xy: 251, 2
+	size: 61, 71
+	orig: 61, 71
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_3
+	rotate: true
+	xy: 812, 45
+	size: 39, 30
+	orig: 39, 30
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_2
+	rotate: false
+	xy: 927, 90
+	size: 42, 36
+	orig: 42, 36
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_68
+	rotate: true
+	xy: 776, 737
+	size: 44, 35
+	orig: 46, 35
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_117
+	rotate: false
+	xy: 697, 788
+	size: 26, 46
+	orig: 26, 46
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_118
+	rotate: true
+	xy: 409, 384
+	size: 56, 34
+	orig: 56, 34
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_119
+	rotate: false
+	xy: 627, 850
+	size: 46, 26
+	orig: 46, 26
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_65
+	rotate: false
+	xy: 812, 122
+	size: 30, 36
+	orig: 32, 36
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_62
+	rotate: false
+	xy: 380, 613
+	size: 39, 59
+	orig: 39, 59
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_60
+	rotate: false
+	xy: 900, 755
+	size: 26, 29
+	orig: 26, 29
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_8
+	rotate: true
+	xy: 688, 877
+	size: 45, 39
+	orig: 45, 39
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_28
+	rotate: true
+	xy: 967, 379
+	size: 35, 39
+	orig: 35, 39
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_184
+	rotate: false
+	xy: 60, 632
+	size: 57, 70
+	orig: 57, 70
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_181
+	rotate: false
+	xy: 969, 263
+	size: 39, 39
+	orig: 43, 43
+	offset: 0, 1
+	index: -1
+magongyadianna_nt_atk_180
+	rotate: false
+	xy: 708, 149
+	size: 33, 41
+	orig: 33, 41
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_235
+	rotate: false
+	xy: 122, 285
+	size: 67, 71
+	orig: 67, 71
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_42
+	rotate: true
+	xy: 551, 834
+	size: 55, 40
+	orig: 55, 40
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_45
+	rotate: true
+	xy: 447, 787
+	size: 57, 46
+	orig: 57, 46
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_44
+	rotate: true
+	xy: 582, 464
+	size: 51, 40
+	orig: 51, 40
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_189
+	rotate: false
+	xy: 160, 496
+	size: 63, 64
+	orig: 65, 64
+	offset: 1, 0
+	index: -1
+magongyadianna_nt_runsgd_46
+	rotate: false
+	xy: 812, 325
+	size: 30, 30
+	orig: 30, 30
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_24
+	rotate: true
+	xy: 592, 823
+	size: 53, 34
+	orig: 53, 34
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_23
+	rotate: false
+	xy: 971, 32
+	size: 43, 27
+	orig: 43, 27
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_67
+	rotate: true
+	xy: 500, 722
+	size: 55, 43
+	orig: 55, 43
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_shengli_17
+	rotate: false
+	xy: 145, 901
+	size: 32, 64
+	orig: 32, 64
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_shengli_14
+	rotate: false
+	xy: 468, 422
+	size: 36, 49
+	orig: 36, 49
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_shengli_15
+	rotate: false
+	xy: 708, 149
+	size: 33, 41
+	orig: 33, 41
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_shengli_12
+	rotate: false
+	xy: 957, 886
+	size: 29, 29
+	orig: 29, 29
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_shengli_13
+	rotate: false
+	xy: 709, 406
+	size: 32, 36
+	orig: 32, 36
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_shengli_10
+	rotate: false
+	xy: 815, 417
+	size: 27, 39
+	orig: 27, 39
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_die_bu6_3
+	rotate: false
+	xy: 957, 970
+	size: 28, 28
+	orig: 28, 28
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_10
+	rotate: false
+	xy: 589, 103
+	size: 43, 48
+	orig: 43, 48
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_16
+	rotate: true
+	xy: 964, 630
+	size: 33, 35
+	orig: 33, 35
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_die_bu6_7
+	rotate: false
+	xy: 970, 120
+	size: 42, 32
+	orig: 42, 32
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_die_bu6_4
+	rotate: false
+	xy: 291, 277
+	size: 48, 60
+	orig: 48, 60
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_167
+	rotate: true
+	xy: 491, 218
+	size: 37, 41
+	orig: 37, 41
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_28
+	rotate: true
+	xy: 708, 191
+	size: 41, 33
+	orig: 43, 35
+	offset: 2, 0
+	index: -1
+magongyadianna_nt_atk_161
+	rotate: false
+	xy: 449, 256
+	size: 25, 53
+	orig: 25, 53
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_160
+	rotate: false
+	xy: 702, 326
+	size: 39, 39
+	orig: 39, 39
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_163
+	rotate: true
+	xy: 343, 751
+	size: 61, 43
+	orig: 61, 43
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_162
+	rotate: true
+	xy: 522, 778
+	size: 55, 40
+	orig: 55, 40
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_21
+	rotate: true
+	xy: 774, 968
+	size: 44, 32
+	orig: 46, 32
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_216
+	rotate: true
+	xy: 65, 910
+	size: 65, 42
+	orig: 65, 44
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_27
+	rotate: false
+	xy: 969, 236
+	size: 41, 26
+	orig: 53, 26
+	offset: 12, 0
+	index: -1
+magongyadianna_nt_atk_98
+	rotate: false
+	xy: 650, 150
+	size: 30, 48
+	orig: 30, 48
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_32
+	rotate: false
+	xy: 742, 503
+	size: 36, 39
+	orig: 36, 39
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_13_bu1
+	rotate: false
+	xy: 446, 729
+	size: 53, 57
+	orig: 53, 57
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_23
+	rotate: false
+	xy: 965, 498
+	size: 37, 35
+	orig: 37, 35
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_31
+	rotate: false
+	xy: 843, 43
+	size: 34, 40
+	orig: 34, 40
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_228
+	rotate: false
+	xy: 927, 709
+	size: 33, 29
+	orig: 33, 29
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_229
+	rotate: false
+	xy: 960, 754
+	size: 32, 29
+	orig: 32, 29
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_57
+	rotate: false
+	xy: 382, 266
+	size: 35, 56
+	orig: 35, 56
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_30
+	rotate: false
+	xy: 845, 516
+	size: 32, 33
+	orig: 32, 33
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_222
+	rotate: false
+	xy: 495, 553
+	size: 27, 56
+	orig: 27, 56
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_53
+	rotate: true
+	xy: 395, 553
+	size: 58, 55
+	orig: 58, 55
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_221
+	rotate: true
+	xy: 129, 976
+	size: 46, 58
+	orig: 46, 58
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_shengli_23
+	rotate: false
+	xy: 987, 904
+	size: 29, 29
+	orig: 29, 29
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_bu_3a
+	rotate: false
+	xy: 967, 342
+	size: 39, 36
+	orig: 39, 36
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_shengli_18
+	rotate: true
+	xy: 964, 568
+	size: 33, 36
+	orig: 35, 36
+	offset: 1, 0
+	index: -1
+magongyadianna_nt_atk_191
+	rotate: false
+	xy: 927, 646
+	size: 35, 29
+	orig: 35, 31
+	offset: 0, 2
+	index: -1
+magongyadianna_nt_atk_192
+	rotate: false
+	xy: 927, 676
+	size: 33, 32
+	orig: 33, 34
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_29
+	rotate: false
+	xy: 725, 647
+	size: 29, 46
+	orig: 29, 46
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_shengli_21
+	rotate: false
+	xy: 742, 276
+	size: 28, 30
+	orig: 28, 30
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_196
+	rotate: true
+	xy: 370, 141
+	size: 57, 36
+	orig: 57, 36
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_10a
+	rotate: true
+	xy: 960, 811
+	size: 26, 32
+	orig: 26, 32
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_11
+	rotate: false
+	xy: 505, 420
+	size: 51, 51
+	orig: 51, 53
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_10
+	rotate: false
+	xy: 184, 561
+	size: 55, 64
+	orig: 61, 64
+	offset: 6, 0
+	index: -1
+magongyadianna_nt_skl2_15
+	rotate: false
+	xy: 546, 156
+	size: 30, 50
+	orig: 30, 50
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_17
+	rotate: true
+	xy: 544, 715
+	size: 53, 38
+	orig: 53, 38
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_1
+	rotate: false
+	xy: 877, 960
+	size: 41, 43
+	orig: 41, 43
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_die_bu6_5
+	rotate: false
+	xy: 576, 940
+	size: 53, 56
+	orig: 53, 56
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_13
+	rotate: true
+	xy: 764, 787
+	size: 45, 22
+	orig: 45, 22
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_84
+	rotate: true
+	xy: 419, 312
+	size: 55, 28
+	orig: 55, 28
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_174
+	rotate: true
+	xy: 843, 840
+	size: 31, 29
+	orig: 31, 29
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_81
+	rotate: false
+	xy: 927, 619
+	size: 36, 26
+	orig: 36, 26
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_20
+	rotate: false
+	xy: 666, 358
+	size: 32, 41
+	orig: 32, 41
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_82
+	rotate: true
+	xy: 66, 976
+	size: 46, 62
+	orig: 52, 62
+	offset: 6, 0
+	index: -1
+magongyadianna_nt_runsgd_30
+	rotate: false
+	xy: 650, 647
+	size: 39, 46
+	orig: 39, 46
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_31
+	rotate: false
+	xy: 660, 924
+	size: 39, 45
+	orig: 39, 45
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_32
+	rotate: false
+	xy: 143, 213
+	size: 67, 71
+	orig: 67, 71
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_34
+	rotate: false
+	xy: 742, 175
+	size: 28, 34
+	orig: 28, 34
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_178
+	rotate: false
+	xy: 499, 666
+	size: 43, 55
+	orig: 43, 55
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_1
+	rotate: false
+	xy: 961, 721
+	size: 32, 32
+	orig: 32, 32
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_0
+	rotate: true
+	xy: 627, 201
+	size: 48, 31
+	orig: 48, 31
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_3
+	rotate: false
+	xy: 869, 886
+	size: 31, 29
+	orig: 31, 29
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_5
+	rotate: true
+	xy: 663, 795
+	size: 46, 33
+	orig: 46, 33
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_4
+	rotate: false
+	xy: 878, 317
+	size: 39, 39
+	orig: 41, 39
+	offset: 1, 0
+	index: -1
+magongyadianna_nt_skl2_9
+	rotate: false
+	xy: 2, 776
+	size: 65, 67
+	orig: 65, 67
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_218
+	rotate: false
+	xy: 631, 600
+	size: 42, 46
+	orig: 42, 46
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_27
+	rotate: true
+	xy: 65, 844
+	size: 65, 55
+	orig: 65, 55
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_29
+	rotate: true
+	xy: 714, 600
+	size: 46, 34
+	orig: 46, 34
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_54
+	rotate: true
+	xy: 650, 51
+	size: 48, 36
+	orig: 48, 36
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_paobu_yan2
+	rotate: false
+	xy: 978, 232
+	size: 43, 51
+	orig: 43, 51
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan3
+	rotate: false
+	xy: 978, 284
+	size: 43, 51
+	orig: 43, 51
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_diying_dy
+	rotate: false
+	xy: 656, 2
+	size: 305, 97
+	orig: 305, 97
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_paobu_yan0
+	rotate: false
+	xy: 532, 583
+	size: 49, 50
+	orig: 49, 50
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan1
+	rotate: false
+	xy: 345, 619
+	size: 49, 49
+	orig: 49, 49
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan4
+	rotate: false
+	xy: 532, 531
+	size: 49, 51
+	orig: 49, 51
+	offset: 0, 0
+	index: -1
+
+asset/spine/yadiannaMGSZ_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+magongyadianna_nt_skl_bu1
+	rotate: true
+	xy: 843, 2
+	size: 152, 158
+	orig: 156, 158
+	offset: 4, 0
+	index: -1
+magongyadianna_nt_runsgd_52
+	rotate: true
+	xy: 261, 623
+	size: 43, 32
+	orig: 43, 32
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_32
+	rotate: false
+	xy: 2, 739
+	size: 69, 50
+	orig: 69, 50
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_206
+	rotate: false
+	xy: 525, 509
+	size: 52, 37
+	orig: 52, 37
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_199
+	rotate: false
+	xy: 152, 561
+	size: 32, 47
+	orig: 32, 47
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_177
+	rotate: true
+	xy: 981, 364
+	size: 76, 41
+	orig: 76, 41
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_bu_08
+	rotate: false
+	xy: 116, 506
+	size: 64, 54
+	orig: 64, 54
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_die_bu3
+	rotate: false
+	xy: 296, 135
+	size: 262, 194
+	orig: 262, 194
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_die_bu2
+	rotate: false
+	xy: 296, 2
+	size: 281, 132
+	orig: 281, 132
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_die_bu1
+	rotate: false
+	xy: 296, 330
+	size: 228, 220
+	orig: 228, 220
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_27
+	rotate: false
+	xy: 70, 975
+	size: 55, 47
+	orig: 55, 47
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_die_bu5
+	rotate: false
+	xy: 2, 2
+	size: 293, 125
+	orig: 293, 125
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_die_bu4
+	rotate: false
+	xy: 578, 2
+	size: 264, 136
+	orig: 264, 136
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_38
+	rotate: false
+	xy: 72, 739
+	size: 67, 50
+	orig: 67, 50
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_17
+	rotate: true
+	xy: 936, 790
+	size: 74, 39
+	orig: 74, 39
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_144
+	rotate: false
+	xy: 272, 667
+	size: 33, 71
+	orig: 33, 71
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_41
+	rotate: false
+	xy: 117, 561
+	size: 34, 47
+	orig: 34, 47
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_63
+	rotate: false
+	xy: 650, 744
+	size: 62, 83
+	orig: 62, 83
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_60
+	rotate: false
+	xy: 578, 381
+	size: 204, 140
+	orig: 204, 140
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_67
+	rotate: false
+	xy: 2, 790
+	size: 86, 37
+	orig: 86, 37
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_bu_4
+	rotate: false
+	xy: 306, 667
+	size: 15, 25
+	orig: 15, 25
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_bu_6
+	rotate: false
+	xy: 559, 135
+	size: 18, 30
+	orig: 18, 30
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_50
+	rotate: true
+	xy: 783, 446
+	size: 61, 45
+	orig: 61, 53
+	offset: 0, 6
+	index: -1
+magongyadianna_nt_runsgd_1
+	rotate: false
+	xy: 271, 352
+	size: 24, 44
+	orig: 24, 44
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_128
+	rotate: false
+	xy: 635, 973
+	size: 41, 49
+	orig: 41, 49
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_64
+	rotate: true
+	xy: 266, 739
+	size: 50, 55
+	orig: 50, 55
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_62
+	rotate: true
+	xy: 116, 435
+	size: 70, 87
+	orig: 70, 87
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_21
+	rotate: true
+	xy: 270, 975
+	size: 47, 41
+	orig: 49, 41
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_188
+	rotate: false
+	xy: 827, 828
+	size: 64, 74
+	orig: 64, 74
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_5
+	rotate: false
+	xy: 991, 306
+	size: 31, 57
+	orig: 31, 57
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_6
+	rotate: false
+	xy: 580, 973
+	size: 54, 49
+	orig: 54, 49
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_0
+	rotate: true
+	xy: 506, 790
+	size: 37, 48
+	orig: 37, 48
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_77
+	rotate: false
+	xy: 1002, 53
+	size: 20, 42
+	orig: 20, 42
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_58
+	rotate: true
+	xy: 829, 139
+	size: 38, 13
+	orig: 38, 13
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_59
+	rotate: true
+	xy: 829, 139
+	size: 38, 13
+	orig: 38, 13
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_21a
+	rotate: true
+	xy: 506, 682
+	size: 56, 143
+	orig: 56, 143
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_49
+	rotate: false
+	xy: 199, 623
+	size: 61, 43
+	orig: 61, 43
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_72
+	rotate: false
+	xy: 1002, 2
+	size: 20, 50
+	orig: 20, 50
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_130
+	rotate: false
+	xy: 976, 759
+	size: 46, 68
+	orig: 46, 68
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_50
+	rotate: true
+	xy: 728, 609
+	size: 129, 98
+	orig: 133, 98
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_39
+	rotate: true
+	xy: 892, 828
+	size: 74, 43
+	orig: 74, 43
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_43
+	rotate: false
+	xy: 997, 182
+	size: 25, 58
+	orig: 25, 58
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_28
+	rotate: false
+	xy: 876, 790
+	size: 59, 32
+	orig: 61, 32
+	offset: 1, 0
+	index: -1
+magongyadianna_nt_idle_27
+	rotate: false
+	xy: 650, 682
+	size: 77, 61
+	orig: 77, 61
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_20
+	rotate: true
+	xy: 991, 241
+	size: 64, 31
+	orig: 64, 31
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_71
+	rotate: false
+	xy: 674, 903
+	size: 62, 69
+	orig: 62, 69
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_73
+	rotate: true
+	xy: 271, 397
+	size: 43, 24
+	orig: 43, 24
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_75
+	rotate: false
+	xy: 713, 744
+	size: 19, 43
+	orig: 19, 43
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_35
+	rotate: false
+	xy: 829, 545
+	size: 151, 78
+	orig: 151, 90
+	offset: 0, 11
+	index: -1
+magongyadianna_nt_atk_36
+	rotate: true
+	xy: 450, 974
+	size: 48, 65
+	orig: 48, 65
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_1
+	rotate: true
+	xy: 843, 155
+	size: 51, 153
+	orig: 51, 153
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_13
+	rotate: true
+	xy: 981, 441
+	size: 76, 41
+	orig: 76, 41
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_12
+	rotate: false
+	xy: 578, 637
+	size: 60, 44
+	orig: 60, 44
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_shengli_28
+	rotate: false
+	xy: 737, 903
+	size: 60, 69
+	orig: 60, 69
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_16
+	rotate: true
+	xy: 525, 652
+	size: 29, 52
+	orig: 29, 52
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_7
+	rotate: true
+	xy: 555, 790
+	size: 37, 22
+	orig: 37, 22
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_4
+	rotate: true
+	xy: 829, 178
+	size: 6, 13
+	orig: 6, 13
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_63
+	rotate: true
+	xy: 2, 828
+	size: 146, 120
+	orig: 156, 120
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_49
+	rotate: false
+	xy: 650, 828
+	size: 82, 74
+	orig: 82, 74
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_40
+	rotate: true
+	xy: 981, 518
+	size: 67, 41
+	orig: 67, 43
+	offset: 0, 1
+	index: -1
+magongyadianna_nt_runsgd_43
+	rotate: false
+	xy: 80, 561
+	size: 36, 47
+	orig: 36, 47
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_22
+	rotate: true
+	xy: 271, 306
+	size: 45, 24
+	orig: 45, 24
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_96
+	rotate: true
+	xy: 539, 828
+	size: 74, 40
+	orig: 74, 40
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_97
+	rotate: true
+	xy: 204, 500
+	size: 60, 91
+	orig: 62, 91
+	offset: 2, 0
+	index: -1
+magongyadianna_nt_atk_12
+	rotate: true
+	xy: 271, 189
+	size: 58, 24
+	orig: 58, 24
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_die_bu6_1
+	rotate: true
+	xy: 204, 370
+	size: 129, 66
+	orig: 129, 66
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_14
+	rotate: false
+	xy: 225, 975
+	size: 44, 47
+	orig: 44, 47
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_164
+	rotate: true
+	xy: 126, 975
+	size: 47, 49
+	orig: 47, 49
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_25
+	rotate: false
+	xy: 610, 903
+	size: 63, 69
+	orig: 63, 69
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_44
+	rotate: true
+	xy: 2, 128
+	size: 241, 268
+	orig: 241, 268
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_50
+	rotate: false
+	xy: 396, 551
+	size: 128, 76
+	orig: 128, 76
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_198
+	rotate: false
+	xy: 733, 739
+	size: 93, 123
+	orig: 99, 125
+	offset: 6, 1
+	index: -1
+magongyadianna_nt_runsgd_68
+	rotate: false
+	xy: 68, 480
+	size: 47, 35
+	orig: 47, 35
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_16
+	rotate: false
+	xy: 2, 975
+	size: 67, 47
+	orig: 67, 47
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_80
+	rotate: false
+	xy: 382, 974
+	size: 67, 48
+	orig: 67, 48
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_runsgd_33
+	rotate: false
+	xy: 123, 828
+	size: 74, 146
+	orig: 74, 146
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_88
+	rotate: false
+	xy: 525, 459
+	size: 52, 49
+	orig: 52, 49
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_skl2_7
+	rotate: true
+	xy: 677, 973
+	size: 49, 41
+	orig: 55, 41
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_6
+	rotate: false
+	xy: 215, 790
+	size: 50, 37
+	orig: 50, 37
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_219
+	rotate: false
+	xy: 271, 128
+	size: 24, 60
+	orig: 24, 60
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_195
+	rotate: false
+	xy: 322, 551
+	size: 73, 43
+	orig: 73, 43
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_6
+	rotate: true
+	xy: 829, 325
+	size: 116, 151
+	orig: 116, 151
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_9
+	rotate: false
+	xy: 733, 863
+	size: 79, 39
+	orig: 79, 39
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_3
+	rotate: true
+	xy: 578, 522
+	size: 114, 149
+	orig: 114, 149
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_2
+	rotate: true
+	xy: 827, 675
+	size: 114, 148
+	orig: 114, 148
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_0
+	rotate: true
+	xy: 827, 624
+	size: 50, 149
+	orig: 50, 149
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_7
+	rotate: true
+	xy: 838, 207
+	size: 117, 152
+	orig: 117, 152
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_5
+	rotate: false
+	xy: 322, 682
+	size: 120, 145
+	orig: 120, 145
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_bisha1_4
+	rotate: false
+	xy: 273, 828
+	size: 122, 145
+	orig: 122, 145
+	offset: 0, 0
+	index: -1
+
+asset/spine/yadiannaMGSZ_role2.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+magongyadianna_nt_bisha1_38
+	rotate: false
+	xy: 2, 2
+	size: 26, 28
+	orig: 26, 28
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_atk_48
+	rotate: false
+	xy: 29, 2
+	size: 26, 27
+	orig: 26, 27
+	offset: 0, 0
+	index: -1
+magongyadianna_nt_idle_bu_3ab
+	rotate: true
+	xy: 102, 50
+	size: 26, 21
+	orig: 26, 21
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>bg_qlxrqtl_WorldCup.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{946,616}}</string>
+			<key>offset</key>
+			<string>{-2,0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{946,616}}</string>
+			<key>sourceSize</key>
+			<string>{950,616}</string>
+		</dict>
+		<key>bg_qlxrqtl_ditu.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,950},{874,610}}</string>
+			<key>offset</key>
+			<string>{38,3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{76,0},{874,610}}</string>
+			<key>sourceSize</key>
+			<string>{950,616}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>ActivityCool0.png</string>
+		<key>size</key>
+		<string>{620,1826}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>ActivityCool0.png</string>
+	</dict>
+</dict>
+</plist>

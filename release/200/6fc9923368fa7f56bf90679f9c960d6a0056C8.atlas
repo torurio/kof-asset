@@ -1,0 +1,1125 @@
+
+asset/spine/global_spinehero_effect5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx3
+	rotate: false
+	xy: 899, 851
+	size: 121, 106
+	orig: 121, 106
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx2
+	rotate: false
+	xy: 341, 900
+	size: 143, 122
+	orig: 143, 122
+	offset: 0, 0
+	index: -1
+
+asset/spine/teruiTR_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_xzltr_putongbisha_bq_00035
+	rotate: false
+	xy: 450, 370
+	size: 27, 51
+	orig: 77, 165
+	offset: 37, 72
+	index: -1
+effect/common/New_xzltr_putongbisha2_zdtw_00032
+	rotate: true
+	xy: 460, 76
+	size: 24, 23
+	orig: 64, 87
+	offset: 3, 61
+	index: -1
+
+asset/spine/global_spinehero_effect14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx1
+	rotate: false
+	xy: 855, 584
+	size: 167, 157
+	orig: 167, 157
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx0
+	rotate: true
+	xy: 777, 838
+	size: 184, 180
+	orig: 184, 180
+	offset: 0, 0
+	index: -1
+
+asset/spine/teruiTRSC_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_szcczltr_liumenbisha_bo_00093
+	rotate: true
+	xy: 517, 366
+	size: 33, 12
+	orig: 265, 222
+	offset: 152, 95
+	index: -1
+effect/common/New_szcczltr_putongbisha_qj_00035
+	rotate: true
+	xy: 546, 812
+	size: 210, 103
+	orig: 230, 119
+	offset: 1, 9
+	index: -1
+effect/common/New_szcczltr_putongbisha_qj_00037
+	rotate: true
+	xy: 2, 795
+	size: 226, 113
+	orig: 230, 119
+	offset: 0, 5
+	index: -1
+effect/common/New_szcczltr_putongbisha_bq_00018
+	rotate: true
+	xy: 546, 565
+	size: 246, 244
+	orig: 264, 252
+	offset: 7, 4
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bqg_00079
+	rotate: false
+	xy: 2, 2
+	size: 271, 197
+	orig: 277, 207
+	offset: 5, 0
+	index: -1
+effect/common/New_szcczltr_putongbisha_bz_00068
+	rotate: false
+	xy: 274, 84
+	size: 263, 190
+	orig: 265, 202
+	offset: 0, 0
+	index: -1
+effect/common/New_szcczltr_putongbisha_bq_00002
+	rotate: false
+	xy: 806, 2
+	size: 214, 214
+	orig: 264, 252
+	offset: 23, 20
+	index: -1
+effect/common/New_szcczltr_putongbisha_bq_00004
+	rotate: false
+	xy: 2, 562
+	size: 252, 232
+	orig: 264, 252
+	offset: 0, 20
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bq_00047
+	rotate: false
+	xy: 262, 275
+	size: 254, 252
+	orig: 258, 252
+	offset: 4, 0
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bq_00043
+	rotate: true
+	xy: 116, 795
+	size: 224, 200
+	orig: 258, 252
+	offset: 17, 28
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bq_00022
+	rotate: false
+	xy: 538, 312
+	size: 252, 252
+	orig: 264, 252
+	offset: 4, 0
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bo_00073
+	rotate: true
+	xy: 800, 217
+	size: 253, 222
+	orig: 265, 222
+	offset: 0, 0
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bq_00004
+	rotate: false
+	xy: 256, 528
+	size: 252, 232
+	orig: 264, 252
+	offset: 0, 20
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bqg_00081
+	rotate: false
+	xy: 2, 200
+	size: 259, 195
+	orig: 277, 207
+	offset: 3, 0
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bqg_00077
+	rotate: false
+	xy: 2, 396
+	size: 253, 165
+	orig: 277, 207
+	offset: 13, 19
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bz_00059
+	rotate: false
+	xy: 791, 675
+	size: 94, 136
+	orig: 202, 176
+	offset: 58, 31
+	index: -1
+effect/common/New_szcczltr_putongbisha_bq_00022
+	rotate: true
+	xy: 650, 812
+	size: 208, 204
+	orig: 264, 252
+	offset: 26, 21
+	index: -1
+
+asset/spine/teruiTRSC_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_szcczltr_putongbisha_bz_00076
+	rotate: false
+	xy: 2, 467
+	size: 235, 156
+	orig: 265, 202
+	offset: 7, 30
+	index: -1
+effect/common/New_szcczltr_putongbisha_bz_00072
+	rotate: false
+	xy: 749, 195
+	size: 243, 160
+	orig: 265, 202
+	offset: 3, 21
+	index: -1
+effect/common/New_szcczltr_putongbisha_qj_00033
+	rotate: false
+	xy: 823, 937
+	size: 198, 77
+	orig: 230, 119
+	offset: 0, 21
+	index: -1
+effect/common/New_xzltr_putongbisha_yan_00031
+	rotate: true
+	xy: 712, 245
+	size: 42, 36
+	orig: 72, 70
+	offset: 27, 8
+	index: -1
+effect/common/New_szcczltr_putongbisha_bz_00064
+	rotate: false
+	xy: 241, 80
+	size: 237, 164
+	orig: 265, 202
+	offset: 0, 5
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bq_00051
+	rotate: false
+	xy: 621, 705
+	size: 82, 96
+	orig: 258, 252
+	offset: 86, 106
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bq_00045
+	rotate: false
+	xy: 2, 234
+	size: 236, 232
+	orig: 258, 252
+	offset: 12, 9
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bo_00075
+	rotate: false
+	xy: 749, 2
+	size: 245, 192
+	orig: 265, 222
+	offset: 19, 30
+	index: -1
+effect/common/New_szcczltr_putongbisha_bq_00016
+	rotate: false
+	xy: 238, 583
+	size: 218, 218
+	orig: 264, 252
+	offset: 21, 16
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bq_00024
+	rotate: true
+	xy: 2, 802
+	size: 218, 212
+	orig: 264, 252
+	offset: 21, 16
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bq_00031
+	rotate: false
+	xy: 353, 802
+	size: 214, 214
+	orig: 258, 252
+	offset: 23, 20
+	index: -1
+effect/common/New_szcczltr_putongbisha_bq_00006
+	rotate: true
+	xy: 568, 802
+	size: 212, 182
+	orig: 264, 252
+	offset: 24, 43
+	index: -1
+effect/common/New_szcczltr_xiaojineng_zh_00025
+	rotate: false
+	xy: 712, 288
+	size: 34, 65
+	orig: 76, 115
+	offset: 42, 14
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bq_00020
+	rotate: false
+	xy: 712, 356
+	size: 234, 234
+	orig: 264, 252
+	offset: 13, 9
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bo_00087
+	rotate: true
+	xy: 947, 807
+	size: 119, 74
+	orig: 265, 222
+	offset: 70, 56
+	index: -1
+effect/common/New_szcczltr_putongbisha_bq_00020
+	rotate: false
+	xy: 502, 2
+	size: 246, 242
+	orig: 264, 252
+	offset: 7, 5
+	index: -1
+effect/common/New_szcczltr_putongbisha_zh_00068
+	rotate: true
+	xy: 705, 607
+	size: 194, 79
+	orig: 228, 93
+	offset: 32, 6
+	index: -1
+
+asset/spine/teruiTRSC_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_szcczltr_liumenbisha_bo_00057
+	rotate: false
+	xy: 707, 585
+	size: 141, 118
+	orig: 265, 222
+	offset: 58, 21
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bo_00053
+	rotate: false
+	xy: 766, 898
+	size: 141, 124
+	orig: 265, 222
+	offset: 58, 21
+	index: -1
+effect/common/New_szcczltr_putongbisha_bq_00012
+	rotate: false
+	xy: 564, 585
+	size: 142, 118
+	orig: 264, 252
+	offset: 67, 75
+	index: -1
+effect/common/New_szcczltr_putongbisha_bq_00014
+	rotate: true
+	xy: 194, 443
+	size: 182, 186
+	orig: 264, 252
+	offset: 38, 30
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bo_00077
+	rotate: false
+	xy: 837, 116
+	size: 183, 192
+	orig: 265, 222
+	offset: 41, 30
+	index: -1
+effect/common/New_szcczltr_putongbisha2_zdtw4_00106
+	rotate: true
+	xy: 771, 440
+	size: 78, 37
+	orig: 158, 111
+	offset: 80, 29
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bo_00079
+	rotate: false
+	xy: 206, 256
+	size: 193, 186
+	orig: 265, 222
+	offset: 34, 36
+	index: -1
+effect/common/New_szcczltr_putongbisha_bz_00084
+	rotate: false
+	xy: 400, 415
+	size: 187, 162
+	orig: 265, 202
+	offset: 45, 30
+	index: -1
+effect/common/New_szcczltr_putongbisha_bz_00080
+	rotate: false
+	xy: 2, 539
+	size: 183, 156
+	orig: 265, 202
+	offset: 47, 30
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bq_00033
+	rotate: true
+	xy: 151, 828
+	size: 174, 170
+	orig: 258, 252
+	offset: 42, 41
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bq_00037
+	rotate: false
+	xy: 493, 704
+	size: 134, 122
+	orig: 258, 252
+	offset: 42, 78
+	index: -1
+effect/common/New_szcczltr_putongbisha_bz_00088
+	rotate: false
+	xy: 2, 374
+	size: 191, 164
+	orig: 265, 202
+	offset: 46, 31
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bq_00035
+	rotate: true
+	xy: 884, 539
+	size: 148, 138
+	orig: 258, 252
+	offset: 44, 63
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bz_00037
+	rotate: false
+	xy: 588, 440
+	size: 182, 144
+	orig: 202, 176
+	offset: 0, 3
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bq_00006
+	rotate: false
+	xy: 2, 2
+	size: 212, 180
+	orig: 264, 252
+	offset: 24, 44
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bqg_00083
+	rotate: true
+	xy: 809, 309
+	size: 119, 189
+	orig: 277, 207
+	offset: 82, 16
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bq_00018
+	rotate: false
+	xy: 420, 98
+	size: 198, 198
+	orig: 264, 252
+	offset: 30, 27
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bq_00016
+	rotate: false
+	xy: 2, 828
+	size: 148, 178
+	orig: 264, 252
+	offset: 54, 33
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bq_00014
+	rotate: true
+	xy: 761, 704
+	size: 120, 88
+	orig: 264, 252
+	offset: 87, 97
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bqg_00075
+	rotate: false
+	xy: 809, 429
+	size: 189, 109
+	orig: 277, 207
+	offset: 46, 49
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bz_00051
+	rotate: true
+	xy: 628, 704
+	size: 122, 132
+	orig: 202, 176
+	offset: 51, 29
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bo_00081
+	rotate: false
+	xy: 2, 183
+	size: 203, 190
+	orig: 265, 222
+	offset: 30, 32
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bo_00083
+	rotate: true
+	xy: 400, 297
+	size: 117, 188
+	orig: 265, 222
+	offset: 66, 34
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bo_00085
+	rotate: true
+	xy: 381, 578
+	size: 125, 182
+	orig: 265, 222
+	offset: 64, 40
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bz_00041
+	rotate: false
+	xy: 636, 2
+	size: 200, 174
+	orig: 202, 176
+	offset: 0, 0
+	index: -1
+effect/common/New_szcczltr_xiaojineng_zh_00017
+	rotate: true
+	xy: 766, 825
+	size: 66, 81
+	orig: 76, 115
+	offset: 8, 29
+	index: -1
+effect/common/New_szcczltr_putongbisha_zh_00064
+	rotate: false
+	xy: 619, 177
+	size: 190, 81
+	orig: 228, 93
+	offset: 38, 5
+	index: -1
+effect/common/New_szcczltr_putongbisha_zh_00066
+	rotate: false
+	xy: 215, 2
+	size: 212, 81
+	orig: 228, 93
+	offset: 16, 5
+	index: -1
+effect/common/New_szcczltr_putongbisha_zh_00062
+	rotate: false
+	xy: 186, 626
+	size: 182, 89
+	orig: 228, 93
+	offset: 0, 1
+	index: -1
+
+asset/spine/teruiTRSC_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_szcczltr_putongbisha_qj_00039
+	rotate: true
+	xy: 2, 324
+	size: 160, 109
+	orig: 230, 119
+	offset: 68, 10
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bz_00069
+	rotate: false
+	xy: 610, 535
+	size: 74, 44
+	orig: 202, 176
+	offset: 79, 101
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bz_00063
+	rotate: false
+	xy: 692, 2
+	size: 86, 126
+	orig: 202, 176
+	offset: 67, 35
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bo_00059
+	rotate: true
+	xy: 334, 610
+	size: 135, 100
+	orig: 265, 222
+	offset: 66, 40
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bo_00055
+	rotate: true
+	xy: 276, 2
+	size: 145, 106
+	orig: 265, 222
+	offset: 56, 35
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bo_00051
+	rotate: true
+	xy: 644, 130
+	size: 127, 98
+	orig: 265, 222
+	offset: 56, 35
+	index: -1
+effect/common/New_szcczltr_putongbisha_bz_00061
+	rotate: false
+	xy: 530, 871
+	size: 77, 92
+	orig: 265, 202
+	offset: 96, 45
+	index: -1
+effect/common/New_szcczltr_putongbisha_bq_00010
+	rotate: true
+	xy: 2, 806
+	size: 156, 114
+	orig: 264, 252
+	offset: 56, 84
+	index: -1
+effect/common/New_szcczltr_putongbisha_bq_00008
+	rotate: true
+	xy: 112, 324
+	size: 158, 134
+	orig: 264, 252
+	offset: 43, 66
+	index: -1
+effect/common/New_szcczltr_putongbisha_bz_00096
+	rotate: true
+	xy: 883, 630
+	size: 93, 96
+	orig: 265, 202
+	offset: 152, 105
+	index: -1
+effect/common/New_szcczltr_putongbisha_bz_00092
+	rotate: false
+	xy: 536, 138
+	size: 107, 128
+	orig: 265, 202
+	offset: 137, 73
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bq_00049
+	rotate: false
+	xy: 2, 2
+	size: 158, 160
+	orig: 258, 252
+	offset: 39, 48
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bq_00041
+	rotate: true
+	xy: 2, 163
+	size: 160, 150
+	orig: 258, 252
+	offset: 50, 49
+	index: -1
+effect/common/New_szcczltr_putongbisha2_zdtw4_00102
+	rotate: true
+	xy: 201, 483
+	size: 150, 69
+	orig: 158, 111
+	offset: 0, 8
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bo_00071
+	rotate: true
+	xy: 112, 644
+	size: 153, 112
+	orig: 265, 222
+	offset: 44, 32
+	index: -1
+effect/common/New_xzltr_putongbisha2_zdtw_00036
+	rotate: false
+	xy: 685, 528
+	size: 70, 95
+	orig: 70, 95
+	offset: 0, 0
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bq_00039
+	rotate: true
+	xy: 153, 163
+	size: 156, 114
+	orig: 258, 252
+	offset: 56, 84
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bo_00069
+	rotate: true
+	xy: 423, 141
+	size: 137, 112
+	orig: 265, 222
+	offset: 63, 24
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bz_00034
+	rotate: true
+	xy: 754, 724
+	size: 62, 64
+	orig: 202, 176
+	offset: 70, 34
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bq_00008
+	rotate: true
+	xy: 66, 485
+	size: 158, 134
+	orig: 264, 252
+	offset: 43, 66
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bq_00002
+	rotate: false
+	xy: 134, 943
+	size: 144, 78
+	orig: 264, 252
+	offset: 70, 119
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bo_00067
+	rotate: true
+	xy: 501, 714
+	size: 131, 116
+	orig: 265, 222
+	offset: 63, 24
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bo_00065
+	rotate: true
+	xy: 415, 880
+	size: 133, 114
+	orig: 265, 222
+	offset: 62, 22
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bo_00063
+	rotate: true
+	xy: 250, 777
+	size: 135, 116
+	orig: 265, 222
+	offset: 63, 24
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bo_00061
+	rotate: false
+	xy: 279, 913
+	size: 135, 108
+	orig: 265, 222
+	offset: 64, 22
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bz_00067
+	rotate: true
+	xy: 881, 724
+	size: 86, 96
+	orig: 202, 176
+	offset: 67, 64
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bq_00012
+	rotate: true
+	xy: 225, 634
+	size: 142, 108
+	orig: 264, 252
+	offset: 67, 84
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bq_00010
+	rotate: true
+	xy: 161, 2
+	size: 156, 114
+	orig: 264, 252
+	offset: 56, 84
+	index: -1
+effect/common/New_xzltr_putongbisha2_zdtw_00044
+	rotate: false
+	xy: 976, 836
+	size: 46, 49
+	orig: 70, 95
+	offset: 14, 19
+	index: -1
+effect/common/New_szcczltr_xiaojineng_zh_00023
+	rotate: true
+	xy: 883, 515
+	size: 56, 99
+	orig: 76, 115
+	offset: 20, 0
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bqg_00073
+	rotate: true
+	xy: 548, 581
+	size: 119, 93
+	orig: 277, 207
+	offset: 83, 60
+	index: -1
+effect/common/New_szcczltr_putongbisha_qj_00041
+	rotate: true
+	xy: 268, 159
+	size: 146, 101
+	orig: 230, 119
+	offset: 84, 10
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bo_00091
+	rotate: false
+	xy: 756, 635
+	size: 69, 88
+	orig: 265, 222
+	offset: 118, 38
+	index: -1
+effect/common/New_szcczltr_putongbisha_qj_00045
+	rotate: true
+	xy: 885, 295
+	size: 98, 101
+	orig: 230, 119
+	offset: 77, 13
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bz_00055
+	rotate: false
+	xy: 435, 581
+	size: 112, 132
+	orig: 202, 176
+	offset: 51, 30
+	index: -1
+effect/common/New_xzltr_putongbisha_bq_00041
+	rotate: false
+	xy: 383, 2
+	size: 65, 138
+	orig: 85, 180
+	offset: 18, 34
+	index: -1
+effect/common/New_szcczltr_putongbisha2_zdtw4_00094
+	rotate: true
+	xy: 743, 129
+	size: 110, 97
+	orig: 158, 111
+	offset: 28, 12
+	index: -1
+effect/common/New_szcczltr_putongbisha2_zdtw4_00090
+	rotate: false
+	xy: 832, 323
+	size: 52, 53
+	orig: 158, 111
+	offset: 58, 11
+	index: -1
+effect/common/New_szcczltr_putongbisha2_zdtw4_00092
+	rotate: false
+	xy: 885, 199
+	size: 102, 95
+	orig: 158, 111
+	offset: 33, 9
+	index: -1
+effect/common/New_szcczltr_putongbisha2_zdtw4_00098
+	rotate: true
+	xy: 659, 409
+	size: 118, 97
+	orig: 158, 111
+	offset: 18, 10
+	index: -1
+effect/common/New_szcczltr_liumenbisha_bo_00089
+	rotate: false
+	xy: 887, 2
+	size: 107, 94
+	orig: 265, 222
+	offset: 70, 33
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bz_00045
+	rotate: false
+	xy: 345, 306
+	size: 134, 140
+	orig: 202, 176
+	offset: 28, 14
+	index: -1
+effect/common/New_szcczltr_putongbisha_zh_00070
+	rotate: true
+	xy: 660, 258
+	size: 116, 57
+	orig: 228, 93
+	offset: 82, 10
+	index: -1
+effect/common/New_szcczltr_putongbisha2_bz_00049
+	rotate: true
+	xy: 117, 798
+	size: 144, 132
+	orig: 202, 176
+	offset: 20, 27
+	index: -1
+effect/common/New_szcczltr_xiaojineng_zh_00019
+	rotate: true
+	xy: 884, 458
+	size: 56, 101
+	orig: 76, 115
+	offset: 19, 1
+	index: -1
+effect/common/New_szcczltr_xiaojineng_zh_00015
+	rotate: true
+	xy: 983, 515
+	size: 60, 39
+	orig: 76, 115
+	offset: 0, 76
+	index: -1
+effect/common/New_szcczltr_putongbisha_qj_00049
+	rotate: true
+	xy: 981, 576
+	size: 68, 41
+	orig: 230, 119
+	offset: 116, 39
+	index: -1
+effect/common/New_szcczltr_putongbisha_zh_00060
+	rotate: true
+	xy: 879, 869
+	size: 78, 93
+	orig: 228, 93
+	offset: 13, 0
+	index: -1
+
+asset/spine/global_spinehero_effect1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx5
+	rotate: true
+	xy: 575, 984
+	size: 29, 27
+	orig: 29, 27
+	offset: 0, 0
+	index: -1
+effect/global/swdjtx4
+	rotate: true
+	xy: 226, 612
+	size: 67, 60
+	orig: 67, 60
+	offset: 0, 0
+	index: -1
+
+asset/spine/teruiTRSZ_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_xzltr_putongbisha2_sty_00082
+	rotate: false
+	xy: 280, 955
+	size: 48, 67
+	orig: 68, 95
+	offset: 5, 23
+	index: -1
+
+asset/spine/teruiTRSZ_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_xzltr_putongbisha2_sty_00088
+	rotate: true
+	xy: 967, 134
+	size: 44, 55
+	orig: 68, 95
+	offset: 0, 34
+	index: -1
+effect/common/New_xzltr_putongbisha_yan_00043
+	rotate: true
+	xy: 705, 360
+	size: 40, 21
+	orig: 78, 75
+	offset: 30, 16
+	index: -1
+effect/common/New_xzltr_putongbisha_yan_00047
+	rotate: false
+	xy: 340, 292
+	size: 26, 19
+	orig: 78, 75
+	offset: 32, 18
+	index: -1
+effect/common/New_xzltr_putongbisha2_sty_00068
+	rotate: true
+	xy: 907, 134
+	size: 64, 59
+	orig: 68, 95
+	offset: 4, 1
+	index: -1
+effect/common/New_xzltr_putongbisha2_sty_00064
+	rotate: true
+	xy: 457, 292
+	size: 16, 27
+	orig: 68, 95
+	offset: 32, 7
+	index: -1
+effect/common/New_xzltr_putongbisha2_sty_00072
+	rotate: true
+	xy: 833, 134
+	size: 64, 73
+	orig: 68, 95
+	offset: 4, 0
+	index: -1
+
+asset/spine/teruiTR_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_xzltr_putongbisha2_sty_00080
+	rotate: true
+	xy: 413, 982
+	size: 39, 62
+	orig: 57, 80
+	offset: 7, 12
+	index: -1
+effect/common/New_xzltr_putongbisha2_sty_00086
+	rotate: true
+	xy: 709, 332
+	size: 37, 54
+	orig: 57, 80
+	offset: 1, 26
+	index: -1
+effect/common/New_xzltr_putongbisha_bq_00039
+	rotate: true
+	xy: 355, 772
+	size: 51, 105
+	orig: 77, 165
+	offset: 22, 44
+	index: -1
+effect/common/New_xzltr_putongbisha2_zdtw_00056
+	rotate: false
+	xy: 402, 370
+	size: 32, 43
+	orig: 64, 87
+	offset: 11, 25
+	index: -1
+effect/common/New_xzltr_putongbisha2_zdtw_00040
+	rotate: false
+	xy: 693, 491
+	size: 56, 83
+	orig: 64, 87
+	offset: 3, 0
+	index: -1
+effect/common/New_xzltr_putongbisha2_zdtw_00048
+	rotate: false
+	xy: 330, 370
+	size: 36, 43
+	orig: 64, 87
+	offset: 12, 21
+	index: -1
+effect/common/New_xzltr_putongbisha_bq_00045
+	rotate: false
+	xy: 523, 580
+	size: 53, 153
+	orig: 77, 165
+	offset: 3, 11
+	index: -1
+effect/common/New_xzltr_putongbisha_bq_00047
+	rotate: false
+	xy: 700, 820
+	size: 57, 147
+	orig: 77, 165
+	offset: 0, 0
+	index: -1
+effect/common/New_xzltr_putongbisha2_zdtw_00034
+	rotate: false
+	xy: 628, 491
+	size: 64, 83
+	orig: 64, 87
+	offset: 0, 0
+	index: -1
+effect/common/New_xzltr_putongbisha2_sty_00066
+	rotate: false
+	xy: 541, 982
+	size: 51, 38
+	orig: 57, 80
+	offset: 6, 1
+	index: -1
+effect/common/New_xzltr_putongbisha2_sty_00076
+	rotate: true
+	xy: 956, 664
+	size: 51, 62
+	orig: 57, 80
+	offset: 6, 6
+	index: -1
+effect/common/New_xzltr_putongbisha2_sty_00074
+	rotate: true
+	xy: 956, 612
+	size: 51, 62
+	orig: 57, 80
+	offset: 6, 1
+	index: -1
+effect/common/New_xzltr_putongbisha2_sty_00070
+	rotate: true
+	xy: 833, 967
+	size: 55, 56
+	orig: 57, 80
+	offset: 2, 0
+	index: -1
+effect/common/New_xzltr_putongbisha2_zdtw_00052
+	rotate: false
+	xy: 367, 370
+	size: 34, 43
+	orig: 64, 87
+	offset: 11, 24
+	index: -1
+effect/common/New_xzltr_putongbisha_bq_00037
+	rotate: true
+	xy: 435, 370
+	size: 39, 77
+	orig: 77, 165
+	offset: 30, 58
+	index: -1
+
+asset/spine/teruiTRSZ_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_xzltr_putongbisha_yan_00039
+	rotate: true
+	xy: 824, 326
+	size: 48, 39
+	orig: 78, 75
+	offset: 24, 16
+	index: -1
+effect/common/xzltr_daiji_xx2_00028
+	rotate: true
+	xy: 71, 240
+	size: 206, 195
+	orig: 206, 195
+	offset: 0, 0
+	index: -1
+effect/common/New_xzltr_putongbisha2_sty_00078
+	rotate: true
+	xy: 662, 804
+	size: 58, 73
+	orig: 68, 95
+	offset: 8, 9
+	index: -1
+
+asset/spine/teruiTRSZ_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_xzltr_putongbisha_yan_00035
+	rotate: false
+	xy: 285, 859
+	size: 72, 63
+	orig: 78, 75
+	offset: 5, 6
+	index: -1
+effect/common/New_xzltr_putongbisha2_sty_00084
+	rotate: false
+	xy: 407, 859
+	size: 44, 63
+	orig: 68, 95
+	offset: 3, 30
+	index: -1
+
+asset/spine/teruiTR_common2.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_xzltr_putongbisha_bq_00043
+	rotate: true
+	xy: 2, 2
+	size: 61, 143
+	orig: 77, 165
+	offset: 8, 18
+	index: -1

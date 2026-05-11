@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>mask1_xlcldimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{341,153}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{341,153}}</string>
+			<key>sourceSize</key>
+			<string>{341,153}</string>
+		</dict>
+		<key>mask2_xlcldimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,157},{173,232}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{173,232}}</string>
+			<key>sourceSize</key>
+			<string>{173,232}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>xlcldimage.png</string>
+		<key>size</key>
+		<string>{512,512}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>xlcldimage.png</string>
+	</dict>
+</dict>
+</plist>

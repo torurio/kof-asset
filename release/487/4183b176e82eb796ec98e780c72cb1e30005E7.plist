@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>mask01_syydctxk25image.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,132},{121,120}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{121,120}}</string>
+			<key>sourceSize</key>
+			<string>{121,120}</string>
+		</dict>
+		<key>wy_1_1_73172_syydctxk25image.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{132,128}}</string>
+			<key>offset</key>
+			<string>{1,1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{10,10},{132,128}}</string>
+			<key>sourceSize</key>
+			<string>{150,150}</string>
+		</dict>
+		<key>wy_4_4_44847_syydctxk25image.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{136,2},{27,16}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{27,16}}</string>
+			<key>sourceSize</key>
+			<string>{27,16}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>syydctxk25image.png</string>
+		<key>size</key>
+		<string>{256,256}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>syydctxk25image.png</string>
+	</dict>
+</dict>
+</plist>

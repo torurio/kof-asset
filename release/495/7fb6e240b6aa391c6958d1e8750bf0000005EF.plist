@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>pic_r_jbgz_zrtj_neirongdi.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{592,268}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{592,268}}</string>
+			<key>sourceSize</key>
+			<string>{592,268}</string>
+		</dict>
+		<key>pic_r_jbgz_zrtj_touxiangdih.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{596,130},{98,126}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{98,126}}</string>
+			<key>sourceSize</key>
+			<string>{98,126}</string>
+		</dict>
+		<key>pic_r_jbgz_zrtj_touxiangdiz.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{596,2},{98,126}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{98,126}}</string>
+			<key>sourceSize</key>
+			<string>{98,126}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>HeroRecruitNewUi50.png</string>
+		<key>size</key>
+		<string>{696,272}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>HeroRecruitNewUi50.png</string>
+	</dict>
+</dict>
+</plist>

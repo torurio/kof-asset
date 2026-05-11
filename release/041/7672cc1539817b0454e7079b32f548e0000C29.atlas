@@ -1,0 +1,174 @@
+
+asset/spine/ctczUMCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/caitichaizhou98UM_kabei_tp_24
+	rotate: true
+	xy: 539, 410
+	size: 189, 302
+	orig: 197, 302
+	offset: 8, 0
+	index: -1
+role/caitichaizhou98UM_kabei_tp_22
+	rotate: false
+	xy: 788, 631
+	size: 226, 134
+	orig: 228, 134
+	offset: 1, 0
+	index: -1
+role/caitichaizhou98UM_kabei_tp_23
+	rotate: false
+	xy: 539, 600
+	size: 248, 135
+	orig: 264, 441
+	offset: 16, 0
+	index: -1
+role/caitichaizhou98UM_kabei_tp_20
+	rotate: false
+	xy: 224, 2
+	size: 314, 417
+	orig: 314, 417
+	offset: 0, 0
+	index: -1
+role/caitichaizhou98UM_kabei_tp_21
+	rotate: false
+	xy: 221, 996
+	size: 27, 18
+	orig: 27, 20
+	offset: 0, 1
+	index: -1
+role/caitichaizhou98UM_kabei_tp_19
+	rotate: false
+	xy: 581, 766
+	size: 127, 237
+	orig: 127, 237
+	offset: 0, 0
+	index: -1
+role/caitichaizhou98UM_kabei_tp_18
+	rotate: false
+	xy: 539, 191
+	size: 366, 218
+	orig: 366, 218
+	offset: 0, 0
+	index: -1
+role/caitichaizhou98UM_kabei_tp_17
+	rotate: false
+	xy: 380, 830
+	size: 200, 184
+	orig: 200, 184
+	offset: 0, 0
+	index: -1
+role/caitichaizhou98UM_kabei_tp_16
+	rotate: true
+	xy: 178, 939
+	size: 67, 31
+	orig: 67, 31
+	offset: 0, 0
+	index: -1
+role/caitichaizhou98UM_kabei_tp_15
+	rotate: false
+	xy: 224, 420
+	size: 121, 91
+	orig: 121, 91
+	offset: 0, 0
+	index: -1
+role/caitichaizhou98UM_kabei_tp_14
+	rotate: false
+	xy: 2, 518
+	size: 377, 420
+	orig: 379, 420
+	offset: 0, 0
+	index: -1
+role/caitichaizhou98UM_kabei_tp_13
+	rotate: false
+	xy: 2, 2
+	size: 221, 515
+	orig: 221, 515
+	offset: 0, 0
+	index: -1
+role/caitichaizhou98UM_kabei_tp_12
+	rotate: false
+	xy: 842, 410
+	size: 157, 220
+	orig: 157, 220
+	offset: 0, 0
+	index: -1
+role/caitichaizhou98UM_kabei_tp_11
+	rotate: true
+	xy: 539, 2
+	size: 188, 381
+	orig: 188, 383
+	offset: 0, 1
+	index: -1
+role/caitichaizhou98UM_kabei_tp_10
+	rotate: true
+	xy: 178, 1007
+	size: 15, 42
+	orig: 17, 44
+	offset: 1, 1
+	index: -1
+role/caitichaizhou98UM_kabei_tp_9
+	rotate: false
+	xy: 142, 939
+	size: 35, 68
+	orig: 35, 72
+	offset: 0, 1
+	index: -1
+role/caitichaizhou98UM_kabei_tp_8
+	rotate: false
+	xy: 380, 506
+	size: 158, 202
+	orig: 158, 202
+	offset: 0, 0
+	index: -1
+role/caitichaizhou98UM_kabei_tp_7
+	rotate: true
+	xy: 2, 939
+	size: 79, 102
+	orig: 79, 102
+	offset: 0, 0
+	index: -1
+role/caitichaizhou98UM_kabei_tp_6
+	rotate: true
+	xy: 105, 939
+	size: 68, 36
+	orig: 68, 36
+	offset: 0, 0
+	index: -1
+role/caitichaizhou98UM_kabei_tp_5
+	rotate: true
+	xy: 210, 939
+	size: 56, 42
+	orig: 56, 42
+	offset: 0, 0
+	index: -1
+role/caitichaizhou98UM_kabei_tp_4
+	rotate: true
+	xy: 253, 939
+	size: 54, 43
+	orig: 54, 43
+	offset: 0, 0
+	index: -1
+role/caitichaizhou98UM_kabei_tp_3
+	rotate: true
+	xy: 297, 939
+	size: 49, 47
+	orig: 49, 47
+	offset: 0, 0
+	index: -1
+role/caitichaizhou98UM_kabei_tp_2
+	rotate: true
+	xy: 346, 420
+	size: 85, 146
+	orig: 87, 148
+	offset: 1, 1
+	index: -1
+role/caitichaizhou98UM_kabei_tp_1
+	rotate: false
+	xy: 380, 709
+	size: 155, 120
+	orig: 155, 120
+	offset: 0, 0
+	index: -1

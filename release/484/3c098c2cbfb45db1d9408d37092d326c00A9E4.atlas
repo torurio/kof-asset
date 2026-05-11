@@ -1,0 +1,2215 @@
+
+asset/spine/global_spinehero_effect9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_lmbs_huangxuanwo_00014
+	rotate: true
+	xy: 761, 475
+	size: 243, 261
+	orig: 243, 261
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common29.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_sy_lmbs_shoubuhonghuo_00173
+	rotate: false
+	xy: 739, 2
+	size: 283, 349
+	orig: 323, 471
+	offset: 20, 99
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_yaoshouji_00019
+	rotate: false
+	xy: 381, 2
+	size: 357, 365
+	orig: 357, 365
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_huoqiu_00059
+	rotate: true
+	xy: 2, 751
+	size: 271, 279
+	orig: 271, 279
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_liumenbisha_bo_00008
+	rotate: true
+	xy: 282, 749
+	size: 273, 356
+	orig: 273, 356
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_baoguang_00073
+	rotate: false
+	xy: 2, 2
+	size: 378, 378
+	orig: 378, 378
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_sy_lmbs_shoubuhonghuo_00151
+	rotate: false
+	xy: 226, 381
+	size: 299, 367
+	orig: 323, 471
+	offset: 22, 100
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_longtou_00018
+	rotate: false
+	xy: 737, 574
+	size: 285, 322
+	orig: 285, 322
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_huoqiu_00047
+	rotate: false
+	xy: 739, 352
+	size: 275, 221
+	orig: 275, 221
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common28.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxvjr_liumenbisha_huozhuhuo_00073
+	rotate: false
+	xy: 510, 352
+	size: 224, 177
+	orig: 224, 177
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_longtouhuo_00022
+	rotate: false
+	xy: 463, 783
+	size: 295, 237
+	orig: 295, 237
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_huoqiu_00051
+	rotate: false
+	xy: 237, 792
+	size: 225, 226
+	orig: 225, 226
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_xiaojineng_yan_00055
+	rotate: false
+	xy: 759, 325
+	size: 226, 222
+	orig: 226, 222
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_daiji_huo_00018
+	rotate: false
+	xy: 759, 773
+	size: 171, 223
+	orig: 203, 267
+	offset: 12, 13
+	index: -1
+effect/common/Newsz_kxv_xiaojineng_yan_00063
+	rotate: false
+	xy: 2, 792
+	size: 234, 230
+	orig: 234, 230
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_baodian_00072
+	rotate: true
+	xy: 759, 2
+	size: 322, 251
+	orig: 322, 251
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_sy_lmbs_shoubuhonghuo_00161
+	rotate: false
+	xy: 2, 2
+	size: 305, 395
+	orig: 323, 471
+	offset: 0, 38
+	index: -1
+effect/common/Newsz_sy_lmbs_shoubuhonghuo_00169
+	rotate: false
+	xy: 2, 398
+	size: 265, 393
+	orig: 323, 471
+	offset: 27, 67
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_lmbs_huangsebo_00029
+	rotate: false
+	xy: 457, 560
+	size: 102, 101
+	orig: 102, 101
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baobo_00018
+	rotate: false
+	xy: 976, 774
+	size: 20, 20
+	orig: 20, 20
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt14
+	rotate: false
+	xy: 384, 381
+	size: 176, 178
+	orig: 176, 178
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common23.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxvjr_liumenbisha_longtou_00020
+	rotate: false
+	xy: 582, 513
+	size: 279, 284
+	orig: 279, 284
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_shouzhang_00060
+	rotate: true
+	xy: 2, 513
+	size: 408, 289
+	orig: 408, 289
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_shouzhang_00064
+	rotate: false
+	xy: 582, 2
+	size: 408, 289
+	orig: 408, 289
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_liumenbisha_bo_00076
+	rotate: false
+	xy: 2, 2
+	size: 510, 510
+	orig: 510, 510
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_shouzhang_00062
+	rotate: true
+	xy: 292, 513
+	size: 408, 289
+	orig: 408, 289
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common30.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxvjr_liumenbisha_longtou_00008
+	rotate: true
+	xy: 291, 2
+	size: 360, 272
+	orig: 360, 272
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_longtou_00014
+	rotate: false
+	xy: 2, 2
+	size: 288, 364
+	orig: 288, 364
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_longtou_00016
+	rotate: true
+	xy: 2, 732
+	size: 288, 359
+	orig: 288, 359
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_longtouhuo_00006
+	rotate: true
+	xy: 770, 2
+	size: 292, 222
+	orig: 292, 222
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_huozhuhuo_00065
+	rotate: true
+	xy: 362, 732
+	size: 288, 315
+	orig: 288, 315
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common21.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxv_liumenbisha_bo_00080
+	rotate: false
+	xy: 2, 525
+	size: 493, 493
+	orig: 493, 493
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_huozhuhuo_00037
+	rotate: false
+	xy: 496, 525
+	size: 519, 492
+	orig: 519, 492
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_liumenbisha_bo_00020
+	rotate: false
+	xy: 2, 2
+	size: 521, 522
+	orig: 521, 522
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_putongbisha_shouji_00025
+	rotate: true
+	xy: 524, 2
+	size: 491, 492
+	orig: 491, 492
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common20.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxvjr_liumenbisha_shouzhang_00066
+	rotate: false
+	xy: 540, 291
+	size: 408, 289
+	orig: 408, 289
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_liumenbisha_bo_00088
+	rotate: true
+	xy: 540, 2
+	size: 288, 409
+	orig: 288, 409
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_putongbisha_long_00019
+	rotate: false
+	xy: 2, 539
+	size: 507, 169
+	orig: 507, 169
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_liumenbisha_bo_00024
+	rotate: false
+	xy: 2, 2
+	size: 537, 536
+	orig: 537, 536
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_yaoshouji_00021
+	rotate: true
+	xy: 2, 709
+	size: 312, 295
+	orig: 312, 295
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_longtouhuo_00010
+	rotate: false
+	xy: 536, 581
+	size: 484, 388
+	orig: 484, 388
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_laerfu_teshuji_shang_00006
+	rotate: false
+	xy: 2, 648
+	size: 542, 374
+	orig: 542, 394
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_putongbisha_shouji_00049
+	rotate: true
+	xy: 631, 2
+	size: 369, 390
+	orig: 369, 390
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_sy_lmbs_shoubuhonghuo_00155
+	rotate: true
+	xy: 631, 372
+	size: 275, 389
+	orig: 323, 471
+	offset: 28, 66
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_huozhuhuo_00023
+	rotate: false
+	xy: 473, 505
+	size: 156, 101
+	orig: 156, 101
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_xiaojineng_daji_00024
+	rotate: true
+	xy: 2, 505
+	size: 142, 470
+	orig: 142, 470
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_baodian_00077
+	rotate: false
+	xy: 2, 2
+	size: 628, 502
+	orig: 628, 502
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_laerfu_teshuji_shang_00012
+	rotate: false
+	xy: 2, 648
+	size: 542, 374
+	orig: 542, 394
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxvjr_liumenbisha_longtouhuo_00018
+	rotate: true
+	xy: 2, 517
+	size: 505, 321
+	orig: 505, 321
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_shouzhang_00070
+	rotate: true
+	xy: 661, 517
+	size: 332, 235
+	orig: 332, 235
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_liumenbisha_jiaodibo_00022
+	rotate: false
+	xy: 2, 400
+	size: 362, 116
+	orig: 362, 116
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_sy_lmbs_shoubuhonghuo_00159
+	rotate: false
+	xy: 365, 400
+	size: 295, 449
+	orig: 323, 471
+	offset: 28, 0
+	index: -1
+effect/common/Newsz_kxvjr_putongbisha_long_00015
+	rotate: false
+	xy: 324, 850
+	size: 584, 172
+	orig: 584, 172
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_baodian_00086
+	rotate: false
+	xy: 2, 2
+	size: 658, 397
+	orig: 658, 397
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baoqixuli_00015
+	rotate: false
+	xy: 792, 806
+	size: 230, 199
+	orig: 230, 199
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangxuanwo_00026
+	rotate: false
+	xy: 910, 345
+	size: 110, 96
+	orig: 110, 96
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baoqixuli_00007
+	rotate: false
+	xy: 777, 694
+	size: 234, 143
+	orig: 234, 143
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangsebo_00033
+	rotate: true
+	xy: 858, 307
+	size: 165, 163
+	orig: 165, 163
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt18
+	rotate: false
+	xy: 858, 166
+	size: 164, 140
+	orig: 164, 140
+	offset: 0, 0
+	index: -1
+
+asset/spine/laerfuxv_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_laerfu_teshuji_xia_00012
+	rotate: true
+	xy: 990, 949
+	size: 73, 27
+	orig: 73, 27
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_xia_00014
+	rotate: false
+	xy: 944, 555
+	size: 75, 27
+	orig: 75, 27
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_shang_00004
+	rotate: false
+	xy: 944, 448
+	size: 77, 52
+	orig: 77, 52
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_shang_00010
+	rotate: false
+	xy: 944, 448
+	size: 77, 52
+	orig: 77, 52
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_xia_00006
+	rotate: true
+	xy: 990, 949
+	size: 73, 27
+	orig: 73, 27
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_shang_00016
+	rotate: false
+	xy: 944, 448
+	size: 77, 52
+	orig: 77, 52
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_xia_00002
+	rotate: false
+	xy: 944, 555
+	size: 75, 27
+	orig: 75, 27
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_xia_00008
+	rotate: false
+	xy: 944, 555
+	size: 75, 27
+	orig: 75, 27
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxv_putongbisha_quan_00005
+	rotate: true
+	xy: 835, 882
+	size: 134, 183
+	orig: 134, 183
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_yaoshouji_00015
+	rotate: true
+	xy: 600, 2
+	size: 427, 422
+	orig: 427, 422
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_baoyan_00080
+	rotate: true
+	xy: 2, 430
+	size: 581, 405
+	orig: 581, 405
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_huozhuhuo_00049
+	rotate: false
+	xy: 600, 430
+	size: 275, 451
+	orig: 275, 451
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_baodian_00090
+	rotate: false
+	xy: 2, 2
+	size: 597, 385
+	orig: 597, 385
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_xiaojineng_daji_00020
+	rotate: false
+	xy: 408, 388
+	size: 191, 493
+	orig: 191, 493
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common22.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxvjr_putongbisha_long_00027
+	rotate: true
+	xy: 924, 664
+	size: 220, 98
+	orig: 220, 98
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_baodian_00074
+	rotate: true
+	xy: 2, 518
+	size: 501, 383
+	orig: 501, 383
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_huozhuhuo_00025
+	rotate: true
+	xy: 677, 374
+	size: 289, 334
+	orig: 289, 334
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_huozhuhuo_00053
+	rotate: false
+	xy: 386, 518
+	size: 290, 487
+	orig: 290, 487
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_baoyan_00073
+	rotate: false
+	xy: 677, 2
+	size: 341, 176
+	orig: 341, 176
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_putongbisha_shouji_00029
+	rotate: false
+	xy: 2, 2
+	size: 487, 515
+	orig: 487, 515
+	offset: 0, 0
+	index: -1
+
+asset/spine/laerfuxv_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_laerfu_teshuji_xia_00010
+	rotate: true
+	xy: 975, 920
+	size: 81, 29
+	orig: 81, 29
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_xia_00016
+	rotate: true
+	xy: 975, 920
+	size: 81, 29
+	orig: 81, 29
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_shang_00002
+	rotate: true
+	xy: 975, 426
+	size: 66, 47
+	orig: 66, 47
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_xia_00004
+	rotate: true
+	xy: 975, 920
+	size: 81, 29
+	orig: 81, 29
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_shang_00014
+	rotate: true
+	xy: 975, 426
+	size: 66, 47
+	orig: 66, 47
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_shang_00008
+	rotate: true
+	xy: 975, 426
+	size: 66, 47
+	orig: 66, 47
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxvjr_liumenbisha_baodian_00098
+	rotate: true
+	xy: 640, 2
+	size: 415, 382
+	orig: 415, 382
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_putongbisha_long_00023
+	rotate: false
+	xy: 2, 858
+	size: 392, 164
+	orig: 392, 164
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_baoguang_00075
+	rotate: false
+	xy: 2, 170
+	size: 635, 634
+	orig: 635, 634
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_huoqiu_00027
+	rotate: false
+	xy: 395, 805
+	size: 242, 208
+	orig: 242, 208
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_putongbisha_shouji_00045
+	rotate: false
+	xy: 638, 418
+	size: 384, 439
+	orig: 386, 439
+	offset: 1, 0
+	index: -1
+effect/common/Newsz_kxvjr_putongbisha_long_00011
+	rotate: false
+	xy: 2, 2
+	size: 637, 167
+	orig: 637, 167
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_xiaojineng_daji_00008
+	rotate: true
+	xy: 914, 858
+	size: 148, 105
+	orig: 148, 105
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common26.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxvjr_liumenbisha_baodian_00106
+	rotate: false
+	xy: 701, 593
+	size: 319, 174
+	orig: 319, 174
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_longtou_00022
+	rotate: false
+	xy: 701, 768
+	size: 231, 246
+	orig: 231, 246
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_shouzhang_00042
+	rotate: false
+	xy: 292, 292
+	size: 408, 289
+	orig: 408, 289
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_shouzhang_00034
+	rotate: false
+	xy: 292, 582
+	size: 408, 288
+	orig: 408, 288
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_daiji_huo_00028
+	rotate: false
+	xy: 820, 196
+	size: 195, 209
+	orig: 203, 267
+	offset: 0, 41
+	index: -1
+effect/common/Newsz_kxvjr_daiji_huo_00026
+	rotate: true
+	xy: 820, 2
+	size: 193, 199
+	orig: 203, 267
+	offset: 1, 48
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_shouzhang_00038
+	rotate: false
+	xy: 411, 2
+	size: 408, 289
+	orig: 408, 289
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_longtou_00006
+	rotate: false
+	xy: 2, 815
+	size: 289, 207
+	orig: 289, 207
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_shouzhang_00036
+	rotate: false
+	xy: 2, 2
+	size: 408, 289
+	orig: 408, 289
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_shouzhang_00040
+	rotate: true
+	xy: 2, 406
+	size: 408, 289
+	orig: 408, 289
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baoqixuli_00013
+	rotate: true
+	xy: 775, 286
+	size: 237, 215
+	orig: 237, 215
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baobo_00028
+	rotate: true
+	xy: 890, 511
+	size: 144, 126
+	orig: 144, 126
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baobo_00026
+	rotate: true
+	xy: 890, 150
+	size: 140, 132
+	orig: 140, 132
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxv_liumenbisha_bo_00048
+	rotate: false
+	xy: 2, 2
+	size: 537, 547
+	orig: 537, 547
+	offset: 0, 0
+	index: -1
+effect/common/kxvjrsz_liumenbisha_dilie_00007
+	rotate: false
+	xy: 540, 300
+	size: 479, 189
+	orig: 479, 189
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_putongbisha_shouji_00037
+	rotate: false
+	xy: 540, 490
+	size: 418, 529
+	orig: 418, 529
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_laerfu_teshuji_xia_00006
+	rotate: false
+	xy: 549, 221
+	size: 471, 172
+	orig: 565, 202
+	offset: 48, 12
+	index: -1
+effect/common/Newsz_kxv_liumenbisha_bo_00064
+	rotate: false
+	xy: 2, 2
+	size: 546, 577
+	orig: 546, 577
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_putongbisha_quan_00017
+	rotate: true
+	xy: 801, 949
+	size: 55, 114
+	orig: 55, 114
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_huoqiu_00035
+	rotate: false
+	xy: 2, 761
+	size: 278, 261
+	orig: 278, 261
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_laerfu_teshuji_xia_00004
+	rotate: false
+	xy: 281, 840
+	size: 519, 182
+	orig: 565, 202
+	offset: 33, 13
+	index: -1
+effect/common/Newsz_kxv_liumenbisha_bo_00092
+	rotate: false
+	xy: 2, 580
+	size: 278, 173
+	orig: 278, 177
+	offset: 0, 4
+	index: -1
+effect/common/Newsz_laerfu_teshuji_xia_00016
+	rotate: false
+	xy: 281, 840
+	size: 519, 182
+	orig: 565, 202
+	offset: 33, 13
+	index: -1
+effect/common/Newsz_laerfu_teshuji_xia_00010
+	rotate: false
+	xy: 281, 840
+	size: 519, 182
+	orig: 565, 202
+	offset: 33, 13
+	index: -1
+effect/common/Newsz_kxvjr_putongbisha_long_00031
+	rotate: true
+	xy: 549, 761
+	size: 77, 60
+	orig: 155, 60
+	offset: 78, 0
+	index: -1
+effect/common/Newsz_laerfu_teshuji_xia_00012
+	rotate: false
+	xy: 549, 221
+	size: 471, 172
+	orig: 565, 202
+	offset: 48, 12
+	index: -1
+effect/common/Newsz_kxvjr_xiaojineng_daji_00016
+	rotate: true
+	xy: 549, 2
+	size: 218, 471
+	orig: 218, 471
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_daiji_huo_00000
+	rotate: true
+	xy: 801, 761
+	size: 187, 221
+	orig: 203, 267
+	offset: 0, 33
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_huozhuhuo_00069
+	rotate: true
+	xy: 281, 580
+	size: 259, 267
+	orig: 259, 267
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common10.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxvjr_liumenbisha_longtouhuo_00027
+	rotate: true
+	xy: 309, 930
+	size: 79, 197
+	orig: 79, 197
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_huozhuhuo_00028
+	rotate: false
+	xy: 578, 2
+	size: 439, 365
+	orig: 439, 365
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_baoguang_00076
+	rotate: false
+	xy: 2, 369
+	size: 561, 560
+	orig: 561, 560
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_putongbisha_long_00008
+	rotate: false
+	xy: 2, 2
+	size: 575, 163
+	orig: 575, 163
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_laerfu_teshuji_xia_00000
+	rotate: false
+	xy: 2, 166
+	size: 565, 202
+	orig: 565, 202
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common18.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_laerfu_teshuji_shang_00008
+	rotate: false
+	xy: 540, 2
+	size: 426, 302
+	orig: 542, 394
+	offset: 38, 89
+	index: -1
+effect/common/Newsz_laerfu_teshuji_shang_00002
+	rotate: false
+	xy: 540, 2
+	size: 426, 302
+	orig: 542, 394
+	offset: 38, 89
+	index: -1
+effect/common/Newsz_kxv_putongbisha_shouji_00017
+	rotate: false
+	xy: 580, 615
+	size: 403, 404
+	orig: 403, 404
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_laerfu_teshuji_shang_00014
+	rotate: false
+	xy: 540, 2
+	size: 426, 302
+	orig: 542, 394
+	offset: 38, 89
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_huoqiu_00071
+	rotate: false
+	xy: 342, 539
+	size: 196, 185
+	orig: 196, 185
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_sy_lmbs_shoubuhonghuo_00163
+	rotate: true
+	xy: 540, 305
+	size: 309, 425
+	orig: 323, 471
+	offset: 3, 19
+	index: -1
+effect/common/Newsz_kxv_liumenbisha_bo_00032
+	rotate: false
+	xy: 2, 2
+	size: 537, 536
+	orig: 537, 536
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_laerfu_teshuji_shang_00004
+	rotate: false
+	xy: 524, 2
+	size: 494, 334
+	orig: 542, 394
+	offset: 16, 43
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_yaoshouji_00013
+	rotate: false
+	xy: 524, 337
+	size: 242, 240
+	orig: 242, 240
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_baoyan_00085
+	rotate: false
+	xy: 2, 578
+	size: 507, 444
+	orig: 507, 444
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_liumenbisha_bo_00072
+	rotate: false
+	xy: 2, 2
+	size: 521, 575
+	orig: 521, 575
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_laerfu_teshuji_shang_00010
+	rotate: false
+	xy: 524, 2
+	size: 494, 334
+	orig: 542, 394
+	offset: 16, 43
+	index: -1
+effect/common/Newsz_kxv_xiaojineng_yan_00059
+	rotate: true
+	xy: 767, 337
+	size: 238, 230
+	orig: 238, 230
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_laerfu_teshuji_shang_00016
+	rotate: false
+	xy: 524, 2
+	size: 494, 334
+	orig: 542, 394
+	offset: 16, 43
+	index: -1
+
+asset/spine/Kxvjr_common4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxvjr_liumenbisha_baoyan_00097
+	rotate: true
+	xy: 605, 616
+	size: 406, 234
+	orig: 408, 234
+	offset: 1, 0
+	index: -1
+effect/common/Newsz_kxv_xiaojineng_yan_00076
+	rotate: false
+	xy: 2, 818
+	size: 208, 203
+	orig: 208, 203
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_baoguang_00074
+	rotate: false
+	xy: 2, 216
+	size: 602, 601
+	orig: 602, 601
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_xiaojineng_yan_00051
+	rotate: false
+	xy: 211, 818
+	size: 218, 202
+	orig: 218, 202
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_sy_lmbs_shoubuhonghuo_00153
+	rotate: true
+	xy: 629, 2
+	size: 307, 393
+	orig: 323, 471
+	offset: 2, 58
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_longtou_00004
+	rotate: true
+	xy: 430, 818
+	size: 201, 120
+	orig: 201, 120
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_sy_lmbs_shoubuhonghuo_00165
+	rotate: true
+	xy: 605, 310
+	size: 305, 417
+	orig: 323, 471
+	offset: 4, 26
+	index: -1
+
+asset/spine/global_spinehero_effect2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_lmbs_huangsebo_00027
+	rotate: false
+	xy: 771, 499
+	size: 62, 62
+	orig: 62, 62
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt13
+	rotate: false
+	xy: 445, 559
+	size: 168, 177
+	orig: 168, 177
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxv_putongbisha_shouji_00013
+	rotate: false
+	xy: 2, 783
+	size: 176, 239
+	orig: 176, 239
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_putongbisha_quan_00009
+	rotate: false
+	xy: 860, 783
+	size: 162, 217
+	orig: 162, 217
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_putongbisha_long_00000
+	rotate: true
+	xy: 2, 697
+	size: 85, 63
+	orig: 85, 63
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_daiji_huo_00004
+	rotate: false
+	xy: 684, 783
+	size: 175, 239
+	orig: 203, 267
+	offset: 18, 27
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_longtou_00012
+	rotate: true
+	xy: 684, 2
+	size: 301, 338
+	orig: 301, 338
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_liumenbisha_jiaodibo_00014
+	rotate: false
+	xy: 256, 972
+	size: 155, 47
+	orig: 155, 49
+	offset: 0, 1
+	index: -1
+effect/common/Newsz_kxv_liumenbisha_jiaodibo_00010
+	rotate: false
+	xy: 860, 1001
+	size: 41, 14
+	orig: 43, 14
+	offset: 1, 0
+	index: -1
+effect/common/Newsz_kxvjr_xiaojineng_daji_00028
+	rotate: true
+	xy: 2, 564
+	size: 132, 176
+	orig: 132, 176
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_baodian_00081
+	rotate: false
+	xy: 2, 2
+	size: 681, 561
+	orig: 681, 561
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_putongbisha_shouji_00041
+	rotate: true
+	xy: 179, 564
+	size: 407, 504
+	orig: 407, 504
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_baoyan_00076
+	rotate: true
+	xy: 684, 304
+	size: 478, 336
+	orig: 478, 338
+	offset: 0, 1
+	index: -1
+
+asset/spine/global_spinehero_effect12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baoqixuli_00019
+	rotate: true
+	xy: 172, 841
+	size: 181, 162
+	orig: 181, 162
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangsebo_00035
+	rotate: true
+	xy: 2, 841
+	size: 181, 169
+	orig: 181, 169
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common16.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxv_liumenbisha_bo_00040
+	rotate: false
+	xy: 2, 2
+	size: 537, 536
+	orig: 537, 536
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_huoqiu_00039
+	rotate: true
+	xy: 2, 705
+	size: 317, 270
+	orig: 317, 270
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_baodian_00094
+	rotate: false
+	xy: 540, 2
+	size: 447, 394
+	orig: 447, 394
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_xiaojineng_daji_00012
+	rotate: false
+	xy: 540, 705
+	size: 219, 316
+	orig: 219, 316
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_daiji_huo_00006
+	rotate: false
+	xy: 760, 781
+	size: 179, 241
+	orig: 203, 267
+	offset: 19, 26
+	index: -1
+effect/common/Newsz_kxv_liumenbisha_jiaodibo_00018
+	rotate: false
+	xy: 2, 539
+	size: 259, 82
+	orig: 259, 82
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_xiaojineng_yan_00071
+	rotate: false
+	xy: 273, 805
+	size: 220, 216
+	orig: 220, 216
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_sy_lmbs_shoubuhonghuo_00167
+	rotate: true
+	xy: 540, 397
+	size: 307, 427
+	orig: 323, 471
+	offset: 14, 36
+	index: -1
+
+asset/spine/Kxvjr_common14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxvjr_liumenbisha_huozhuhuo_00057
+	rotate: true
+	xy: 540, 2
+	size: 299, 478
+	orig: 299, 478
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_liumenbisha_bo_00052
+	rotate: false
+	xy: 2, 2
+	size: 537, 536
+	orig: 537, 536
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_liumenbisha_bo_00084
+	rotate: false
+	xy: 540, 302
+	size: 456, 455
+	orig: 456, 455
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_shouzhang_00026
+	rotate: false
+	xy: 2, 758
+	size: 396, 262
+	orig: 396, 262
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_huoqiu_00043
+	rotate: false
+	xy: 540, 758
+	size: 349, 262
+	orig: 349, 262
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxv_liumenbisha_bo_00044
+	rotate: false
+	xy: 2, 2
+	size: 537, 536
+	orig: 537, 536
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_baodian_00110
+	rotate: false
+	xy: 2, 858
+	size: 251, 156
+	orig: 251, 156
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_yaoshouji_00017
+	rotate: false
+	xy: 540, 2
+	size: 456, 407
+	orig: 456, 407
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_putongbisha_shouji_00021
+	rotate: true
+	xy: 540, 410
+	size: 447, 455
+	orig: 447, 455
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxv_putongbisha_quan_00013
+	rotate: true
+	xy: 585, 549
+	size: 134, 169
+	orig: 134, 169
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_xiaojineng_yan_00067
+	rotate: true
+	xy: 796, 473
+	size: 229, 226
+	orig: 229, 226
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_shouzhang_00024
+	rotate: true
+	xy: 796, 137
+	size: 335, 226
+	orig: 335, 226
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_longtouhuo_00008
+	rotate: true
+	xy: 2, 549
+	size: 462, 355
+	orig: 462, 355
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_putongbisha_shouji_00033
+	rotate: true
+	xy: 2, 99
+	size: 449, 542
+	orig: 449, 542
+	offset: 0, 0
+	index: -1
+
+asset/spine/kxv_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_sy_lmbs_shoubuhonghuo_00157
+	rotate: false
+	xy: 800, 796
+	size: 155, 226
+	orig: 171, 250
+	offset: 8, 5
+	index: -1
+
+asset/spine/kxv_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_sy_lmbs_shoubuhonghuo_00163
+	rotate: true
+	xy: 252, 256
+	size: 163, 224
+	orig: 171, 250
+	offset: 2, 15
+	index: -1
+effect/common/New_sy_lmbs_shoubuhonghuo_00155
+	rotate: true
+	xy: 477, 361
+	size: 145, 206
+	orig: 171, 250
+	offset: 15, 9
+	index: -1
+
+asset/spine/Kxvjr_common24.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxvjr_liumenbisha_shouzhang_00058
+	rotate: false
+	xy: 582, 513
+	size: 408, 289
+	orig: 408, 289
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_shouzhang_00054
+	rotate: true
+	xy: 292, 513
+	size: 408, 289
+	orig: 408, 289
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_shouzhang_00052
+	rotate: true
+	xy: 2, 513
+	size: 408, 289
+	orig: 408, 289
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_shouzhang_00056
+	rotate: false
+	xy: 582, 2
+	size: 408, 289
+	orig: 408, 289
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_liumenbisha_bo_00016
+	rotate: false
+	xy: 2, 2
+	size: 510, 510
+	orig: 510, 510
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect10.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baoqixuli_00011
+	rotate: true
+	xy: 795, 314
+	size: 253, 227
+	orig: 253, 227
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baoqixuli_00017
+	rotate: false
+	xy: 370, 839
+	size: 210, 182
+	orig: 210, 182
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baoqixuli_00009
+	rotate: true
+	xy: 804, 568
+	size: 252, 214
+	orig: 252, 214
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangxuanwo_00020
+	rotate: false
+	xy: 2, 839
+	size: 185, 183
+	orig: 185, 183
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_lmbs_huangxuanwo_00016
+	rotate: true
+	xy: 780, 650
+	size: 221, 236
+	orig: 221, 236
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common19.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxvjr_liumenbisha_huoqiu_00055
+	rotate: true
+	xy: 285, 539
+	size: 292, 253
+	orig: 292, 253
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_huoqiu_00031
+	rotate: true
+	xy: 765, 659
+	size: 278, 257
+	orig: 278, 257
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_longtou_00010
+	rotate: true
+	xy: 2, 659
+	size: 361, 282
+	orig: 361, 282
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_daiji_huo_00008
+	rotate: true
+	xy: 285, 832
+	size: 189, 247
+	orig: 203, 267
+	offset: 14, 18
+	index: -1
+effect/common/Newsz_kxv_liumenbisha_bo_00028
+	rotate: false
+	xy: 2, 2
+	size: 537, 536
+	orig: 537, 536
+	offset: 0, 0
+	index: -1
+
+asset/spine/laerfuxv_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_laerfu_teshuji_xia_00000
+	rotate: false
+	xy: 476, 675
+	size: 88, 32
+	orig: 88, 32
+	offset: 0, 0
+	index: -1
+
+asset/spine/laerfuxv_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_laerfu_teshuji_shang_00000
+	rotate: true
+	xy: 870, 927
+	size: 84, 56
+	orig: 84, 56
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_shang_00006
+	rotate: false
+	xy: 803, 837
+	size: 84, 58
+	orig: 84, 58
+	offset: 0, 0
+	index: -1
+effect/common/New_laerfu_teshuji_shang_00012
+	rotate: false
+	xy: 803, 837
+	size: 84, 58
+	orig: 84, 58
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_laerfu_teshuji_shang_00000
+	rotate: true
+	xy: 540, 481
+	size: 538, 360
+	orig: 542, 394
+	offset: 0, 13
+	index: -1
+effect/common/Newsz_kxv_liumenbisha_bo_00056
+	rotate: false
+	xy: 2, 2
+	size: 537, 576
+	orig: 537, 576
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_baoyan_00089
+	rotate: true
+	xy: 2, 579
+	size: 443, 377
+	orig: 443, 377
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_huoqiu_00023
+	rotate: false
+	xy: 901, 481
+	size: 119, 95
+	orig: 119, 95
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_putongbisha_long_00002
+	rotate: true
+	xy: 901, 694
+	size: 209, 105
+	orig: 209, 105
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_liumenbisha_bo_00012
+	rotate: false
+	xy: 540, 2
+	size: 479, 478
+	orig: 479, 478
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect16.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baoqixuli_00005
+	rotate: false
+	xy: 2, 2
+	size: 163, 138
+	orig: 163, 138
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangsebo_00031
+	rotate: true
+	xy: 2, 441
+	size: 139, 140
+	orig: 139, 140
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baobo_00020
+	rotate: false
+	xy: 2, 581
+	size: 126, 125
+	orig: 126, 125
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangxuanwo_00024
+	rotate: false
+	xy: 143, 572
+	size: 135, 134
+	orig: 135, 134
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangxuanwo_00022
+	rotate: false
+	xy: 2, 141
+	size: 160, 158
+	orig: 160, 158
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt19
+	rotate: true
+	xy: 147, 437
+	size: 134, 143
+	orig: 134, 143
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt16
+	rotate: false
+	xy: 166, 2
+	size: 162, 140
+	orig: 162, 140
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt17
+	rotate: true
+	xy: 291, 559
+	size: 124, 136
+	orig: 124, 136
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_lmbs_huangsebo_00037
+	rotate: true
+	xy: 508, 2
+	size: 191, 147
+	orig: 191, 147
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baobo_00024
+	rotate: false
+	xy: 521, 593
+	size: 187, 187
+	orig: 187, 187
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baobo_00022
+	rotate: false
+	xy: 800, 2
+	size: 171, 169
+	orig: 171, 169
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt15
+	rotate: false
+	xy: 2, 851
+	size: 176, 171
+	orig: 176, 171
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_lmbs_huangxuanwo_00018
+	rotate: false
+	xy: 810, 742
+	size: 209, 209
+	orig: 209, 209
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common27.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxvjr_liumenbisha_longtou_00024
+	rotate: false
+	xy: 820, 2
+	size: 193, 208
+	orig: 193, 208
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_shouzhang_00068
+	rotate: false
+	xy: 398, 751
+	size: 383, 271
+	orig: 383, 271
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_baoguang_00072
+	rotate: false
+	xy: 820, 211
+	size: 192, 192
+	orig: 192, 192
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_sy_lmbs_shoubuhonghuo_00171
+	rotate: true
+	xy: 2, 751
+	size: 271, 395
+	orig: 323, 471
+	offset: 29, 51
+	index: -1
+effect/common/Newsz_kxvjr_daiji_huo_00010
+	rotate: false
+	xy: 2, 535
+	size: 187, 215
+	orig: 203, 267
+	offset: 16, 39
+	index: -1
+effect/common/Newsz_kxvjr_daiji_huo_00016
+	rotate: false
+	xy: 190, 535
+	size: 179, 213
+	orig: 203, 267
+	offset: 13, 22
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_shouzhang_00030
+	rotate: false
+	xy: 411, 2
+	size: 408, 284
+	orig: 408, 284
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_huoqiu_00067
+	rotate: false
+	xy: 2, 289
+	size: 287, 245
+	orig: 287, 245
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_shouzhang_00032
+	rotate: false
+	xy: 2, 2
+	size: 408, 286
+	orig: 408, 286
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_longtouhuo_00004
+	rotate: true
+	xy: 554, 535
+	size: 208, 171
+	orig: 208, 171
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_daiji_huo_00012
+	rotate: false
+	xy: 370, 535
+	size: 183, 211
+	orig: 203, 267
+	offset: 16, 35
+	index: -1
+
+asset/spine/Kxvjr_common25.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxvjr_liumenbisha_shouzhang_00050
+	rotate: false
+	xy: 353, 292
+	size: 408, 289
+	orig: 408, 289
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_putongbisha_long_00004
+	rotate: false
+	xy: 2, 292
+	size: 350, 124
+	orig: 350, 124
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_daiji_huo_00024
+	rotate: false
+	xy: 820, 195
+	size: 199, 247
+	orig: 203, 267
+	offset: 2, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_baodian_00102
+	rotate: false
+	xy: 292, 810
+	size: 381, 212
+	orig: 381, 212
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_daiji_huo_00002
+	rotate: false
+	xy: 522, 582
+	size: 187, 227
+	orig: 203, 267
+	offset: 3, 30
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_huoqiu_00063
+	rotate: true
+	xy: 820, 2
+	size: 192, 202
+	orig: 192, 202
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_shouzhang_00048
+	rotate: true
+	xy: 2, 443
+	size: 408, 289
+	orig: 408, 289
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_shouzhang_00044
+	rotate: false
+	xy: 2, 2
+	size: 408, 289
+	orig: 408, 289
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_shouzhang_00046
+	rotate: false
+	xy: 411, 2
+	size: 408, 289
+	orig: 408, 289
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common17.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxvjr_liumenbisha_baoyan_00093
+	rotate: false
+	xy: 540, 2
+	size: 427, 252
+	orig: 427, 254
+	offset: 0, 1
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_longtouhuo_00014
+	rotate: true
+	xy: 540, 255
+	size: 522, 426
+	orig: 522, 426
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_daiji_huo_00022
+	rotate: false
+	xy: 616, 778
+	size: 191, 243
+	orig: 203, 267
+	offset: 6, 6
+	index: -1
+effect/common/Newsz_kxvjr_daiji_huo_00020
+	rotate: true
+	xy: 372, 847
+	size: 175, 243
+	orig: 203, 267
+	offset: 12, 8
+	index: -1
+effect/common/Newsz_kxvjr_daiji_huo_00014
+	rotate: true
+	xy: 808, 778
+	size: 183, 213
+	orig: 203, 267
+	offset: 13, 28
+	index: -1
+effect/common/Newsz_kxv_liumenbisha_bo_00036
+	rotate: false
+	xy: 2, 2
+	size: 537, 536
+	orig: 537, 536
+	offset: 0, 0
+	index: -1
+
+asset/spine/kxv_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_sy_lmbs_shoubuhonghuo_00165
+	rotate: false
+	xy: 283, 800
+	size: 161, 222
+	orig: 171, 250
+	offset: 2, 15
+	index: -1
+effect/common/New_sy_lmbs_shoubuhonghuo_00161
+	rotate: false
+	xy: 445, 684
+	size: 161, 208
+	orig: 171, 250
+	offset: 0, 21
+	index: -1
+
+asset/spine/Kxvjr_common5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxvjr_liumenbisha_longtou_00028
+	rotate: false
+	xy: 540, 468
+	size: 188, 132
+	orig: 188, 132
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_liumenbisha_bo_00060
+	rotate: false
+	xy: 2, 2
+	size: 537, 598
+	orig: 537, 598
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_sy_lmbs_shoubuhonghuo_00157
+	rotate: false
+	xy: 729, 468
+	size: 293, 429
+	orig: 323, 471
+	offset: 16, 34
+	index: -1
+effect/common/Newsz_laerfu_teshuji_xia_00002
+	rotate: false
+	xy: 540, 291
+	size: 481, 176
+	orig: 565, 202
+	offset: 52, 24
+	index: -1
+effect/common/Newsz_laerfu_teshuji_xia_00008
+	rotate: false
+	xy: 540, 291
+	size: 481, 176
+	orig: 565, 202
+	offset: 52, 24
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_huozhuhuo_00032
+	rotate: true
+	xy: 263, 601
+	size: 419, 450
+	orig: 419, 450
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_laerfu_teshuji_xia_00014
+	rotate: false
+	xy: 540, 291
+	size: 481, 176
+	orig: 565, 202
+	offset: 52, 24
+	index: -1
+
+asset/spine/Kxvjr_common11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_kxvjr_liumenbisha_longtou_00026
+	rotate: false
+	xy: 363, 547
+	size: 190, 169
+	orig: 190, 169
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_yaoshouji_00012
+	rotate: false
+	xy: 772, 742
+	size: 250, 256
+	orig: 250, 256
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxv_liumenbisha_bo_00068
+	rotate: false
+	xy: 2, 2
+	size: 551, 544
+	orig: 551, 544
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_putongbisha_long_00006
+	rotate: false
+	xy: 554, 301
+	size: 467, 136
+	orig: 467, 136
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_huozhuhuo_00041
+	rotate: false
+	xy: 2, 547
+	size: 360, 475
+	orig: 360, 475
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_huozhuhuo_00045
+	rotate: true
+	xy: 554, 2
+	size: 298, 467
+	orig: 298, 467
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_shouzhang_00028
+	rotate: false
+	xy: 363, 742
+	size: 408, 280
+	orig: 408, 280
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_kxvjr_liumenbisha_huozhuhuo_00061
+	rotate: true
+	xy: 554, 438
+	size: 303, 465
+	orig: 303, 465
+	offset: 0, 0
+	index: -1
+
+asset/spine/kxv_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_sy_lmbs_shoubuhonghuo_00159
+	rotate: true
+	xy: 2, 864
+	size: 157, 238
+	orig: 171, 250
+	offset: 14, 12
+	index: -1
+effect/common/New_sy_lmbs_shoubuhonghuo_00153
+	rotate: true
+	xy: 660, 860
+	size: 161, 208
+	orig: 171, 250
+	offset: 2, 11
+	index: -1
+effect/common/New_sy_lmbs_shoubuhonghuo_00151
+	rotate: true
+	xy: 241, 864
+	size: 157, 194
+	orig: 171, 250
+	offset: 12, 3
+	index: -1

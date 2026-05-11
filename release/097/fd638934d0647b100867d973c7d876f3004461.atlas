@@ -1,0 +1,927 @@
+
+asset/spine/maizhuo13RE_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_mz_liumenbisha_hd_00096
+	rotate: true
+	xy: 180, 607
+	size: 283, 161
+	orig: 377, 187
+	offset: 84, 7
+	index: -1
+effect/common/New_mz_liumenbisha_hd_00098
+	rotate: false
+	xy: 628, 92
+	size: 269, 157
+	orig: 377, 187
+	offset: 90, 10
+	index: -1
+effect/common/New_mzjx_daiji_yan_00000
+	rotate: true
+	xy: 342, 607
+	size: 283, 151
+	orig: 295, 195
+	offset: 10, 0
+	index: -1
+effect/common/New_mz_liumenbisha_hy_00064
+	rotate: false
+	xy: 860, 423
+	size: 153, 117
+	orig: 153, 125
+	offset: 0, 6
+	index: -1
+effect/common/New_mz_liumenbisha_hy_00066
+	rotate: true
+	xy: 494, 579
+	size: 153, 117
+	orig: 153, 125
+	offset: 0, 6
+	index: -1
+effect/common/New_mz_liumenbisha_hy_00062
+	rotate: false
+	xy: 866, 305
+	size: 153, 117
+	orig: 153, 125
+	offset: 0, 5
+	index: -1
+effect/common/New_mzjx_daiji_ci_00009
+	rotate: true
+	xy: 2, 305
+	size: 310, 13
+	orig: 316, 97
+	offset: 3, 42
+	index: -1
+effect/common/New_mz_xiaojineng_bz_00032
+	rotate: false
+	xy: 519, 193
+	size: 106, 114
+	orig: 122, 128
+	offset: 11, 4
+	index: -1
+effect/common/New_mz_xiaojineng_bz_00038
+	rotate: true
+	xy: 519, 92
+	size: 100, 108
+	orig: 122, 128
+	offset: 7, 5
+	index: -1
+effect/common/New_mzjx_daiji_ci_00010
+	rotate: false
+	xy: 2, 265
+	size: 310, 9
+	orig: 316, 97
+	offset: 3, 44
+	index: -1
+effect/common/New_mz_putongbisha_bz_00125
+	rotate: false
+	xy: 494, 733
+	size: 141, 152
+	orig: 171, 180
+	offset: 9, 7
+	index: -1
+effect/common/New_mz_putongbisha_bz_00121
+	rotate: false
+	xy: 2, 92
+	size: 161, 172
+	orig: 171, 180
+	offset: 10, 0
+	index: -1
+effect/common/New_mz_putongbisha_bz_00123
+	rotate: true
+	xy: 850, 541
+	size: 141, 164
+	orig: 171, 180
+	offset: 9, 9
+	index: -1
+effect/common/New_mz_putongbisha_db_00104
+	rotate: false
+	xy: 311, 891
+	size: 146, 131
+	orig: 154, 141
+	offset: 8, 1
+	index: -1
+effect/common/New_mz_putongbisha_dg3_00087
+	rotate: true
+	xy: 106, 305
+	size: 301, 274
+	orig: 321, 278
+	offset: 20, 0
+	index: -1
+effect/common/New_mzjx_daiji_yan_00044
+	rotate: false
+	xy: 628, 250
+	size: 237, 119
+	orig: 295, 195
+	offset: 28, 7
+	index: -1
+effect/common/New_mzjx_daiji_yan_00042
+	rotate: false
+	xy: 628, 370
+	size: 231, 117
+	orig: 295, 195
+	offset: 29, 8
+	index: -1
+effect/common/New_mz_liumenbisha_hd_00102
+	rotate: false
+	xy: 628, 488
+	size: 221, 147
+	orig: 377, 187
+	offset: 110, 14
+	index: -1
+effect/common/New_mz_liumenbisha_hy_00058
+	rotate: true
+	xy: 432, 92
+	size: 121, 65
+	orig: 153, 125
+	offset: 27, 21
+	index: -1
+effect/common/New_mz_putongbisha_dg2_00058
+	rotate: true
+	xy: 458, 891
+	size: 126, 169
+	orig: 190, 179
+	offset: 62, 0
+	index: -1
+
+asset/spine/maizhuo13RE_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_mz_liumenbisha_hd_00082
+	rotate: false
+	xy: 595, 186
+	size: 313, 171
+	orig: 377, 187
+	offset: 0, 11
+	index: -1
+effect/common/New_mzjx_daiji_yan_00024
+	rotate: true
+	xy: 182, 766
+	size: 253, 183
+	orig: 295, 195
+	offset: 12, 7
+	index: -1
+effect/common/New_mzjx_daiji_yan_00022
+	rotate: true
+	xy: 366, 766
+	size: 253, 181
+	orig: 295, 195
+	offset: 12, 5
+	index: -1
+effect/common/New_mzjx_daiji_yan_00034
+	rotate: false
+	xy: 781, 631
+	size: 237, 175
+	orig: 295, 195
+	offset: 18, 12
+	index: -1
+effect/common/New_mzjx_daiji_yan_00036
+	rotate: false
+	xy: 94, 232
+	size: 205, 149
+	orig: 295, 195
+	offset: 21, 12
+	index: -1
+effect/common/New_mz_liumenbisha_hy_00070
+	rotate: true
+	xy: 949, 2
+	size: 141, 71
+	orig: 153, 125
+	offset: 6, 23
+	index: -1
+effect/common/New_mzjx_daiji_yan_00038
+	rotate: false
+	xy: 94, 382
+	size: 203, 123
+	orig: 295, 195
+	offset: 26, 10
+	index: -1
+effect/common/New_mzjx_daiji_ci_00007
+	rotate: false
+	xy: 297, 94
+	size: 298, 23
+	orig: 316, 97
+	offset: 9, 37
+	index: -1
+effect/common/New_mzjx_daiji_ci_00006
+	rotate: false
+	xy: 2, 94
+	size: 294, 27
+	orig: 316, 97
+	offset: 11, 35
+	index: -1
+effect/common/New_mzjx_daiji_ci_00008
+	rotate: false
+	xy: 2, 122
+	size: 306, 17
+	orig: 316, 97
+	offset: 5, 40
+	index: -1
+effect/common/New_mzjx_daiji_yan_00010
+	rotate: false
+	xy: 309, 118
+	size: 285, 171
+	orig: 295, 195
+	offset: 3, 0
+	index: -1
+effect/common/New_mz_liumenbisha_hd_00076
+	rotate: false
+	xy: 94, 140
+	size: 213, 91
+	orig: 377, 187
+	offset: 0, 96
+	index: -1
+effect/common/New_mz_putongbisha_dg_00019
+	rotate: true
+	xy: 92, 506
+	size: 259, 146
+	orig: 295, 152
+	offset: 24, 3
+	index: -1
+effect/common/New_mz_putongbisha_dg_00017
+	rotate: true
+	xy: 548, 763
+	size: 259, 96
+	orig: 295, 152
+	offset: 36, 0
+	index: -1
+effect/common/New_mz_putongbisha_dg_00022
+	rotate: false
+	xy: 588, 358
+	size: 243, 116
+	orig: 295, 152
+	offset: 10, 36
+	index: -1
+effect/common/New_mz_liumenbisha_hd_00108
+	rotate: true
+	xy: 911, 144
+	size: 155, 109
+	orig: 377, 187
+	offset: 159, 38
+	index: -1
+effect/common/New_mz_liumenbisha_hd_00106
+	rotate: true
+	xy: 645, 761
+	size: 167, 133
+	orig: 377, 187
+	offset: 154, 19
+	index: -1
+effect/common/New_mz_liumenbisha_hd_00100
+	rotate: false
+	xy: 781, 475
+	size: 241, 155
+	orig: 377, 187
+	offset: 101, 12
+	index: -1
+effect/common/New_mz_xiaojineng_bz_00040
+	rotate: true
+	xy: 832, 358
+	size: 70, 74
+	orig: 122, 128
+	offset: 24, 24
+	index: -1
+effect/common/New_mz_putongbisha_bz_00117
+	rotate: false
+	xy: 909, 300
+	size: 113, 174
+	orig: 171, 180
+	offset: 35, 3
+	index: -1
+
+asset/spine/maizhuo13RE_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_mz_liumenbisha_hd_00084
+	rotate: false
+	xy: 2, 2
+	size: 369, 187
+	orig: 377, 187
+	offset: 0, 0
+	index: -1
+effect/common/New_mzjx_daiji_yan_00026
+	rotate: false
+	xy: 2, 834
+	size: 251, 185
+	orig: 295, 195
+	offset: 14, 9
+	index: -1
+effect/common/New_mz_liumenbisha_hy_00068
+	rotate: true
+	xy: 894, 871
+	size: 149, 91
+	orig: 153, 125
+	offset: 2, 16
+	index: -1
+effect/common/New_mzjx_daiji_ci_00004
+	rotate: true
+	xy: 319, 461
+	size: 282, 37
+	orig: 316, 97
+	offset: 17, 30
+	index: -1
+effect/common/New_mzjx_daiji_ci_00001
+	rotate: true
+	xy: 632, 260
+	size: 124, 69
+	orig: 316, 97
+	offset: 96, 14
+	index: -1
+effect/common/New_mz_xiaojineng_bz_00036
+	rotate: true
+	xy: 868, 574
+	size: 100, 118
+	orig: 122, 128
+	offset: 7, 6
+	index: -1
+effect/common/New_mz_liumenbisha_hd_00079
+	rotate: true
+	xy: 722, 733
+	size: 287, 171
+	orig: 377, 187
+	offset: 0, 16
+	index: -1
+effect/common/New_mz_liumenbisha_mbhg_00048
+	rotate: true
+	xy: 986, 871
+	size: 29, 30
+	orig: 39, 40
+	offset: 5, 3
+	index: -1
+effect/common/New_mz_putongbisha_db_00098
+	rotate: false
+	xy: 894, 733
+	size: 128, 137
+	orig: 154, 141
+	offset: 26, 0
+	index: -1
+effect/common/New_mz_putongbisha_dg3_00091
+	rotate: true
+	xy: 547, 438
+	size: 303, 174
+	orig: 321, 278
+	offset: 0, 22
+	index: -1
+effect/common/New_mz_liumenbisha_mbhg_00050
+	rotate: true
+	xy: 988, 376
+	size: 35, 34
+	orig: 39, 40
+	offset: 1, 0
+	index: -1
+effect/common/New_mz_putongbisha_dg3_00084
+	rotate: false
+	xy: 502, 958
+	size: 109, 60
+	orig: 157, 66
+	offset: 2, 6
+	index: -1
+effect/common/New_mz_liumenbisha_mbhg_00064
+	rotate: true
+	xy: 988, 412
+	size: 31, 34
+	orig: 39, 40
+	offset: 8, 4
+	index: -1
+effect/common/New_mz_liumenbisha_mbhg_00066
+	rotate: false
+	xy: 986, 901
+	size: 29, 28
+	orig: 39, 40
+	offset: 10, 7
+	index: -1
+effect/common/New_mzjx_daiji_yan_00040
+	rotate: false
+	xy: 502, 834
+	size: 217, 123
+	orig: 295, 195
+	offset: 29, 9
+	index: -1
+effect/common/New_mz_putongbisha_dg2_00059
+	rotate: true
+	xy: 372, 2
+	size: 257, 329
+	orig: 263, 339
+	offset: 6, 10
+	index: -1
+effect/common/New_mz_putongbisha_bz_00115
+	rotate: false
+	xy: 632, 742
+	size: 79, 66
+	orig: 171, 180
+	offset: 62, 57
+	index: -1
+effect/common/New_mz_putongbisha_bz_00119
+	rotate: false
+	xy: 722, 574
+	size: 145, 158
+	orig: 171, 180
+	offset: 17, 7
+	index: -1
+
+asset/spine/maizhuo13RE_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_mz_liumenbisha_mbhg_00068
+	rotate: false
+	xy: 732, 702
+	size: 23, 22
+	orig: 39, 40
+	offset: 14, 11
+	index: -1
+effect/common/New_mz_putongbisha_dg2_00063
+	rotate: false
+	xy: 758, 538
+	size: 259, 291
+	orig: 263, 339
+	offset: 0, 34
+	index: -1
+effect/common/New_mz_putongbisha_dg2_00067
+	rotate: true
+	xy: 524, 558
+	size: 219, 92
+	orig: 263, 110
+	offset: 14, 0
+	index: -1
+effect/common/New_mz_liumenbisha_hd_00088
+	rotate: false
+	xy: 2, 2
+	size: 377, 185
+	orig: 377, 187
+	offset: 0, 2
+	index: -1
+effect/common/New_mz_liumenbisha_hd_00086
+	rotate: false
+	xy: 244, 188
+	size: 373, 185
+	orig: 377, 187
+	offset: 0, 2
+	index: -1
+effect/common/New_mz_putongbisha_db_00100
+	rotate: true
+	xy: 618, 555
+	size: 146, 139
+	orig: 154, 141
+	offset: 8, 1
+	index: -1
+effect/common/New_mz_putongbisha_db_00102
+	rotate: true
+	xy: 618, 400
+	size: 154, 139
+	orig: 154, 141
+	offset: 0, 1
+	index: -1
+effect/common/New_mz_putongbisha_dg2_00070
+	rotate: true
+	xy: 186, 830
+	size: 191, 74
+	orig: 263, 110
+	offset: 32, 17
+	index: -1
+effect/common/New_mz_liumenbisha_hd_00090
+	rotate: false
+	xy: 380, 2
+	size: 377, 185
+	orig: 377, 187
+	offset: 0, 2
+	index: -1
+effect/common/New_mz_liumenbisha_hd_00092
+	rotate: true
+	xy: 2, 364
+	size: 377, 183
+	orig: 377, 187
+	offset: 0, 4
+	index: -1
+effect/common/New_mz_liumenbisha_hd_00094
+	rotate: false
+	xy: 244, 374
+	size: 373, 183
+	orig: 377, 187
+	offset: 0, 4
+	index: -1
+effect/common/New_mz_xiaojineng_db_00022
+	rotate: true
+	xy: 465, 918
+	size: 104, 95
+	orig: 110, 105
+	offset: 6, 2
+	index: -1
+effect/common/New_mz_xiaojineng_db_00020
+	rotate: false
+	xy: 561, 918
+	size: 110, 101
+	orig: 110, 105
+	offset: 0, 2
+	index: -1
+effect/common/New_mz_liumenbisha_hy_00060
+	rotate: false
+	xy: 830, 897
+	size: 153, 125
+	orig: 153, 125
+	offset: 0, 0
+	index: -1
+effect/common/New_mzjx_daiji_ci_00003
+	rotate: true
+	xy: 144, 742
+	size: 276, 41
+	orig: 316, 97
+	offset: 20, 28
+	index: -1
+effect/common/New_mz_xiaojineng_db_00018
+	rotate: true
+	xy: 261, 918
+	size: 104, 103
+	orig: 110, 105
+	offset: 6, 0
+	index: -1
+effect/common/New_mz_xiaojineng_db_00016
+	rotate: false
+	xy: 672, 918
+	size: 92, 101
+	orig: 110, 105
+	offset: 18, 0
+	index: -1
+effect/common/New_mz_xiaojineng_bz_00034
+	rotate: false
+	xy: 617, 702
+	size: 114, 124
+	orig: 122, 128
+	offset: 8, 0
+	index: -1
+effect/common/New_mz_xiaojineng_bz_00030
+	rotate: true
+	xy: 261, 830
+	size: 82, 124
+	orig: 122, 128
+	offset: 24, 2
+	index: -1
+effect/common/New_mz_liumenbisha_mbhg_00046
+	rotate: true
+	xy: 732, 725
+	size: 19, 20
+	orig: 39, 40
+	offset: 11, 4
+	index: -1
+effect/common/New_mz_putongbisha_bz_00129
+	rotate: false
+	xy: 186, 364
+	size: 57, 98
+	orig: 171, 180
+	offset: 66, 36
+	index: -1
+effect/common/New_mz_putongbisha_bz_00127
+	rotate: false
+	xy: 365, 918
+	size: 99, 104
+	orig: 171, 180
+	offset: 33, 34
+	index: -1
+effect/common/New_mz_putongbisha_dg3_00094
+	rotate: true
+	xy: 438, 702
+	size: 215, 84
+	orig: 321, 278
+	offset: 37, 28
+	index: -1
+effect/common/New_mz_xiaojineng_bz_00028
+	rotate: true
+	xy: 765, 918
+	size: 76, 64
+	orig: 122, 128
+	offset: 39, 34
+	index: -1
+effect/common/New_mz_liumenbisha_mbhg_00052
+	rotate: false
+	xy: 186, 657
+	size: 35, 36
+	orig: 39, 40
+	offset: 2, 0
+	index: -1
+effect/common/New_mz_liumenbisha_mbhg_00054
+	rotate: false
+	xy: 186, 583
+	size: 37, 36
+	orig: 39, 40
+	offset: 1, 1
+	index: -1
+effect/common/New_mz_liumenbisha_mbhg_00056
+	rotate: false
+	xy: 186, 620
+	size: 37, 36
+	orig: 39, 40
+	offset: 2, 1
+	index: -1
+effect/common/New_mz_liumenbisha_mbhg_00058
+	rotate: true
+	xy: 984, 897
+	size: 39, 38
+	orig: 39, 40
+	offset: 0, 1
+	index: -1
+effect/common/New_mz_putongbisha_dg_00015
+	rotate: false
+	xy: 830, 830
+	size: 191, 66
+	orig: 295, 152
+	offset: 0, 7
+	index: -1
+effect/common/New_mz_putongbisha_bz_00131
+	rotate: false
+	xy: 186, 502
+	size: 55, 80
+	orig: 171, 180
+	offset: 67, 50
+	index: -1
+effect/common/New_mz_liumenbisha_hd_00110
+	rotate: true
+	xy: 386, 830
+	size: 59, 41
+	orig: 377, 187
+	offset: 199, 52
+	index: -1
+effect/common/New_mz_liumenbisha_mbhg_00060
+	rotate: true
+	xy: 984, 937
+	size: 37, 38
+	orig: 39, 40
+	offset: 2, 2
+	index: -1
+effect/common/New_mz_liumenbisha_mbhg_00062
+	rotate: true
+	xy: 984, 975
+	size: 33, 38
+	orig: 39, 40
+	offset: 6, 2
+	index: -1
+effect/common/New_mz_liumenbisha_hd_00104
+	rotate: true
+	xy: 618, 188
+	size: 211, 139
+	orig: 377, 187
+	offset: 117, 17
+	index: -1
+effect/common/New_mz_xiaojineng_bz_00044
+	rotate: true
+	xy: 186, 463
+	size: 38, 56
+	orig: 122, 128
+	offset: 48, 35
+	index: -1
+effect/common/New_mz_xiaojineng_bz_00042
+	rotate: true
+	xy: 523, 778
+	size: 40, 68
+	orig: 122, 128
+	offset: 48, 27
+	index: -1
+
+asset/spine/maizhuo13RESZ_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_mzjx_daiji_yan_00020
+	rotate: false
+	xy: 548, 344
+	size: 264, 180
+	orig: 300, 198
+	offset: 4, 5
+	index: -1
+effect/common/New_mzjx_daiji_yan_00028
+	rotate: true
+	xy: 493, 770
+	size: 252, 188
+	orig: 300, 198
+	offset: 15, 10
+	index: -1
+effect/common/New_mzjx_daiji_yan_00008
+	rotate: false
+	xy: 2, 2
+	size: 292, 168
+	orig: 300, 198
+	offset: 4, 0
+	index: -1
+effect/common/New_mzjx_daiji_yan_00030
+	rotate: true
+	xy: 2, 773
+	size: 248, 182
+	orig: 300, 198
+	offset: 16, 12
+	index: -1
+effect/common/New_mzjx_daiji_yan_00032
+	rotate: true
+	xy: 314, 773
+	size: 244, 178
+	orig: 300, 198
+	offset: 18, 11
+	index: -1
+effect/common/New_mzjx_daiji_yan_00002
+	rotate: false
+	xy: 295, 2
+	size: 292, 158
+	orig: 300, 198
+	offset: 8, 0
+	index: -1
+effect/common/New_mzjx_daiji_yan_00004
+	rotate: false
+	xy: 295, 161
+	size: 290, 162
+	orig: 300, 198
+	offset: 7, 0
+	index: -1
+effect/common/New_mzjx_daiji_yan_00006
+	rotate: false
+	xy: 588, 2
+	size: 290, 166
+	orig: 300, 198
+	offset: 5, 0
+	index: -1
+effect/common/New_mzjx_daiji_yan_00018
+	rotate: false
+	xy: 2, 457
+	size: 266, 182
+	orig: 300, 198
+	offset: 1, 4
+	index: -1
+effect/common/New_mzjx_daiji_yan_00016
+	rotate: false
+	xy: 281, 324
+	size: 266, 182
+	orig: 300, 198
+	offset: 0, 0
+	index: -1
+effect/common/New_mzjx_daiji_yan_00014
+	rotate: false
+	xy: 269, 507
+	size: 264, 178
+	orig: 300, 198
+	offset: 3, 1
+	index: -1
+effect/common/New_mzjx_daiji_yan_00012
+	rotate: false
+	xy: 586, 169
+	size: 272, 174
+	orig: 300, 198
+	offset: 3, 1
+	index: -1
+effect/common/New_mzjx_daiji_yan_00046
+	rotate: true
+	xy: 185, 773
+	size: 248, 128
+	orig: 300, 198
+	offset: 26, 6
+	index: -1
+effect/common/New_mzjx_daiji_yan_00048
+	rotate: false
+	xy: 534, 640
+	size: 256, 128
+	orig: 300, 198
+	offset: 24, 6
+	index: -1
+effect/common/New_mzjx_daiji_yan_00050
+	rotate: false
+	xy: 2, 640
+	size: 264, 132
+	orig: 300, 198
+	offset: 22, 6
+	index: -1
+effect/common/New_mzjx_daiji_yan_00056
+	rotate: true
+	xy: 879, 2
+	size: 282, 142
+	orig: 300, 198
+	offset: 15, 3
+	index: -1
+effect/common/New_mzjx_daiji_yan_00054
+	rotate: false
+	xy: 2, 318
+	size: 278, 138
+	orig: 300, 198
+	offset: 17, 5
+	index: -1
+effect/common/New_mzjx_daiji_yan_00058
+	rotate: false
+	xy: 2, 171
+	size: 286, 146
+	orig: 300, 198
+	offset: 14, 2
+	index: -1
+
+asset/spine/maizhuo13RESZ_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_mzjx_daiji_ci_00005
+	rotate: false
+	xy: 284, 598
+	size: 293, 33
+	orig: 321, 99
+	offset: 14, 33
+	index: -1
+effect/common/New_mzjx_daiji_ci_00000
+	rotate: false
+	xy: 971, 828
+	size: 35, 99
+	orig: 321, 99
+	offset: 143, 0
+	index: -1
+effect/common/New_mzjx_daiji_ci_00002
+	rotate: true
+	xy: 958, 217
+	size: 275, 47
+	orig: 321, 99
+	offset: 23, 26
+	index: -1
+effect/common/New_mzjx_daiji_ci_00011
+	rotate: true
+	xy: 625, 324
+	size: 317, 5
+	orig: 321, 99
+	offset: 2, 47
+	index: -1
+effect/common/New_mzjx_daiji_yan_00052
+	rotate: false
+	xy: 752, 655
+	size: 270, 136
+	orig: 300, 198
+	offset: 20, 6
+	index: -1
+
+asset/spine/global_spinehero_effect14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx1
+	rotate: false
+	xy: 855, 584
+	size: 167, 157
+	orig: 167, 157
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx0
+	rotate: true
+	xy: 777, 838
+	size: 184, 180
+	orig: 184, 180
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx3
+	rotate: false
+	xy: 899, 851
+	size: 121, 106
+	orig: 121, 106
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx2
+	rotate: false
+	xy: 341, 900
+	size: 143, 122
+	orig: 143, 122
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx5
+	rotate: true
+	xy: 575, 984
+	size: 29, 27
+	orig: 29, 27
+	offset: 0, 0
+	index: -1
+effect/global/swdjtx4
+	rotate: true
+	xy: 226, 612
+	size: 67, 60
+	orig: 67, 60
+	offset: 0, 0
+	index: -1

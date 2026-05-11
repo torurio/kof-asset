@@ -1,0 +1,1394 @@
+
+asset/spine/stczXV_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_klk_ptbs_jiaodibo_00023
+	rotate: true
+	xy: 972, 426
+	size: 211, 49
+	orig: 211, 49
+	offset: 0, 0
+	index: -1
+effect/common/New_klk_ptbs_jiaodibo_00021
+	rotate: false
+	xy: 466, 856
+	size: 97, 22
+	orig: 97, 22
+	offset: 0, 0
+	index: -1
+effect/common/New_klk_ptbs_jiaodibo_00027
+	rotate: true
+	xy: 784, 2
+	size: 240, 55
+	orig: 240, 55
+	offset: 0, 0
+	index: -1
+effect/common/New_klk_ptbs_jiaodibo_00025
+	rotate: false
+	xy: 739, 426
+	size: 230, 52
+	orig: 230, 52
+	offset: 0, 0
+	index: -1
+
+asset/spine/sqleXVDY_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_sqlexv_xiaojineng_yan_00004
+	rotate: true
+	xy: 794, 595
+	size: 57, 34
+	orig: 57, 34
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00091
+	rotate: true
+	xy: 785, 856
+	size: 165, 182
+	orig: 165, 182
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00090
+	rotate: false
+	xy: 344, 814
+	size: 135, 192
+	orig: 135, 192
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00084
+	rotate: false
+	xy: 509, 203
+	size: 167, 199
+	orig: 167, 199
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00085
+	rotate: false
+	xy: 173, 819
+	size: 170, 202
+	orig: 170, 202
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00087
+	rotate: false
+	xy: 625, 403
+	size: 169, 188
+	orig: 169, 188
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00082
+	rotate: false
+	xy: 508, 2
+	size: 167, 200
+	orig: 167, 200
+	offset: 0, 0
+	index: -1
+effect/common/New_klk_ptbs_shenhoubaibo_00027
+	rotate: true
+	xy: 968, 938
+	size: 80, 49
+	orig: 82, 49
+	offset: 0, 0
+	index: -1
+effect/common/New_klk_ptbs_shenhoubaibo_00029
+	rotate: false
+	xy: 829, 793
+	size: 106, 62
+	orig: 106, 62
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_putongbisha_quanji_00031
+	rotate: false
+	xy: 589, 785
+	size: 92, 85
+	orig: 92, 85
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_putongbisha_quanji_00028
+	rotate: false
+	xy: 682, 717
+	size: 146, 138
+	orig: 158, 144
+	offset: 11, 1
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00051
+	rotate: false
+	xy: 2, 819
+	size: 170, 202
+	orig: 170, 202
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00046
+	rotate: false
+	xy: 347, 408
+	size: 168, 199
+	orig: 168, 199
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_yan_00004
+	rotate: true
+	xy: 471, 608
+	size: 191, 101
+	orig: 293, 253
+	offset: 49, 0
+	index: -1
+effect/common/New_sqlexv_xiaojineng_yan_00014
+	rotate: true
+	xy: 975, 793
+	size: 106, 46
+	orig: 108, 46
+	offset: 1, 0
+	index: -1
+effect/common/New_sqlexv_xiaojineng_yan_00013
+	rotate: false
+	xy: 794, 153
+	size: 106, 47
+	orig: 108, 49
+	offset: 1, 1
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00061
+	rotate: false
+	xy: 176, 411
+	size: 170, 201
+	orig: 170, 201
+	offset: 0, 0
+	index: -1
+
+asset/spine/sqleXVDY_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_sqlexv_xiaojineng_yan_00007
+	rotate: true
+	xy: 779, 727
+	size: 79, 44
+	orig: 81, 44
+	offset: 1, 0
+	index: -1
+effect/common/New_sqlexv_xiaojineng_yan_00008
+	rotate: false
+	xy: 149, 598
+	size: 85, 45
+	orig: 87, 45
+	offset: 1, 0
+	index: -1
+effect/common/New_sqlexv_putongbisha_quanji_00038
+	rotate: true
+	xy: 740, 880
+	size: 91, 81
+	orig: 91, 81
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_dlls_ptbs_baibo_00036
+	rotate: false
+	xy: 790, 998
+	size: 23, 23
+	orig: 23, 23
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_putongbisha_quanji_00029
+	rotate: true
+	xy: 288, 874
+	size: 148, 136
+	orig: 158, 144
+	offset: 9, 3
+	index: -1
+effect/common/New_sqlexv_putongbisha_quanji_00026
+	rotate: true
+	xy: 149, 874
+	size: 148, 138
+	orig: 158, 144
+	offset: 10, 1
+	index: -1
+effect/common/New_sqlexv_putongbisha_quanji_00025
+	rotate: true
+	xy: 149, 657
+	size: 148, 140
+	orig: 158, 144
+	offset: 9, 1
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00053
+	rotate: true
+	xy: 290, 574
+	size: 166, 209
+	orig: 166, 209
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00045
+	rotate: true
+	xy: 822, 844
+	size: 169, 200
+	orig: 169, 200
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_yan_00008
+	rotate: false
+	xy: 294, 138
+	size: 261, 221
+	orig: 293, 253
+	offset: 14, 17
+	index: -1
+effect/common/New_sqlexv_liumenbisha_yan_00005
+	rotate: false
+	xy: 570, 595
+	size: 209, 111
+	orig: 293, 253
+	offset: 41, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_yan_00006
+	rotate: false
+	xy: 292, 438
+	size: 229, 135
+	orig: 293, 253
+	offset: 30, 17
+	index: -1
+effect/common/New_sqlexv_xiaojineng_yan2_00007
+	rotate: false
+	xy: 500, 778
+	size: 48, 40
+	orig: 48, 40
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_yan_00012
+	rotate: true
+	xy: 2, 236
+	size: 133, 235
+	orig: 293, 253
+	offset: 150, 16
+	index: -1
+effect/common/New_sqlexv_liumenbisha_yan_00010
+	rotate: false
+	xy: 2, 2
+	size: 291, 233
+	orig: 293, 253
+	offset: 0, 16
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00063
+	rotate: true
+	xy: 570, 707
+	size: 166, 208
+	orig: 166, 208
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baoqixuli_00019
+	rotate: true
+	xy: 172, 841
+	size: 181, 162
+	orig: 181, 162
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangsebo_00035
+	rotate: true
+	xy: 2, 841
+	size: 181, 169
+	orig: 181, 169
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect10.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baoqixuli_00011
+	rotate: true
+	xy: 795, 314
+	size: 253, 227
+	orig: 253, 227
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baoqixuli_00017
+	rotate: false
+	xy: 370, 839
+	size: 210, 182
+	orig: 210, 182
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baoqixuli_00009
+	rotate: true
+	xy: 804, 568
+	size: 252, 214
+	orig: 252, 214
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangxuanwo_00020
+	rotate: false
+	xy: 2, 839
+	size: 185, 183
+	orig: 185, 183
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baoqixuli_00015
+	rotate: false
+	xy: 792, 806
+	size: 230, 199
+	orig: 230, 199
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangxuanwo_00026
+	rotate: false
+	xy: 910, 345
+	size: 110, 96
+	orig: 110, 96
+	offset: 0, 0
+	index: -1
+
+asset/spine/jshhdXV_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_klk_ptbs_shenhoubaibo_00033
+	rotate: false
+	xy: 506, 697
+	size: 160, 94
+	orig: 162, 94
+	offset: 0, 0
+	index: -1
+
+asset/spine/sqleXV_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_dlls_ptbs_baibo_00043
+	rotate: false
+	xy: 476, 514
+	size: 113, 113
+	orig: 113, 113
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_dlls_ptbs_baibo_00041
+	rotate: false
+	xy: 793, 380
+	size: 92, 92
+	orig: 92, 92
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_dlls_ptbs_baibo_00045
+	rotate: true
+	xy: 726, 2
+	size: 126, 125
+	orig: 126, 125
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00088
+	rotate: false
+	xy: 319, 629
+	size: 172, 199
+	orig: 172, 201
+	offset: 0, 2
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00037
+	rotate: false
+	xy: 511, 2
+	size: 122, 142
+	orig: 122, 142
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_dlls_ptbs_baibo_00039
+	rotate: true
+	xy: 951, 359
+	size: 70, 71
+	orig: 72, 71
+	offset: 0, 0
+	index: -1
+effect/common/New_klk_ptbs_shenhoubaibo_00030
+	rotate: false
+	xy: 640, 132
+	size: 124, 72
+	orig: 124, 72
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_putongbisha_quanji_00021
+	rotate: true
+	xy: 679, 400
+	size: 67, 70
+	orig: 67, 70
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00058
+	rotate: false
+	xy: 2, 630
+	size: 174, 207
+	orig: 174, 207
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00057
+	rotate: false
+	xy: 171, 421
+	size: 173, 207
+	orig: 173, 207
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_xiaojineng_yan2_00012
+	rotate: true
+	xy: 405, 542
+	size: 79, 70
+	orig: 81, 72
+	offset: 2, 0
+	index: -1
+effect/common/New_sqlexv_xiaojineng_yan2_00011
+	rotate: false
+	xy: 765, 129
+	size: 79, 68
+	orig: 79, 68
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00040
+	rotate: false
+	xy: 255, 211
+	size: 149, 176
+	orig: 149, 176
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00044
+	rotate: false
+	xy: 2, 421
+	size: 168, 208
+	orig: 172, 208
+	offset: 4, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_yan_00002
+	rotate: false
+	xy: 282, 388
+	size: 99, 25
+	orig: 99, 25
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_yan_00003
+	rotate: false
+	xy: 679, 366
+	size: 113, 33
+	orig: 113, 33
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_xiaojineng_yan2_00008
+	rotate: false
+	xy: 345, 572
+	size: 59, 49
+	orig: 59, 49
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_xiaojineng_yan_00016
+	rotate: true
+	xy: 968, 252
+	size: 106, 41
+	orig: 106, 41
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_yan_00013
+	rotate: true
+	xy: 765, 198
+	size: 59, 75
+	orig: 61, 79
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_yan_00011
+	rotate: false
+	xy: 634, 2
+	size: 91, 129
+	orig: 93, 131
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baoqixuli_00013
+	rotate: true
+	xy: 775, 286
+	size: 237, 215
+	orig: 237, 215
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baobo_00028
+	rotate: true
+	xy: 890, 511
+	size: 144, 126
+	orig: 144, 126
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baobo_00026
+	rotate: true
+	xy: 890, 150
+	size: 140, 132
+	orig: 140, 132
+	offset: 0, 0
+	index: -1
+
+asset/spine/sqleXVDY_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_sqlexv_xiaojineng_yan_00005
+	rotate: true
+	xy: 69, 496
+	size: 66, 36
+	orig: 66, 38
+	offset: 0, 1
+	index: -1
+effect/common/Newsz_dlls_ptbs_baibo_00047
+	rotate: true
+	xy: 133, 770
+	size: 132, 131
+	orig: 132, 131
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_putongbisha_quanji_00039
+	rotate: true
+	xy: 931, 770
+	size: 79, 82
+	orig: 79, 82
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_putongbisha_quanji_00035
+	rotate: false
+	xy: 282, 473
+	size: 89, 85
+	orig: 91, 85
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_putongbisha_quanji_00034
+	rotate: false
+	xy: 593, 639
+	size: 89, 84
+	orig: 91, 84
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_putongbisha_quanji_00037
+	rotate: false
+	xy: 394, 559
+	size: 90, 83
+	orig: 90, 83
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_putongbisha_quanji_00036
+	rotate: false
+	xy: 593, 724
+	size: 89, 83
+	orig: 89, 83
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_putongbisha_quanji_00030
+	rotate: false
+	xy: 688, 384
+	size: 146, 136
+	orig: 158, 144
+	offset: 7, 4
+	index: -1
+effect/common/New_sqlexv_putongbisha_quanji_00033
+	rotate: true
+	xy: 196, 473
+	size: 90, 85
+	orig: 90, 85
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_putongbisha_quanji_00032
+	rotate: false
+	xy: 389, 473
+	size: 94, 85
+	orig: 94, 85
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_dlls_ptbs_baibo_00037
+	rotate: true
+	xy: 106, 530
+	size: 34, 36
+	orig: 36, 36
+	offset: 1, 0
+	index: -1
+effect/common/New_sqlexv_putongbisha_quanji_00027
+	rotate: true
+	xy: 883, 254
+	size: 146, 138
+	orig: 158, 144
+	offset: 10, 1
+	index: -1
+effect/common/New_sqlexv_putongbisha_quanji_00024
+	rotate: false
+	xy: 537, 369
+	size: 150, 134
+	orig: 158, 144
+	offset: 7, 7
+	index: -1
+effect/common/New_sqlexv_putongbisha_quanji_00022
+	rotate: true
+	xy: 446, 899
+	size: 123, 83
+	orig: 123, 83
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_putongbisha_quanji_00023
+	rotate: false
+	xy: 536, 504
+	size: 146, 134
+	orig: 158, 144
+	offset: 4, 6
+	index: -1
+effect/common/New_sqlexv_xiaojineng_yan2_00010
+	rotate: true
+	xy: 207, 566
+	size: 71, 59
+	orig: 71, 59
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_xiaojineng_yan_00015
+	rotate: true
+	xy: 835, 448
+	size: 103, 40
+	orig: 105, 40
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_xiaojineng_yan_00012
+	rotate: true
+	xy: 486, 364
+	size: 104, 50
+	orig: 106, 52
+	offset: 1, 1
+	index: -1
+effect/common/New_sqlexv_xiaojineng_yan_00011
+	rotate: true
+	xy: 827, 552
+	size: 101, 51
+	orig: 103, 51
+	offset: 1, 0
+	index: -1
+
+asset/spine/global_spinehero_effect13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt13
+	rotate: false
+	xy: 445, 559
+	size: 168, 177
+	orig: 168, 177
+	offset: 0, 0
+	index: -1
+
+asset/spine/sqleXV_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_sqlexv_xiaojineng_yan_00006
+	rotate: false
+	xy: 716, 638
+	size: 75, 44
+	orig: 77, 44
+	offset: 1, 0
+	index: -1
+effect/common/New_sqlexv_xiaojineng_yan_00009
+	rotate: true
+	xy: 969, 853
+	size: 96, 50
+	orig: 98, 50
+	offset: 1, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_yan_00009
+	rotate: true
+	xy: 883, 501
+	size: 183, 133
+	orig: 185, 133
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_dlls_ptbs_baibo_00042
+	rotate: false
+	xy: 867, 751
+	size: 101, 102
+	orig: 103, 102
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_dlls_ptbs_baibo_00040
+	rotate: false
+	xy: 877, 213
+	size: 80, 81
+	orig: 82, 81
+	offset: 1, 0
+	index: -1
+effect/common/Newsz_dlls_ptbs_baibo_00046
+	rotate: false
+	xy: 716, 295
+	size: 132, 131
+	orig: 132, 131
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_dlls_ptbs_baibo_00048
+	rotate: false
+	xy: 880, 35
+	size: 142, 143
+	orig: 144, 143
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00089
+	rotate: true
+	xy: 171, 862
+	size: 158, 197
+	orig: 158, 199
+	offset: 0, 2
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00083
+	rotate: false
+	xy: 541, 643
+	size: 174, 212
+	orig: 174, 212
+	offset: 0, 0
+	index: -1
+effect/common/New_klk_ptbs_jiaodibo_00028
+	rotate: true
+	xy: 134, 862
+	size: 160, 36
+	orig: 160, 36
+	offset: 0, 0
+	index: -1
+effect/common/New_klk_ptbs_jiaodibo_00024
+	rotate: false
+	xy: 877, 179
+	size: 145, 33
+	orig: 145, 33
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00036
+	rotate: false
+	xy: 849, 295
+	size: 116, 130
+	orig: 116, 132
+	offset: 0, 2
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00038
+	rotate: false
+	xy: 2, 862
+	size: 131, 160
+	orig: 131, 160
+	offset: 0, 0
+	index: -1
+effect/common/Newsz_dlls_ptbs_baibo_00038
+	rotate: true
+	xy: 964, 435
+	size: 51, 53
+	orig: 53, 53
+	offset: 1, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00059
+	rotate: false
+	xy: 713, 427
+	size: 169, 210
+	orig: 171, 210
+	offset: 2, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00056
+	rotate: false
+	xy: 544, 2
+	size: 173, 210
+	orig: 173, 210
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00055
+	rotate: false
+	xy: 2, 647
+	size: 176, 214
+	orig: 176, 214
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00048
+	rotate: false
+	xy: 2, 432
+	size: 176, 214
+	orig: 176, 214
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00049
+	rotate: false
+	xy: 179, 432
+	size: 173, 214
+	orig: 175, 214
+	offset: 2, 0
+	index: -1
+effect/common/New_sqlexv_xiaojineng_yan2_00014
+	rotate: false
+	xy: 966, 294
+	size: 55, 72
+	orig: 57, 74
+	offset: 2, 0
+	index: -1
+effect/common/New_sqlexv_xiaojineng_yan2_00015
+	rotate: true
+	xy: 958, 213
+	size: 49, 63
+	orig: 53, 67
+	offset: 4, 0
+	index: -1
+effect/common/New_sqlexv_xiaojineng_yan2_00013
+	rotate: false
+	xy: 883, 426
+	size: 80, 74
+	orig: 82, 74
+	offset: 2, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00041
+	rotate: false
+	xy: 718, 115
+	size: 158, 179
+	orig: 158, 181
+	offset: 0, 2
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00042
+	rotate: true
+	xy: 369, 857
+	size: 165, 188
+	orig: 165, 188
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00043
+	rotate: true
+	xy: 737, 855
+	size: 167, 200
+	orig: 167, 200
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00047
+	rotate: false
+	xy: 539, 215
+	size: 176, 211
+	orig: 176, 211
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_yan_00007
+	rotate: false
+	xy: 718, 2
+	size: 161, 112
+	orig: 161, 112
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_xiaojineng_yan2_00009
+	rotate: true
+	xy: 966, 367
+	size: 67, 55
+	orig: 67, 55
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00075
+	rotate: false
+	xy: 2, 217
+	size: 179, 214
+	orig: 179, 214
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00071
+	rotate: false
+	xy: 362, 216
+	size: 176, 213
+	orig: 176, 213
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00070
+	rotate: false
+	xy: 182, 216
+	size: 179, 213
+	orig: 179, 215
+	offset: 0, 1
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00073
+	rotate: false
+	xy: 353, 430
+	size: 179, 213
+	orig: 179, 213
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00072
+	rotate: false
+	xy: 533, 430
+	size: 179, 212
+	orig: 179, 212
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00079
+	rotate: false
+	xy: 182, 2
+	size: 181, 213
+	orig: 181, 213
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00078
+	rotate: false
+	xy: 179, 647
+	size: 181, 213
+	orig: 181, 213
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_xiaojineng_yan_00010
+	rotate: true
+	xy: 969, 751
+	size: 101, 51
+	orig: 103, 53
+	offset: 1, 1
+	index: -1
+effect/common/New_sqlexv_xiaojineng_yan2_00006
+	rotate: true
+	xy: 792, 638
+	size: 41, 34
+	orig: 41, 34
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00060
+	rotate: false
+	xy: 364, 2
+	size: 179, 212
+	orig: 179, 212
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00065
+	rotate: false
+	xy: 2, 2
+	size: 179, 214
+	orig: 179, 214
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00069
+	rotate: false
+	xy: 361, 644
+	size: 179, 212
+	orig: 179, 212
+	offset: 0, 0
+	index: -1
+
+asset/spine/Kxvjr_common16.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/Newsz_dlls_ptbs_baibo_00044
+	rotate: false
+	xy: 273, 539
+	size: 266, 265
+	orig: 266, 265
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_lmbs_huangsebo_00029
+	rotate: false
+	xy: 457, 560
+	size: 102, 101
+	orig: 102, 101
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baobo_00018
+	rotate: false
+	xy: 976, 774
+	size: 20, 20
+	orig: 20, 20
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt14
+	rotate: false
+	xy: 384, 381
+	size: 176, 178
+	orig: 176, 178
+	offset: 0, 0
+	index: -1
+
+asset/spine/jshhdXV_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_klk_ptbs_shenhoubaibo_00026
+	rotate: false
+	xy: 647, 698
+	size: 69, 43
+	orig: 71, 43
+	offset: 0, 0
+	index: -1
+effect/common/New_klk_ptbs_shenhoubaibo_00032
+	rotate: true
+	xy: 908, 870
+	size: 152, 89
+	orig: 154, 89
+	offset: 0, 0
+	index: -1
+effect/common/New_klk_ptbs_shenhoubaibo_00031
+	rotate: true
+	xy: 384, 408
+	size: 143, 85
+	orig: 145, 85
+	offset: 0, 0
+	index: -1
+
+asset/spine/bzqjsxv_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_klk_ptbs_jiaodibo_00022
+	rotate: true
+	xy: 766, 547
+	size: 135, 31
+	orig: 135, 31
+	offset: 0, 0
+	index: -1
+effect/common/New_klk_ptbs_shenhoubaibo_00025
+	rotate: false
+	xy: 842, 309
+	size: 50, 31
+	orig: 52, 31
+	offset: 1, 0
+	index: -1
+effect/common/New_klk_ptbs_shenhoubaibo_00034
+	rotate: true
+	xy: 584, 344
+	size: 164, 96
+	orig: 166, 96
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_lmbs_huangxuanwo_00014
+	rotate: true
+	xy: 761, 475
+	size: 243, 261
+	orig: 243, 261
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_lmbs_huangxuanwo_00016
+	rotate: true
+	xy: 780, 650
+	size: 221, 236
+	orig: 221, 236
+	offset: 0, 0
+	index: -1
+
+asset/spine/sqleXVDY_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00086
+	rotate: false
+	xy: 438, 829
+	size: 167, 192
+	orig: 167, 192
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00080
+	rotate: false
+	xy: 2, 418
+	size: 173, 206
+	orig: 173, 206
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00081
+	rotate: false
+	xy: 344, 2
+	size: 170, 206
+	orig: 170, 206
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00039
+	rotate: true
+	xy: 861, 204
+	size: 130, 161
+	orig: 130, 161
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00052
+	rotate: false
+	xy: 2, 2
+	size: 170, 207
+	orig: 170, 207
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00050
+	rotate: false
+	xy: 515, 2
+	size: 170, 205
+	orig: 170, 205
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00054
+	rotate: false
+	xy: 173, 2
+	size: 170, 206
+	orig: 170, 206
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00074
+	rotate: false
+	xy: 172, 210
+	size: 172, 206
+	orig: 172, 206
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00077
+	rotate: false
+	xy: 514, 621
+	size: 173, 204
+	orig: 173, 204
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00076
+	rotate: false
+	xy: 688, 620
+	size: 172, 204
+	orig: 172, 204
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00062
+	rotate: false
+	xy: 349, 415
+	size: 165, 205
+	orig: 165, 205
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00066
+	rotate: false
+	xy: 172, 625
+	size: 172, 205
+	orig: 172, 205
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00067
+	rotate: false
+	xy: 176, 417
+	size: 172, 205
+	orig: 172, 205
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00064
+	rotate: false
+	xy: 2, 210
+	size: 169, 207
+	orig: 169, 207
+	offset: 0, 0
+	index: -1
+effect/common/New_sqlexv_liumenbisha_shouxuanfeng_00068
+	rotate: false
+	xy: 2, 625
+	size: 169, 206
+	orig: 169, 206
+	offset: 0, 0
+	index: -1
+
+asset/spine/stczXV_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_klk_ptbs_jiaodibo_00026
+	rotate: true
+	xy: 307, 2
+	size: 235, 54
+	orig: 235, 54
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect16.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baoqixuli_00005
+	rotate: false
+	xy: 2, 2
+	size: 163, 138
+	orig: 163, 138
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangsebo_00031
+	rotate: true
+	xy: 2, 441
+	size: 139, 140
+	orig: 139, 140
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baobo_00020
+	rotate: false
+	xy: 2, 581
+	size: 126, 125
+	orig: 126, 125
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangxuanwo_00024
+	rotate: false
+	xy: 143, 572
+	size: 135, 134
+	orig: 135, 134
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangxuanwo_00022
+	rotate: false
+	xy: 2, 141
+	size: 160, 158
+	orig: 160, 158
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt19
+	rotate: true
+	xy: 147, 437
+	size: 134, 143
+	orig: 134, 143
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt16
+	rotate: false
+	xy: 166, 2
+	size: 162, 140
+	orig: 162, 140
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt17
+	rotate: true
+	xy: 291, 559
+	size: 124, 136
+	orig: 124, 136
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_lmbs_huangsebo_00037
+	rotate: true
+	xy: 508, 2
+	size: 191, 147
+	orig: 191, 147
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baobo_00024
+	rotate: false
+	xy: 521, 593
+	size: 187, 187
+	orig: 187, 187
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baobo_00022
+	rotate: false
+	xy: 800, 2
+	size: 171, 169
+	orig: 171, 169
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt15
+	rotate: false
+	xy: 2, 851
+	size: 176, 171
+	orig: 176, 171
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_lmbs_huangxuanwo_00018
+	rotate: false
+	xy: 810, 742
+	size: 209, 209
+	orig: 209, 209
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baoqixuli_00007
+	rotate: false
+	xy: 777, 694
+	size: 234, 143
+	orig: 234, 143
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangsebo_00033
+	rotate: true
+	xy: 858, 307
+	size: 165, 163
+	orig: 165, 163
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt18
+	rotate: false
+	xy: 858, 166
+	size: 164, 140
+	orig: 164, 140
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_lmbs_huangsebo_00027
+	rotate: false
+	xy: 771, 499
+	size: 62, 62
+	orig: 62, 62
+	offset: 0, 0
+	index: -1
+
+asset/spine/jshhdXV_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_klk_ptbs_shenhoubaibo_00024
+	rotate: true
+	xy: 547, 983
+	size: 34, 24
+	orig: 36, 24
+	offset: 1, 0
+	index: -1
+effect/common/New_klk_ptbs_shenhoubaibo_00028
+	rotate: true
+	xy: 960, 242
+	size: 103, 62
+	orig: 105, 62
+	offset: 0, 0
+	index: -1

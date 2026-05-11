@@ -1,0 +1,235 @@
+
+asset/spine/lctjxhCard_role2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/caitixionghu_kabei23
+	rotate: false
+	xy: 2, 2
+	size: 241, 245
+	orig: 241, 245
+	offset: 0, 0
+	index: -1
+
+asset/spine/lctjxhCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/caitixionghu_kabei29
+	rotate: false
+	xy: 725, 509
+	size: 284, 340
+	orig: 284, 340
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei28
+	rotate: false
+	xy: 725, 293
+	size: 234, 215
+	orig: 234, 215
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei20
+	rotate: true
+	xy: 103, 840
+	size: 160, 192
+	orig: 162, 192
+	offset: 2, 0
+	index: -1
+role/caitixionghu_kabei25
+	rotate: true
+	xy: 521, 293
+	size: 518, 203
+	orig: 518, 203
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei24
+	rotate: false
+	xy: 536, 2
+	size: 424, 290
+	orig: 424, 290
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei27
+	rotate: false
+	xy: 676, 850
+	size: 65, 127
+	orig: 65, 127
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei10
+	rotate: false
+	xy: 960, 361
+	size: 58, 99
+	orig: 58, 99
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei14
+	rotate: true
+	xy: 834, 850
+	size: 111, 83
+	orig: 111, 83
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei15
+	rotate: true
+	xy: 2, 840
+	size: 175, 100
+	orig: 175, 100
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei16
+	rotate: false
+	xy: 961, 2
+	size: 61, 251
+	orig: 61, 251
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei17
+	rotate: true
+	xy: 918, 850
+	size: 92, 103
+	orig: 92, 103
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei19
+	rotate: true
+	xy: 536, 812
+	size: 36, 101
+	orig: 36, 101
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei30
+	rotate: false
+	xy: 2, 2
+	size: 518, 837
+	orig: 518, 837
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei9
+	rotate: false
+	xy: 296, 840
+	size: 239, 154
+	orig: 239, 154
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei1
+	rotate: false
+	xy: 961, 254
+	size: 58, 106
+	orig: 58, 106
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei6
+	rotate: false
+	xy: 918, 943
+	size: 96, 77
+	orig: 96, 77
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei7
+	rotate: true
+	xy: 536, 850
+	size: 146, 139
+	orig: 146, 139
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei4
+	rotate: true
+	xy: 742, 850
+	size: 117, 91
+	orig: 117, 91
+	offset: 0, 0
+	index: -1
+
+asset/spine/lctjxhCard_role1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/caitixionghu_kabei21
+	rotate: true
+	xy: 884, 532
+	size: 65, 93
+	orig: 65, 93
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei22
+	rotate: false
+	xy: 544, 562
+	size: 299, 238
+	orig: 299, 238
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei26
+	rotate: true
+	xy: 544, 335
+	size: 226, 339
+	orig: 226, 339
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei11
+	rotate: false
+	xy: 932, 274
+	size: 81, 95
+	orig: 81, 95
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei12
+	rotate: true
+	xy: 932, 2
+	size: 71, 84
+	orig: 71, 84
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei13
+	rotate: true
+	xy: 932, 180
+	size: 93, 82
+	orig: 93, 88
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei18
+	rotate: true
+	xy: 884, 370
+	size: 93, 106
+	orig: 93, 106
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei31
+	rotate: false
+	xy: 2, 2
+	size: 541, 808
+	orig: 541, 808
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei8
+	rotate: true
+	xy: 544, 2
+	size: 332, 387
+	orig: 332, 387
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei2
+	rotate: true
+	xy: 884, 464
+	size: 67, 101
+	orig: 67, 101
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei3
+	rotate: false
+	xy: 932, 74
+	size: 82, 105
+	orig: 82, 105
+	offset: 0, 0
+	index: -1
+role/caitixionghu_kabei5
+	rotate: false
+	xy: 2, 811
+	size: 366, 189
+	orig: 366, 189
+	offset: 0, 0
+	index: -1

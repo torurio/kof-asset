@@ -1,0 +1,208 @@
+
+asset/spine/jxlzxemsdCard_role1.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/leizhixiaermei_ewsz_nvtuan_tp_10
+	rotate: true
+	xy: 2, 2
+	size: 140, 207
+	orig: 140, 207
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_24
+	rotate: false
+	xy: 2, 143
+	size: 180, 163
+	orig: 180, 163
+	offset: 0, 0
+	index: -1
+
+asset/spine/jxlzxemsdCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/leizhixiaermei_ewsz_nvtuan_tp_3
+	rotate: false
+	xy: 964, 92
+	size: 54, 34
+	orig: 54, 34
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_2
+	rotate: true
+	xy: 599, 883
+	size: 120, 146
+	orig: 120, 148
+	offset: 0, 1
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_1
+	rotate: true
+	xy: 221, 937
+	size: 82, 124
+	orig: 82, 124
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_7
+	rotate: true
+	xy: 961, 338
+	size: 33, 49
+	orig: 33, 49
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_6
+	rotate: true
+	xy: 964, 127
+	size: 36, 53
+	orig: 36, 53
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_5
+	rotate: true
+	xy: 964, 2
+	size: 44, 58
+	orig: 44, 60
+	offset: 0, 2
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_4
+	rotate: true
+	xy: 964, 47
+	size: 44, 54
+	orig: 44, 54
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_9
+	rotate: true
+	xy: 964, 204
+	size: 87, 49
+	orig: 87, 49
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_8
+	rotate: true
+	xy: 462, 883
+	size: 138, 136
+	orig: 138, 136
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_17
+	rotate: true
+	xy: 670, 772
+	size: 98, 203
+	orig: 98, 203
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_16
+	rotate: false
+	xy: 874, 772
+	size: 147, 180
+	orig: 147, 180
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_15
+	rotate: false
+	xy: 961, 372
+	size: 46, 35
+	orig: 48, 37
+	offset: 1, 1
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_14
+	rotate: false
+	xy: 961, 292
+	size: 60, 45
+	orig: 62, 47
+	offset: 1, 1
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_13
+	rotate: true
+	xy: 1011, 338
+	size: 14, 11
+	orig: 16, 13
+	offset: 1, 1
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_12
+	rotate: false
+	xy: 961, 408
+	size: 40, 31
+	orig: 42, 31
+	offset: 1, 0
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_11
+	rotate: true
+	xy: 670, 580
+	size: 191, 275
+	orig: 191, 275
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_19
+	rotate: true
+	xy: 225, 377
+	size: 187, 156
+	orig: 189, 156
+	offset: 1, 0
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_18
+	rotate: true
+	xy: 462, 640
+	size: 242, 207
+	orig: 242, 207
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_28
+	rotate: false
+	xy: 221, 580
+	size: 240, 356
+	orig: 240, 356
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_22
+	rotate: false
+	xy: 462, 377
+	size: 207, 262
+	orig: 207, 262
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_23
+	rotate: true
+	xy: 677, 2
+	size: 227, 286
+	orig: 227, 286
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_20
+	rotate: false
+	xy: 964, 164
+	size: 52, 39
+	orig: 52, 41
+	offset: 0, 1
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_21
+	rotate: false
+	xy: 2, 580
+	size: 218, 418
+	orig: 218, 418
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_26
+	rotate: false
+	xy: 2, 2
+	size: 674, 374
+	orig: 674, 374
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_27
+	rotate: false
+	xy: 2, 377
+	size: 222, 195
+	orig: 222, 195
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_ewsz_nvtuan_tp_25
+	rotate: true
+	xy: 677, 230
+	size: 349, 283
+	orig: 349, 283
+	offset: 0, 0
+	index: -1

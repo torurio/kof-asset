@@ -1,0 +1,230 @@
+
+asset/spine/teruiTRCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/terui2003_zailin_bt_tu_6
+	rotate: true
+	xy: 392, 936
+	size: 77, 50
+	orig: 77, 50
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_7
+	rotate: true
+	xy: 341, 694
+	size: 51, 112
+	orig: 51, 112
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_4
+	rotate: false
+	xy: 403, 2
+	size: 25, 57
+	orig: 25, 57
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_5
+	rotate: true
+	xy: 533, 2
+	size: 55, 19
+	orig: 55, 19
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_2
+	rotate: false
+	xy: 403, 173
+	size: 42, 59
+	orig: 42, 61
+	offset: 0, 2
+	index: -1
+role/terui2003_zailin_bt_tu_3
+	rotate: true
+	xy: 829, 96
+	size: 26, 55
+	orig: 26, 55
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_8
+	rotate: false
+	xy: 553, 101
+	size: 113, 112
+	orig: 113, 112
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_9
+	rotate: true
+	xy: 443, 936
+	size: 73, 109
+	orig: 73, 109
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_25
+	rotate: true
+	xy: 403, 73
+	size: 65, 145
+	orig: 65, 153
+	offset: 0, 8
+	index: -1
+role/terui2003_zailin_bt_tu_24
+	rotate: true
+	xy: 931, 75
+	size: 68, 72
+	orig: 68, 72
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_27
+	rotate: false
+	xy: 2, 487
+	size: 211, 262
+	orig: 211, 262
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_26
+	rotate: false
+	xy: 2, 750
+	size: 232, 256
+	orig: 232, 256
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_21
+	rotate: false
+	xy: 235, 749
+	size: 125, 209
+	orig: 125, 209
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_20
+	rotate: true
+	xy: 709, 2
+	size: 108, 119
+	orig: 108, 119
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_23
+	rotate: false
+	xy: 214, 487
+	size: 81, 215
+	orig: 81, 215
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_22
+	rotate: true
+	xy: 931, 2
+	size: 72, 89
+	orig: 72, 89
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_30
+	rotate: false
+	xy: 454, 139
+	size: 94, 89
+	orig: 94, 89
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_29
+	rotate: false
+	xy: 296, 487
+	size: 132, 206
+	orig: 132, 206
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_28
+	rotate: false
+	xy: 553, 2
+	size: 155, 98
+	orig: 155, 98
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_32
+	rotate: false
+	xy: 315, 959
+	size: 76, 59
+	orig: 76, 59
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_33
+	rotate: false
+	xy: 2, 2
+	size: 400, 484
+	orig: 400, 484
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_10
+	rotate: false
+	xy: 667, 101
+	size: 32, 69
+	orig: 32, 69
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_11
+	rotate: true
+	xy: 235, 959
+	size: 59, 79
+	orig: 59, 79
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_12
+	rotate: true
+	xy: 403, 139
+	size: 33, 47
+	orig: 33, 47
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_13
+	rotate: true
+	xy: 277, 703
+	size: 44, 38
+	orig: 44, 38
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_14
+	rotate: false
+	xy: 361, 936
+	size: 30, 21
+	orig: 30, 21
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_15
+	rotate: false
+	xy: 316, 694
+	size: 24, 53
+	orig: 24, 53
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_16
+	rotate: true
+	xy: 2, 1007
+	size: 14, 46
+	orig: 14, 46
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_31
+	rotate: false
+	xy: 361, 746
+	size: 171, 189
+	orig: 171, 189
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_18
+	rotate: true
+	xy: 429, 2
+	size: 70, 103
+	orig: 70, 103
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_19
+	rotate: false
+	xy: 829, 2
+	size: 101, 93
+	orig: 101, 93
+	offset: 0, 0
+	index: -1
+role/terui2003_zailin_bt_tu_17
+	rotate: false
+	xy: 214, 703
+	size: 62, 45
+	orig: 62, 45
+	offset: 0, 0
+	index: -1

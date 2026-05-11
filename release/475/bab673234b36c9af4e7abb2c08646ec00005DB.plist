@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>m1_shiyiquanmubiaoimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,204},{15,7}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{15,7}}</string>
+			<key>sourceSize</key>
+			<string>{15,7}</string>
+		</dict>
+		<key>mask_shiyiquanmubiaoimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,187},{15,7}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{15,7}}</string>
+			<key>sourceSize</key>
+			<string>{15,7}</string>
+		</dict>
+		<key>qmb_shiyiquanmubiaoimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{183,123}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{183,123}}</string>
+			<key>sourceSize</key>
+			<string>{183,123}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>shiyiquanmubiaoimage.png</string>
+		<key>size</key>
+		<string>{128,256}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>shiyiquanmubiaoimage.png</string>
+	</dict>
+</dict>
+</plist>

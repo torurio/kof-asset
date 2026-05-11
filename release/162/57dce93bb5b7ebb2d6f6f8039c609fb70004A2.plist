@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>bg_xinpata_tashen_6qi_quan.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,647},{956,219}}</string>
+			<key>offset</key>
+			<string>{0,-2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,4},{956,219}}</string>
+			<key>sourceSize</key>
+			<string>{956,223}</string>
+		</dict>
+		<key>bg_xinpata_tashen_6qi_zhuzi.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{864,643}}</string>
+			<key>offset</key>
+			<string>{3,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{18,0},{864,643}}</string>
+			<key>sourceSize</key>
+			<string>{894,643}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>ClimbTower80.png</string>
+		<key>size</key>
+		<string>{960,868}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>ClimbTower80.png</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,680 @@
+
+asset/spine/bzbashenCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/bzbs_benti_kabai_6
+	rotate: false
+	xy: 977, 64
+	size: 33, 64
+	orig: 33, 66
+	offset: 0, 2
+	index: -1
+role/bzbs_benti_kabai_7
+	rotate: false
+	xy: 977, 129
+	size: 30, 61
+	orig: 30, 61
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_4
+	rotate: false
+	xy: 977, 215
+	size: 25, 51
+	orig: 25, 51
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_5
+	rotate: false
+	xy: 977, 37
+	size: 34, 26
+	orig: 34, 26
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_2
+	rotate: true
+	xy: 297, 944
+	size: 78, 71
+	orig: 78, 71
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_3
+	rotate: true
+	xy: 208, 948
+	size: 74, 88
+	orig: 74, 88
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_1
+	rotate: true
+	xy: 977, 2
+	size: 34, 41
+	orig: 34, 41
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_8
+	rotate: true
+	xy: 472, 944
+	size: 63, 52
+	orig: 63, 52
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_9
+	rotate: false
+	xy: 891, 644
+	size: 94, 90
+	orig: 94, 90
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_18
+	rotate: false
+	xy: 2, 953
+	size: 102, 67
+	orig: 102, 67
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_19
+	rotate: true
+	xy: 2, 664
+	size: 288, 102
+	orig: 288, 102
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_10
+	rotate: false
+	xy: 105, 948
+	size: 102, 74
+	orig: 102, 74
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_11
+	rotate: true
+	xy: 614, 903
+	size: 114, 146
+	orig: 116, 146
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_12
+	rotate: true
+	xy: 761, 903
+	size: 97, 129
+	orig: 99, 133
+	offset: 2, 3
+	index: -1
+role/bzbs_benti_kabai_13
+	rotate: false
+	xy: 762, 735
+	size: 212, 161
+	orig: 212, 163
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_32
+	rotate: false
+	xy: 2, 2
+	size: 485, 661
+	orig: 485, 661
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_30
+	rotate: true
+	xy: 525, 944
+	size: 57, 88
+	orig: 57, 88
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_17
+	rotate: false
+	xy: 277, 664
+	size: 248, 279
+	orig: 248, 279
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_24
+	rotate: true
+	xy: 977, 191
+	size: 23, 28
+	orig: 23, 28
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_14
+	rotate: false
+	xy: 105, 664
+	size: 171, 283
+	orig: 171, 283
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_21
+	rotate: false
+	xy: 762, 644
+	size: 56, 88
+	orig: 56, 88
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_23
+	rotate: false
+	xy: 975, 735
+	size: 47, 51
+	orig: 47, 51
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_22
+	rotate: false
+	xy: 369, 944
+	size: 102, 64
+	orig: 102, 64
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_25
+	rotate: true
+	xy: 1003, 219
+	size: 25, 15
+	orig: 25, 15
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_16
+	rotate: true
+	xy: 526, 644
+	size: 258, 235
+	orig: 258, 235
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_27
+	rotate: true
+	xy: 1006, 191
+	size: 27, 15
+	orig: 27, 15
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_26
+	rotate: true
+	xy: 1008, 129
+	size: 20, 13
+	orig: 20, 13
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_28
+	rotate: true
+	xy: 1011, 64
+	size: 25, 11
+	orig: 25, 11
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_31
+	rotate: false
+	xy: 488, 2
+	size: 488, 641
+	orig: 488, 643
+	offset: 0, 0
+	index: -1
+
+asset/spine/bzbashenCard_role1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/bzbs_benti_kabai_15
+	rotate: true
+	xy: 194, 2
+	size: 179, 50
+	orig: 179, 50
+	offset: 0, 0
+	index: -1
+role/bzbs_benti_kabai_20
+	rotate: false
+	xy: 2, 2
+	size: 191, 151
+	orig: 193, 151
+	offset: 1, 0
+	index: -1
+role/bzbs_benti_kabai_29
+	rotate: false
+	xy: 2, 182
+	size: 143, 48
+	orig: 143, 48
+	offset: 0, 0
+	index: -1
+
+asset/spine/bzbashenCard_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/bzbs_kabei_te_hou_0039
+	rotate: false
+	xy: 701, 558
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_qian_0023
+	rotate: false
+	xy: 861, 2
+	size: 155, 183
+	orig: 197, 261
+	offset: 5, 20
+	index: -1
+effect/common/bzbs_kabei_te_hou_0033
+	rotate: true
+	xy: 548, 235
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_hou_0029
+	rotate: true
+	xy: 548, 2
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_qian_0029
+	rotate: false
+	xy: 861, 186
+	size: 155, 177
+	orig: 197, 261
+	offset: 12, 21
+	index: -1
+effect/common/bzbs_kabei_te_hou_0037
+	rotate: false
+	xy: 468, 558
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_hou_0023
+	rotate: false
+	xy: 2, 315
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_hou_0035
+	rotate: false
+	xy: 235, 558
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_hou_0027
+	rotate: true
+	xy: 235, 2
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_qian_0021
+	rotate: true
+	xy: 411, 871
+	size: 151, 165
+	orig: 197, 261
+	offset: 7, 32
+	index: -1
+effect/common/bzbs_kabei_te_hou_0031
+	rotate: true
+	xy: 235, 235
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_hou_0021
+	rotate: false
+	xy: 2, 2
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_qian_0027
+	rotate: true
+	xy: 235, 871
+	size: 151, 175
+	orig: 197, 261
+	offset: 14, 15
+	index: -1
+effect/common/bzbs_kabei_te_hou_0025
+	rotate: false
+	xy: 2, 628
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_qian_0057
+	rotate: false
+	xy: 577, 871
+	size: 193, 149
+	orig: 197, 261
+	offset: 4, 63
+	index: -1
+effect/common/bzbs_kabei_te_qian_0055
+	rotate: false
+	xy: 771, 871
+	size: 191, 147
+	orig: 197, 261
+	offset: 6, 58
+	index: -1
+effect/common/bzbs_kabei_te_qian_0059
+	rotate: true
+	xy: 861, 364
+	size: 193, 151
+	orig: 197, 261
+	offset: 4, 68
+	index: -1
+
+asset/spine/bzbashenCard_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/bzbs_kabei_te_hou_0051
+	rotate: true
+	xy: 235, 235
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_hou_0053
+	rotate: true
+	xy: 548, 235
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_hou_0055
+	rotate: false
+	xy: 235, 606
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_qian_0019
+	rotate: false
+	xy: 824, 606
+	size: 197, 179
+	orig: 197, 261
+	offset: 0, 26
+	index: -1
+effect/common/bzbs_kabei_te_hou_0057
+	rotate: false
+	xy: 591, 468
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_hou_0059
+	rotate: true
+	xy: 468, 786
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_hou_0049
+	rotate: true
+	xy: 548, 2
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_qian_0009
+	rotate: false
+	xy: 781, 786
+	size: 193, 201
+	orig: 197, 261
+	offset: 4, 16
+	index: -1
+effect/common/bzbs_kabei_te_qian_0045
+	rotate: false
+	xy: 415, 468
+	size: 175, 135
+	orig: 197, 261
+	offset: 10, 32
+	index: -1
+effect/common/bzbs_kabei_te_qian_0047
+	rotate: false
+	xy: 235, 468
+	size: 179, 137
+	orig: 197, 261
+	offset: 9, 38
+	index: -1
+effect/common/bzbs_kabei_te_hou_0047
+	rotate: true
+	xy: 235, 2
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_hou_0043
+	rotate: false
+	xy: 2, 315
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_hou_0041
+	rotate: false
+	xy: 2, 2
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_qian_0033
+	rotate: false
+	xy: 861, 2
+	size: 161, 179
+	orig: 197, 261
+	offset: 10, 34
+	index: -1
+effect/common/bzbs_kabei_te_hou_0045
+	rotate: false
+	xy: 2, 628
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_qian_0031
+	rotate: false
+	xy: 861, 278
+	size: 157, 179
+	orig: 197, 261
+	offset: 12, 27
+	index: -1
+effect/common/bzbs_kabei_te_qian_0025
+	rotate: true
+	xy: 861, 458
+	size: 147, 157
+	orig: 197, 261
+	offset: 15, 27
+	index: -1
+effect/common/bzbs_kabei_te_qian_0037
+	rotate: false
+	xy: 861, 182
+	size: 161, 95
+	orig: 197, 261
+	offset: 15, 46
+	index: -1
+
+asset/spine/bzbashenCard_common3.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/bzbs_kabei_te_qian_0001
+	rotate: true
+	xy: 394, 2
+	size: 187, 115
+	orig: 197, 261
+	offset: 2, 75
+	index: -1
+effect/common/bzbs_kabei_te_qian_0003
+	rotate: false
+	xy: 198, 360
+	size: 189, 185
+	orig: 197, 261
+	offset: 2, 11
+	index: -1
+effect/common/bzbs_kabei_te_qian_0013
+	rotate: false
+	xy: 2, 2
+	size: 195, 181
+	orig: 197, 261
+	offset: 2, 8
+	index: -1
+effect/common/bzbs_kabei_te_qian_0005
+	rotate: false
+	xy: 2, 364
+	size: 187, 187
+	orig: 197, 261
+	offset: 7, 17
+	index: -1
+effect/common/bzbs_kabei_te_qian_0017
+	rotate: false
+	xy: 2, 184
+	size: 195, 179
+	orig: 197, 261
+	offset: 2, 21
+	index: -1
+effect/common/bzbs_kabei_te_qian_0015
+	rotate: false
+	xy: 198, 2
+	size: 195, 181
+	orig: 197, 261
+	offset: 2, 14
+	index: -1
+effect/common/bzbs_kabei_te_qian_0011
+	rotate: false
+	xy: 198, 184
+	size: 193, 175
+	orig: 197, 261
+	offset: 4, 22
+	index: -1
+effect/common/bzbs_kabei_te_qian_0035
+	rotate: true
+	xy: 190, 546
+	size: 165, 179
+	orig: 197, 261
+	offset: 9, 40
+	index: -1
+
+asset/spine/bzbashenCard_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/bzbs_kabei_te_qian_0039
+	rotate: false
+	xy: 577, 873
+	size: 165, 131
+	orig: 197, 261
+	offset: 14, 17
+	index: -1
+effect/common/bzbs_kabei_te_hou_0003
+	rotate: false
+	xy: 2, 315
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_hou_0001
+	rotate: false
+	xy: 2, 2
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_hou_0007
+	rotate: true
+	xy: 235, 2
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_hou_0005
+	rotate: false
+	xy: 2, 628
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_hou_0009
+	rotate: true
+	xy: 548, 2
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_qian_0049
+	rotate: true
+	xy: 861, 378
+	size: 181, 139
+	orig: 197, 261
+	offset: 9, 43
+	index: -1
+effect/common/bzbs_kabei_te_qian_0041
+	rotate: false
+	xy: 407, 873
+	size: 169, 131
+	orig: 197, 261
+	offset: 12, 22
+	index: -1
+effect/common/bzbs_kabei_te_qian_0043
+	rotate: false
+	xy: 235, 873
+	size: 171, 133
+	orig: 197, 261
+	offset: 12, 27
+	index: -1
+effect/common/bzbs_kabei_te_hou_0019
+	rotate: true
+	xy: 701, 560
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_hou_0015
+	rotate: false
+	xy: 235, 560
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_hou_0017
+	rotate: false
+	xy: 468, 560
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_qian_0007
+	rotate: false
+	xy: 743, 793
+	size: 191, 201
+	orig: 197, 261
+	offset: 5, 10
+	index: -1
+effect/common/bzbs_kabei_te_hou_0011
+	rotate: true
+	xy: 235, 235
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_hou_0013
+	rotate: true
+	xy: 548, 235
+	size: 232, 312
+	orig: 232, 312
+	offset: 0, 0
+	index: -1
+effect/common/bzbs_kabei_te_qian_0053
+	rotate: true
+	xy: 861, 2
+	size: 189, 143
+	orig: 197, 261
+	offset: 6, 54
+	index: -1
+effect/common/bzbs_kabei_te_qian_0051
+	rotate: true
+	xy: 861, 192
+	size: 185, 141
+	orig: 197, 261
+	offset: 8, 48
+	index: -1

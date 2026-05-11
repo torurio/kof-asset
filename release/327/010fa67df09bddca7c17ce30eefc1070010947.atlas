@@ -1,0 +1,3867 @@
+
+asset/spine/ctczUMsz_role_shizhuang0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caozicaizou_pifu_benpao_ys_yi_d_1
+	rotate: true
+	xy: 972, 409
+	size: 57, 50
+	orig: 57, 50
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_e_body_1
+	rotate: true
+	xy: 2, 770
+	size: 144, 67
+	orig: 144, 67
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_5
+	rotate: true
+	xy: 231, 193
+	size: 14, 30
+	orig: 14, 30
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_0
+	rotate: false
+	xy: 315, 193
+	size: 18, 14
+	orig: 18, 14
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_i_zshou_1
+	rotate: true
+	xy: 972, 81
+	size: 67, 50
+	orig: 67, 50
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_l_body
+	rotate: false
+	xy: 93, 314
+	size: 119, 125
+	orig: 119, 125
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_ztui_d_1
+	rotate: false
+	xy: 749, 524
+	size: 69, 78
+	orig: 71, 80
+	offset: 0, 1
+	index: -1
+caozicaizou_pifu_shengli_zshou_a_1
+	rotate: false
+	xy: 557, 915
+	size: 82, 96
+	orig: 82, 96
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_g_yzshou_1_1
+	rotate: false
+	xy: 152, 2
+	size: 68, 96
+	orig: 68, 96
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_a_body
+	rotate: false
+	xy: 242, 468
+	size: 85, 121
+	orig: 85, 121
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_yshou_a_1
+	rotate: true
+	xy: 819, 923
+	size: 42, 61
+	orig: 42, 61
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_ztui_f_1
+	rotate: true
+	xy: 930, 563
+	size: 62, 40
+	orig: 62, 40
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shengli_body_c_3
+	rotate: false
+	xy: 334, 191
+	size: 60, 16
+	orig: 66, 24
+	offset: 1, 8
+	index: -1
+caozicaizou_pifu_shengli_body_c_1
+	rotate: false
+	xy: 930, 84
+	size: 41, 72
+	orig: 41, 72
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_zs_yi_d_1
+	rotate: false
+	xy: 972, 2
+	size: 50, 78
+	orig: 50, 78
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_h_ztui_2
+	rotate: false
+	xy: 475, 590
+	size: 61, 88
+	orig: 61, 88
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_ztui_c_2
+	rotate: false
+	xy: 685, 295
+	size: 61, 84
+	orig: 61, 84
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_yshou_b_1_1
+	rotate: false
+	xy: 340, 302
+	size: 34, 93
+	orig: 34, 93
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_skill_ztui_f_1
+	rotate: false
+	xy: 319, 97
+	size: 91, 93
+	orig: 93, 93
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_m_yshou_3_2
+	rotate: true
+	xy: 764, 174
+	size: 33, 62
+	orig: 33, 62
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_l_body_BS
+	rotate: false
+	xy: 74, 598
+	size: 119, 125
+	orig: 119, 125
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shengli_zshou_b_1
+	rotate: false
+	xy: 248, 770
+	size: 33, 116
+	orig: 43, 116
+	offset: 10, 0
+	index: -1
+caozicaizou_pifu_atk_yshou_f_1
+	rotate: true
+	xy: 258, 407
+	size: 60, 81
+	orig: 60, 81
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_n_body
+	rotate: true
+	xy: 66, 915
+	size: 106, 133
+	orig: 106, 133
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_ztui_d_1
+	rotate: false
+	xy: 291, 208
+	size: 91, 93
+	orig: 91, 93
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_yshoui_e_1_1
+	rotate: false
+	xy: 749, 949
+	size: 65, 73
+	orig: 65, 73
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_zshou_e_3_BIANS
+	rotate: false
+	xy: 930, 465
+	size: 41, 26
+	orig: 41, 26
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_youtui_da_a_2
+	rotate: false
+	xy: 415, 879
+	size: 55, 35
+	orig: 55, 41
+	offset: 0, 3
+	index: -1
+caozicaizou_pifu_sjdaodi_f_zshou_2
+	rotate: true
+	xy: 971, 745
+	size: 68, 51
+	orig: 68, 51
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_z_toufa_2
+	rotate: true
+	xy: 328, 567
+	size: 22, 37
+	orig: 22, 37
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_d_ztui_2_BS
+	rotate: true
+	xy: 881, 909
+	size: 57, 48
+	orig: 59, 48
+	offset: 1, 0
+	index: -1
+caozicaizou_pifu_d_skill_g_yshou_1
+	rotate: false
+	xy: 747, 293
+	size: 71, 81
+	orig: 71, 81
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_i_zshou_1_BS
+	rotate: true
+	xy: 972, 149
+	size: 67, 50
+	orig: 67, 50
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_skill_ztui_b_1
+	rotate: false
+	xy: 489, 93
+	size: 78, 90
+	orig: 78, 90
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_body_b
+	rotate: false
+	xy: 2, 314
+	size: 90, 153
+	orig: 90, 153
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_body_c
+	rotate: false
+	xy: 74, 468
+	size: 88, 129
+	orig: 88, 129
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_body_d
+	rotate: false
+	xy: 467, 208
+	size: 80, 88
+	orig: 88, 92
+	offset: 8, 4
+	index: -1
+caozicaizou_pifu_benpao_body_e
+	rotate: false
+	xy: 674, 590
+	size: 74, 78
+	orig: 74, 78
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_l_zshou_3
+	rotate: false
+	xy: 545, 867
+	size: 48, 47
+	orig: 48, 47
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_zshou_a_1_1
+	rotate: false
+	xy: 784, 448
+	size: 34, 72
+	orig: 34, 72
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_h_body
+	rotate: false
+	xy: 521, 297
+	size: 78, 88
+	orig: 78, 96
+	offset: 0, 8
+	index: -1
+caozicaizou_pifu_bs_skill_yshou_a_BIANS
+	rotate: true
+	xy: 930, 400
+	size: 32, 41
+	orig: 34, 41
+	offset: 1, 0
+	index: -1
+caozicaizou_pifu_atk_ztui_g
+	rotate: true
+	xy: 857, 208
+	size: 50, 23
+	orig: 50, 49
+	offset: 0, 11
+	index: -1
+caozicaizou_pifu_atk_ztui_g_a
+	rotate: true
+	xy: 857, 208
+	size: 50, 23
+	orig: 50, 49
+	offset: 0, 11
+	index: -1
+caozicaizou_pifu_sjdaodi_e_ztui_2
+	rotate: false
+	xy: 930, 683
+	size: 40, 56
+	orig: 48, 56
+	offset: 5, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_e_ztui_1
+	rotate: true
+	xy: 396, 590
+	size: 97, 78
+	orig: 99, 88
+	offset: 2, 0
+	index: -1
+caozicaizou_pifu_d_skill_f_yshou_2
+	rotate: false
+	xy: 819, 871
+	size: 61, 51
+	orig: 61, 51
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_f_ztui_1
+	rotate: false
+	xy: 614, 2
+	size: 61, 88
+	orig: 61, 88
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_c_body
+	rotate: true
+	xy: 392, 915
+	size: 106, 73
+	orig: 106, 73
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_yshou_b_2
+	rotate: true
+	xy: 815, 966
+	size: 55, 65
+	orig: 55, 65
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_b_body
+	rotate: true
+	xy: 759, 2
+	size: 85, 80
+	orig: 91, 92
+	offset: 0, 12
+	index: -1
+caozicaizou_pifu_d_skill_d_ztui_1_BS
+	rotate: false
+	xy: 819, 450
+	size: 61, 77
+	orig: 61, 77
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_f_yshou_1_BS
+	rotate: false
+	xy: 104, 105
+	size: 47, 102
+	orig: 47, 102
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_ztui_da_b_2_BIANS
+	rotate: false
+	xy: 221, 2
+	size: 78, 95
+	orig: 82, 95
+	offset: 4, 0
+	index: -1
+caozicaizou_pifu_d_skill_f_zshou_1
+	rotate: false
+	xy: 384, 468
+	size: 54, 89
+	orig: 54, 89
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_zs_yi_c_1
+	rotate: true
+	xy: 819, 606
+	size: 77, 61
+	orig: 77, 61
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_b_body2
+	rotate: false
+	xy: 2, 468
+	size: 71, 150
+	orig: 71, 150
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_i_zshou_1_1
+	rotate: false
+	xy: 160, 440
+	size: 48, 27
+	orig: 48, 27
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_ytui_1
+	rotate: false
+	xy: 674, 468
+	size: 74, 81
+	orig: 74, 81
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_zshou_b_3
+	rotate: true
+	xy: 930, 249
+	size: 40, 41
+	orig: 40, 41
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_zshou_b_1
+	rotate: false
+	xy: 971, 600
+	size: 51, 74
+	orig: 51, 74
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_z_tou
+	rotate: false
+	xy: 972, 217
+	size: 50, 65
+	orig: 50, 65
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_ytui_a_1
+	rotate: true
+	xy: 668, 750
+	size: 73, 80
+	orig: 73, 80
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_n_zshou_1
+	rotate: false
+	xy: 236, 208
+	size: 54, 94
+	orig: 54, 94
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_b_body2_BS
+	rotate: false
+	xy: 2, 619
+	size: 71, 150
+	orig: 71, 150
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_d_zshou_1_1
+	rotate: true
+	xy: 930, 897
+	size: 51, 40
+	orig: 51, 40
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_zs_yi_e_1_1
+	rotate: true
+	xy: 972, 467
+	size: 53, 50
+	orig: 53, 50
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_ytui_a_3
+	rotate: false
+	xy: 930, 740
+	size: 40, 52
+	orig: 40, 52
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_gedang_yshou_b_1
+	rotate: false
+	xy: 819, 684
+	size: 61, 75
+	orig: 61, 75
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_gedang_yshou_a
+	rotate: false
+	xy: 881, 535
+	size: 48, 65
+	orig: 48, 65
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_yshou_g_1
+	rotate: false
+	xy: 881, 667
+	size: 48, 61
+	orig: 48, 61
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shengli_yshou_b_1
+	rotate: false
+	xy: 214, 770
+	size: 33, 116
+	orig: 43, 116
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_yshou_g_1_2
+	rotate: false
+	xy: 689, 550
+	size: 58, 39
+	orig: 58, 39
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_yshou_g_1_1
+	rotate: true
+	xy: 972, 349
+	size: 59, 50
+	orig: 59, 50
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_g_yshou_1_BS
+	rotate: false
+	xy: 785, 208
+	size: 71, 81
+	orig: 71, 81
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_d_ztui_1
+	rotate: true
+	xy: 662, 384
+	size: 83, 46
+	orig: 83, 46
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_c_toufa_1_
+	rotate: true
+	xy: 290, 193
+	size: 14, 24
+	orig: 14, 24
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_ztui_1_BS
+	rotate: false
+	xy: 906, 2
+	size: 65, 81
+	orig: 65, 87
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_zshou_a_1
+	rotate: false
+	xy: 971, 521
+	size: 51, 78
+	orig: 51, 78
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_c_tou
+	rotate: false
+	xy: 2, 915
+	size: 63, 107
+	orig: 63, 107
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_yshou_a_1
+	rotate: true
+	xy: 749, 822
+	size: 63, 69
+	orig: 65, 77
+	offset: 2, 8
+	index: -1
+caozicaizou_pifu_sjdaodi_c_body_2
+	rotate: false
+	xy: 322, 590
+	size: 73, 112
+	orig: 73, 112
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_gedang_body
+	rotate: true
+	xy: 383, 208
+	size: 92, 83
+	orig: 92, 89
+	offset: 0, 6
+	index: -1
+caozicaizou_pifu_daiji_9
+	rotate: false
+	xy: 1006, 1000
+	size: 11, 22
+	orig: 11, 22
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_8
+	rotate: true
+	xy: 648, 829
+	size: 18, 27
+	orig: 18, 27
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_4
+	rotate: true
+	xy: 262, 193
+	size: 14, 27
+	orig: 14, 27
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shengli_tou_d
+	rotate: false
+	xy: 881, 397
+	size: 48, 69
+	orig: 48, 69
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_g_yzshou_1
+	rotate: false
+	xy: 881, 601
+	size: 48, 65
+	orig: 48, 65
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_zshou_c_1
+	rotate: true
+	xy: 930, 492
+	size: 70, 40
+	orig: 72, 40
+	offset: 2, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_e_ytui_1
+	rotate: false
+	xy: 224, 718
+	size: 88, 51
+	orig: 88, 51
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_yshou_b_1_1
+	rotate: true
+	xy: 537, 590
+	size: 85, 61
+	orig: 85, 61
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_yshou_b_1_2
+	rotate: false
+	xy: 616, 829
+	size: 31, 18
+	orig: 31, 18
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_yshou_a_1_2
+	rotate: false
+	xy: 881, 791
+	size: 48, 59
+	orig: 48, 59
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_yshou_c 1
+	rotate: true
+	xy: 749, 886
+	size: 62, 69
+	orig: 62, 69
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_f_body
+	rotate: true
+	xy: 146, 208
+	size: 99, 89
+	orig: 103, 99
+	offset: 0, 10
+	index: -1
+caozicaizou_pifu_shouji_c_toufa_5
+	rotate: true
+	xy: 366, 567
+	size: 22, 36
+	orig: 22, 36
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_c_toufa_4
+	rotate: true
+	xy: 714, 824
+	size: 22, 34
+	orig: 22, 34
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_tou_b
+	rotate: true
+	xy: 581, 386
+	size: 81, 80
+	orig: 81, 80
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_zshou_c_1_1
+	rotate: true
+	xy: 74, 724
+	size: 45, 77
+	orig: 45, 77
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_zshou_a_1
+	rotate: false
+	xy: 881, 467
+	size: 48, 67
+	orig: 48, 67
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_ytui_a_1
+	rotate: true
+	xy: 315, 770
+	size: 111, 83
+	orig: 111, 91
+	offset: 0, 5
+	index: -1
+caozicaizou_pifu_atk_ytui_f_1
+	rotate: true
+	xy: 213, 308
+	size: 98, 71
+	orig: 98, 71
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_d_body_BS
+	rotate: false
+	xy: 2, 158
+	size: 101, 155
+	orig: 103, 155
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_d_tou
+	rotate: false
+	xy: 749, 757
+	size: 69, 64
+	orig: 69, 64
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_body
+	rotate: true
+	xy: 668, 672
+	size: 77, 80
+	orig: 81, 90
+	offset: 4, 10
+	index: -1
+caozicaizou_pifu_d_skill_f_zshou_1_BS
+	rotate: false
+	xy: 466, 301
+	size: 54, 89
+	orig: 54, 89
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_e_body
+	rotate: false
+	xy: 313, 707
+	size: 88, 62
+	orig: 92, 66
+	offset: 0, 4
+	index: -1
+caozicaizou_pifu_d_skill_l_zshou_1_1
+	rotate: true
+	xy: 971, 814
+	size: 67, 51
+	orig: 67, 51
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_zshou_a_3
+	rotate: true
+	xy: 857, 259
+	size: 28, 23
+	orig: 28, 23
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_zshou_d_1
+	rotate: true
+	xy: 300, 2
+	size: 94, 61
+	orig: 94, 61
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_zshou_b_1_1
+	rotate: true
+	xy: 881, 167
+	size: 80, 48
+	orig: 80, 48
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_zshou_c_1_BAINS
+	rotate: false
+	xy: 296, 915
+	size: 95, 106
+	orig: 95, 106
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_g_zshou_1
+	rotate: false
+	xy: 282, 770
+	size: 32, 116
+	orig: 32, 116
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_c_tou
+	rotate: false
+	xy: 881, 729
+	size: 48, 61
+	orig: 48, 61
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_ytui_e_1
+	rotate: true
+	xy: 411, 96
+	size: 91, 77
+	orig: 91, 77
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_b_body
+	rotate: true
+	xy: 194, 594
+	size: 123, 94
+	orig: 123, 94
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_zshou_c 2
+	rotate: true
+	xy: 749, 462
+	size: 61, 34
+	orig: 61, 34
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_zshou_c 1
+	rotate: false
+	xy: 104, 208
+	size: 41, 102
+	orig: 41, 102
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_yshou_a_
+	rotate: true
+	xy: 930, 367
+	size: 32, 41
+	orig: 34, 41
+	offset: 1, 0
+	index: -1
+caozicaizou_pifu_bs_skill_zshou_c_1
+	rotate: false
+	xy: 200, 915
+	size: 95, 106
+	orig: 95, 106
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_yshou_c_1
+	rotate: false
+	xy: 466, 915
+	size: 90, 104
+	orig: 90, 104
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_m_yshou_3_2_BS
+	rotate: true
+	xy: 561, 556
+	size: 33, 63
+	orig: 33, 63
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_i_zshou_1_1_BS
+	rotate: false
+	xy: 209, 440
+	size: 48, 27
+	orig: 48, 27
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_ztui_1
+	rotate: false
+	xy: 864, 85
+	size: 65, 81
+	orig: 65, 87
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_f_yshou_1
+	rotate: false
+	xy: 104, 2
+	size: 47, 102
+	orig: 47, 102
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_d_ztui_2
+	rotate: true
+	xy: 881, 851
+	size: 57, 48
+	orig: 59, 48
+	offset: 1, 0
+	index: -1
+caozicaizou_pifu_d_skill_d_ztui_1
+	rotate: false
+	xy: 819, 372
+	size: 61, 77
+	orig: 61, 77
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_g_ytui_1
+	rotate: false
+	xy: 840, 2
+	size: 65, 82
+	orig: 65, 84
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_yshou_a_1_1
+	rotate: false
+	xy: 784, 375
+	size: 34, 72
+	orig: 34, 72
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_ytui_a_2
+	rotate: false
+	xy: 616, 758
+	size: 51, 70
+	orig: 57, 72
+	offset: 0, 2
+	index: -1
+caozicaizou_pifu_bs_skill_ytui_a_1
+	rotate: true
+	xy: 439, 468
+	size: 88, 81
+	orig: 88, 81
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_zshoui_e_2
+	rotate: true
+	xy: 594, 848
+	size: 66, 73
+	orig: 66, 73
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_b_ztui_1
+	rotate: false
+	xy: 521, 468
+	size: 86, 87
+	orig: 86, 87
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_g_ytui_1_BS
+	rotate: false
+	xy: 550, 765
+	size: 65, 82
+	orig: 65, 84
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shengli_body_c_4
+	rotate: false
+	xy: 608, 468
+	size: 65, 84
+	orig: 65, 84
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_zshou_c_1
+	rotate: true
+	xy: 402, 688
+	size: 81, 93
+	orig: 81, 93
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_e_body
+	rotate: false
+	xy: 163, 468
+	size: 78, 125
+	orig: 78, 125
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_j_tou
+	rotate: true
+	xy: 930, 950
+	size: 72, 75
+	orig: 72, 75
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_ztui_a_1
+	rotate: false
+	xy: 819, 290
+	size: 61, 81
+	orig: 67, 81
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_h_zshou_1_1
+	rotate: true
+	xy: 403, 558
+	size: 31, 84
+	orig: 31, 84
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_h_zshou_1_2
+	rotate: true
+	xy: 620, 181
+	size: 26, 64
+	orig: 26, 64
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_zshou_a_db
+	rotate: true
+	xy: 930, 290
+	size: 39, 41
+	orig: 39, 41
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_body
+	rotate: true
+	xy: 600, 297
+	size: 86, 84
+	orig: 88, 86
+	offset: 0, 2
+	index: -1
+caozicaizou_pifu_benpao_ztui_da_a_1
+	rotate: false
+	xy: 410, 301
+	size: 55, 89
+	orig: 55, 89
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_g_zshou_1_BS
+	rotate: false
+	xy: 289, 590
+	size: 32, 116
+	orig: 32, 116
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_e_zshou_3
+	rotate: false
+	xy: 717, 975
+	size: 31, 46
+	orig: 31, 46
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_c_toufa_8
+	rotate: false
+	xy: 152, 195
+	size: 24, 12
+	orig: 24, 12
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_c_toufa_9
+	rotate: true
+	xy: 213, 195
+	size: 12, 17
+	orig: 12, 17
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_c_toufa_4
+	rotate: false
+	xy: 1006, 950
+	size: 16, 49
+	orig: 16, 49
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_c_toufa_5
+	rotate: true
+	xy: 454, 188
+	size: 19, 43
+	orig: 19, 43
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_c_toufa_7
+	rotate: false
+	xy: 676, 824
+	size: 37, 23
+	orig: 37, 23
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_c_toufa_2
+	rotate: true
+	xy: 550, 848
+	size: 18, 34
+	orig: 18, 34
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_ytui_d_1
+	rotate: true
+	xy: 512, 391
+	size: 76, 68
+	orig: 86, 68
+	offset: 10, 0
+	index: -1
+caozicaizou_pifu_bs_skill_yshou_c_1_1
+	rotate: true
+	xy: 152, 724
+	size: 45, 71
+	orig: 45, 71
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_f_yshou_1_1_BS
+	rotate: true
+	xy: 685, 178
+	size: 29, 78
+	orig: 29, 78
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_zshou_a_1
+	rotate: false
+	xy: 328, 468
+	size: 55, 98
+	orig: 55, 98
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_g_yshou_1_2
+	rotate: true
+	xy: 881, 967
+	size: 53, 48
+	orig: 53, 48
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shengli_yshou_1
+	rotate: false
+	xy: 340, 396
+	size: 89, 71
+	orig: 89, 71
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_yshou_a_1
+	rotate: false
+	xy: 362, 2
+	size: 83, 93
+	orig: 83, 93
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_zshou_e_2
+	rotate: false
+	xy: 564, 184
+	size: 55, 23
+	orig: 55, 23
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_zshou_e_3
+	rotate: false
+	xy: 299, 887
+	size: 42, 27
+	orig: 42, 27
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_d_body
+	rotate: true
+	xy: 612, 208
+	size: 86, 59
+	orig: 92, 63
+	offset: 0, 3
+	index: -1
+caozicaizou_pifu_benpao_ztui_da_b_2
+	rotate: false
+	xy: 152, 99
+	size: 78, 95
+	orig: 82, 95
+	offset: 4, 0
+	index: -1
+caozicaizou_pifu_d_skill_b_body_BS_BS
+	rotate: true
+	xy: 496, 679
+	size: 85, 80
+	orig: 91, 92
+	offset: 0, 12
+	index: -1
+caozicaizou_pifu_skill_yshou_f_3
+	rotate: true
+	xy: 640, 915
+	size: 40, 27
+	orig: 40, 27
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_skill_yshou_b_1
+	rotate: true
+	xy: 668, 975
+	size: 47, 48
+	orig: 47, 48
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_g_ zshou_1_1
+	rotate: false
+	xy: 971, 675
+	size: 51, 69
+	orig: 51, 69
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_body_4_BS
+	rotate: true
+	xy: 488, 557
+	size: 32, 72
+	orig: 32, 72
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_body_1
+	rotate: false
+	xy: 446, 2
+	size: 82, 90
+	orig: 88, 104
+	offset: 3, 14
+	index: -1
+caozicaizou_pifu_bs_skill_ztui_a_1
+	rotate: true
+	xy: 430, 391
+	size: 76, 81
+	orig: 76, 81
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_a_body
+	rotate: true
+	xy: 460, 770
+	size: 96, 89
+	orig: 96, 97
+	offset: 0, 8
+	index: -1
+caozicaizou_pifu_bs_skill_yshoui_e_3_BIANS
+	rotate: true
+	xy: 213, 407
+	size: 32, 44
+	orig: 32, 44
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_d_body
+	rotate: false
+	xy: 2, 2
+	size: 101, 155
+	orig: 103, 155
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_body_4
+	rotate: true
+	xy: 342, 882
+	size: 32, 72
+	orig: 32, 72
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_skill_zshou_b_1_1
+	rotate: false
+	xy: 823, 88
+	size: 40, 83
+	orig: 40, 83
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_zshoui_f_2
+	rotate: false
+	xy: 625, 553
+	size: 63, 36
+	orig: 63, 36
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_m_zshou_1
+	rotate: false
+	xy: 548, 208
+	size: 63, 88
+	orig: 63, 88
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_m_zshou_2
+	rotate: false
+	xy: 930, 793
+	size: 40, 51
+	orig: 40, 51
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_d_yshou_1
+	rotate: true
+	xy: 881, 248
+	size: 76, 48
+	orig: 76, 48
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_z_tou_z
+	rotate: false
+	xy: 972, 283
+	size: 50, 65
+	orig: 50, 65
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_e_body
+	rotate: true
+	xy: 676, 2
+	size: 85, 82
+	orig: 93, 96
+	offset: 8, 13
+	index: -1
+caozicaizou_pifu_sjdaodi_d_ytui_1
+	rotate: true
+	xy: 731, 208
+	size: 84, 53
+	orig: 84, 53
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_ytui_1_BS
+	rotate: false
+	xy: 709, 380
+	size: 74, 81
+	orig: 74, 81
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_zs_yi_a_2
+	rotate: false
+	xy: 827, 172
+	size: 53, 35
+	orig: 53, 35
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_zs_yi_a_1
+	rotate: true
+	xy: 881, 325
+	size: 71, 48
+	orig: 71, 48
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_ztui_c_1
+	rotate: true
+	xy: 231, 98
+	size: 94, 87
+	orig: 94, 87
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_ytui_c_1
+	rotate: false
+	xy: 632, 91
+	size: 55, 86
+	orig: 55, 86
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_ytui_c_2
+	rotate: true
+	xy: 668, 921
+	size: 53, 80
+	orig: 53, 80
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_f_yshou_1_1
+	rotate: true
+	xy: 819, 760
+	size: 57, 61
+	orig: 57, 61
+	offset: 0, 0
+	index: -1
+
+asset/spine/ctczUMsz_role_shizhuang1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caozicaizou_pifu_skill_zshoui_f_2
+	rotate: false
+	xy: 530, 623
+	size: 30, 50
+	orig: 30, 50
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_ytui_a_3
+	rotate: false
+	xy: 943, 147
+	size: 38, 35
+	orig: 40, 35
+	offset: 2, 0
+	index: -1
+caozicaizou_pifu_atk_ztui_e_2
+	rotate: true
+	xy: 626, 2
+	size: 53, 39
+	orig: 53, 45
+	offset: 0, 5
+	index: -1
+caozicaizou_pifu_atk_ztui_e_3
+	rotate: true
+	xy: 577, 996
+	size: 26, 46
+	orig: 40, 46
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_ys_yi_d_3
+	rotate: true
+	xy: 977, 537
+	size: 31, 36
+	orig: 31, 36
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_ys_yi_d_2
+	rotate: false
+	xy: 513, 400
+	size: 31, 55
+	orig: 31, 55
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_ys_yi_d_4
+	rotate: false
+	xy: 902, 536
+	size: 36, 34
+	orig: 36, 34
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_m_zshou_1_1
+	rotate: false
+	xy: 479, 196
+	size: 46, 59
+	orig: 46, 59
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_c_toufa_3
+	rotate: false
+	xy: 361, 380
+	size: 37, 20
+	orig: 37, 20
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_skill_ztui_c_2
+	rotate: true
+	xy: 534, 274
+	size: 54, 53
+	orig: 56, 53
+	offset: 2, 0
+	index: -1
+caozicaizou_pifu_skill_ztui_c_1
+	rotate: true
+	xy: 242, 316
+	size: 67, 62
+	orig: 67, 62
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shengli_zshou_b_2
+	rotate: false
+	xy: 657, 165
+	size: 36, 52
+	orig: 36, 52
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_ys_xiaobi_a
+	rotate: false
+	xy: 639, 897
+	size: 33, 46
+	orig: 33, 46
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_m_zshou_3_1
+	rotate: false
+	xy: 694, 500
+	size: 42, 44
+	orig: 42, 44
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_ys_yi_b_1
+	rotate: true
+	xy: 557, 122
+	size: 54, 51
+	orig: 54, 51
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_i_zshou_2
+	rotate: false
+	xy: 530, 674
+	size: 39, 27
+	orig: 39, 27
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_i_zshou_3
+	rotate: false
+	xy: 779, 633
+	size: 30, 34
+	orig: 30, 34
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_ztui_a_3_1_BS
+	rotate: true
+	xy: 694, 160
+	size: 48, 46
+	orig: 48, 52
+	offset: 0, 5
+	index: -1
+caozicaizou_pifu_skill_zshou_g_3_1
+	rotate: true
+	xy: 897, 313
+	size: 40, 37
+	orig: 40, 37
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_zshou_b_1_1
+	rotate: false
+	xy: 609, 117
+	size: 39, 54
+	orig: 39, 54
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_zshou_b_1_2
+	rotate: false
+	xy: 520, 122
+	size: 36, 59
+	orig: 36, 59
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_ztui_2_a
+	rotate: false
+	xy: 422, 587
+	size: 32, 57
+	orig: 44, 57
+	offset: 3, 0
+	index: -1
+caozicaizou_pifu_d_skill_f_yshou_3_BS
+	rotate: true
+	xy: 565, 456
+	size: 51, 33
+	orig: 51, 33
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_zs_yi_b_3
+	rotate: false
+	xy: 829, 147
+	size: 34, 44
+	orig: 34, 44
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_c_ztui_3_BS
+	rotate: true
+	xy: 752, 205
+	size: 46, 43
+	orig: 48, 51
+	offset: 1, 3
+	index: -1
+caozicaizou_pifu_atk_yshou_g_3
+	rotate: false
+	xy: 878, 405
+	size: 37, 37
+	orig: 37, 37
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_c_tou
+	rotate: false
+	xy: 574, 62
+	size: 46, 54
+	orig: 46, 54
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_yshou_b_1_2
+	rotate: false
+	xy: 201, 238
+	size: 37, 72
+	orig: 37, 72
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_yshou_b_1_1
+	rotate: false
+	xy: 288, 151
+	size: 54, 67
+	orig: 54, 67
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_tou
+	rotate: false
+	xy: 330, 2
+	size: 42, 67
+	orig: 42, 67
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_ztui_d_3
+	rotate: false
+	xy: 364, 717
+	size: 30, 59
+	orig: 34, 59
+	offset: 2, 0
+	index: -1
+caozicaizou_pifu_bs_skill_ztui_d_2
+	rotate: true
+	xy: 2, 732
+	size: 76, 62
+	orig: 76, 62
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_h_zshou_2
+	rotate: true
+	xy: 891, 115
+	size: 27, 36
+	orig: 27, 36
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_h_zshou_1
+	rotate: false
+	xy: 870, 321
+	size: 26, 42
+	orig: 26, 42
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_yshou_a_1_
+	rotate: false
+	xy: 2, 2
+	size: 63, 81
+	orig: 63, 81
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_ytui_e_2
+	rotate: false
+	xy: 386, 529
+	size: 32, 57
+	orig: 44, 57
+	offset: 7, 0
+	index: -1
+caozicaizou_pifu_benpao_ytui_b_da_1_BS
+	rotate: true
+	xy: 501, 2
+	size: 59, 43
+	orig: 67, 45
+	offset: 8, 2
+	index: -1
+caozicaizou_pifu_d_skill_yshou_a_3
+	rotate: true
+	xy: 652, 552
+	size: 48, 34
+	orig: 48, 34
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_ztui_f_3
+	rotate: false
+	xy: 495, 627
+	size: 34, 51
+	orig: 34, 51
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_ztui_f_2
+	rotate: false
+	xy: 969, 285
+	size: 38, 36
+	orig: 44, 50
+	offset: 3, 12
+	index: -1
+caozicaizou_pifu_daiji_yy
+	rotate: true
+	xy: 351, 598
+	size: 58, 15
+	orig: 62, 15
+	offset: 2, 0
+	index: -1
+caozicaizou_pifu_shengli_body_c_2
+	rotate: false
+	xy: 285, 2
+	size: 44, 71
+	orig: 44, 71
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_ytui_g_2_a
+	rotate: false
+	xy: 348, 401
+	size: 39, 63
+	orig: 49, 63
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_yshou_a_2
+	rotate: false
+	xy: 788, 544
+	size: 35, 43
+	orig: 35, 43
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_yshou_a_3
+	rotate: true
+	xy: 891, 272
+	size: 40, 39
+	orig: 40, 39
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_yshoui_e_db
+	rotate: false
+	xy: 239, 230
+	size: 39, 71
+	orig: 39, 71
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_yshou_b_3
+	rotate: true
+	xy: 989, 39
+	size: 37, 33
+	orig: 37, 33
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_e_tou
+	rotate: true
+	xy: 228, 476
+	size: 67, 65
+	orig: 67, 65
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_ztui_c_3
+	rotate: false
+	xy: 453, 135
+	size: 29, 60
+	orig: 29, 60
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_ytui_a_3
+	rotate: false
+	xy: 699, 702
+	size: 26, 46
+	orig: 32, 46
+	offset: 6, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_ytui_a_2
+	rotate: true
+	xy: 110, 961
+	size: 61, 32
+	orig: 61, 48
+	offset: 0, 11
+	index: -1
+caozicaizou_pifu_sjdaodi_ytui_a_1
+	rotate: true
+	xy: 60, 246
+	size: 78, 65
+	orig: 78, 69
+	offset: 0, 4
+	index: -1
+caozicaizou_pifu_benpao_zs_yi_a_1_1
+	rotate: true
+	xy: 183, 950
+	size: 69, 44
+	orig: 69, 44
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_zs_yi_d_1_1
+	rotate: false
+	xy: 825, 465
+	size: 39, 34
+	orig: 39, 34
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_e_body_bozi_BS
+	rotate: true
+	xy: 902, 743
+	size: 25, 27
+	orig: 25, 27
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_body_9
+	rotate: false
+	xy: 883, 229
+	size: 28, 42
+	orig: 28, 42
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_yshou_a_1_BIANS
+	rotate: false
+	xy: 2, 84
+	size: 63, 81
+	orig: 63, 81
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_m_yshou_3_1
+	rotate: false
+	xy: 373, 2
+	size: 53, 66
+	orig: 53, 66
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_ztui_e_1_
+	rotate: true
+	xy: 294, 470
+	size: 63, 44
+	orig: 63, 44
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_ytui_c_1
+	rotate: false
+	xy: 305, 316
+	size: 55, 67
+	orig: 59, 73
+	offset: 4, 3
+	index: -1
+caozicaizou_pifu_atk_ytui_g_2
+	rotate: false
+	xy: 348, 401
+	size: 39, 63
+	orig: 49, 63
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_ytui_c_2
+	rotate: true
+	xy: 707, 209
+	size: 48, 44
+	orig: 56, 66
+	offset: 1, 19
+	index: -1
+caozicaizou_pifu_shengli_zshou_b_3
+	rotate: false
+	xy: 740, 634
+	size: 38, 43
+	orig: 38, 43
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_tou
+	rotate: true
+	xy: 333, 674
+	size: 42, 55
+	orig: 42, 55
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_zshou_a_1_1_BIANS
+	rotate: false
+	xy: 288, 945
+	size: 39, 68
+	orig: 39, 68
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_body1
+	rotate: true
+	xy: 210, 793
+	size: 13, 19
+	orig: 13, 19
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shengli_yshou_a_1_1
+	rotate: true
+	xy: 426, 135
+	size: 61, 26
+	orig: 61, 26
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_gedang_bozi
+	rotate: false
+	xy: 989, 222
+	size: 33, 31
+	orig: 33, 31
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_e_body_bozi
+	rotate: true
+	xy: 983, 713
+	size: 25, 28
+	orig: 25, 28
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_zshou_c_1_2
+	rotate: true
+	xy: 564, 804
+	size: 48, 40
+	orig: 48, 40
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_zshou_c_1_1
+	rotate: true
+	xy: 351, 807
+	size: 59, 30
+	orig: 59, 30
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_z_toufa_8
+	rotate: false
+	xy: 230, 786
+	size: 48, 20
+	orig: 48, 20
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_z_toufa_9
+	rotate: true
+	xy: 123, 794
+	size: 13, 36
+	orig: 13, 36
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_f_zshou_1
+	rotate: false
+	xy: 324, 872
+	size: 45, 63
+	orig: 45, 63
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_youtui_da_a_1
+	rotate: false
+	xy: 2, 494
+	size: 53, 80
+	orig: 53, 84
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_z_toufa_3
+	rotate: true
+	xy: 288, 384
+	size: 17, 33
+	orig: 17, 33
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_z_toufa_1
+	rotate: true
+	xy: 351, 657
+	size: 15, 32
+	orig: 15, 32
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_z_toufa_6
+	rotate: true
+	xy: 542, 379
+	size: 20, 27
+	orig: 20, 27
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_z_toufa_7
+	rotate: true
+	xy: 322, 384
+	size: 16, 38
+	orig: 16, 38
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_z_toufa_4
+	rotate: true
+	xy: 507, 379
+	size: 20, 34
+	orig: 20, 34
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_z_toufa_5
+	rotate: true
+	xy: 249, 384
+	size: 17, 38
+	orig: 17, 38
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_skill_yshou_g_1_1
+	rotate: false
+	xy: 60, 404
+	size: 30, 78
+	orig: 30, 78
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_b_bozi
+	rotate: true
+	xy: 501, 962
+	size: 19, 27
+	orig: 19, 27
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_ys_yi_a_1
+	rotate: true
+	xy: 484, 458
+	size: 56, 51
+	orig: 56, 51
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_g_yshou_3
+	rotate: false
+	xy: 935, 2
+	size: 40, 36
+	orig: 40, 42
+	offset: 0, 6
+	index: -1
+caozicaizou_pifu_shouji_c_toufa_7
+	rotate: true
+	xy: 203, 390
+	size: 11, 26
+	orig: 11, 26
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_f_yshou_3
+	rotate: true
+	xy: 877, 364
+	size: 40, 38
+	orig: 40, 38
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_f_yshou_1
+	rotate: false
+	xy: 277, 717
+	size: 53, 64
+	orig: 53, 64
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_skill_ztui_b_2
+	rotate: false
+	xy: 427, 316
+	size: 38, 62
+	orig: 50, 62
+	offset: 12, 0
+	index: -1
+caozicaizou_pifu_benpao_body_a
+	rotate: false
+	xy: 167, 81
+	size: 63, 76
+	orig: 71, 92
+	offset: 8, 16
+	index: -1
+caozicaizou_pifu_d_skill_l_zshou_1
+	rotate: false
+	xy: 217, 158
+	size: 70, 71
+	orig: 70, 71
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_yshou_g_3_BIANS
+	rotate: false
+	xy: 903, 499
+	size: 36, 36
+	orig: 36, 36
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_d_ztui_3
+	rotate: true
+	xy: 545, 400
+	size: 55, 28
+	orig: 55, 30
+	offset: 0, 2
+	index: -1
+caozicaizou_pifu_d_skill_g_ytui_2_BS
+	rotate: false
+	xy: 361, 936
+	size: 32, 59
+	orig: 42, 59
+	offset: 7, 0
+	index: -1
+caozicaizou_pifu_skill_zshou_b_2
+	rotate: false
+	xy: 611, 850
+	size: 38, 46
+	orig: 38, 46
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_skill_zshou_b_3
+	rotate: true
+	xy: 969, 322
+	size: 36, 38
+	orig: 36, 38
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_0
+	rotate: true
+	xy: 665, 657
+	size: 44, 43
+	orig: 44, 43
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_d_yshou_3
+	rotate: true
+	xy: 771, 103
+	size: 48, 43
+	orig: 48, 43
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_d_yshou_1
+	rotate: false
+	xy: 366, 210
+	size: 51, 65
+	orig: 51, 65
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_zshou_a_1
+	rotate: false
+	xy: 382, 807
+	size: 55, 58
+	orig: 55, 58
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_skill_zshou_f_1
+	rotate: false
+	xy: 2, 655
+	size: 62, 76
+	orig: 62, 76
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_f_yshou_3
+	rotate: true
+	xy: 557, 512
+	size: 51, 33
+	orig: 51, 33
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_l_tou_BS
+	rotate: false
+	xy: 2, 809
+	size: 59, 76
+	orig: 59, 76
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shengli_tou_d_BIANS
+	rotate: true
+	xy: 126, 239
+	size: 77, 74
+	orig: 77, 74
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_d_ytui_2
+	rotate: true
+	xy: 438, 807
+	size: 51, 43
+	orig: 51, 51
+	offset: 0, 5
+	index: -1
+caozicaizou_pifu_skill_zshou_d_3
+	rotate: true
+	xy: 614, 328
+	size: 50, 48
+	orig: 50, 48
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_f_ztui_3
+	rotate: true
+	xy: 742, 305
+	size: 44, 40
+	orig: 44, 40
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_f_ztui_2
+	rotate: true
+	xy: 904, 143
+	size: 39, 38
+	orig: 39, 38
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_f_yshou_1_2
+	rotate: true
+	xy: 616, 665
+	size: 36, 48
+	orig: 36, 48
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_f_yshou_1_1
+	rotate: false
+	xy: 91, 404
+	size: 29, 78
+	orig: 29, 78
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_yshou_b_1
+	rotate: false
+	xy: 95, 2
+	size: 78, 78
+	orig: 78, 78
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_yshou_b_3
+	rotate: false
+	xy: 367, 598
+	size: 54, 57
+	orig: 54, 57
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_i_zshou_2_BS
+	rotate: false
+	xy: 624, 995
+	size: 39, 27
+	orig: 39, 27
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_zshou_a_1_2
+	rotate: false
+	xy: 489, 571
+	size: 34, 55
+	orig: 34, 57
+	offset: 0, 2
+	index: -1
+caozicaizou_pifu_daiji_zshou_a_1_1
+	rotate: false
+	xy: 449, 911
+	size: 26, 51
+	orig: 26, 55
+	offset: 0, 4
+	index: -1
+caozicaizou_pifu_skill_zshou_f_1_1
+	rotate: true
+	xy: 621, 57
+	size: 53, 44
+	orig: 53, 44
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_zs_db
+	rotate: false
+	xy: 878, 2
+	size: 25, 36
+	orig: 25, 36
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_i_zshou_3_BS
+	rotate: true
+	xy: 935, 332
+	size: 30, 33
+	orig: 30, 33
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_f_zshou_3
+	rotate: false
+	xy: 800, 723
+	size: 27, 27
+	orig: 33, 27
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_tou_a
+	rotate: true
+	xy: 153, 722
+	size: 70, 68
+	orig: 70, 68
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_zshou_a_1_2
+	rotate: false
+	xy: 427, 2
+	size: 29, 65
+	orig: 29, 65
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_zshou_a_1_1
+	rotate: false
+	xy: 228, 646
+	size: 39, 68
+	orig: 39, 68
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_e_ztui_3_BS
+	rotate: true
+	xy: 599, 452
+	size: 49, 38
+	orig: 49, 38
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_e_ztui_3
+	rotate: true
+	xy: 591, 508
+	size: 49, 38
+	orig: 49, 38
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_d_ztui_
+	rotate: true
+	xy: 388, 401
+	size: 63, 32
+	orig: 63, 40
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_ytui_3
+	rotate: true
+	xy: 709, 640
+	size: 44, 30
+	orig: 44, 42
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_zshou_b_2
+	rotate: true
+	xy: 658, 750
+	size: 46, 36
+	orig: 46, 36
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_g_yzshou_1_2
+	rotate: false
+	xy: 339, 470
+	size: 43, 63
+	orig: 43, 63
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_m_zshou_db
+	rotate: true
+	xy: 864, 143
+	size: 42, 39
+	orig: 42, 39
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_yshou_c_3_
+	rotate: false
+	xy: 482, 807
+	size: 42, 50
+	orig: 46, 50
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_f_tou
+	rotate: false
+	xy: 304, 807
+	size: 46, 64
+	orig: 46, 64
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_ytui_a_2
+	rotate: false
+	xy: 522, 515
+	size: 34, 55
+	orig: 48, 55
+	offset: 6, 0
+	index: -1
+caozicaizou_pifu_atk_yshou_a_2
+	rotate: false
+	xy: 760, 733
+	size: 27, 26
+	orig: 27, 26
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_n_zshou_3
+	rotate: false
+	xy: 838, 330
+	size: 31, 42
+	orig: 31, 42
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_zshou_a_db
+	rotate: false
+	xy: 865, 550
+	size: 36, 34
+	orig: 36, 34
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_skill_yshou_f_2_BIANS
+	rotate: true
+	xy: 667, 500
+	size: 48, 26
+	orig: 48, 26
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_ztui_a_3
+	rotate: false
+	xy: 675, 429
+	size: 46, 46
+	orig: 46, 52
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_ztui_a_2
+	rotate: false
+	xy: 361, 316
+	size: 32, 63
+	orig: 46, 63
+	offset: 11, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_ztui_a_1
+	rotate: true
+	xy: 389, 656
+	size: 57, 53
+	orig: 57, 53
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_yshou_b_1
+	rotate: false
+	xy: 162, 646
+	size: 65, 70
+	orig: 65, 70
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_ys_yi_c_1
+	rotate: true
+	xy: 198, 807
+	size: 68, 65
+	orig: 68, 65
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_d_zshou_1_2
+	rotate: true
+	xy: 684, 846
+	size: 46, 29
+	orig: 46, 29
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_yshou_b_3
+	rotate: true
+	xy: 768, 500
+	size: 43, 40
+	orig: 43, 40
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_zs_yi_e_1_3
+	rotate: false
+	xy: 520, 330
+	size: 52, 48
+	orig: 52, 48
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_zs_yi_e_1_2
+	rotate: true
+	xy: 790, 2
+	size: 48, 44
+	orig: 48, 44
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_e_yshou_1
+	rotate: false
+	xy: 279, 230
+	size: 55, 67
+	orig: 55, 67
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_e_yshou_3
+	rotate: false
+	xy: 916, 463
+	size: 37, 35
+	orig: 37, 35
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_e_yshou_2
+	rotate: true
+	xy: 910, 717
+	size: 25, 29
+	orig: 25, 29
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_gedang_yshou_b_3
+	rotate: true
+	xy: 710, 987
+	size: 35, 44
+	orig: 35, 44
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_e_tou
+	rotate: false
+	xy: 74, 885
+	size: 68, 75
+	orig: 68, 75
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shengli_yshou_b_3
+	rotate: false
+	xy: 935, 301
+	size: 33, 30
+	orig: 33, 30
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_e_zshou_3_BS
+	rotate: true
+	xy: 806, 244
+	size: 42, 40
+	orig: 42, 40
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_z_tou_BIANS
+	rotate: false
+	xy: 62, 809
+	size: 70, 75
+	orig: 70, 75
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_c_yshou_3_BS
+	rotate: true
+	xy: 860, 278
+	size: 42, 30
+	orig: 42, 30
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_h_zshou_1
+	rotate: false
+	xy: 2, 166
+	size: 57, 81
+	orig: 57, 81
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_ytui_b_3
+	rotate: true
+	xy: 617, 948
+	size: 46, 39
+	orig: 46, 55
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_h_zshou_3
+	rotate: false
+	xy: 476, 911
+	size: 46, 50
+	orig: 46, 50
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_ztui_b
+	rotate: true
+	xy: 294, 609
+	size: 64, 56
+	orig: 64, 56
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_zshou_a_1_1
+	rotate: false
+	xy: 196, 879
+	size: 39, 69
+	orig: 39, 69
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_d_zshou_1
+	rotate: true
+	xy: 581, 177
+	size: 54, 46
+	orig: 54, 46
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_e_bozi
+	rotate: true
+	xy: 878, 39
+	size: 34, 25
+	orig: 34, 25
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_ztui_a_2
+	rotate: false
+	xy: 574, 400
+	size: 30, 51
+	orig: 50, 51
+	offset: 5, 0
+	index: -1
+caozicaizou_pifu_d_skill_j_zshou_1
+	rotate: false
+	xy: 236, 876
+	size: 54, 68
+	orig: 54, 68
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_zshou_a_2
+	rotate: false
+	xy: 523, 910
+	size: 46, 50
+	orig: 46, 50
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_zshou_a_3
+	rotate: false
+	xy: 570, 666
+	size: 45, 35
+	orig: 45, 35
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_yshou_db
+	rotate: false
+	xy: 954, 497
+	size: 37, 34
+	orig: 37, 34
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_c_tou_cc
+	rotate: false
+	xy: 579, 2
+	size: 46, 54
+	orig: 46, 54
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_skill_zshou_a_2
+	rotate: true
+	xy: 741, 156
+	size: 48, 44
+	orig: 48, 44
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_ytui_b_xiao_2
+	rotate: false
+	xy: 558, 702
+	size: 29, 50
+	orig: 45, 50
+	offset: 8, 0
+	index: -1
+caozicaizou_pifu_bs_skill_yshoui_e_1
+	rotate: false
+	xy: 156, 477
+	size: 71, 72
+	orig: 71, 72
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_ys_shouzhang_a
+	rotate: false
+	xy: 824, 564
+	size: 36, 32
+	orig: 36, 32
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_yshoui_e_3
+	rotate: false
+	xy: 657, 944
+	size: 33, 46
+	orig: 33, 46
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_yshoui_e_2
+	rotate: false
+	xy: 415, 69
+	size: 39, 65
+	orig: 39, 67
+	offset: 0, 2
+	index: -1
+caozicaizou_pifu_daiji_yshou_a_2
+	rotate: false
+	xy: 438, 859
+	size: 42, 51
+	orig: 42, 51
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_yshou_a_3
+	rotate: false
+	xy: 726, 685
+	size: 38, 43
+	orig: 38, 43
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_c_body_1
+	rotate: false
+	xy: 458, 401
+	size: 54, 56
+	orig: 54, 56
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_skill_zshou_g_3
+	rotate: false
+	xy: 973, 596
+	size: 34, 32
+	orig: 34, 32
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_skill_zshou_e_3
+	rotate: true
+	xy: 619, 751
+	size: 47, 38
+	orig: 47, 38
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_e_zshou_1_BS
+	rotate: false
+	xy: 56, 962
+	size: 53, 60
+	orig: 53, 60
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_zshou_a_1
+	rotate: true
+	xy: 526, 237
+	size: 36, 54
+	orig: 36, 54
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_h_zshou_1_1_BS
+	rotate: false
+	xy: 383, 465
+	size: 38, 63
+	orig: 38, 63
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_yshou_b_2
+	rotate: true
+	xy: 840, 533
+	size: 30, 24
+	orig: 30, 24
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_c_toufa_10
+	rotate: true
+	xy: 436, 379
+	size: 21, 39
+	orig: 21, 39
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_yshou_b_1
+	rotate: false
+	xy: 686, 797
+	size: 28, 46
+	orig: 28, 46
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_h_zytui_2_BS
+	rotate: false
+	xy: 163, 550
+	size: 64, 70
+	orig: 64, 74
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shengli_tou_c
+	rotate: false
+	xy: 302, 74
+	size: 46, 67
+	orig: 46, 67
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_6
+	rotate: false
+	xy: 325, 298
+	size: 15, 17
+	orig: 15, 17
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_d_yshou_3_BS
+	rotate: true
+	xy: 793, 51
+	size: 48, 43
+	orig: 48, 43
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_3
+	rotate: true
+	xy: 723, 365
+	size: 44, 40
+	orig: 44, 40
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_2
+	rotate: false
+	xy: 989, 254
+	size: 33, 30
+	orig: 33, 30
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_1
+	rotate: false
+	xy: 840, 500
+	size: 24, 32
+	orig: 24, 32
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_ytui_b_xiao_2_BS
+	rotate: false
+	xy: 558, 564
+	size: 29, 50
+	orig: 45, 50
+	offset: 8, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_g_yzshou_3
+	rotate: false
+	xy: 475, 702
+	size: 39, 51
+	orig: 39, 51
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_d_zshou_3
+	rotate: true
+	xy: 649, 111
+	size: 53, 25
+	orig: 53, 25
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_d_zshou_2
+	rotate: false
+	xy: 472, 963
+	size: 28, 19
+	orig: 28, 19
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_d_zshou_1
+	rotate: true
+	xy: 394, 316
+	size: 63, 32
+	orig: 63, 32
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_e_ytui_2
+	rotate: false
+	xy: 545, 2
+	size: 33, 59
+	orig: 37, 59
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_f_zshou_3_BS
+	rotate: false
+	xy: 845, 679
+	size: 33, 28
+	orig: 33, 28
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_z_toufa_10
+	rotate: true
+	xy: 675, 476
+	size: 23, 35
+	orig: 23, 35
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_f_ytui_2
+	rotate: false
+	xy: 395, 714
+	size: 45, 57
+	orig: 45, 57
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_f_ytui_3
+	rotate: false
+	xy: 916, 425
+	size: 37, 37
+	orig: 37, 43
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_f_ytui_1
+	rotate: false
+	xy: 2, 575
+	size: 77, 79
+	orig: 77, 79
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_yshou_a_1_3
+	rotate: false
+	xy: 588, 564
+	size: 26, 50
+	orig: 26, 50
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_yshou_c 3
+	rotate: true
+	xy: 976, 2
+	size: 36, 40
+	orig: 36, 40
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_yshou_c 2
+	rotate: false
+	xy: 577, 949
+	size: 39, 46
+	orig: 39, 46
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_c_toufa_6
+	rotate: false
+	xy: 955, 422
+	size: 37, 37
+	orig: 37, 37
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_c_toufa_3
+	rotate: true
+	xy: 615, 558
+	size: 49, 36
+	orig: 49, 36
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_c_toufa_2
+	rotate: true
+	xy: 916, 395
+	size: 29, 38
+	orig: 29, 38
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_c_toufa_1
+	rotate: false
+	xy: 880, 668
+	size: 33, 29
+	orig: 33, 29
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_c_toufa_9
+	rotate: true
+	xy: 596, 379
+	size: 20, 18
+	orig: 20, 18
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_c_toufa_8
+	rotate: true
+	xy: 295, 298
+	size: 17, 29
+	orig: 17, 29
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_zshou_a_3
+	rotate: false
+	xy: 992, 462
+	size: 30, 37
+	orig: 30, 37
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_zshou_c 2_1
+	rotate: false
+	xy: 466, 274
+	size: 33, 55
+	orig: 33, 55
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_c_toufa_10
+	rotate: false
+	xy: 983, 687
+	size: 28, 25
+	orig: 28, 25
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_ytui_a_2
+	rotate: false
+	xy: 455, 580
+	size: 33, 56
+	orig: 37, 56
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_h_zshou_1_BS
+	rotate: false
+	xy: 2, 248
+	size: 57, 81
+	orig: 57, 81
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_gedang_yshou_c_3
+	rotate: false
+	xy: 856, 98
+	size: 34, 44
+	orig: 34, 44
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_ztui_b_3
+	rotate: true
+	xy: 715, 796
+	size: 45, 32
+	orig: 47, 36
+	offset: 1, 0
+	index: -1
+caozicaizou_pifu_shouji_c_body_bozi
+	rotate: true
+	xy: 915, 661
+	size: 27, 34
+	orig: 27, 34
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_h_zytui_3
+	rotate: true
+	xy: 499, 754
+	size: 50, 42
+	orig: 50, 42
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_h_zytui_2
+	rotate: false
+	xy: 133, 808
+	size: 64, 70
+	orig: 64, 74
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_d_ztui_3_BS
+	rotate: true
+	xy: 845, 650
+	size: 28, 34
+	orig: 30, 34
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_j_zshou_2_BS
+	rotate: true
+	xy: 66, 82
+	size: 79, 28
+	orig: 79, 28
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_gedang_yshou_a_1
+	rotate: false
+	xy: 174, 2
+	size: 63, 76
+	orig: 63, 76
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_gedang_yshou_a_3
+	rotate: false
+	xy: 969, 359
+	size: 38, 32
+	orig: 38, 32
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_zshou_a_2
+	rotate: false
+	xy: 677, 218
+	size: 29, 49
+	orig: 29, 49
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_zshou_a_1
+	rotate: false
+	xy: 60, 166
+	size: 46, 79
+	orig: 48, 79
+	offset: 2, 0
+	index: -1
+caozicaizou_pifu_atk_zshou_f_3
+	rotate: false
+	xy: 989, 112
+	size: 33, 34
+	orig: 33, 34
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_zshou_f_2
+	rotate: false
+	xy: 786, 152
+	size: 42, 46
+	orig: 42, 46
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_ztui_3_BIANS
+	rotate: false
+	xy: 931, 262
+	size: 37, 38
+	orig: 37, 46
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_skill_yshou_g_2
+	rotate: true
+	xy: 394, 927
+	size: 58, 54
+	orig: 58, 54
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_skill_yshou_g_1
+	rotate: false
+	xy: 60, 325
+	size: 52, 78
+	orig: 52, 78
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_g_ytui_1_1_BIANS
+	rotate: false
+	xy: 383, 465
+	size: 38, 63
+	orig: 38, 63
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_body_3_BS
+	rotate: false
+	xy: 502, 62
+	size: 36, 59
+	orig: 36, 59
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_ytui_b_xiao_2_a
+	rotate: false
+	xy: 558, 702
+	size: 29, 50
+	orig: 45, 50
+	offset: 8, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_ztui_c_2
+	rotate: false
+	xy: 408, 276
+	size: 57, 39
+	orig: 63, 53
+	offset: 0, 8
+	index: -1
+caozicaizou_pifu_sjdaodi_ztui_c_4
+	rotate: false
+	xy: 839, 422
+	size: 38, 42
+	orig: 38, 42
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_zshou_b_1
+	rotate: true
+	xy: 107, 160
+	size: 78, 55
+	orig: 78, 55
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_ytui_b_da_1
+	rotate: true
+	xy: 457, 2
+	size: 59, 43
+	orig: 67, 45
+	offset: 8, 2
+	index: -1
+caozicaizou_pifu_d_skill_d_yshou_2_BS
+	rotate: true
+	xy: 837, 51
+	size: 46, 40
+	orig: 46, 40
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_skill_yshou_a_2
+	rotate: false
+	xy: 447, 772
+	size: 51, 34
+	orig: 51, 34
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_skill_yshou_a_3
+	rotate: false
+	xy: 916, 363
+	size: 38, 31
+	orig: 38, 31
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_zshou_a_1_3
+	rotate: false
+	xy: 765, 422
+	size: 32, 43
+	orig: 32, 43
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_zshou_a_1_2
+	rotate: false
+	xy: 525, 805
+	size: 38, 50
+	orig: 38, 50
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shouji_zshou_a_1_1
+	rotate: false
+	xy: 143, 950
+	size: 39, 70
+	orig: 39, 70
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_yshou_a_1
+	rotate: false
+	xy: 56, 494
+	size: 46, 79
+	orig: 46, 79
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_yshou_a_3
+	rotate: false
+	xy: 711, 476
+	size: 28, 23
+	orig: 28, 23
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_yshou_a_2
+	rotate: false
+	xy: 666, 273
+	size: 29, 49
+	orig: 29, 49
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_ys_yi_d_1_2
+	rotate: false
+	xy: 880, 637
+	size: 34, 30
+	orig: 34, 30
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_ys_yi_d_1_1
+	rotate: false
+	xy: 564, 853
+	size: 46, 47
+	orig: 46, 47
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_d_zshou_1_BS
+	rotate: true
+	xy: 588, 273
+	size: 54, 46
+	orig: 54, 46
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_zshoui_e_db
+	rotate: false
+	xy: 123, 650
+	size: 38, 71
+	orig: 38, 71
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_zshou_c_2
+	rotate: true
+	xy: 815, 100
+	size: 46, 40
+	orig: 46, 40
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_zshou_c_3
+	rotate: false
+	xy: 810, 597
+	size: 34, 31
+	orig: 34, 31
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_1bozi
+	rotate: false
+	xy: 765, 700
+	size: 32, 32
+	orig: 32, 32
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_yshou_c_3
+	rotate: false
+	xy: 810, 690
+	size: 32, 32
+	orig: 32, 32
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_ys_yi_a_1_BIANS
+	rotate: true
+	xy: 443, 645
+	size: 56, 51
+	orig: 56, 51
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_ztui_3
+	rotate: false
+	xy: 934, 183
+	size: 37, 38
+	orig: 37, 46
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_ztui_2
+	rotate: false
+	xy: 422, 587
+	size: 32, 57
+	orig: 44, 57
+	offset: 3, 0
+	index: -1
+caozicaizou_pifu_skill_zshou_f_3
+	rotate: true
+	xy: 954, 460
+	size: 36, 37
+	orig: 36, 37
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_d_ztui_3
+	rotate: false
+	xy: 994, 392
+	size: 28, 34
+	orig: 30, 34
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_g_ytui_2
+	rotate: false
+	xy: 328, 936
+	size: 32, 59
+	orig: 42, 59
+	offset: 7, 0
+	index: -1
+caozicaizou_pifu_daiji_body_5_BS
+	rotate: false
+	xy: 699, 55
+	size: 48, 51
+	orig: 48, 51
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_ytui_a_3
+	rotate: true
+	xy: 784, 466
+	size: 33, 40
+	orig: 35, 40
+	offset: 1, 0
+	index: -1
+caozicaizou_pifu_d_skill_j_zshou_2
+	rotate: true
+	xy: 66, 2
+	size: 79, 28
+	orig: 79, 28
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_zshoui_e_1
+	rotate: false
+	xy: 157, 403
+	size: 71, 72
+	orig: 71, 72
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_zshoui_e_3
+	rotate: false
+	xy: 650, 846
+	size: 33, 46
+	orig: 33, 46
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_zshou_a_1
+	rotate: false
+	xy: 628, 172
+	size: 28, 54
+	orig: 34, 54
+	offset: 1, 0
+	index: -1
+caozicaizou_pifu_daiji_zshou_a_3
+	rotate: true
+	xy: 950, 687
+	size: 31, 32
+	orig: 31, 32
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_zshou_a_2
+	rotate: false
+	xy: 449, 963
+	size: 22, 22
+	orig: 22, 22
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_ytui_e_2_a
+	rotate: false
+	xy: 386, 529
+	size: 32, 57
+	orig: 44, 57
+	offset: 7, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_b_ztui_3
+	rotate: true
+	xy: 331, 717
+	size: 59, 32
+	orig: 67, 32
+	offset: 8, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_b_ztui_2
+	rotate: false
+	xy: 495, 983
+	size: 50, 39
+	orig: 50, 45
+	offset: 0, 6
+	index: -1
+caozicaizou_pifu_atk_zshou_c_3
+	rotate: true
+	xy: 714, 844
+	size: 45, 33
+	orig: 53, 33
+	offset: 7, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_zshou_c 1_1
+	rotate: false
+	xy: 335, 219
+	size: 30, 67
+	orig: 30, 67
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_zshou_c 1_2
+	rotate: false
+	xy: 264, 807
+	size: 39, 68
+	orig: 39, 68
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_10
+	rotate: false
+	xy: 955, 392
+	size: 38, 29
+	orig: 38, 29
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_yshoui_f_2
+	rotate: true
+	xy: 500, 274
+	size: 55, 33
+	orig: 55, 33
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_ztui_da_a_3
+	rotate: true
+	xy: 599, 901
+	size: 46, 39
+	orig: 46, 45
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_ztui_da_a_2
+	rotate: false
+	xy: 524, 571
+	size: 33, 51
+	orig: 35, 51
+	offset: 1, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_c_toufa_6
+	rotate: false
+	xy: 976, 569
+	size: 35, 26
+	orig: 35, 26
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_gedang_zshou_a_3
+	rotate: true
+	xy: 914, 689
+	size: 27, 30
+	orig: 27, 30
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_gedang_zshou_a_2
+	rotate: false
+	xy: 495, 679
+	size: 31, 22
+	orig: 31, 22
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_j_zshou_1_BS
+	rotate: false
+	xy: 222, 717
+	size: 54, 68
+	orig: 54, 68
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_ztui_da_c_1
+	rotate: true
+	xy: 238, 2
+	size: 71, 46
+	orig: 71, 46
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_body_7_BS
+	rotate: true
+	xy: 967, 629
+	size: 28, 34
+	orig: 28, 34
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_body_2_BS
+	rotate: false
+	xy: 139, 403
+	size: 17, 73
+	orig: 17, 73
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_skill_zshou_a_3
+	rotate: true
+	xy: 769, 252
+	size: 44, 36
+	orig: 44, 36
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_b_body_bozi
+	rotate: true
+	xy: 873, 723
+	size: 27, 28
+	orig: 27, 28
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_zshou_a_3
+	rotate: false
+	xy: 872, 186
+	size: 32, 42
+	orig: 32, 42
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_ytui_b_7
+	rotate: true
+	xy: 389, 777
+	size: 29, 57
+	orig: 29, 57
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_g_ zshou_1
+	rotate: false
+	xy: 80, 574
+	size: 52, 75
+	orig: 52, 75
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_c_yshou_3
+	rotate: true
+	xy: 846, 373
+	size: 42, 30
+	orig: 42, 30
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_e_zshou_3
+	rotate: true
+	xy: 832, 192
+	size: 42, 39
+	orig: 42, 39
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_zshou_a_1_1
+	rotate: false
+	xy: 539, 62
+	size: 34, 59
+	orig: 34, 59
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_zshou_e_1_1
+	rotate: true
+	xy: 835, 2
+	size: 48, 42
+	orig: 48, 42
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shengli_yshou_3
+	rotate: false
+	xy: 897, 604
+	size: 34, 32
+	orig: 34, 32
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_c_bozi
+	rotate: false
+	xy: 570, 379
+	size: 25, 20
+	orig: 25, 20
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_e_zshou_1
+	rotate: false
+	xy: 2, 962
+	size: 53, 60
+	orig: 53, 60
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_zshou_e_1
+	rotate: true
+	xy: 2, 330
+	size: 81, 57
+	orig: 81, 57
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_e_zshou_2
+	rotate: true
+	xy: 798, 422
+	size: 42, 40
+	orig: 42, 40
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_c_yshou_2
+	rotate: false
+	xy: 940, 719
+	size: 27, 26
+	orig: 27, 26
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_e_yshou_1
+	rotate: false
+	xy: 293, 402
+	size: 54, 67
+	orig: 54, 67
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_skill_yshou_f_2
+	rotate: true
+	xy: 696, 268
+	size: 49, 28
+	orig: 49, 28
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_skill_yshou_f_1
+	rotate: true
+	xy: 229, 402
+	size: 67, 63
+	orig: 67, 63
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_d_ytui_3_BS
+	rotate: true
+	xy: 737, 500
+	size: 44, 30
+	orig: 44, 30
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_shengli_yshou_2
+	rotate: false
+	xy: 828, 736
+	size: 26, 26
+	orig: 26, 26
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_skill_yshou_b_2
+	rotate: false
+	xy: 103, 483
+	size: 52, 74
+	orig: 52, 74
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_j_tou_BS
+	rotate: false
+	xy: 2, 886
+	size: 71, 75
+	orig: 71, 75
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_g_ zshou_1_2
+	rotate: true
+	xy: 268, 678
+	size: 38, 64
+	orig: 38, 64
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_ytui_2_BS
+	rotate: false
+	xy: 422, 464
+	size: 32, 57
+	orig: 44, 57
+	offset: 8, 0
+	index: -1
+caozicaizou_pifu_d_skill_g_ytui_1_1
+	rotate: false
+	xy: 347, 534
+	size: 38, 63
+	orig: 38, 63
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_d_yshou_1_BS
+	rotate: false
+	xy: 374, 137
+	size: 51, 65
+	orig: 51, 65
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_body_6_BS
+	rotate: true
+	xy: 185, 793
+	size: 13, 24
+	orig: 13, 24
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_h_zytui_3_BS
+	rotate: true
+	xy: 515, 702
+	size: 50, 42
+	orig: 50, 42
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_ztui_a_2
+	rotate: false
+	xy: 143, 879
+	size: 52, 70
+	orig: 58, 70
+	offset: 6, 0
+	index: -1
+caozicaizou_pifu_d_skill_ytui_a_3_BS
+	rotate: false
+	xy: 982, 147
+	size: 38, 35
+	orig: 40, 35
+	offset: 2, 0
+	index: -1
+caozicaizou_pifu_daiji_body_8_BS
+	rotate: true
+	xy: 65, 731
+	size: 75, 57
+	orig: 75, 57
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_yshou_a_2_BIANS
+	rotate: true
+	xy: 581, 232
+	size: 40, 50
+	orig: 40, 50
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_zs_yi_c_3
+	rotate: false
+	xy: 904, 2
+	size: 30, 38
+	orig: 30, 40
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_body_8
+	rotate: true
+	xy: 65, 655
+	size: 75, 57
+	orig: 75, 57
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_body_5
+	rotate: false
+	xy: 675, 108
+	size: 48, 51
+	orig: 48, 51
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_body_7
+	rotate: true
+	xy: 810, 661
+	size: 28, 34
+	orig: 28, 34
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_body_6
+	rotate: true
+	xy: 160, 793
+	size: 13, 24
+	orig: 13, 24
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_body_1
+	rotate: false
+	xy: 103, 558
+	size: 59, 15
+	orig: 59, 15
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_body_3
+	rotate: false
+	xy: 483, 128
+	size: 36, 59
+	orig: 36, 59
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_body_2
+	rotate: false
+	xy: 121, 403
+	size: 17, 73
+	orig: 17, 73
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_bozi2
+	rotate: false
+	xy: 774, 589
+	size: 35, 43
+	orig: 35, 43
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_daiji_body_1_BS
+	rotate: false
+	xy: 447, 258
+	size: 59, 15
+	orig: 59, 15
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_skill_zshou_b_1_2
+	rotate: false
+	xy: 570, 901
+	size: 28, 47
+	orig: 28, 47
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_yshou_b_1_2
+	rotate: false
+	xy: 133, 574
+	size: 29, 71
+	orig: 29, 71
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_e_yshou_3
+	rotate: true
+	xy: 902, 571
+	size: 32, 35
+	orig: 32, 35
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_g_yshou_3_BS
+	rotate: false
+	xy: 731, 590
+	size: 42, 43
+	orig: 42, 43
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_ytui_d_2
+	rotate: false
+	xy: 370, 867
+	size: 28, 59
+	orig: 52, 65
+	offset: 15, 0
+	index: -1
+caozicaizou_pifu_d_skill_f_yshou_db
+	rotate: true
+	xy: 328, 996
+	size: 26, 54
+	orig: 26, 54
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_zshoui_f_3
+	rotate: true
+	xy: 745, 2
+	size: 51, 44
+	orig: 51, 44
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_skill_ztui_f_2
+	rotate: false
+	xy: 526, 182
+	size: 54, 54
+	orig: 54, 54
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_zshou_a_1_1
+	rotate: false
+	xy: 580, 753
+	size: 38, 48
+	orig: 38, 48
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_ytui_f_2
+	rotate: true
+	xy: 163, 621
+	size: 24, 52
+	orig: 46, 52
+	offset: 10, 0
+	index: -1
+caozicaizou_pifu_atk_ytui_f_3
+	rotate: true
+	xy: 779, 668
+	size: 31, 30
+	orig: 31, 34
+	offset: 0, 1
+	index: -1
+caozicaizou_pifu_d_skill_e_zshou_1_1
+	rotate: true
+	xy: 216, 621
+	size: 24, 51
+	orig: 24, 51
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_m_zshou_3
+	rotate: true
+	xy: 878, 443
+	size: 36, 37
+	orig: 36, 37
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_zs_yi_e_3
+	rotate: false
+	xy: 992, 500
+	size: 30, 36
+	orig: 30, 36
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_zs_yi_e_2
+	rotate: false
+	xy: 972, 183
+	size: 36, 38
+	orig: 36, 38
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_ztui_b_3
+	rotate: true
+	xy: 668, 601
+	size: 45, 30
+	orig: 53, 52
+	offset: 1, 1
+	index: -1
+caozicaizou_pifu_sjdaodi_d_yshou_2
+	rotate: false
+	xy: 605, 400
+	size: 36, 49
+	orig: 36, 49
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_d_yshou_3
+	rotate: false
+	xy: 940, 532
+	size: 36, 35
+	orig: 36, 35
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_BS_yshou_a_1_1
+	rotate: true
+	xy: 542, 753
+	size: 50, 37
+	orig: 50, 37
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_zshou_a_2
+	rotate: false
+	xy: 904, 41
+	size: 38, 32
+	orig: 38, 32
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_d_skill_zshou_a_3
+	rotate: false
+	xy: 764, 394
+	size: 38, 27
+	orig: 38, 27
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_benpao_zs_yi_a_3
+	rotate: true
+	xy: 691, 940
+	size: 46, 25
+	orig: 46, 25
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_bs_skill_ytui_c_3
+	rotate: false
+	xy: 447, 197
+	size: 31, 60
+	orig: 37, 60
+	offset: 3, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_f_zshou_3
+	rotate: true
+	xy: 666, 2
+	size: 52, 33
+	orig: 52, 33
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_sjdaodi_f_yshou_1_2
+	rotate: false
+	xy: 441, 714
+	size: 33, 57
+	orig: 33, 57
+	offset: 0, 0
+	index: -1
+caozicaizou_pifu_atk_ytui_g_3
+	rotate: false
+	xy: 664, 991
+	size: 45, 31
+	orig: 45, 39
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_paobu_yan0
+	rotate: false
+	xy: 532, 583
+	size: 49, 50
+	orig: 49, 50
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan1
+	rotate: false
+	xy: 345, 619
+	size: 49, 49
+	orig: 49, 49
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan4
+	rotate: false
+	xy: 532, 531
+	size: 49, 51
+	orig: 49, 51
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_paobu_yan2
+	rotate: false
+	xy: 978, 232
+	size: 43, 51
+	orig: 43, 51
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan3
+	rotate: false
+	xy: 978, 284
+	size: 43, 51
+	orig: 43, 51
+	offset: 0, 0
+	index: -1

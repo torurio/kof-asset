@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>bg_mail_fujianbg.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{403,6},{101,102}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{2,2},{101,102}}</string>
+			<key>sourceSize</key>
+			<string>{105,106}</string>
+		</dict>
+		<key>pic_mail_fengexian.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{431,2}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{431,2}}</string>
+			<key>sourceSize</key>
+			<string>{431,2}</string>
+		</dict>
+		<key>pic_mail_youjiantop.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,6},{399,42}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{399,42}}</string>
+			<key>sourceSize</key>
+			<string>{399,42}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>ItemOpenMailboxUi0.png</string>
+		<key>size</key>
+		<string>{507,109}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>ItemOpenMailboxUi0.png</string>
+	</dict>
+</dict>
+</plist>

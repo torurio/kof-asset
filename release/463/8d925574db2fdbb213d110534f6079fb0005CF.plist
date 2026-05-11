@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>bronzehero_100006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{176,257}}</string>
+			<key>offset</key>
+			<string>{-4,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{18,0},{176,257}}</string>
+			<key>sourceSize</key>
+			<string>{220,257}</string>
+		</dict>
+		<key>bronzehero_100007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,261},{164,256}}</string>
+			<key>offset</key>
+			<string>{-10,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{18,0},{164,256}}</string>
+			<key>sourceSize</key>
+			<string>{220,256}</string>
+		</dict>
+		<key>bronzehero_100010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,519},{160,257}}</string>
+			<key>offset</key>
+			<string>{-12,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{18,0},{160,257}}</string>
+			<key>sourceSize</key>
+			<string>{220,257}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>Bronze_t20.png</string>
+		<key>size</key>
+		<string>{180,778}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>Bronze_t20.png</string>
+	</dict>
+</dict>
+</plist>

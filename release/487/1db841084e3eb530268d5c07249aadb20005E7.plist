@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>wy_2_2_85498_sumingduijueimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,90},{32,32}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{32,32}}</string>
+			<key>sourceSize</key>
+			<string>{32,32}</string>
+		</dict>
+		<key>wy_3_3_69805_sumingduijueimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,46},{42,42}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{42,42}}</string>
+			<key>sourceSize</key>
+			<string>{42,42}</string>
+		</dict>
+		<key>wy_4_4_68870_sumingduijueimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{42,42}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{42,42}}</string>
+			<key>sourceSize</key>
+			<string>{42,42}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>sumingduijueimage.png</string>
+		<key>size</key>
+		<string>{64,128}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>sumingduijueimage.png</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,383 @@
+
+asset/spine/global_spinehero_effect1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z1
+	rotate: false
+	xy: 775, 950
+	size: 137, 66
+	orig: 137, 66
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z0
+	rotate: true
+	xy: 552, 662
+	size: 85, 3
+	orig: 85, 3
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z5
+	rotate: false
+	xy: 858, 984
+	size: 154, 36
+	orig: 154, 36
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z3
+	rotate: false
+	xy: 616, 499
+	size: 154, 64
+	orig: 154, 64
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z4
+	rotate: false
+	xy: 834, 499
+	size: 154, 60
+	orig: 154, 60
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z2
+	rotate: true
+	xy: 412, 131
+	size: 94, 88
+	orig: 94, 88
+	offset: 0, 0
+	index: -1
+
+asset/spine/taoziXISZ_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_tz_daiji_xinxin_00019
+	rotate: false
+	xy: 620, 934
+	size: 78, 85
+	orig: 108, 119
+	offset: 0, 9
+	index: -1
+effect/common/New_tz_daiji_xinxin_00018
+	rotate: false
+	xy: 409, 691
+	size: 74, 43
+	orig: 108, 119
+	offset: 3, 53
+	index: -1
+effect/common/New_tz_daiji_xinxin_00011
+	rotate: true
+	xy: 331, 691
+	size: 76, 77
+	orig: 108, 119
+	offset: 3, 42
+	index: -1
+effect/common/New_tz_daiji_xinxin_00034
+	rotate: false
+	xy: 813, 916
+	size: 98, 101
+	orig: 108, 119
+	offset: 10, 10
+	index: -1
+effect/common/New_tz_daiji_xinxin_00033
+	rotate: false
+	xy: 295, 916
+	size: 100, 105
+	orig: 108, 119
+	offset: 8, 8
+	index: -1
+effect/common/New_tz_daiji_xinxin_00032
+	rotate: true
+	xy: 857, 628
+	size: 102, 107
+	orig: 108, 119
+	offset: 6, 7
+	index: -1
+effect/common/New_tz_daiji_xinxin_00017
+	rotate: true
+	xy: 965, 548
+	size: 76, 57
+	orig: 108, 119
+	offset: 2, 54
+	index: -1
+effect/common/New_tz_daiji_xinxin_00035
+	rotate: true
+	xy: 409, 747
+	size: 86, 99
+	orig: 108, 119
+	offset: 21, 11
+	index: -1
+effect/common/New_tz_daiji_xinxin_00028
+	rotate: true
+	xy: 213, 671
+	size: 96, 117
+	orig: 108, 119
+	offset: 3, 2
+	index: -1
+effect/common/New_tz_daiji_xinxin_00029
+	rotate: true
+	xy: 817, 731
+	size: 102, 115
+	orig: 108, 119
+	offset: 3, 3
+	index: -1
+effect/common/New_tz_daiji_xinxin_00024
+	rotate: true
+	xy: 933, 758
+	size: 72, 89
+	orig: 108, 119
+	offset: 1, 16
+	index: -1
+effect/common/New_tz_daiji_xinxin_00027
+	rotate: true
+	xy: 215, 574
+	size: 96, 117
+	orig: 108, 119
+	offset: 1, 1
+	index: -1
+effect/common/New_tz_daiji_xinxin_00022
+	rotate: false
+	xy: 699, 931
+	size: 72, 83
+	orig: 108, 119
+	offset: 0, 13
+	index: -1
+effect/common/New_tz_daiji_xinxin_00031
+	rotate: true
+	xy: 396, 916
+	size: 104, 111
+	orig: 108, 119
+	offset: 4, 5
+	index: -1
+effect/common/New_tz_daiji_xinxin_00023
+	rotate: false
+	xy: 295, 828
+	size: 70, 87
+	orig: 108, 119
+	offset: 0, 15
+	index: -1
+effect/common/New_tz_daiji_xinxin_00030
+	rotate: true
+	xy: 699, 828
+	size: 102, 113
+	orig: 108, 119
+	offset: 5, 4
+	index: -1
+effect/common/New_tz_daiji_xinxin_00006
+	rotate: true
+	xy: 967, 291
+	size: 84, 55
+	orig: 108, 119
+	offset: 16, 34
+	index: -1
+effect/common/New_tz_daiji_xinxin_00005
+	rotate: false
+	xy: 295, 768
+	size: 84, 59
+	orig: 108, 119
+	offset: 19, 33
+	index: -1
+effect/common/New_tz_daiji_xinxin_00002
+	rotate: true
+	xy: 933, 831
+	size: 84, 87
+	orig: 108, 119
+	offset: 21, 17
+	index: -1
+effect/common/New_tz_daiji_xinxin_00003
+	rotate: false
+	xy: 366, 834
+	size: 84, 81
+	orig: 108, 119
+	offset: 21, 21
+	index: -1
+effect/common/New_tz_daiji_xinxin_00000
+	rotate: true
+	xy: 509, 747
+	size: 86, 97
+	orig: 108, 119
+	offset: 21, 13
+	index: -1
+effect/common/New_tz_daiji_xinxin_00001
+	rotate: false
+	xy: 607, 838
+	size: 86, 95
+	orig: 108, 119
+	offset: 20, 15
+	index: -1
+effect/common/New_tz_daiji_xinxin_00008
+	rotate: false
+	xy: 813, 834
+	size: 94, 79
+	orig: 108, 119
+	offset: 4, 37
+	index: -1
+effect/common/New_tz_daiji_xinxin_00009
+	rotate: true
+	xy: 529, 834
+	size: 94, 77
+	orig: 108, 119
+	offset: 4, 39
+	index: -1
+
+asset/spine/global_spinehero_role6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z7
+	rotate: false
+	xy: 115, 510
+	size: 111, 88
+	orig: 111, 88
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z6
+	rotate: false
+	xy: 867, 295
+	size: 154, 57
+	orig: 154, 57
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z8
+	rotate: false
+	xy: 867, 91
+	size: 154, 77
+	orig: 154, 77
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z9
+	rotate: false
+	xy: 867, 2
+	size: 154, 88
+	orig: 154, 88
+	offset: 0, 0
+	index: -1
+
+asset/spine/taoziXI_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/ydnns_e4_bai
+	rotate: false
+	xy: 176, 246
+	size: 49, 49
+	orig: 49, 49
+	offset: 0, 0
+	index: -1
+effect/common/New_tz_daiji_xinxin_00012
+	rotate: false
+	xy: 813, 727
+	size: 90, 85
+	orig: 126, 139
+	offset: 3, 51
+	index: -1
+effect/common/New_tz_daiji_xinxin_00015
+	rotate: false
+	xy: 904, 750
+	size: 90, 73
+	orig: 126, 139
+	offset: 2, 60
+	index: -1
+effect/common/New_tz_daiji_xinxin_00026
+	rotate: true
+	xy: 730, 244
+	size: 112, 131
+	orig: 126, 139
+	offset: 1, 0
+	index: -1
+effect/common/New_tz_daiji_xinxin_00020
+	rotate: false
+	xy: 52, 738
+	size: 86, 83
+	orig: 126, 139
+	offset: 0, 12
+	index: -1
+effect/common/New_tz_daiji_xinxin_00021
+	rotate: true
+	xy: 817, 642
+	size: 84, 97
+	orig: 126, 139
+	offset: 0, 13
+	index: -1
+effect/common/New_tz_daiji_xinxin_00007
+	rotate: false
+	xy: 608, 469
+	size: 110, 87
+	orig: 126, 139
+	offset: 5, 42
+	index: -1
+effect/common/New_tz_daiji_xinxin_00004
+	rotate: false
+	xy: 915, 678
+	size: 96, 71
+	orig: 126, 139
+	offset: 25, 37
+	index: -1
+
+asset/spine/taoziXI_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_tz_daiji_xinxin_00010
+	rotate: false
+	xy: 694, 677
+	size: 84, 91
+	orig: 126, 139
+	offset: 4, 47
+	index: -1
+effect/common/New_tz_daiji_xinxin_00013
+	rotate: true
+	xy: 610, 677
+	size: 92, 83
+	orig: 126, 139
+	offset: 2, 53
+	index: -1
+effect/common/New_tz_daiji_xinxin_00016
+	rotate: true
+	xy: 270, 457
+	size: 90, 69
+	orig: 126, 139
+	offset: 2, 62
+	index: -1
+effect/common/New_tz_daiji_xinxin_00025
+	rotate: true
+	xy: 270, 548
+	size: 110, 129
+	orig: 126, 139
+	offset: 2, 0
+	index: -1
+effect/common/New_tz_daiji_xinxin_00014
+	rotate: true
+	xy: 942, 790
+	size: 90, 79
+	orig: 126, 139
+	offset: 3, 56
+	index: -1

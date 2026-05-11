@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>bg_tiaozhanpaihang_Bg03.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1300,2},{644,44}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{644,44}}</string>
+			<key>sourceSize</key>
+			<string>{644,44}</string>
+		</dict>
+		<key>bg_tiaozhanpaihang_bg01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{651,2},{647,88}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{647,88}}</string>
+			<key>sourceSize</key>
+			<string>{647,88}</string>
+		</dict>
+		<key>bg_tiaozhanpaihang_bg02.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{647,88}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{647,88}}</string>
+			<key>sourceSize</key>
+			<string>{647,88}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>challengeRank0.png</string>
+		<key>size</key>
+		<string>{1946,92}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>challengeRank0.png</string>
+	</dict>
+</dict>
+</plist>

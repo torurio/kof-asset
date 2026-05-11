@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>pic_shuxian_sp.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{879,32},{1,21}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{1,21}}</string>
+			<key>sourceSize</key>
+			<string>{1,21}</string>
+		</dict>
+		<key>pic_shuxianhuatiao_sp.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{879,2},{5,28}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{5,28}}</string>
+			<key>sourceSize</key>
+			<string>{5,28}</string>
+		</dict>
+		<key>pic_xianshigedoujia_dibnanhong.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{875,547}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{875,547}}</string>
+			<key>sourceSize</key>
+			<string>{875,547}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>ActivityDebrisUi0.png</string>
+		<key>size</key>
+		<string>{886,551}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>ActivityDebrisUi0.png</string>
+	</dict>
+</dict>
+</plist>

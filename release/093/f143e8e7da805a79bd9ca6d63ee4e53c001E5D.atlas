@@ -1,0 +1,408 @@
+
+asset/spine/xietou_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_xt_xiaojineng_db_00014
+	rotate: false
+	xy: 795, 535
+	size: 225, 88
+	orig: 245, 94
+	offset: 20, 0
+	index: -1
+effect/common/New_xt_xiaojineng_feng_00033
+	rotate: true
+	xy: 2, 648
+	size: 367, 290
+	orig: 395, 304
+	offset: 28, 2
+	index: -1
+effect/common/New_xt_xiaojineng_db_00012
+	rotate: false
+	xy: 293, 644
+	size: 245, 94
+	orig: 245, 94
+	offset: 0, 0
+	index: -1
+effect/common/New_xt_liumenbisha_ccb_00016
+	rotate: true
+	xy: 472, 821
+	size: 168, 65
+	orig: 328, 661
+	offset: 82, 16
+	index: -1
+effect/common/New_xt_putongbisha_qb_00024
+	rotate: false
+	xy: 293, 821
+	size: 178, 193
+	orig: 482, 197
+	offset: 304, 3
+	index: -1
+effect/common/New_xt_putongbisha_qb_00022
+	rotate: false
+	xy: 544, 2
+	size: 478, 197
+	orig: 482, 197
+	offset: 4, 0
+	index: -1
+effect/common/New_xt_putongbisha_qb_00020
+	rotate: false
+	xy: 544, 200
+	size: 478, 139
+	orig: 482, 197
+	offset: 0, 23
+	index: -1
+effect/common/New_xt_putonggongji_zd_00007
+	rotate: false
+	xy: 986, 936
+	size: 36, 36
+	orig: 36, 36
+	offset: 0, 0
+	index: -1
+effect/common/New_xt_putonggongji_zd_00005
+	rotate: false
+	xy: 986, 899
+	size: 36, 36
+	orig: 36, 36
+	offset: 0, 0
+	index: -1
+effect/common/New_xt_putonggongji_zd_00003
+	rotate: false
+	xy: 986, 862
+	size: 36, 36
+	orig: 36, 36
+	offset: 0, 0
+	index: -1
+effect/common/New_xt_putongbisha_qb2_00025
+	rotate: false
+	xy: 544, 340
+	size: 477, 194
+	orig: 477, 198
+	offset: 0, 3
+	index: -1
+effect/common/New_xt_putonggongji_pk_00002
+	rotate: false
+	xy: 945, 862
+	size: 40, 89
+	orig: 160, 149
+	offset: 6, 31
+	index: -1
+effect/common/New_xt_liumenbisha_ccb_00032
+	rotate: false
+	xy: 293, 739
+	size: 240, 81
+	orig: 328, 661
+	offset: 39, 8
+	index: -1
+effect/common/New_xt_xiaojineng_feng_00026
+	rotate: true
+	xy: 795, 624
+	size: 237, 224
+	orig: 395, 304
+	offset: 66, 2
+	index: -1
+effect/common/New_xt_putonggongji_pk_00004
+	rotate: true
+	xy: 795, 862
+	size: 154, 149
+	orig: 160, 149
+	offset: 6, 0
+	index: -1
+effect/common/New_xt_liumenbisha_ccb_00026
+	rotate: false
+	xy: 257, 2
+	size: 286, 641
+	orig: 328, 661
+	offset: 21, 4
+	index: -1
+effect/common/New_xt_liumenbisha_ccb_00020
+	rotate: false
+	xy: 544, 535
+	size: 250, 487
+	orig: 328, 661
+	offset: 40, 2
+	index: -1
+effect/common/New_xt_liumenbisha_ccb_00022
+	rotate: false
+	xy: 2, 2
+	size: 254, 645
+	orig: 328, 661
+	offset: 37, 2
+	index: -1
+
+asset/spine/xietou_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_xt_xiaojineng_db_00017
+	rotate: false
+	xy: 576, 625
+	size: 211, 90
+	orig: 245, 94
+	offset: 34, 2
+	index: -1
+effect/common/New_xt_xiaojineng_feng_00035
+	rotate: true
+	xy: 297, 632
+	size: 385, 278
+	orig: 395, 304
+	offset: 0, 0
+	index: -1
+effect/common/New_xt_shengli_yan_00026
+	rotate: false
+	xy: 608, 285
+	size: 230, 203
+	orig: 282, 295
+	offset: 38, 51
+	index: -1
+effect/common/New_xt_xiaojineng_feng_00032
+	rotate: true
+	xy: 2, 634
+	size: 385, 294
+	orig: 395, 304
+	offset: 10, 6
+	index: -1
+effect/common/New_xt_putonggongji_pk_00006
+	rotate: true
+	xy: 372, 492
+	size: 138, 147
+	orig: 160, 149
+	offset: 15, 1
+	index: -1
+effect/common/New_xt_putonggongji_pk_00003
+	rotate: false
+	xy: 608, 2
+	size: 110, 149
+	orig: 160, 149
+	offset: 0, 0
+	index: -1
+effect/common/New_xt_xiaojineng_feng_00024
+	rotate: true
+	xy: 279, 492
+	size: 139, 92
+	orig: 395, 304
+	offset: 125, 4
+	index: -1
+effect/common/New_xt_xiaojineng_feng_00025
+	rotate: false
+	xy: 520, 492
+	size: 203, 132
+	orig: 395, 304
+	offset: 103, 7
+	index: -1
+effect/common/New_xt_shengli_yan_00019
+	rotate: true
+	xy: 724, 2
+	size: 282, 295
+	orig: 282, 295
+	offset: 0, 0
+	index: -1
+effect/common/New_xt_shengli_yan_00016
+	rotate: false
+	xy: 724, 489
+	size: 110, 129
+	orig: 282, 295
+	offset: 85, 83
+	index: -1
+effect/common/xt_xiaojineng_dg_00030
+	rotate: true
+	xy: 576, 720
+	size: 301, 382
+	orig: 301, 382
+	offset: 0, 0
+	index: -1
+effect/common/New_xt_liumenbisha_ccb_00024
+	rotate: false
+	xy: 2, 2
+	size: 276, 631
+	orig: 328, 661
+	offset: 26, 2
+	index: -1
+effect/common/New_xt_liumenbisha_ccb_00028
+	rotate: false
+	xy: 279, 2
+	size: 328, 489
+	orig: 328, 661
+	offset: 0, 5
+	index: -1
+
+asset/spine/xietou_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_xt_putongbisha_qb_00023
+	rotate: false
+	xy: 476, 199
+	size: 466, 197
+	orig: 482, 197
+	offset: 16, 0
+	index: -1
+effect/common/New_xt_putongbisha_qb2_00023
+	rotate: false
+	xy: 903, 412
+	size: 117, 126
+	orig: 477, 198
+	offset: 0, 45
+	index: -1
+effect/common/New_xt_putongbisha_qb2_00027
+	rotate: false
+	xy: 2, 341
+	size: 461, 196
+	orig: 477, 198
+	offset: 16, 0
+	index: -1
+effect/common/New_xt_putongbisha_qb2_00026
+	rotate: false
+	xy: 485, 2
+	size: 473, 196
+	orig: 477, 198
+	offset: 4, 1
+	index: -1
+effect/common/New_xt_putongbisha_qb2_00024
+	rotate: false
+	xy: 2, 198
+	size: 473, 142
+	orig: 477, 198
+	offset: 0, 35
+	index: -1
+effect/common/New_xt_liumenbisha_ccb_00034
+	rotate: true
+	xy: 943, 199
+	size: 212, 77
+	orig: 328, 661
+	offset: 59, 9
+	index: -1
+effect/common/New_xt_putonggongji_pk_00005
+	rotate: true
+	xy: 850, 590
+	size: 146, 149
+	orig: 160, 149
+	offset: 12, 0
+	index: -1
+effect/common/New_xt_putongbisha_qb_00021
+	rotate: false
+	xy: 2, 2
+	size: 482, 195
+	orig: 482, 197
+	offset: 0, 1
+	index: -1
+effect/common/New_xt_liumenbisha_ccb_00018
+	rotate: false
+	xy: 201, 538
+	size: 260, 255
+	orig: 328, 661
+	offset: 35, 0
+	index: -1
+effect/common/New_xt_putongbisha_qb_00019
+	rotate: true
+	xy: 850, 737
+	size: 122, 127
+	orig: 482, 197
+	offset: 0, 30
+	index: -1
+effect/common/New_xt_shengli_yan_00017
+	rotate: true
+	xy: 201, 794
+	size: 224, 231
+	orig: 282, 295
+	offset: 30, 32
+	index: -1
+
+asset/spine/xietou_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_xt_xiaojineng_db_00015
+	rotate: true
+	xy: 354, 189
+	size: 217, 84
+	orig: 245, 94
+	offset: 28, 2
+	index: -1
+effect/common/New_xt_xiaojineng_feng_00030
+	rotate: false
+	xy: 2, 189
+	size: 351, 292
+	orig: 395, 304
+	offset: 0, 4
+	index: -1
+effect/common/New_xt_shengli_yan_00021
+	rotate: false
+	xy: 285, 655
+	size: 280, 293
+	orig: 282, 295
+	offset: 1, 1
+	index: -1
+effect/common/New_xt_shengli_yan_00025
+	rotate: true
+	xy: 755, 655
+	size: 264, 267
+	orig: 282, 295
+	offset: 9, 13
+	index: -1
+effect/common/New_xt_putongbisha_qb_00025
+	rotate: true
+	xy: 825, 180
+	size: 180, 189
+	orig: 482, 197
+	offset: 302, 5
+	index: -1
+effect/common/New_xt_putongbisha_qb2_00028
+	rotate: true
+	xy: 825, 2
+	size: 177, 192
+	orig: 477, 198
+	offset: 300, 4
+	index: -1
+effect/common/New_xt_liumenbisha_ccb_00030
+	rotate: true
+	xy: 439, 279
+	size: 252, 327
+	orig: 328, 661
+	offset: 35, 8
+	index: -1
+effect/common/New_xt_xiaojineng_feng_00028
+	rotate: true
+	xy: 767, 361
+	size: 293, 252
+	orig: 395, 304
+	offset: 61, 0
+	index: -1
+effect/common/New_xt_xiaojineng_feng_00029
+	rotate: false
+	xy: 439, 2
+	size: 385, 276
+	orig: 395, 304
+	offset: 0, 2
+	index: -1
+effect/common/New_xt_putongbisha_qb2_00029
+	rotate: true
+	xy: 566, 532
+	size: 181, 188
+	orig: 477, 198
+	offset: 296, 6
+	index: -1
+effect/common/New_xt_shengli_yan_00018
+	rotate: false
+	xy: 2, 655
+	size: 282, 295
+	orig: 282, 295
+	offset: 0, 0
+	index: -1
+
+asset/spine/xietou_common4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_xt_shengli_yan_00023
+	rotate: false
+	xy: 2, 2
+	size: 276, 283
+	orig: 282, 295
+	offset: 2, 7
+	index: -1

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>chenglvdi.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{168,17}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{168,17}}</string>
+			<key>sourceSize</key>
+			<string>{168,17}</string>
+		</dict>
+		<key>chengtiao.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{172,15},{164,11}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{164,11}}</string>
+			<key>sourceSize</key>
+			<string>{164,11}</string>
+		</dict>
+		<key>lvtiao.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{172,2},{164,11}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{164,11}}</string>
+			<key>sourceSize</key>
+			<string>{164,11}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>TowerHeros0.png</string>
+		<key>size</key>
+		<string>{338,28}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>TowerHeros0.png</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,4023 @@
+
+asset/spine/weipuxiv_role_shizhuang0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wpXIVsz_a_bz04
+	rotate: false
+	xy: 272, 510
+	size: 35, 86
+	orig: 35, 86
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_ycb02
+	rotate: false
+	xy: 903, 2
+	size: 117, 59
+	orig: 117, 59
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_bz02
+	rotate: true
+	xy: 901, 206
+	size: 69, 83
+	orig: 69, 83
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_bz01
+	rotate: true
+	xy: 753, 179
+	size: 71, 30
+	orig: 71, 30
+	offset: 0, 0
+	index: -1
+wpXIVsz_f2_st02
+	rotate: false
+	xy: 939, 871
+	size: 48, 49
+	orig: 48, 49
+	offset: 0, 0
+	index: -1
+wpXIVsz_j6_zxt
+	rotate: true
+	xy: 522, 738
+	size: 41, 66
+	orig: 41, 66
+	offset: 0, 0
+	index: -1
+wpXIVsz_i8_qz
+	rotate: false
+	xy: 901, 341
+	size: 82, 61
+	orig: 82, 61
+	offset: 0, 0
+	index: -1
+wpXIVsz_b_zj
+	rotate: true
+	xy: 977, 571
+	size: 54, 45
+	orig: 54, 45
+	offset: 0, 0
+	index: -1
+wpXIVsz_h9_tf01
+	rotate: true
+	xy: 651, 241
+	size: 70, 90
+	orig: 70, 90
+	offset: 0, 0
+	index: -1
+wpXIVsz_h9_tf02
+	rotate: false
+	xy: 867, 338
+	size: 33, 71
+	orig: 33, 71
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_ts
+	rotate: false
+	xy: 985, 327
+	size: 37, 54
+	orig: 37, 54
+	offset: 0, 0
+	index: -1
+wpXIVsz_j7_qz
+	rotate: false
+	xy: 140, 823
+	size: 63, 59
+	orig: 63, 59
+	offset: 0, 0
+	index: -1
+wpXIVsz_g2_zdt
+	rotate: true
+	xy: 454, 472
+	size: 47, 80
+	orig: 47, 80
+	offset: 0, 0
+	index: -1
+wpXIVsz_d_zs02
+	rotate: false
+	xy: 285, 427
+	size: 23, 21
+	orig: 23, 21
+	offset: 0, 0
+	index: -1
+wpXIVsz_b_zs
+	rotate: true
+	xy: 754, 99
+	size: 45, 29
+	orig: 45, 29
+	offset: 0, 0
+	index: -1
+wpXIVsz_c_qz
+	rotate: false
+	xy: 185, 453
+	size: 86, 64
+	orig: 86, 64
+	offset: 0, 0
+	index: -1
+wpXIVsz_i9_st
+	rotate: true
+	xy: 117, 16
+	size: 104, 113
+	orig: 104, 113
+	offset: 0, 0
+	index: -1
+wpXIVsz_b_zdt
+	rotate: true
+	xy: 901, 517
+	size: 67, 75
+	orig: 67, 75
+	offset: 0, 0
+	index: -1
+wpXIVsz_b_zdb
+	rotate: false
+	xy: 985, 206
+	size: 37, 62
+	orig: 37, 62
+	offset: 0, 0
+	index: -1
+wpXIVsz_g4_zxt
+	rotate: true
+	xy: 524, 698
+	size: 39, 69
+	orig: 39, 69
+	offset: 0, 0
+	index: -1
+wpXIVsz_b_st
+	rotate: true
+	xy: 784, 2
+	size: 85, 118
+	orig: 85, 118
+	offset: 0, 0
+	index: -1
+wpXIVsz_e1_yxt
+	rotate: false
+	xy: 60, 947
+	size: 53, 62
+	orig: 53, 62
+	offset: 0, 0
+	index: -1
+wpXIVsz_f1_zxb
+	rotate: true
+	xy: 581, 847
+	size: 56, 31
+	orig: 56, 31
+	offset: 0, 0
+	index: -1
+wpXIVsz_e2_qz
+	rotate: false
+	xy: 557, 803
+	size: 53, 43
+	orig: 53, 43
+	offset: 0, 0
+	index: -1
+wpXIVsz_c_t
+	rotate: true
+	xy: 784, 229
+	size: 65, 83
+	orig: 65, 83
+	offset: 0, 0
+	index: -1
+wpXIVsz_f2_t
+	rotate: true
+	xy: 309, 285
+	size: 83, 90
+	orig: 83, 90
+	offset: 0, 0
+	index: -1
+wpXIVsz_h8_zdt
+	rotate: false
+	xy: 241, 755
+	size: 66, 49
+	orig: 66, 49
+	offset: 0, 0
+	index: -1
+wpXIVsz_g1_ys
+	rotate: false
+	xy: 845, 935
+	size: 39, 26
+	orig: 39, 26
+	offset: 0, 0
+	index: -1
+wpXIVsz_d_st
+	rotate: true
+	xy: 455, 117
+	size: 95, 102
+	orig: 95, 102
+	offset: 0, 0
+	index: -1
+wpXIVsz_g1_yj
+	rotate: true
+	xy: 769, 845
+	size: 49, 52
+	orig: 49, 52
+	offset: 0, 0
+	index: -1
+wpXIVsz_i10_zs
+	rotate: false
+	xy: 901, 830
+	size: 52, 40
+	orig: 52, 40
+	offset: 0, 0
+	index: -1
+wpXIVsz_f5_qz
+	rotate: false
+	xy: 558, 190
+	size: 92, 58
+	orig: 92, 58
+	offset: 0, 0
+	index: -1
+wpXIVsz_j9_qz
+	rotate: false
+	xy: 2, 742
+	size: 73, 51
+	orig: 73, 51
+	offset: 0, 0
+	index: -1
+wpXIVsz_e1_zq
+	rotate: false
+	xy: 453, 621
+	size: 74, 61
+	orig: 74, 61
+	offset: 0, 0
+	index: -1
+wpXIVsz_f5_st02
+	rotate: true
+	xy: 181, 914
+	size: 32, 57
+	orig: 32, 57
+	offset: 0, 0
+	index: -1
+wpXIVsz_e3_t
+	rotate: false
+	xy: 784, 295
+	size: 82, 69
+	orig: 82, 69
+	offset: 0, 0
+	index: -1
+wpXIVsz_f4_t
+	rotate: true
+	xy: 2, 597
+	size: 69, 84
+	orig: 69, 84
+	offset: 0, 0
+	index: -1
+wpXIVsz_h2_qz
+	rotate: false
+	xy: 385, 665
+	size: 66, 56
+	orig: 66, 56
+	offset: 0, 0
+	index: -1
+wpXIVsz_h8_t
+	rotate: true
+	xy: 2, 385
+	size: 74, 95
+	orig: 74, 95
+	offset: 0, 0
+	index: -1
+wpXIVsz_e2_yxt
+	rotate: false
+	xy: 247, 947
+	size: 41, 61
+	orig: 41, 61
+	offset: 0, 0
+	index: -1
+wpXIVsz_c_ydb
+	rotate: true
+	xy: 75, 836
+	size: 42, 63
+	orig: 42, 63
+	offset: 0, 0
+	index: -1
+wpXIVsz_e1_t
+	rotate: true
+	xy: 89, 521
+	size: 81, 84
+	orig: 81, 84
+	offset: 0, 0
+	index: -1
+wpXIVsz_e2_zxb
+	rotate: false
+	xy: 534, 947
+	size: 36, 56
+	orig: 36, 56
+	offset: 0, 0
+	index: -1
+wpXIVsz_c_ys02
+	rotate: true
+	xy: 747, 878
+	size: 30, 21
+	orig: 30, 21
+	offset: 0, 0
+	index: -1
+wpXIVsz_g4_yj
+	rotate: true
+	xy: 451, 905
+	size: 41, 47
+	orig: 41, 47
+	offset: 0, 0
+	index: -1
+wpXIVsz_c_ydt
+	rotate: true
+	xy: 901, 403
+	size: 45, 82
+	orig: 45, 82
+	offset: 0, 0
+	index: -1
+wpXIVsz_h7_st
+	rotate: true
+	xy: 101, 309
+	size: 93, 95
+	orig: 93, 95
+	offset: 0, 0
+	index: -1
+wpXIVsz_g1_zdt
+	rotate: true
+	xy: 309, 369
+	size: 46, 88
+	orig: 46, 88
+	offset: 0, 0
+	index: -1
+wpXIVsz_h3_ydt
+	rotate: true
+	xy: 309, 416
+	size: 39, 87
+	orig: 39, 87
+	offset: 0, 0
+	index: -1
+wpXIVsz_i8_yxt
+	rotate: false
+	xy: 401, 947
+	size: 48, 57
+	orig: 48, 57
+	offset: 0, 0
+	index: -1
+wpXIVsz_h2_zj
+	rotate: true
+	xy: 489, 847
+	size: 56, 52
+	orig: 56, 52
+	offset: 0, 0
+	index: -1
+wpXIVsz_g5_zs
+	rotate: true
+	xy: 719, 847
+	size: 54, 27
+	orig: 54, 27
+	offset: 0, 0
+	index: -1
+wpXIVsz_d_st02
+	rotate: false
+	xy: 718, 399
+	size: 65, 60
+	orig: 65, 60
+	offset: 0, 0
+	index: -1
+wpXIVsz_f5_st
+	rotate: false
+	xy: 212, 281
+	size: 96, 95
+	orig: 96, 95
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_t
+	rotate: true
+	xy: 2, 527
+	size: 69, 84
+	orig: 69, 84
+	offset: 0, 0
+	index: -1
+wpXIVsz_j13_zxt
+	rotate: true
+	xy: 452, 717
+	size: 39, 69
+	orig: 39, 69
+	offset: 0, 0
+	index: -1
+wpXIVsz_h4_zs
+	rotate: true
+	xy: 988, 847
+	size: 49, 34
+	orig: 49, 34
+	offset: 0, 0
+	index: -1
+wpXIVsz_g1_zxt
+	rotate: true
+	xy: 689, 730
+	size: 48, 54
+	orig: 48, 54
+	offset: 0, 0
+	index: -1
+wpXIVsz_h14_st
+	rotate: true
+	xy: 559, 16
+	size: 79, 100
+	orig: 79, 100
+	offset: 0, 0
+	index: -1
+wpXIVsz_j7_zdb
+	rotate: false
+	xy: 289, 947
+	size: 52, 60
+	orig: 52, 60
+	offset: 0, 0
+	index: -1
+wpXIVsz_e2_zs
+	rotate: false
+	xy: 616, 947
+	size: 35, 54
+	orig: 35, 54
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_bz
+	rotate: false
+	xy: 2, 2
+	size: 658, 13
+	orig: 658, 13
+	offset: 0, 0
+	index: -1
+wpXIVsz_h14_zs
+	rotate: true
+	xy: 718, 803
+	size: 43, 50
+	orig: 43, 50
+	offset: 0, 0
+	index: -1
+wpXIVsz_h8_ts1
+	rotate: false
+	xy: 829, 620
+	size: 22, 53
+	orig: 22, 53
+	offset: 0, 0
+	index: -1
+wpXIVsz_i1_qz
+	rotate: false
+	xy: 606, 615
+	size: 71, 57
+	orig: 71, 57
+	offset: 0, 0
+	index: -1
+wpXIVsz_j6_yxt
+	rotate: false
+	xy: 665, 803
+	size: 52, 43
+	orig: 52, 43
+	offset: 0, 0
+	index: -1
+wpXIVsz_b_t
+	rotate: true
+	xy: 901, 276
+	size: 64, 83
+	orig: 64, 83
+	offset: 0, 0
+	index: -1
+wpXIVsz_d_t
+	rotate: true
+	xy: 784, 148
+	size: 80, 90
+	orig: 80, 90
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_zdt
+	rotate: true
+	xy: 623, 434
+	size: 42, 79
+	orig: 42, 79
+	offset: 0, 0
+	index: -1
+wpXIVsz_f7_zdt
+	rotate: true
+	xy: 454, 294
+	size: 47, 88
+	orig: 47, 88
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_zdb
+	rotate: false
+	xy: 865, 475
+	size: 35, 63
+	orig: 35, 63
+	offset: 0, 0
+	index: -1
+wpXIVsz_g1_ys02
+	rotate: false
+	xy: 885, 935
+	size: 28, 26
+	orig: 28, 26
+	offset: 0, 0
+	index: -1
+wpXIVsz_e3_tf01
+	rotate: false
+	xy: 2, 460
+	size: 86, 66
+	orig: 86, 66
+	offset: 0, 0
+	index: -1
+wpXIVsz_i6_zs
+	rotate: true
+	xy: 822, 853
+	size: 52, 30
+	orig: 52, 30
+	offset: 0, 0
+	index: -1
+wpXIVsz_d_yj
+	rotate: false
+	xy: 816, 962
+	size: 34, 52
+	orig: 34, 52
+	offset: 0, 0
+	index: -1
+wpXIVsz_b_st02
+	rotate: true
+	xy: 89, 482
+	size: 38, 86
+	orig: 38, 86
+	offset: 0, 0
+	index: -1
+wpXIVsz_b_ys02
+	rotate: false
+	xy: 689, 779
+	size: 35, 21
+	orig: 35, 21
+	offset: 0, 0
+	index: -1
+wpXIVsz_f3_st
+	rotate: true
+	xy: 2, 290
+	size: 94, 98
+	orig: 94, 98
+	offset: 0, 0
+	index: -1
+wpXIVsz_c_zdt
+	rotate: false
+	xy: 388, 593
+	size: 64, 71
+	orig: 64, 71
+	offset: 0, 0
+	index: -1
+wpXIVsz_h9_t
+	rotate: true
+	xy: 176, 518
+	size: 70, 85
+	orig: 70, 85
+	offset: 0, 0
+	index: -1
+wpXIVsz_g1_qz
+	rotate: true
+	xy: 398, 412
+	size: 73, 55
+	orig: 73, 55
+	offset: 0, 0
+	index: -1
+wpXIVsz_i6_yj
+	rotate: false
+	xy: 485, 947
+	size: 48, 56
+	orig: 48, 56
+	offset: 0, 0
+	index: -1
+wpXIVsz_g2_st
+	rotate: true
+	xy: 339, 103
+	size: 96, 103
+	orig: 96, 103
+	offset: 0, 0
+	index: -1
+wpXIVsz_i6_ys
+	rotate: true
+	xy: 594, 904
+	size: 42, 37
+	orig: 42, 37
+	offset: 0, 0
+	index: -1
+wpXIVsz_f5_zxb
+	rotate: true
+	xy: 373, 947
+	size: 58, 27
+	orig: 58, 27
+	offset: 0, 0
+	index: -1
+wpXIVsz_f4_yj
+	rotate: false
+	xy: 853, 833
+	size: 46, 48
+	orig: 46, 48
+	offset: 0, 0
+	index: -1
+wpXIVsz_h5_st
+	rotate: true
+	xy: 455, 16
+	size: 100, 103
+	orig: 100, 103
+	offset: 0, 0
+	index: -1
+wpXIVsz_b_yj
+	rotate: false
+	xy: 500, 798
+	size: 56, 48
+	orig: 56, 48
+	offset: 0, 0
+	index: -1
+wpXIVsz_f2_ydb
+	rotate: false
+	xy: 114, 947
+	size: 43, 62
+	orig: 43, 62
+	offset: 0, 0
+	index: -1
+wpXIVsz_i8_yj
+	rotate: true
+	xy: 964, 991
+	size: 31, 49
+	orig: 31, 49
+	offset: 0, 0
+	index: -1
+wpXIVsz_j6_zdt
+	rotate: false
+	xy: 256, 852
+	size: 46, 61
+	orig: 46, 61
+	offset: 0, 0
+	index: -1
+wpXIVsz_f2_ydt
+	rotate: true
+	xy: 531, 575
+	size: 71, 74
+	orig: 71, 74
+	offset: 0, 0
+	index: -1
+wpXIVsz_h2_zxt
+	rotate: true
+	xy: 388, 562
+	size: 30, 65
+	orig: 30, 65
+	offset: 0, 0
+	index: -1
+wpXIVsz_f3_ydb
+	rotate: false
+	xy: 984, 382
+	size: 38, 66
+	orig: 38, 66
+	offset: 0, 0
+	index: -1
+wpXIVsz_h6_t
+	rotate: true
+	xy: 174, 589
+	size: 69, 84
+	orig: 69, 84
+	offset: 0, 0
+	index: -1
+wpXIVsz_e1_ydb
+	rotate: true
+	xy: 901, 803
+	size: 26, 54
+	orig: 26, 54
+	offset: 0, 0
+	index: -1
+wpXIVsz_e1_ydt
+	rotate: false
+	xy: 532, 531
+	size: 77, 43
+	orig: 77, 43
+	offset: 0, 0
+	index: -1
+wpXIVsz_h5_t
+	rotate: false
+	xy: 454, 342
+	size: 87, 80
+	orig: 87, 80
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_yxb
+	rotate: true
+	xy: 400, 285
+	size: 54, 24
+	orig: 54, 24
+	offset: 0, 0
+	index: -1
+wpXIVsz_j6_qz
+	rotate: false
+	xy: 901, 647
+	size: 75, 50
+	orig: 75, 50
+	offset: 0, 0
+	index: -1
+wpXIVsz_f2_zxt
+	rotate: false
+	xy: 589, 748
+	size: 49, 54
+	orig: 49, 54
+	offset: 0, 0
+	index: -1
+wpXIVsz_h4_yj
+	rotate: true
+	xy: 499, 904
+	size: 42, 53
+	orig: 42, 53
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_yxt
+	rotate: true
+	xy: 594, 705
+	size: 42, 66
+	orig: 42, 66
+	offset: 0, 0
+	index: -1
+wpXIVsz_g3_zs
+	rotate: false
+	xy: 239, 914
+	size: 53, 32
+	orig: 53, 32
+	offset: 0, 0
+	index: -1
+wpXIVsz_f2_zxb
+	rotate: true
+	xy: 875, 148
+	size: 59, 25
+	orig: 59, 25
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_zxb
+	rotate: true
+	xy: 769, 895
+	size: 40, 52
+	orig: 40, 52
+	offset: 0, 0
+	index: -1
+wpXIVsz_g2_zxt
+	rotate: true
+	xy: 66, 879
+	size: 34, 63
+	orig: 34, 63
+	offset: 0, 0
+	index: -1
+wpXIVsz_e3_qz
+	rotate: true
+	xy: 454, 520
+	size: 50, 77
+	orig: 50, 77
+	offset: 0, 0
+	index: -1
+wpXIVsz_d_zdb
+	rotate: false
+	xy: 542, 847
+	size: 38, 56
+	orig: 38, 56
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_zxt
+	rotate: true
+	xy: 65, 914
+	size: 32, 57
+	orig: 32, 57
+	offset: 0, 0
+	index: -1
+wpXIVsz_e1_yj
+	rotate: true
+	xy: 613, 847
+	size: 54, 38
+	orig: 54, 38
+	offset: 0, 0
+	index: -1
+wpXIVsz_g1_yxt
+	rotate: true
+	xy: 671, 690
+	size: 39, 68
+	orig: 39, 68
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_ycb23
+	rotate: true
+	xy: 395, 486
+	size: 75, 58
+	orig: 75, 58
+	offset: 0, 0
+	index: -1
+wpXIVsz_e3_zj
+	rotate: true
+	xy: 652, 947
+	size: 54, 35
+	orig: 54, 35
+	offset: 0, 0
+	index: -1
+wpXIVsz_i8_ydt
+	rotate: false
+	xy: 972, 714
+	size: 50, 68
+	orig: 50, 68
+	offset: 0, 0
+	index: -1
+wpXIVsz_j9_t
+	rotate: true
+	xy: 87, 603
+	size: 65, 84
+	orig: 65, 84
+	offset: 0, 0
+	index: -1
+wpXIVsz_h12_st
+	rotate: true
+	xy: 231, 88
+	size: 98, 107
+	orig: 98, 107
+	offset: 0, 0
+	index: -1
+wpXIVsz_i8_st
+	rotate: true
+	xy: 559, 96
+	size: 93, 99
+	orig: 93, 99
+	offset: 0, 0
+	index: -1
+wpXIVsz_d_zxb
+	rotate: false
+	xy: 375, 847
+	size: 30, 58
+	orig: 30, 58
+	offset: 0, 0
+	index: -1
+wpXIVsz_e1_t02
+	rotate: false
+	xy: 225, 805
+	size: 64, 46
+	orig: 64, 46
+	offset: 0, 0
+	index: -1
+wpXIVsz_c_st
+	rotate: true
+	xy: 2, 16
+	size: 89, 114
+	orig: 89, 114
+	offset: 0, 0
+	index: -1
+wpXIVsz_k_zs
+	rotate: false
+	xy: 406, 847
+	size: 50, 57
+	orig: 50, 57
+	offset: 0, 0
+	index: -1
+wpXIVsz_c_zxt
+	rotate: true
+	xy: 160, 773
+	size: 49, 64
+	orig: 49, 64
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_bzb04
+	rotate: true
+	xy: 204, 852
+	size: 61, 51
+	orig: 61, 51
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_bzb01
+	rotate: true
+	xy: 822, 674
+	size: 71, 30
+	orig: 71, 30
+	offset: 0, 0
+	index: -1
+wpXIVsz_j8_qz
+	rotate: false
+	xy: 2, 887
+	size: 62, 59
+	orig: 62, 59
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_bzb02
+	rotate: false
+	xy: 450, 947
+	size: 34, 57
+	orig: 34, 57
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_qz
+	rotate: false
+	xy: 535, 478
+	size: 77, 52
+	orig: 77, 52
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_st01
+	rotate: true
+	xy: 109, 215
+	size: 93, 102
+	orig: 93, 102
+	offset: 0, 0
+	index: -1
+wpXIVsz_h9_st
+	rotate: true
+	xy: 115, 121
+	size: 93, 107
+	orig: 93, 107
+	offset: 0, 0
+	index: -1
+wpXIVsz_c_zj
+	rotate: true
+	xy: 769, 795
+	size: 49, 52
+	orig: 49, 52
+	offset: 0, 0
+	index: -1
+wpXIVsz_b_yxt
+	rotate: false
+	xy: 158, 947
+	size: 36, 62
+	orig: 36, 62
+	offset: 0, 0
+	index: -1
+wpXIVsz_i3_qz
+	rotate: true
+	xy: 252, 660
+	size: 54, 55
+	orig: 54, 55
+	offset: 0, 0
+	index: -1
+wpXIVsz_b_tf01
+	rotate: true
+	xy: 2, 667
+	size: 74, 83
+	orig: 74, 83
+	offset: 0, 0
+	index: -1
+wpXIVsz_h6_tf02
+	rotate: false
+	xy: 425, 203
+	size: 29, 62
+	orig: 29, 62
+	offset: 0, 0
+	index: -1
+wpXIVsz_b_tf03
+	rotate: true
+	xy: 528, 647
+	size: 50, 71
+	orig: 50, 71
+	offset: 0, 0
+	index: -1
+wpXIVsz_b_tf02
+	rotate: true
+	xy: 757, 620
+	size: 31, 71
+	orig: 31, 71
+	offset: 0, 0
+	index: -1
+wpXIVsz_b_yxb
+	rotate: true
+	xy: 285, 377
+	size: 49, 23
+	orig: 49, 23
+	offset: 0, 0
+	index: -1
+wpXIVsz_i5_zj
+	rotate: false
+	xy: 777, 962
+	size: 38, 52
+	orig: 38, 52
+	offset: 0, 0
+	index: -1
+wpXIVsz_h5_ys02
+	rotate: false
+	xy: 769, 936
+	size: 39, 25
+	orig: 39, 25
+	offset: 0, 0
+	index: -1
+wpXIVsz_h3_yj
+	rotate: false
+	xy: 865, 410
+	size: 35, 64
+	orig: 35, 64
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_ydt
+	rotate: true
+	xy: 454, 423
+	size: 48, 80
+	orig: 48, 80
+	offset: 0, 0
+	index: -1
+wpXIVsz_h9_ydt
+	rotate: true
+	xy: 703, 460
+	size: 40, 78
+	orig: 40, 78
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_ydb
+	rotate: true
+	xy: 308, 650
+	size: 31, 76
+	orig: 31, 76
+	offset: 0, 0
+	index: -1
+wpXIVsz_e3_tf02
+	rotate: false
+	xy: 678, 659
+	size: 71, 30
+	orig: 71, 30
+	offset: 0, 0
+	index: -1
+wpXIVsz_i2_zdb
+	rotate: true
+	xy: 452, 757
+	size: 40, 66
+	orig: 40, 66
+	offset: 0, 0
+	index: -1
+wpXIVsz_f4_st
+	rotate: false
+	xy: 223, 187
+	size: 102, 93
+	orig: 102, 93
+	offset: 0, 0
+	index: -1
+wpXIVsz_i6_yxt
+	rotate: true
+	xy: 442, 798
+	size: 48, 57
+	orig: 48, 57
+	offset: 0, 0
+	index: -1
+wpXIVsz_f2_t02
+	rotate: false
+	xy: 853, 610
+	size: 47, 70
+	orig: 47, 70
+	offset: 0, 0
+	index: -1
+wpXIVsz_j1_zdb
+	rotate: true
+	xy: 259, 597
+	size: 62, 48
+	orig: 62, 48
+	offset: 0, 0
+	index: -1
+wpXIVsz_h6_zs
+	rotate: false
+	xy: 851, 962
+	size: 43, 50
+	orig: 43, 50
+	offset: 0, 0
+	index: -1
+wpXIVsz_h1_yj
+	rotate: true
+	xy: 343, 907
+	size: 39, 52
+	orig: 39, 52
+	offset: 0, 0
+	index: -1
+wpXIVsz_h8_qz
+	rotate: false
+	xy: 977, 449
+	size: 45, 62
+	orig: 45, 62
+	offset: 0, 0
+	index: -1
+wpXIVsz_f5_zj
+	rotate: true
+	xy: 293, 914
+	size: 32, 49
+	orig: 32, 49
+	offset: 0, 0
+	index: -1
+wpXIVsz_b_qz
+	rotate: false
+	xy: 2, 794
+	size: 72, 57
+	orig: 72, 57
+	offset: 0, 0
+	index: -1
+wpXIVsz_h6_st
+	rotate: true
+	xy: 2, 106
+	size: 93, 112
+	orig: 93, 112
+	offset: 0, 0
+	index: -1
+wpXIVsz_f5_zdt
+	rotate: true
+	xy: 308, 682
+	size: 59, 74
+	orig: 59, 74
+	offset: 0, 0
+	index: -1
+wpXIVsz_e2_ydt
+	rotate: true
+	xy: 547, 249
+	size: 43, 90
+	orig: 43, 90
+	offset: 0, 0
+	index: -1
+wpXIVsz_d_bzb01
+	rotate: true
+	xy: 661, 2
+	size: 96, 122
+	orig: 96, 122
+	offset: 0, 0
+	index: -1
+wpXIVsz_b_zxt
+	rotate: true
+	xy: 985, 269
+	size: 57, 37
+	orig: 57, 37
+	offset: 0, 0
+	index: -1
+wpXIVsz_i2_ys02
+	rotate: false
+	xy: 425, 316
+	size: 28, 19
+	orig: 28, 19
+	offset: 0, 0
+	index: -1
+wpXIVsz_f7_ydt
+	rotate: true
+	xy: 782, 490
+	size: 67, 75
+	orig: 67, 75
+	offset: 0, 0
+	index: -1
+wpXIVsz_b_zxb
+	rotate: true
+	xy: 338, 847
+	size: 59, 36
+	orig: 59, 36
+	offset: 0, 0
+	index: -1
+wpXIVsz_f2_st
+	rotate: true
+	xy: 326, 200
+	size: 84, 98
+	orig: 84, 98
+	offset: 0, 0
+	index: -1
+wpXIVsz_f2_yxt
+	rotate: true
+	xy: 75, 802
+	size: 33, 64
+	orig: 33, 64
+	offset: 0, 0
+	index: -1
+wpXIVsz_i4_ydt
+	rotate: false
+	xy: 86, 730
+	size: 73, 71
+	orig: 73, 71
+	offset: 0, 0
+	index: -1
+wpXIVsz_f5_zdb
+	rotate: false
+	xy: 639, 748
+	size: 49, 54
+	orig: 49, 54
+	offset: 0, 0
+	index: -1
+wpXIVsz_f5_yxb
+	rotate: true
+	xy: 875, 208
+	size: 57, 25
+	orig: 57, 25
+	offset: 0, 0
+	index: -1
+wpXIVsz_g4_t
+	rotate: true
+	xy: 623, 477
+	size: 63, 77
+	orig: 63, 77
+	offset: 0, 0
+	index: -1
+wpXIVsz_b_ydt
+	rotate: true
+	xy: 901, 449
+	size: 67, 75
+	orig: 67, 75
+	offset: 0, 0
+	index: -1
+wpXIVsz_e2_st
+	rotate: false
+	xy: 231, 16
+	size: 112, 71
+	orig: 112, 71
+	offset: 0, 0
+	index: -1
+wpXIVsz_c_tf02
+	rotate: true
+	xy: 678, 627
+	size: 31, 71
+	orig: 31, 71
+	offset: 0, 0
+	index: -1
+wpXIVsz_c_tf03
+	rotate: false
+	xy: 400, 340
+	size: 53, 71
+	orig: 53, 71
+	offset: 0, 0
+	index: -1
+wpXIVsz_c_tf01
+	rotate: true
+	xy: 197, 377
+	size: 75, 87
+	orig: 75, 87
+	offset: 0, 0
+	index: -1
+wpXIVsz_f1_yxb
+	rotate: false
+	xy: 853, 740
+	size: 47, 48
+	orig: 47, 48
+	offset: 0, 0
+	index: -1
+wpXIVsz_i7_yj
+	rotate: false
+	xy: 964, 942
+	size: 49, 48
+	orig: 49, 48
+	offset: 0, 0
+	index: -1
+wpXIVsz_e2_yj
+	rotate: false
+	xy: 769, 742
+	size: 52, 52
+	orig: 52, 52
+	offset: 0, 0
+	index: -1
+wpXIVsz_f5_ydt
+	rotate: true
+	xy: 777, 558
+	size: 61, 75
+	orig: 61, 75
+	offset: 0, 0
+	index: -1
+wpXIVsz_h9_zxt
+	rotate: false
+	xy: 972, 783
+	size: 50, 63
+	orig: 50, 63
+	offset: 0, 0
+	index: -1
+wpXIVsz_i4_qz
+	rotate: false
+	xy: 542, 362
+	size: 80, 57
+	orig: 80, 57
+	offset: 0, 0
+	index: -1
+wpXIVsz_i7_zdt
+	rotate: false
+	xy: 701, 501
+	size: 75, 61
+	orig: 75, 61
+	offset: 0, 0
+	index: -1
+wpXIVsz_f2_zj
+	rotate: true
+	xy: 914, 922
+	size: 39, 49
+	orig: 39, 49
+	offset: 0, 0
+	index: -1
+wpXIVsz_j9_tf03
+	rotate: true
+	xy: 750, 684
+	size: 57, 70
+	orig: 57, 70
+	offset: 0, 0
+	index: -1
+wpXIVsz_j9_tf02
+	rotate: true
+	xy: 452, 683
+	size: 33, 71
+	orig: 33, 71
+	offset: 0, 0
+	index: -1
+wpXIVsz_j9_tf01
+	rotate: true
+	xy: 98, 403
+	size: 78, 86
+	orig: 78, 86
+	offset: 0, 0
+	index: -1
+wpXIVsz_g4_tf01
+	rotate: true
+	xy: 637, 361
+	size: 72, 80
+	orig: 72, 80
+	offset: 0, 0
+	index: -1
+wpXIVsz_g4_tf03
+	rotate: true
+	xy: 166, 722
+	size: 50, 74
+	orig: 50, 74
+	offset: 0, 0
+	index: -1
+wpXIVsz_g4_tf02
+	rotate: false
+	xy: 868, 266
+	size: 32, 71
+	orig: 32, 71
+	offset: 0, 0
+	index: -1
+wpXIVsz_h6_tf01
+	rotate: true
+	xy: 547, 293
+	size: 68, 89
+	orig: 68, 89
+	offset: 0, 0
+	index: -1
+wpXIVsz_g2_zs
+	rotate: true
+	xy: 871, 882
+	size: 52, 33
+	orig: 52, 33
+	offset: 0, 0
+	index: -1
+wpXIVsz_f7_yxt
+	rotate: true
+	xy: 901, 735
+	size: 34, 70
+	orig: 34, 70
+	offset: 0, 0
+	index: -1
+wpXIVsz_h3_qz
+	rotate: true
+	xy: 2, 947
+	size: 62, 57
+	orig: 62, 57
+	offset: 0, 0
+	index: -1
+wpXIVsz_f4_tf01
+	rotate: true
+	xy: 172, 659
+	size: 62, 79
+	orig: 62, 79
+	offset: 0, 0
+	index: -1
+wpXIVsz_f4_tf02
+	rotate: true
+	xy: 750, 652
+	size: 31, 71
+	orig: 31, 71
+	offset: 0, 0
+	index: -1
+wpXIVsz_f4_tf03
+	rotate: true
+	xy: 308, 600
+	size: 49, 76
+	orig: 49, 76
+	offset: 0, 0
+	index: -1
+wpXIVsz_i2_ys
+	rotate: true
+	xy: 553, 904
+	size: 42, 40
+	orig: 42, 40
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_ycb
+	rotate: false
+	xy: 784, 88
+	size: 116, 59
+	orig: 116, 59
+	offset: 0, 0
+	index: -1
+wpXIVsz_e3_yxt
+	rotate: false
+	xy: 2, 852
+	size: 63, 34
+	orig: 63, 34
+	offset: 0, 0
+	index: -1
+wpXIVsz_g2_zj
+	rotate: false
+	xy: 933, 962
+	size: 30, 49
+	orig: 30, 49
+	offset: 0, 0
+	index: -1
+wpXIVsz_e2_ys02
+	rotate: false
+	xy: 988, 897
+	size: 34, 44
+	orig: 34, 44
+	offset: 0, 0
+	index: -1
+wpXIVsz_h5_zs
+	rotate: true
+	xy: 571, 947
+	size: 54, 44
+	orig: 54, 44
+	offset: 0, 0
+	index: -1
+wpXIVsz_f1_zs
+	rotate: true
+	xy: 895, 962
+	size: 50, 37
+	orig: 50, 37
+	offset: 0, 0
+	index: -1
+wpXIVsz_h13_zs
+	rotate: false
+	xy: 425, 266
+	size: 28, 49
+	orig: 28, 49
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_ys02
+	rotate: false
+	xy: 809, 936
+	size: 35, 25
+	orig: 35, 25
+	offset: 0, 0
+	index: -1
+wpXIVsz_g2_yxt
+	rotate: true
+	xy: 130, 883
+	size: 30, 61
+	orig: 30, 61
+	offset: 0, 0
+	index: -1
+wpXIVsz_h13_zj
+	rotate: false
+	xy: 977, 626
+	size: 45, 52
+	orig: 45, 52
+	offset: 0, 0
+	index: -1
+wpXIVsz_j13_qz
+	rotate: false
+	xy: 542, 420
+	size: 80, 57
+	orig: 80, 57
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_tf01
+	rotate: true
+	xy: 308, 537
+	size: 62, 79
+	orig: 62, 79
+	offset: 0, 0
+	index: -1
+wpXIVsz_d_t02
+	rotate: true
+	xy: 308, 742
+	size: 51, 68
+	orig: 51, 68
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_tf03
+	rotate: true
+	xy: 454, 571
+	size: 49, 76
+	orig: 49, 76
+	offset: 0, 0
+	index: -1
+wpXIVsz_f7_ys
+	rotate: true
+	xy: 905, 871
+	size: 50, 33
+	orig: 50, 33
+	offset: 0, 0
+	index: -1
+wpXIVsz_h8_st
+	rotate: true
+	xy: 903, 62
+	size: 77, 116
+	orig: 77, 116
+	offset: 0, 0
+	index: -1
+wpXIVsz_e3_zs02
+	rotate: false
+	xy: 977, 679
+	size: 45, 34
+	orig: 45, 34
+	offset: 0, 0
+	index: -1
+wpXIVsz_j11_zxt
+	rotate: true
+	xy: 252, 715
+	size: 39, 55
+	orig: 39, 55
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_bz02+
+	rotate: true
+	xy: 659, 175
+	size: 65, 93
+	orig: 67, 93
+	offset: 0, 0
+	index: -1
+wpXIVsz_e1_zs
+	rotate: true
+	xy: 652, 847
+	size: 54, 35
+	orig: 54, 35
+	offset: 0, 0
+	index: -1
+wpXIVsz_i3_zs
+	rotate: true
+	xy: 737, 909
+	size: 52, 31
+	orig: 52, 31
+	offset: 0, 0
+	index: -1
+wpXIVsz_g5_t
+	rotate: true
+	xy: 455, 213
+	size: 80, 91
+	orig: 80, 91
+	offset: 0, 0
+	index: -1
+wpXIVsz_f2_yj
+	rotate: false
+	xy: 611, 803
+	size: 53, 43
+	orig: 53, 43
+	offset: 0, 0
+	index: -1
+wpXIVsz_j9_yj
+	rotate: false
+	xy: 688, 947
+	size: 48, 50
+	orig: 48, 50
+	offset: 0, 0
+	index: -1
+wpXIVsz_c_yxb
+	rotate: true
+	xy: 396, 906
+	size: 40, 54
+	orig: 40, 54
+	offset: 0, 0
+	index: -1
+wpXIVsz_c_yxt
+	rotate: true
+	xy: 901, 698
+	size: 36, 70
+	orig: 36, 70
+	offset: 0, 0
+	index: -1
+wpXIVsz_e1_st
+	rotate: true
+	xy: 344, 16
+	size: 86, 110
+	orig: 86, 110
+	offset: 0, 0
+	index: -1
+wpXIVsz_j13_zj
+	rotate: true
+	xy: 685, 902
+	size: 44, 51
+	orig: 44, 51
+	offset: 0, 0
+	index: -1
+wpXIVsz_g2_qz
+	rotate: false
+	xy: 86, 669
+	size: 79, 60
+	orig: 79, 60
+	offset: 0, 0
+	index: -1
+wpXIVsz_j6_yj
+	rotate: false
+	xy: 853, 789
+	size: 47, 43
+	orig: 47, 43
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_tf02
+	rotate: true
+	xy: 600, 673
+	size: 31, 70
+	orig: 31, 70
+	offset: 0, 0
+	index: -1
+wpXIVsz_j12_zxt
+	rotate: false
+	xy: 342, 947
+	size: 30, 59
+	orig: 30, 59
+	offset: 0, 0
+	index: -1
+wpXIVsz_h8_zj
+	rotate: true
+	xy: 303, 847
+	size: 60, 34
+	orig: 60, 34
+	offset: 0, 0
+	index: -1
+wpXIVsz_i9_t
+	rotate: true
+	xy: 308, 456
+	size: 80, 86
+	orig: 80, 86
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_zcb
+	rotate: false
+	xy: 901, 140
+	size: 115, 65
+	orig: 115, 65
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_bzb03
+	rotate: true
+	xy: 443, 103
+	size: 71, 11
+	orig: 71, 11
+	offset: 0, 0
+	index: -1
+wpXIVsz_g1_ydt
+	rotate: true
+	xy: 784, 428
+	size: 61, 80
+	orig: 61, 80
+	offset: 0, 0
+	index: -1
+wpXIVsz_c_zs
+	rotate: true
+	xy: 688, 847
+	size: 54, 30
+	orig: 54, 30
+	offset: 0, 0
+	index: -1
+wpXIVsz_h10_ydt
+	rotate: false
+	xy: 685, 563
+	size: 71, 63
+	orig: 71, 63
+	offset: 0, 0
+	index: -1
+wpXIVsz_h8_ydt
+	rotate: true
+	xy: 637, 312
+	size: 48, 81
+	orig: 48, 81
+	offset: 0, 0
+	index: -1
+wpXIVsz_i4_yxb
+	rotate: true
+	xy: 822, 906
+	size: 28, 48
+	orig: 28, 48
+	offset: 0, 0
+	index: -1
+wpXIVsz_h10_zdt
+	rotate: false
+	xy: 858, 539
+	size: 42, 70
+	orig: 42, 70
+	offset: 0, 0
+	index: -1
+wpXIVsz_i3_zdt
+	rotate: false
+	xy: 901, 585
+	size: 75, 61
+	orig: 75, 61
+	offset: 0, 0
+	index: -1
+wpXIVsz_h11_ydt
+	rotate: false
+	xy: 784, 365
+	size: 80, 62
+	orig: 80, 62
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_zj
+	rotate: true
+	xy: 853, 681
+	size: 58, 47
+	orig: 58, 47
+	offset: 0, 0
+	index: -1
+wpXIVsz_h7_ys
+	rotate: false
+	xy: 737, 962
+	size: 39, 52
+	orig: 39, 52
+	offset: 0, 0
+	index: -1
+wpXIVsz_i4_zs
+	rotate: true
+	xy: 822, 800
+	size: 52, 30
+	orig: 52, 30
+	offset: 0, 0
+	index: -1
+wpXIVsz_b_ydb
+	rotate: false
+	xy: 383, 722
+	size: 68, 52
+	orig: 68, 52
+	offset: 0, 0
+	index: -1
+wpXIVsz_h10_yxt
+	rotate: false
+	xy: 977, 512
+	size: 45, 58
+	orig: 45, 58
+	offset: 0, 0
+	index: -1
+wpXIVsz_h8_zxt
+	rotate: true
+	xy: 742, 251
+	size: 68, 41
+	orig: 68, 41
+	offset: 0, 0
+	index: -1
+wpXIVsz_j10_t
+	rotate: true
+	xy: 659, 99
+	size: 75, 94
+	orig: 75, 94
+	offset: 0, 0
+	index: -1
+wpXIVsz_i4_ys02
+	rotate: false
+	xy: 754, 145
+	size: 29, 33
+	orig: 29, 33
+	offset: 0, 0
+	index: -1
+wpXIVsz_i1_t
+	rotate: false
+	xy: 719, 320
+	size: 64, 78
+	orig: 64, 78
+	offset: 0, 0
+	index: -1
+wpXIVsz_g1_zj
+	rotate: true
+	xy: 632, 902
+	size: 44, 52
+	orig: 44, 52
+	offset: 0, 0
+	index: -1
+wpXIVsz_e3_st
+	rotate: false
+	xy: 2, 200
+	size: 106, 89
+	orig: 106, 89
+	offset: 0, 0
+	index: -1
+
+asset/spine/weipuxiv_role_shizhuang1.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wpXIVsz_a_bz03
+	rotate: true
+	xy: 2, 295
+	size: 28, 33
+	orig: 28, 33
+	offset: 0, 0
+	index: -1
+wpXIVsz_f4_zs
+	rotate: false
+	xy: 46, 79
+	size: 43, 34
+	orig: 43, 34
+	offset: 0, 0
+	index: -1
+wpXIVsz_i9_zs
+	rotate: false
+	xy: 89, 148
+	size: 41, 34
+	orig: 41, 34
+	offset: 0, 0
+	index: -1
+wpXIVsz_e1_zxb
+	rotate: true
+	xy: 149, 2
+	size: 39, 48
+	orig: 39, 48
+	offset: 0, 0
+	index: -1
+wpXIVsz_d_zs01
+	rotate: false
+	xy: 140, 81
+	size: 43, 30
+	orig: 43, 30
+	offset: 0, 0
+	index: -1
+wpXIVsz_e1_ys
+	rotate: true
+	xy: 165, 211
+	size: 34, 35
+	orig: 34, 35
+	offset: 0, 0
+	index: -1
+wpXIVsz_i2_zs
+	rotate: false
+	xy: 51, 2
+	size: 48, 43
+	orig: 48, 43
+	offset: 0, 0
+	index: -1
+wpXIVsz_g5_ys
+	rotate: true
+	xy: 133, 112
+	size: 39, 41
+	orig: 39, 41
+	offset: 0, 0
+	index: -1
+wpXIVsz_d_ys01
+	rotate: false
+	xy: 38, 277
+	size: 33, 30
+	orig: 33, 30
+	offset: 0, 0
+	index: -1
+wpXIVsz_h7_zs
+	rotate: false
+	xy: 2, 225
+	size: 39, 34
+	orig: 39, 34
+	offset: 0, 0
+	index: -1
+wpXIVsz_f3_zs
+	rotate: false
+	xy: 45, 149
+	size: 41, 32
+	orig: 41, 32
+	offset: 0, 0
+	index: -1
+wpXIVsz_h11_zs
+	rotate: false
+	xy: 44, 182
+	size: 41, 30
+	orig: 41, 30
+	offset: 0, 0
+	index: -1
+wpXIVsz_f5_ys02
+	rotate: true
+	xy: 227, 107
+	size: 39, 27
+	orig: 39, 27
+	offset: 0, 0
+	index: -1
+wpXIVsz_c_ys
+	rotate: false
+	xy: 2, 187
+	size: 40, 37
+	orig: 40, 37
+	offset: 0, 0
+	index: -1
+wpXIVsz_b_ys
+	rotate: false
+	xy: 2, 122
+	size: 42, 31
+	orig: 42, 31
+	offset: 0, 0
+	index: -1
+wpXIVsz_h9_zj
+	rotate: true
+	xy: 46, 114
+	size: 34, 42
+	orig: 34, 42
+	offset: 0, 0
+	index: -1
+wpXIVsz_h11_ys02
+	rotate: false
+	xy: 42, 248
+	size: 37, 28
+	orig: 37, 28
+	offset: 0, 0
+	index: -1
+wpXIVsz_g3_ys02
+	rotate: false
+	xy: 126, 187
+	size: 38, 37
+	orig: 38, 37
+	offset: 0, 0
+	index: -1
+wpXIVsz_f5_ys
+	rotate: false
+	xy: 2, 89
+	size: 43, 32
+	orig: 43, 32
+	offset: 0, 0
+	index: -1
+wpXIVsz_i6_ys02
+	rotate: false
+	xy: 172, 180
+	size: 40, 30
+	orig: 40, 30
+	offset: 0, 0
+	index: -1
+wpXIVsz_h11_ys
+	rotate: false
+	xy: 175, 143
+	size: 40, 36
+	orig: 40, 36
+	offset: 0, 0
+	index: -1
+wpXIVsz_h5_ys
+	rotate: false
+	xy: 213, 185
+	size: 39, 35
+	orig: 39, 35
+	offset: 0, 0
+	index: -1
+wpXIVsz_j4_ys
+	rotate: false
+	xy: 90, 112
+	size: 42, 35
+	orig: 42, 35
+	offset: 0, 0
+	index: -1
+wpXIVsz_f5_zs
+	rotate: false
+	xy: 100, 2
+	size: 48, 39
+	orig: 48, 39
+	offset: 0, 0
+	index: -1
+wpXIVsz_g3_ys
+	rotate: false
+	xy: 216, 147
+	size: 38, 37
+	orig: 38, 37
+	offset: 0, 0
+	index: -1
+wpXIVsz_g2_yj
+	rotate: true
+	xy: 2, 2
+	size: 44, 48
+	orig: 44, 48
+	offset: 0, 0
+	index: -1
+wpXIVsz_e2_ys
+	rotate: true
+	xy: 100, 42
+	size: 34, 44
+	orig: 34, 44
+	offset: 0, 0
+	index: -1
+wpXIVsz_d_ys2
+	rotate: true
+	xy: 122, 225
+	size: 33, 34
+	orig: 33, 34
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_yj
+	rotate: true
+	xy: 198, 39
+	size: 34, 44
+	orig: 34, 44
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_ys01+
+	rotate: false
+	xy: 96, 77
+	size: 43, 34
+	orig: 43, 34
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_ys01
+	rotate: false
+	xy: 157, 246
+	size: 30, 27
+	orig: 30, 27
+	offset: 0, 0
+	index: -1
+wpXIVsz_h10_zs
+	rotate: false
+	xy: 51, 46
+	size: 44, 32
+	orig: 44, 32
+	offset: 0, 0
+	index: -1
+wpXIVsz_h7_ys02
+	rotate: false
+	xy: 80, 253
+	size: 33, 32
+	orig: 33, 32
+	offset: 0, 0
+	index: -1
+wpXIVsz_e1_ys02
+	rotate: false
+	xy: 201, 221
+	size: 33, 27
+	orig: 33, 27
+	offset: 0, 0
+	index: -1
+wpXIVsz_f2_ys
+	rotate: true
+	xy: 83, 218
+	size: 34, 38
+	orig: 34, 38
+	offset: 0, 0
+	index: -1
+wpXIVsz_i4_ys
+	rotate: true
+	xy: 131, 152
+	size: 34, 40
+	orig: 34, 40
+	offset: 0, 0
+	index: -1
+wpXIVsz_h13_ys
+	rotate: false
+	xy: 2, 154
+	size: 41, 32
+	orig: 41, 32
+	offset: 0, 0
+	index: -1
+wpXIVsz_f1_ys
+	rotate: false
+	xy: 86, 183
+	size: 39, 34
+	orig: 39, 34
+	offset: 0, 0
+	index: -1
+wpXIVsz_h8_zs
+	rotate: false
+	xy: 2, 47
+	size: 43, 41
+	orig: 43, 41
+	offset: 0, 0
+	index: -1
+wpXIVsz_a_zs
+	rotate: true
+	xy: 189, 74
+	size: 32, 43
+	orig: 32, 43
+	offset: 0, 0
+	index: -1
+wpXIVsz_f1_ys02
+	rotate: false
+	xy: 2, 260
+	size: 35, 34
+	orig: 35, 34
+	offset: 0, 0
+	index: -1
+wpXIVsz_f3_ys
+	rotate: false
+	xy: 184, 107
+	size: 42, 35
+	orig: 42, 35
+	offset: 0, 0
+	index: -1
+wpXIVsz_g5_ys02
+	rotate: false
+	xy: 43, 213
+	size: 39, 34
+	orig: 39, 34
+	offset: 0, 0
+	index: -1
+
+asset/spine/weipuxiv_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wpXIV_h13_ys
+	rotate: true
+	xy: 756, 949
+	size: 41, 32
+	orig: 41, 32
+	offset: 0, 0
+	index: -1
+wpXIV_c_st
+	rotate: true
+	xy: 2, 185
+	size: 89, 91
+	orig: 89, 91
+	offset: 0, 0
+	index: -1
+wpXIV_h9_zxt
+	rotate: true
+	xy: 901, 725
+	size: 54, 67
+	orig: 54, 67
+	offset: 0, 0
+	index: -1
+wpXIV_f5_zj
+	rotate: true
+	xy: 435, 792
+	size: 30, 50
+	orig: 30, 50
+	offset: 0, 0
+	index: -1
+wpXIV_f5_zs
+	rotate: true
+	xy: 641, 958
+	size: 48, 39
+	orig: 48, 39
+	offset: 0, 0
+	index: -1
+wpXIV_g1_zdt
+	rotate: true
+	xy: 942, 371
+	size: 44, 78
+	orig: 46, 78
+	offset: 0, 0
+	index: -1
+wpXIV_a_ys01
+	rotate: false
+	xy: 332, 734
+	size: 30, 27
+	orig: 30, 27
+	offset: 0, 0
+	index: -1
+wpXIV_a_ys02
+	rotate: true
+	xy: 530, 686
+	size: 35, 25
+	orig: 35, 25
+	offset: 0, 0
+	index: -1
+wpXIV_f5_zdt
+	rotate: true
+	xy: 838, 520
+	size: 60, 73
+	orig: 60, 73
+	offset: 0, 0
+	index: -1
+wpXIV_f1_zxb
+	rotate: true
+	xy: 352, 919
+	size: 57, 34
+	orig: 57, 34
+	offset: 0, 0
+	index: -1
+wpXIV_f5_zdb
+	rotate: false
+	xy: 128, 704
+	size: 54, 57
+	orig: 54, 57
+	offset: 0, 0
+	index: -1
+wpXIV_j6_zdt
+	rotate: false
+	xy: 249, 858
+	size: 50, 62
+	orig: 50, 62
+	offset: 0, 0
+	index: -1
+wpXIV_f5_st
+	rotate: false
+	xy: 505, 185
+	size: 89, 83
+	orig: 89, 83
+	offset: 0, 0
+	index: -1
+wpXIV_f1_yxb
+	rotate: false
+	xy: 546, 858
+	size: 51, 51
+	orig: 51, 51
+	offset: 0, 0
+	index: -1
+wpXIV_f3_zs
+	rotate: true
+	xy: 723, 949
+	size: 41, 32
+	orig: 41, 32
+	offset: 0, 0
+	index: -1
+wpXIV_b_qz
+	rotate: false
+	xy: 556, 639
+	size: 69, 64
+	orig: 69, 64
+	offset: 0, 0
+	index: -1
+wpXIV_b_ydt
+	rotate: true
+	xy: 763, 432
+	size: 61, 76
+	orig: 61, 76
+	offset: 0, 0
+	index: -1
+wpXIV_b_ydb
+	rotate: true
+	xy: 220, 921
+	size: 62, 52
+	orig: 62, 52
+	offset: 0, 0
+	index: -1
+wpXIV_j7_qz
+	rotate: false
+	xy: 569, 521
+	size: 75, 64
+	orig: 75, 64
+	offset: 0, 0
+	index: -1
+wpXIV_f2_t
+	rotate: true
+	xy: 186, 272
+	size: 83, 90
+	orig: 83, 90
+	offset: 0, 0
+	index: -1
+wpXIV_h4_yj
+	rotate: false
+	xy: 436, 915
+	size: 40, 56
+	orig: 40, 56
+	offset: 0, 0
+	index: -1
+wpXIV_i2_ys
+	rotate: false
+	xy: 366, 372
+	size: 42, 40
+	orig: 42, 40
+	offset: 0, 0
+	index: -1
+wpXIV_i3_zdt
+	rotate: false
+	xy: 645, 553
+	size: 75, 53
+	orig: 75, 53
+	offset: 0, 0
+	index: -1
+wpXIV_d_zxb
+	rotate: false
+	xy: 116, 644
+	size: 34, 59
+	orig: 34, 59
+	offset: 0, 0
+	index: -1
+wpXIV_h11_ys
+	rotate: true
+	xy: 789, 941
+	size: 39, 36
+	orig: 39, 36
+	offset: 0, 0
+	index: -1
+wpXIV_f3_st
+	rotate: true
+	xy: 509, 12
+	size: 87, 98
+	orig: 87, 98
+	offset: 0, 0
+	index: -1
+wpXIV_j10_t
+	rotate: true
+	xy: 105, 101
+	size: 75, 94
+	orig: 75, 94
+	offset: 0, 0
+	index: -1
+wpXIV_e2_zxb
+	rotate: false
+	xy: 300, 858
+	size: 39, 62
+	orig: 39, 62
+	offset: 0, 0
+	index: -1
+wpXIV_j12_zxt
+	rotate: false
+	xy: 400, 734
+	size: 37, 57
+	orig: 37, 57
+	offset: 0, 0
+	index: -1
+wpXIV_f4_tf01
+	rotate: true
+	xy: 499, 269
+	size: 68, 89
+	orig: 68, 89
+	offset: 0, 0
+	index: -1
+wpXIV_j13_qz
+	rotate: false
+	xy: 648, 158
+	size: 90, 61
+	orig: 90, 61
+	offset: 0, 0
+	index: -1
+wpXIV_i3_zs
+	rotate: false
+	xy: 2, 592
+	size: 52, 31
+	orig: 52, 31
+	offset: 0, 0
+	index: -1
+wpXIV_j9_qz
+	rotate: true
+	xy: 589, 285
+	size: 83, 58
+	orig: 83, 58
+	offset: 0, 0
+	index: -1
+wpXIV_f4_tf02
+	rotate: true
+	xy: 907, 693
+	size: 31, 71
+	orig: 31, 71
+	offset: 0, 0
+	index: -1
+wpXIV_a_bz02+
+	rotate: true
+	xy: 648, 94
+	size: 63, 90
+	orig: 63, 90
+	offset: 0, 0
+	index: -1
+wpXIV_f7_zdt
+	rotate: true
+	xy: 863, 357
+	size: 46, 78
+	orig: 46, 78
+	offset: 0, 0
+	index: -1
+wpXIV_h2_zxt
+	rotate: false
+	xy: 986, 604
+	size: 36, 64
+	orig: 36, 64
+	offset: 0, 0
+	index: -1
+wpXIV_g2_qz
+	rotate: false
+	xy: 648, 436
+	size: 80, 56
+	orig: 80, 56
+	offset: 0, 0
+	index: -1
+wpXIV_g2_zxt
+	rotate: true
+	xy: 912, 571
+	size: 37, 73
+	orig: 37, 73
+	offset: 0, 0
+	index: -1
+wpXIV_i4_ys02
+	rotate: true
+	xy: 94, 704
+	size: 29, 33
+	orig: 29, 33
+	offset: 0, 0
+	index: -1
+wpXIV_h2_zj
+	rotate: true
+	xy: 381, 858
+	size: 56, 52
+	orig: 56, 52
+	offset: 0, 0
+	index: -1
+wpXIV_h5_ys02
+	rotate: true
+	xy: 383, 286
+	size: 39, 25
+	orig: 39, 25
+	offset: 0, 0
+	index: -1
+wpXIV_g2_zj
+	rotate: true
+	xy: 55, 592
+	size: 31, 52
+	orig: 31, 52
+	offset: 0, 0
+	index: -1
+wpXIV_b_zdt
+	rotate: true
+	xy: 626, 672
+	size: 61, 69
+	orig: 61, 69
+	offset: 0, 0
+	index: -1
+wpXIV_h10_yxt
+	rotate: true
+	xy: 910, 609
+	size: 51, 71
+	orig: 51, 71
+	offset: 0, 0
+	index: -1
+wpXIV_b_zdb
+	rotate: false
+	xy: 59, 792
+	size: 44, 65
+	orig: 44, 65
+	offset: 0, 0
+	index: -1
+wpXIV_g2_zs
+	rotate: false
+	xy: 165, 824
+	size: 52, 33
+	orig: 52, 33
+	offset: 0, 0
+	index: -1
+wpXIV_g1_qz
+	rotate: false
+	xy: 494, 458
+	size: 79, 58
+	orig: 79, 58
+	offset: 0, 0
+	index: -1
+wpXIV_h9_t
+	rotate: true
+	xy: 199, 189
+	size: 82, 91
+	orig: 82, 91
+	offset: 0, 0
+	index: -1
+wpXIV_b_zs
+	rotate: false
+	xy: 626, 734
+	size: 45, 27
+	orig: 45, 27
+	offset: 0, 0
+	index: -1
+wpXIV_j9_t
+	rotate: true
+	xy: 177, 524
+	size: 65, 84
+	orig: 65, 84
+	offset: 0, 0
+	index: -1
+wpXIV_i2_ys02
+	rotate: true
+	xy: 956, 168
+	size: 28, 19
+	orig: 28, 19
+	offset: 0, 0
+	index: -1
+wpXIV_f2_ydt
+	rotate: false
+	xy: 341, 561
+	size: 67, 62
+	orig: 67, 62
+	offset: 0, 0
+	index: -1
+wpXIV_e1_zxb
+	rotate: false
+	xy: 417, 972
+	size: 44, 50
+	orig: 44, 50
+	offset: 0, 0
+	index: -1
+wpXIV_h12_st
+	rotate: true
+	xy: 873, 2
+	size: 80, 107
+	orig: 80, 107
+	offset: 0, 0
+	index: -1
+wpXIV_g1_yxt
+	rotate: false
+	xy: 715, 614
+	size: 47, 67
+	orig: 47, 67
+	offset: 0, 0
+	index: -1
+wpXIV_c_ys02
+	rotate: true
+	xy: 847, 312
+	size: 30, 21
+	orig: 30, 21
+	offset: 0, 0
+	index: -1
+wpXIV_f7_yxt
+	rotate: false
+	xy: 608, 12
+	size: 39, 71
+	orig: 39, 71
+	offset: 0, 0
+	index: -1
+wpXIV_e1_st
+	rotate: true
+	xy: 94, 265
+	size: 81, 91
+	orig: 81, 91
+	offset: 0, 0
+	index: -1
+wpXIV_h10_zs
+	rotate: false
+	xy: 54, 990
+	size: 44, 32
+	orig: 44, 32
+	offset: 0, 0
+	index: -1
+wpXIV_h14_st
+	rotate: true
+	xy: 409, 12
+	size: 79, 99
+	orig: 79, 99
+	offset: 0, 0
+	index: -1
+wpXIV_h13_zs
+	rotate: true
+	xy: 614, 792
+	size: 28, 49
+	orig: 28, 49
+	offset: 0, 0
+	index: -1
+wpXIV_h13_zj
+	rotate: false
+	xy: 721, 561
+	size: 41, 52
+	orig: 41, 52
+	offset: 0, 0
+	index: -1
+wpXIV_a_ys01+
+	rotate: false
+	xy: 725, 789
+	size: 43, 34
+	orig: 43, 34
+	offset: 0, 0
+	index: -1
+wpXIV_g4_tf01
+	rotate: true
+	xy: 763, 359
+	size: 72, 80
+	orig: 72, 80
+	offset: 0, 0
+	index: -1
+wpXIV_g4_tf02
+	rotate: false
+	xy: 730, 417
+	size: 32, 71
+	orig: 32, 71
+	offset: 0, 0
+	index: -1
+wpXIV_h5_t
+	rotate: false
+	xy: 93, 428
+	size: 87, 80
+	orig: 87, 80
+	offset: 0, 0
+	index: -1
+wpXIV_f4_yj
+	rotate: false
+	xy: 594, 961
+	size: 46, 48
+	orig: 46, 48
+	offset: 0, 0
+	index: -1
+wpXIV_h7_zs
+	rotate: true
+	xy: 789, 981
+	size: 39, 34
+	orig: 39, 34
+	offset: 0, 0
+	index: -1
+wpXIV_e2_ydt
+	rotate: true
+	xy: 869, 307
+	size: 49, 81
+	orig: 49, 81
+	offset: 0, 0
+	index: -1
+wpXIV_g5_ys02
+	rotate: true
+	xy: 801, 858
+	size: 39, 34
+	orig: 39, 34
+	offset: 0, 0
+	index: -1
+wpXIV_c_yxb
+	rotate: true
+	xy: 425, 644
+	size: 43, 57
+	orig: 43, 57
+	offset: 0, 0
+	index: -1
+wpXIV_h7_st
+	rotate: true
+	xy: 508, 100
+	size: 84, 97
+	orig: 84, 97
+	offset: 0, 0
+	index: -1
+wpXIV_c_zdt
+	rotate: true
+	xy: 763, 494
+	size: 68, 74
+	orig: 68, 74
+	offset: 0, 0
+	index: -1
+wpXIV_f3_ys
+	rotate: true
+	xy: 388, 660
+	size: 42, 36
+	orig: 42, 36
+	offset: 0, 0
+	index: -1
+wpXIV_g2_zdt
+	rotate: true
+	xy: 564, 586
+	size: 52, 75
+	orig: 52, 75
+	offset: 0, 0
+	index: -1
+wpXIV_h3_qz
+	rotate: false
+	xy: 763, 563
+	size: 73, 56
+	orig: 73, 58
+	offset: 0, 2
+	index: -1
+wpXIV_f2_yxt
+	rotate: true
+	xy: 142, 987
+	size: 35, 62
+	orig: 35, 62
+	offset: 0, 0
+	index: -1
+wpXIV_f2_yj
+	rotate: true
+	xy: 108, 590
+	size: 53, 48
+	orig: 53, 48
+	offset: 0, 0
+	index: -1
+wpXIV_f5_ys02
+	rotate: false
+	xy: 685, 762
+	size: 39, 27
+	orig: 39, 27
+	offset: 0, 0
+	index: -1
+wpXIV_f2_ys
+	rotate: false
+	xy: 826, 940
+	size: 34, 38
+	orig: 34, 38
+	offset: 0, 0
+	index: -1
+wpXIV_a_zdb
+	rotate: true
+	xy: 104, 824
+	size: 33, 60
+	orig: 33, 60
+	offset: 0, 0
+	index: -1
+wpXIV_a_zdt
+	rotate: true
+	xy: 262, 548
+	size: 46, 78
+	orig: 46, 78
+	offset: 0, 0
+	index: -1
+wpXIV_f1_ys02
+	rotate: true
+	xy: 861, 936
+	size: 35, 34
+	orig: 35, 34
+	offset: 0, 0
+	index: -1
+wpXIV_i8_yxt
+	rotate: true
+	xy: 763, 708
+	size: 53, 68
+	orig: 53, 68
+	offset: 0, 0
+	index: -1
+wpXIV_b_ys02
+	rotate: true
+	xy: 847, 274
+	size: 37, 21
+	orig: 37, 21
+	offset: 0, 0
+	index: -1
+wpXIV_d_yj
+	rotate: true
+	xy: 218, 824
+	size: 33, 51
+	orig: 33, 51
+	offset: 0, 0
+	index: -1
+wpXIV_h11_ydt
+	rotate: false
+	xy: 409, 519
+	size: 78, 61
+	orig: 78, 61
+	offset: 0, 0
+	index: -1
+wpXIV_h5_zs
+	rotate: true
+	xy: 477, 915
+	size: 54, 44
+	orig: 54, 44
+	offset: 0, 0
+	index: -1
+wpXIV_i8_qz
+	rotate: false
+	xy: 277, 354
+	size: 88, 57
+	orig: 88, 57
+	offset: 0, 0
+	index: -1
+wpXIV_e3_yxt
+	rotate: true
+	xy: 93, 924
+	size: 65, 37
+	orig: 65, 37
+	offset: 0, 0
+	index: -1
+wpXIV_j9_yj
+	rotate: true
+	xy: 506, 970
+	size: 52, 43
+	orig: 52, 43
+	offset: 0, 0
+	index: -1
+wpXIV_i8_st
+	rotate: false
+	xy: 185, 356
+	size: 87, 82
+	orig: 87, 82
+	offset: 0, 0
+	index: -1
+wpXIV_e2_qz
+	rotate: true
+	xy: 273, 921
+	size: 62, 43
+	orig: 62, 43
+	offset: 0, 0
+	index: -1
+wpXIV_d_bzb01
+	rotate: true
+	xy: 648, 2
+	size: 91, 115
+	orig: 91, 115
+	offset: 0, 0
+	index: -1
+wpXIV_f5_ys
+	rotate: false
+	xy: 556, 704
+	size: 43, 33
+	orig: 43, 33
+	offset: 0, 0
+	index: -1
+wpXIV_e2_zs
+	rotate: true
+	xy: 432, 823
+	size: 34, 54
+	orig: 34, 54
+	offset: 0, 0
+	index: -1
+wpXIV_a_zj
+	rotate: false
+	xy: 203, 590
+	size: 58, 43
+	orig: 58, 43
+	offset: 0, 0
+	index: -1
+wpXIV_a_zs
+	rotate: true
+	xy: 99, 990
+	size: 32, 42
+	orig: 32, 42
+	offset: 0, 0
+	index: -1
+wpXIV_g1_zxt
+	rotate: true
+	xy: 2, 734
+	size: 57, 62
+	orig: 57, 62
+	offset: 0, 0
+	index: -1
+wpXIV_g3_ys
+	rotate: false
+	xy: 684, 820
+	size: 38, 37
+	orig: 38, 37
+	offset: 0, 0
+	index: -1
+wpXIV_g1_yj
+	rotate: false
+	xy: 434, 858
+	size: 48, 56
+	orig: 48, 56
+	offset: 0, 0
+	index: -1
+wpXIV_g1_ys
+	rotate: true
+	xy: 383, 246
+	size: 39, 25
+	orig: 39, 25
+	offset: 0, 0
+	index: -1
+wpXIV_g1_ydt
+	rotate: true
+	xy: 409, 581
+	size: 62, 75
+	orig: 62, 75
+	offset: 0, 0
+	index: -1
+wpXIV_j6_zxt
+	rotate: false
+	xy: 981, 73
+	size: 41, 66
+	orig: 41, 66
+	offset: 0, 0
+	index: -1
+wpXIV_j4_ys
+	rotate: true
+	xy: 725, 858
+	size: 42, 35
+	orig: 42, 35
+	offset: 0, 0
+	index: -1
+wpXIV_f4_t
+	rotate: true
+	xy: 268, 479
+	size: 68, 84
+	orig: 68, 84
+	offset: 0, 0
+	index: -1
+wpXIV_e3_st
+	rotate: false
+	xy: 872, 83
+	size: 104, 84
+	orig: 104, 84
+	offset: 0, 0
+	index: -1
+wpXIV_h8_st
+	rotate: true
+	xy: 764, 2
+	size: 78, 108
+	orig: 78, 108
+	offset: 0, 0
+	index: -1
+wpXIV_c_ydt
+	rotate: false
+	xy: 595, 209
+	size: 52, 75
+	orig: 52, 75
+	offset: 0, 0
+	index: -1
+wpXIV_h8_zs
+	rotate: true
+	xy: 720, 905
+	size: 43, 41
+	orig: 43, 41
+	offset: 0, 0
+	index: -1
+wpXIV_j13_zxt
+	rotate: true
+	xy: 835, 638
+	size: 43, 71
+	orig: 43, 71
+	offset: 0, 0
+	index: -1
+wpXIV_h11_zs
+	rotate: false
+	xy: 530, 792
+	size: 42, 30
+	orig: 42, 30
+	offset: 0, 0
+	index: -1
+wpXIV_h8_zj
+	rotate: false
+	xy: 350, 624
+	size: 58, 35
+	orig: 58, 35
+	offset: 0, 0
+	index: -1
+wpXIV_a_yxt
+	rotate: false
+	xy: 361, 413
+	size: 47, 67
+	orig: 47, 67
+	offset: 0, 0
+	index: -1
+wpXIV_h4_zs
+	rotate: false
+	xy: 539, 823
+	size: 49, 34
+	orig: 49, 34
+	offset: 0, 0
+	index: -1
+wpXIV_c_tf01
+	rotate: true
+	xy: 2, 437
+	size: 75, 87
+	orig: 75, 87
+	offset: 0, 0
+	index: -1
+wpXIV_i7_zdt
+	rotate: true
+	xy: 353, 481
+	size: 79, 55
+	orig: 79, 55
+	offset: 0, 0
+	index: -1
+wpXIV_g5_ys
+	rotate: false
+	xy: 761, 858
+	size: 39, 41
+	orig: 39, 41
+	offset: 0, 0
+	index: -1
+wpXIV_h5_ys
+	rotate: true
+	xy: 797, 900
+	size: 39, 35
+	orig: 39, 35
+	offset: 0, 0
+	index: -1
+wpXIV_f3_ydb
+	rotate: false
+	xy: 981, 2
+	size: 41, 70
+	orig: 41, 70
+	offset: 0, 0
+	index: -1
+wpXIV_c_qz
+	rotate: false
+	xy: 871, 168
+	size: 84, 63
+	orig: 84, 63
+	offset: 0, 0
+	index: -1
+wpXIV_c_t
+	rotate: true
+	xy: 763, 239
+	size: 65, 83
+	orig: 65, 83
+	offset: 0, 0
+	index: -1
+wpXIV_i6_yxt
+	rotate: false
+	xy: 2, 925
+	size: 51, 65
+	orig: 51, 65
+	offset: 0, 0
+	index: -1
+wpXIV_c_ydb
+	rotate: false
+	xy: 126, 762
+	size: 48, 61
+	orig: 48, 61
+	offset: 0, 0
+	index: -1
+wpXIV_f4_st
+	rotate: true
+	xy: 209, 99
+	size: 89, 95
+	orig: 89, 95
+	offset: 0, 0
+	index: -1
+wpXIV_a_t
+	rotate: true
+	xy: 499, 338
+	size: 69, 84
+	orig: 69, 84
+	offset: 0, 0
+	index: -1
+wpXIV_e1_ys02
+	rotate: false
+	xy: 763, 762
+	size: 33, 26
+	orig: 33, 26
+	offset: 0, 0
+	index: -1
+wpXIV_h10_ydt
+	rotate: false
+	xy: 65, 734
+	size: 60, 57
+	orig: 60, 57
+	offset: 0, 0
+	index: -1
+wpXIV_b_yxt
+	rotate: true
+	xy: 205, 986
+	size: 36, 62
+	orig: 36, 62
+	offset: 0, 0
+	index: -1
+wpXIV_h7_ys02
+	rotate: true
+	xy: 798, 824
+	size: 33, 32
+	orig: 33, 32
+	offset: 0, 0
+	index: -1
+wpXIV_i4_zs
+	rotate: false
+	xy: 312, 703
+	size: 52, 30
+	orig: 52, 30
+	offset: 0, 0
+	index: -1
+wpXIV_b_yxb
+	rotate: false
+	xy: 832, 714
+	size: 68, 31
+	orig: 68, 31
+	offset: 0, 0
+	index: -1
+wpXIV_f4_zs
+	rotate: true
+	xy: 797, 762
+	size: 43, 34
+	orig: 43, 34
+	offset: 0, 0
+	index: -1
+wpXIV_a_qz
+	rotate: false
+	xy: 277, 296
+	size: 88, 57
+	orig: 88, 57
+	offset: 0, 0
+	index: -1
+wpXIV_g2_yj
+	rotate: false
+	xy: 366, 326
+	size: 42, 45
+	orig: 42, 45
+	offset: 0, 0
+	index: -1
+wpXIV_f2_st
+	rotate: true
+	xy: 409, 92
+	size: 84, 98
+	orig: 84, 98
+	offset: 0, 0
+	index: -1
+wpXIV_f5_yxb
+	rotate: false
+	xy: 371, 823
+	size: 60, 34
+	orig: 60, 34
+	offset: 0, 0
+	index: -1
+wpXIV_j7_zdb
+	rotate: false
+	xy: 192, 858
+	size: 56, 62
+	orig: 56, 62
+	offset: 0, 0
+	index: -1
+wpXIV_i2_zs
+	rotate: true
+	xy: 602, 909
+	size: 48, 43
+	orig: 48, 43
+	offset: 0, 0
+	index: -1
+wpXIV_i3_qz
+	rotate: true
+	xy: 2, 792
+	size: 65, 56
+	orig: 65, 56
+	offset: 0, 0
+	index: -1
+wpXIV_j9_tf02
+	rotate: false
+	xy: 729, 489
+	size: 33, 71
+	orig: 33, 71
+	offset: 0, 0
+	index: -1
+wpXIV_j9_tf01
+	rotate: true
+	xy: 2, 513
+	size: 78, 86
+	orig: 78, 86
+	offset: 0, 0
+	index: -1
+wpXIV_f2_ydb
+	rotate: false
+	xy: 131, 923
+	size: 48, 63
+	orig: 48, 63
+	offset: 0, 0
+	index: -1
+wpXIV_g2_yxt
+	rotate: true
+	xy: 763, 673
+	size: 34, 71
+	orig: 34, 71
+	offset: 0, 0
+	index: -1
+wpXIV_f2_zj
+	rotate: false
+	xy: 598, 858
+	size: 37, 50
+	orig: 37, 50
+	offset: 0, 0
+	index: -1
+wpXIV_i4_yxb
+	rotate: true
+	xy: 321, 824
+	size: 33, 49
+	orig: 33, 49
+	offset: 0, 0
+	index: -1
+wpXIV_a_bz04
+	rotate: true
+	xy: 916, 478
+	size: 28, 74
+	orig: 28, 74
+	offset: 0, 0
+	index: -1
+wpXIV_e1_ys
+	rotate: false
+	xy: 868, 895
+	size: 34, 34
+	orig: 34, 34
+	offset: 0, 0
+	index: -1
+wpXIV_c_yxt
+	rotate: false
+	xy: 2, 858
+	size: 39, 66
+	orig: 39, 66
+	offset: 0, 0
+	index: -1
+wpXIV_d_st
+	rotate: true
+	xy: 106, 12
+	size: 88, 102
+	orig: 88, 102
+	offset: 0, 0
+	index: -1
+wpXIV_e1_yj
+	rotate: true
+	xy: 606, 155
+	size: 53, 41
+	orig: 53, 41
+	offset: 0, 0
+	index: -1
+wpXIV_h3_yj
+	rotate: false
+	xy: 317, 921
+	size: 34, 62
+	orig: 34, 62
+	offset: 0, 0
+	index: -1
+wpXIV_j11_zxt
+	rotate: false
+	xy: 438, 734
+	size: 41, 48
+	orig: 41, 48
+	offset: 0, 0
+	index: -1
+wpXIV_a_st01
+	rotate: true
+	xy: 2, 12
+	size: 84, 103
+	orig: 84, 103
+	offset: 0, 0
+	index: -1
+wpXIV_a_yxb
+	rotate: true
+	xy: 365, 703
+	size: 58, 34
+	orig: 58, 34
+	offset: 0, 0
+	index: -1
+wpXIV_i9_zs
+	rotate: false
+	xy: 832, 792
+	size: 41, 34
+	orig: 41, 34
+	offset: 0, 0
+	index: -1
+wpXIV_g2_st
+	rotate: false
+	xy: 181, 439
+	size: 86, 84
+	orig: 86, 84
+	offset: 0, 0
+	index: -1
+wpXIV_j13_zj
+	rotate: true
+	xy: 268, 984
+	size: 38, 52
+	orig: 38, 52
+	offset: 0, 0
+	index: -1
+wpXIV_h8_ydt
+	rotate: true
+	xy: 763, 305
+	size: 53, 83
+	orig: 53, 83
+	offset: 0, 0
+	index: -1
+wpXIV_c_zj
+	rotate: false
+	xy: 387, 915
+	size: 48, 56
+	orig: 48, 56
+	offset: 0, 0
+	index: -1
+wpXIV_g4_t
+	rotate: true
+	xy: 863, 404
+	size: 63, 77
+	orig: 63, 77
+	offset: 0, 0
+	index: -1
+wpXIV_c_zs
+	rotate: true
+	xy: 733, 290
+	size: 54, 29
+	orig: 54, 29
+	offset: 0, 0
+	index: -1
+wpXIV_h7_ys
+	rotate: false
+	xy: 522, 913
+	size: 39, 52
+	orig: 39, 52
+	offset: 0, 0
+	index: -1
+wpXIV_j8_qz
+	rotate: false
+	xy: 488, 575
+	size: 75, 63
+	orig: 75, 63
+	offset: 0, 0
+	index: -1
+wpXIV_e3_zs02
+	rotate: false
+	xy: 589, 823
+	size: 45, 34
+	orig: 45, 34
+	offset: 0, 0
+	index: -1
+wpXIV_e2_ys
+	rotate: false
+	xy: 684, 905
+	size: 35, 44
+	orig: 35, 44
+	offset: 0, 0
+	index: -1
+wpXIV_e2_yj
+	rotate: false
+	xy: 183, 704
+	size: 52, 57
+	orig: 52, 57
+	offset: 0, 0
+	index: -1
+wpXIV_j6_qz
+	rotate: false
+	xy: 409, 460
+	size: 79, 58
+	orig: 79, 58
+	offset: 0, 0
+	index: -1
+wpXIV_e1_yxt
+	rotate: false
+	xy: 2, 624
+	size: 62, 61
+	orig: 62, 61
+	offset: 0, 0
+	index: -1
+wpXIV_g3_zs
+	rotate: true
+	xy: 990, 550
+	size: 53, 32
+	orig: 53, 32
+	offset: 0, 0
+	index: -1
+wpXIV_f5_qz
+	rotate: false
+	xy: 291, 241
+	size: 91, 54
+	orig: 91, 54
+	offset: 0, 0
+	index: -1
+wpXIV_h1_yj
+	rotate: false
+	xy: 562, 910
+	size: 39, 50
+	orig: 39, 50
+	offset: 0, 0
+	index: -1
+wpXIV_f1_zs
+	rotate: true
+	xy: 725, 738
+	size: 50, 37
+	orig: 50, 37
+	offset: 0, 0
+	index: -1
+wpXIV_b_st
+	rotate: true
+	xy: 209, 12
+	size: 86, 99
+	orig: 86, 99
+	offset: 0, 0
+	index: -1
+wpXIV_e1_zq
+	rotate: false
+	xy: 941, 416
+	size: 75, 61
+	orig: 75, 61
+	offset: 0, 0
+	index: -1
+wpXIV_f5_zxb
+	rotate: true
+	xy: 151, 644
+	size: 59, 34
+	orig: 59, 34
+	offset: 0, 0
+	index: -1
+wpXIV_c_zxt
+	rotate: false
+	xy: 969, 737
+	size: 53, 65
+	orig: 53, 65
+	offset: 0, 0
+	index: -1
+wpXIV_a_zxt
+	rotate: false
+	xy: 54, 924
+	size: 38, 65
+	orig: 38, 65
+	offset: 0, 0
+	index: -1
+wpXIV_b_tf02
+	rotate: true
+	xy: 907, 661
+	size: 31, 71
+	orig: 31, 71
+	offset: 0, 0
+	index: -1
+wpXIV_f1_ys
+	rotate: false
+	xy: 826, 940
+	size: 34, 38
+	orig: 34, 38
+	offset: 0, 0
+	index: -1
+wpXIV_b_tf01
+	rotate: true
+	xy: 871, 232
+	size: 74, 83
+	orig: 74, 83
+	offset: 0, 0
+	index: -1
+wpXIV_j1_zdb
+	rotate: true
+	xy: 42, 858
+	size: 65, 51
+	orig: 65, 51
+	offset: 0, 0
+	index: -1
+wpXIV_d_zdb
+	rotate: false
+	xy: 301, 648
+	size: 48, 54
+	orig: 48, 54
+	offset: 0, 0
+	index: -1
+wpXIV_a_bz
+	rotate: false
+	xy: 2, 2
+	size: 645, 9
+	orig: 645, 9
+	offset: 0, 0
+	index: -1
+wpXIV_i9_t
+	rotate: true
+	xy: 90, 509
+	size: 80, 86
+	orig: 80, 86
+	offset: 0, 0
+	index: -1
+wpXIV_g5_t
+	rotate: true
+	xy: 2, 275
+	size: 80, 91
+	orig: 80, 91
+	offset: 0, 0
+	index: -1
+wpXIV_f5_ydt
+	rotate: true
+	xy: 640, 607
+	size: 64, 74
+	orig: 64, 74
+	offset: 0, 0
+	index: -1
+wpXIV_a_zxb
+	rotate: false
+	xy: 236, 704
+	size: 48, 57
+	orig: 48, 57
+	offset: 0, 0
+	index: -1
+wpXIV_i8_yj
+	rotate: true
+	xy: 2, 991
+	size: 31, 51
+	orig: 31, 51
+	offset: 0, 0
+	index: -1
+wpXIV_i1_qz
+	rotate: true
+	xy: 584, 369
+	size: 79, 63
+	orig: 79, 63
+	offset: 0, 0
+	index: -1
+wpXIV_h6_tf01
+	rotate: true
+	xy: 409, 321
+	size: 68, 89
+	orig: 68, 89
+	offset: 0, 0
+	index: -1
+wpXIV_i6_zs
+	rotate: false
+	xy: 382, 792
+	size: 52, 30
+	orig: 52, 30
+	offset: 0, 0
+	index: -1
+wpXIV_i4_ydt
+	rotate: false
+	xy: 575, 449
+	size: 72, 71
+	orig: 72, 71
+	offset: 0, 0
+	index: -1
+wpXIV_h6_tf02
+	rotate: false
+	xy: 733, 227
+	size: 29, 62
+	orig: 29, 62
+	offset: 0, 0
+	index: -1
+wpXIV_h6_st
+	rotate: true
+	xy: 105, 177
+	size: 87, 93
+	orig: 87, 93
+	offset: 0, 0
+	index: -1
+wpXIV_h2_qz
+	rotate: false
+	xy: 648, 493
+	size: 76, 59
+	orig: 76, 59
+	offset: 0, 0
+	index: -1
+wpXIV_h8_zdt
+	rotate: false
+	xy: 763, 620
+	size: 71, 52
+	orig: 71, 52
+	offset: 0, 0
+	index: -1
+wpXIV_i4_ys
+	rotate: false
+	xy: 762, 900
+	size: 34, 40
+	orig: 34, 40
+	offset: 0, 0
+	index: -1
+wpXIV_e3_tf02
+	rotate: true
+	xy: 732, 345
+	size: 71, 30
+	orig: 71, 30
+	offset: 0, 0
+	index: -1
+wpXIV_e3_tf01
+	rotate: false
+	xy: 273, 412
+	size: 87, 66
+	orig: 87, 66
+	offset: 0, 0
+	index: -1
+wpXIV_f7_ys
+	rotate: false
+	xy: 270, 824
+	size: 50, 33
+	orig: 50, 33
+	offset: 0, 0
+	index: -1
+wpXIV_d_t
+	rotate: true
+	xy: 94, 347
+	size: 80, 90
+	orig: 80, 90
+	offset: 0, 0
+	index: -1
+wpXIV_h6_zs
+	rotate: false
+	xy: 550, 966
+	size: 43, 50
+	orig: 43, 50
+	offset: 0, 0
+	index: -1
+wpXIV_h10_zdt
+	rotate: false
+	xy: 147, 858
+	size: 44, 63
+	orig: 44, 63
+	offset: 0, 0
+	index: -1
+wpXIV_e3_t
+	rotate: false
+	xy: 648, 367
+	size: 81, 68
+	orig: 81, 68
+	offset: 0, 0
+	index: -1
+wpXIV_g4_yj
+	rotate: false
+	xy: 681, 956
+	size: 41, 45
+	orig: 41, 45
+	offset: 0, 0
+	index: -1
+wpXIV_i8_ydt
+	rotate: true
+	xy: 837, 581
+	size: 56, 72
+	orig: 56, 72
+	offset: 0, 0
+	index: -1
+wpXIV_a_yj
+	rotate: false
+	xy: 2, 686
+	size: 37, 47
+	orig: 37, 47
+	offset: 0, 0
+	index: -1
+wpXIV_e1_t
+	rotate: true
+	xy: 648, 220
+	size: 81, 84
+	orig: 81, 84
+	offset: 0, 0
+	index: -1
+wpXIV_g1_zj
+	rotate: false
+	xy: 157, 590
+	size: 45, 53
+	orig: 45, 53
+	offset: 0, 0
+	index: -1
+wpXIV_a_bz01
+	rotate: true
+	xy: 849, 161
+	size: 69, 21
+	orig: 69, 21
+	offset: 0, 0
+	index: -1
+wpXIV_a_bz03
+	rotate: true
+	xy: 285, 704
+	size: 29, 26
+	orig: 29, 26
+	offset: 0, 0
+	index: -1
+wpXIV_a_bz02
+	rotate: false
+	xy: 956, 218
+	size: 66, 80
+	orig: 66, 80
+	offset: 0, 0
+	index: -1
+wpXIV_a_bzb01
+	rotate: true
+	xy: 739, 94
+	size: 71, 23
+	orig: 71, 23
+	offset: 0, 0
+	index: -1
+wpXIV_h5_st
+	rotate: true
+	xy: 2, 97
+	size: 87, 102
+	orig: 87, 102
+	offset: 0, 0
+	index: -1
+wpXIV_e1_ydt
+	rotate: true
+	xy: 979, 669
+	size: 67, 43
+	orig: 67, 43
+	offset: 0, 0
+	index: -1
+wpXIV_e1_zs
+	rotate: true
+	xy: 483, 858
+	size: 54, 35
+	orig: 54, 35
+	offset: 0, 0
+	index: -1
+wpXIV_e1_ydb
+	rotate: false
+	xy: 231, 648
+	size: 34, 55
+	orig: 34, 55
+	offset: 0, 0
+	index: -1
+wpXIV_g5_zs
+	rotate: true
+	xy: 519, 858
+	size: 54, 26
+	orig: 54, 26
+	offset: 0, 0
+	index: -1
+wpXIV_i6_ys
+	rotate: true
+	xy: 350, 660
+	size: 42, 37
+	orig: 42, 37
+	offset: 0, 0
+	index: -1
+wpXIV_f2_zxb
+	rotate: true
+	xy: 215, 762
+	size: 61, 34
+	orig: 61, 34
+	offset: 0, 0
+	index: -1
+wpXIV_a_bzb04
+	rotate: true
+	xy: 529, 738
+	size: 52, 45
+	orig: 52, 45
+	offset: 0, 0
+	index: -1
+wpXIV_f2_zxt
+	rotate: true
+	xy: 285, 595
+	size: 52, 55
+	orig: 52, 55
+	offset: 0, 0
+	index: -1
+wpXIV_i6_yj
+	rotate: false
+	xy: 332, 762
+	size: 49, 60
+	orig: 49, 60
+	offset: 0, 0
+	index: -1
+wpXIV_a_bzb02
+	rotate: true
+	xy: 40, 704
+	size: 29, 53
+	orig: 29, 53
+	offset: 0, 0
+	index: -1
+wpXIV_a_bzb03
+	rotate: true
+	xy: 847, 343
+	size: 68, 15
+	orig: 68, 15
+	offset: 0, 0
+	index: -1
+wpXIV_h14_zs
+	rotate: false
+	xy: 462, 972
+	size: 43, 50
+	orig: 43, 50
+	offset: 0, 0
+	index: -1
+wpXIV_g4_zxt
+	rotate: true
+	xy: 485, 639
+	size: 46, 70
+	orig: 46, 70
+	offset: 0, 0
+	index: -1
+wpXIV_c_ys
+	rotate: false
+	xy: 321, 984
+	size: 40, 38
+	orig: 40, 38
+	offset: 0, 0
+	index: -1
+wpXIV_b_ys
+	rotate: false
+	xy: 250, 792
+	size: 42, 31
+	orig: 42, 31
+	offset: 0, 0
+	index: -1
+wpXIV_e2_yxt
+	rotate: true
+	xy: 900, 780
+	size: 43, 66
+	orig: 43, 66
+	offset: 0, 0
+	index: -1
+wpXIV_e3_zj
+	rotate: true
+	xy: 266, 648
+	size: 55, 34
+	orig: 55, 34
+	offset: 0, 0
+	index: -1
+wpXIV_b_yj
+	rotate: true
+	xy: 480, 738
+	size: 52, 48
+	orig: 52, 48
+	offset: 0, 0
+	index: -1
+wpXIV_j6_yj
+	rotate: true
+	xy: 680, 858
+	size: 46, 44
+	orig: 46, 44
+	offset: 0, 0
+	index: -1
+wpXIV_h8_qz
+	rotate: false
+	xy: 285, 734
+	size: 46, 57
+	orig: 46, 57
+	offset: 0, 0
+	index: -1
+wpXIV_e3_qz
+	rotate: true
+	xy: 489, 517
+	size: 57, 79
+	orig: 57, 79
+	offset: 0, 0
+	index: -1
+wpXIV_h8_zxt
+	rotate: true
+	xy: 340, 858
+	size: 60, 40
+	orig: 60, 40
+	offset: 0, 0
+	index: -1
+wpXIV_b_zxb
+	rotate: true
+	xy: 175, 762
+	size: 61, 39
+	orig: 61, 39
+	offset: 0, 0
+	index: -1
+wpXIV_b_zxt
+	rotate: true
+	xy: 180, 922
+	size: 63, 39
+	orig: 63, 39
+	offset: 0, 0
+	index: -1
+wpXIV_a_tf02
+	rotate: false
+	xy: 991, 478
+	size: 31, 71
+	orig: 31, 71
+	offset: 0, 0
+	index: -1
+wpXIV_i2_zdb
+	rotate: true
+	xy: 832, 746
+	size: 45, 67
+	orig: 45, 67
+	offset: 0, 0
+	index: -1
+wpXIV_b_t
+	rotate: true
+	xy: 648, 302
+	size: 64, 83
+	orig: 64, 83
+	offset: 0, 0
+	index: -1
+wpXIV_i6_ys02
+	rotate: false
+	xy: 573, 792
+	size: 40, 30
+	orig: 40, 30
+	offset: 0, 0
+	index: -1
+wpXIV_i10_zs
+	rotate: true
+	xy: 575, 738
+	size: 52, 40
+	orig: 52, 40
+	offset: 0, 0
+	index: -1
+wpXIV_i9_st
+	rotate: true
+	xy: 2, 356
+	size: 80, 90
+	orig: 80, 90
+	offset: 0, 0
+	index: -1
+wpXIV_j6_yxt
+	rotate: true
+	xy: 636, 858
+	size: 48, 43
+	orig: 48, 43
+	offset: 0, 0
+	index: -1
+wpXIV_c_tf02
+	rotate: true
+	xy: 835, 682
+	size: 31, 71
+	orig: 31, 71
+	offset: 0, 0
+	index: -1
+wpXIV_f7_ydt
+	rotate: false
+	xy: 955, 299
+	size: 67, 71
+	orig: 67, 71
+	offset: 0, 0
+	index: -1
+wpXIV_e2_st
+	rotate: false
+	xy: 763, 161
+	size: 85, 77
+	orig: 85, 77
+	offset: 0, 0
+	index: -1
+wpXIV_a_ydb
+	rotate: false
+	xy: 608, 84
+	size: 39, 70
+	orig: 39, 70
+	offset: 0, 0
+	index: -1
+wpXIV_i7_yj
+	rotate: false
+	xy: 480, 688
+	size: 49, 49
+	orig: 49, 49
+	offset: 0, 0
+	index: -1
+wpXIV_b_zj
+	rotate: false
+	xy: 425, 688
+	size: 54, 45
+	orig: 54, 45
+	offset: 0, 0
+	index: -1
+wpXIV_i4_qz
+	rotate: false
+	xy: 309, 98
+	size: 96, 57
+	orig: 96, 57
+	offset: 0, 0
+	index: -1
+wpXIV_a_tf01
+	rotate: true
+	xy: 409, 252
+	size: 68, 89
+	orig: 68, 89
+	offset: 0, 0
+	index: -1
+wpXIV_h6_t
+	rotate: true
+	xy: 409, 390
+	size: 69, 84
+	orig: 69, 84
+	offset: 0, 0
+	index: -1
+wpXIV_i5_zj
+	rotate: true
+	xy: 487, 823
+	size: 34, 51
+	orig: 34, 51
+	offset: 0, 0
+	index: -1
+wpXIV_a_ydt
+	rotate: true
+	xy: 840, 468
+	size: 51, 75
+	orig: 51, 75
+	offset: 0, 0
+	index: -1
+wpXIV_h9_zj
+	rotate: false
+	xy: 646, 907
+	size: 37, 48
+	orig: 37, 48
+	offset: 0, 0
+	index: -1
+wpXIV_h9_ydt
+	rotate: true
+	xy: 494, 408
+	size: 49, 80
+	orig: 49, 80
+	offset: 0, 0
+	index: -1
+wpXIV_h8_t
+	rotate: true
+	xy: 409, 177
+	size: 74, 95
+	orig: 74, 95
+	offset: 0, 0
+	index: -1
+wpXIV_h9_st
+	rotate: true
+	xy: 764, 81
+	size: 79, 107
+	orig: 79, 107
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_paobu_yan2
+	rotate: false
+	xy: 978, 232
+	size: 43, 51
+	orig: 43, 51
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan3
+	rotate: false
+	xy: 978, 284
+	size: 43, 51
+	orig: 43, 51
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_diying_dy
+	rotate: false
+	xy: 656, 2
+	size: 305, 97
+	orig: 305, 97
+	offset: 0, 0
+	index: -1
+global/ty_dun5
+	rotate: true
+	xy: 237, 961
+	size: 61, 107
+	orig: 61, 107
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_dun1
+	rotate: true
+	xy: 2, 511
+	size: 226, 225
+	orig: 226, 225
+	offset: 0, 0
+	index: -1
+global/ty_dun4
+	rotate: true
+	xy: 169, 271
+	size: 223, 187
+	orig: 223, 187
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_paobu_yan0
+	rotate: false
+	xy: 532, 583
+	size: 49, 50
+	orig: 49, 50
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan1
+	rotate: false
+	xy: 345, 619
+	size: 49, 49
+	orig: 49, 49
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan4
+	rotate: false
+	xy: 532, 531
+	size: 49, 51
+	orig: 49, 51
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_dun2
+	rotate: false
+	xy: 866, 2
+	size: 149, 129
+	orig: 149, 129
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_dun3
+	rotate: true
+	xy: 172, 647
+	size: 203, 185
+	orig: 203, 185
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>huashang_yinghuatxkimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{133,2},{117,51}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{117,51}}</string>
+			<key>sourceSize</key>
+			<string>{117,51}</string>
+		</dict>
+		<key>huaxia_yinghuatxkimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,138},{90,95}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{90,95}}</string>
+			<key>sourceSize</key>
+			<string>{90,95}</string>
+		</dict>
+		<key>kuang_yinghuatxkimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{129,134}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{129,134}}</string>
+			<key>sourceSize</key>
+			<string>{129,134}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>yinghuatxkimage.png</string>
+		<key>size</key>
+		<string>{256,256}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>yinghuatxkimage.png</string>
+	</dict>
+</dict>
+</plist>

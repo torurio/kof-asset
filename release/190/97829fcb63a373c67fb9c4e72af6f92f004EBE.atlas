@@ -1,0 +1,1040 @@
+
+asset/spine/tx_xrjzf_syy_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/shuangyeying_daR_tupian_bkbw_35
+	rotate: false
+	xy: 453, 150
+	size: 148, 147
+	orig: 150, 147
+	offset: 2, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_37
+	rotate: false
+	xy: 2, 298
+	size: 148, 147
+	orig: 150, 147
+	offset: 1, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_36
+	rotate: false
+	xy: 300, 286
+	size: 148, 147
+	orig: 150, 147
+	offset: 2, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_18
+	rotate: true
+	xy: 112, 892
+	size: 121, 103
+	orig: 129, 127
+	offset: 6, 11
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_17
+	rotate: true
+	xy: 320, 891
+	size: 119, 101
+	orig: 129, 127
+	offset: 8, 15
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_10
+	rotate: false
+	xy: 593, 582
+	size: 109, 75
+	orig: 129, 127
+	offset: 15, 36
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_18
+	rotate: true
+	xy: 721, 524
+	size: 35, 26
+	orig: 49, 34
+	offset: 1, 1
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_16
+	rotate: true
+	xy: 721, 446
+	size: 39, 26
+	orig: 49, 34
+	offset: 0, 4
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_17
+	rotate: true
+	xy: 721, 486
+	size: 37, 26
+	orig: 49, 34
+	offset: 1, 3
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_12
+	rotate: false
+	xy: 703, 602
+	size: 39, 22
+	orig: 49, 34
+	offset: 8, 11
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_13
+	rotate: true
+	xy: 721, 560
+	size: 41, 22
+	orig: 49, 34
+	offset: 4, 10
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_7
+	rotate: true
+	xy: 150, 594
+	size: 148, 147
+	orig: 150, 147
+	offset: 1, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_1
+	rotate: false
+	xy: 2, 2
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_9
+	rotate: true
+	xy: 298, 594
+	size: 148, 147
+	orig: 150, 147
+	offset: 1, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_8
+	rotate: true
+	xy: 150, 743
+	size: 148, 147
+	orig: 150, 147
+	offset: 1, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_22
+	rotate: false
+	xy: 752, 2
+	size: 148, 147
+	orig: 150, 147
+	offset: 2, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_20
+	rotate: false
+	xy: 151, 150
+	size: 148, 147
+	orig: 150, 147
+	offset: 2, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_21
+	rotate: false
+	xy: 603, 2
+	size: 148, 147
+	orig: 150, 147
+	offset: 2, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_39
+	rotate: false
+	xy: 446, 582
+	size: 146, 147
+	orig: 150, 147
+	offset: 2, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_38
+	rotate: false
+	xy: 151, 298
+	size: 148, 147
+	orig: 150, 147
+	offset: 1, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_22
+	rotate: false
+	xy: 441, 1001
+	size: 27, 20
+	orig: 49, 34
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_25
+	rotate: true
+	xy: 422, 1001
+	size: 21, 18
+	orig: 49, 34
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_10
+	rotate: false
+	xy: 153, 2
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_17
+	rotate: false
+	xy: 2, 150
+	size: 148, 147
+	orig: 150, 147
+	offset: 2, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_16
+	rotate: false
+	xy: 304, 138
+	size: 148, 147
+	orig: 150, 147
+	offset: 2, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_15
+	rotate: false
+	xy: 454, 2
+	size: 148, 147
+	orig: 150, 147
+	offset: 2, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_19
+	rotate: false
+	xy: 445, 743
+	size: 146, 147
+	orig: 150, 147
+	offset: 4, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_18
+	rotate: false
+	xy: 298, 743
+	size: 146, 147
+	orig: 150, 147
+	offset: 4, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_sz
+	rotate: false
+	xy: 852, 580
+	size: 36, 45
+	orig: 36, 45
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_ylz_5
+	rotate: true
+	xy: 622, 878
+	size: 137, 133
+	orig: 161, 143
+	offset: 8, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_ylz_4
+	rotate: false
+	xy: 756, 446
+	size: 135, 133
+	orig: 161, 143
+	offset: 8, 2
+	index: -1
+effect/common/shuangyeying_daR_tupian_ylz_3
+	rotate: true
+	xy: 587, 446
+	size: 135, 133
+	orig: 161, 143
+	offset: 10, 3
+	index: -1
+effect/common/shuangyeying_daR_tupian_ylz_2
+	rotate: false
+	xy: 449, 446
+	size: 137, 135
+	orig: 161, 143
+	offset: 10, 4
+	index: -1
+effect/common/shuangyeying_daR_tupian_ylz_1
+	rotate: false
+	xy: 304, 2
+	size: 149, 135
+	orig: 161, 143
+	offset: 3, 6
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_8
+	rotate: false
+	xy: 744, 580
+	size: 107, 75
+	orig: 129, 127
+	offset: 17, 43
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_9
+	rotate: false
+	xy: 892, 546
+	size: 107, 75
+	orig: 129, 127
+	offset: 17, 39
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_5
+	rotate: false
+	xy: 699, 658
+	size: 103, 55
+	orig: 129, 127
+	offset: 21, 52
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_6
+	rotate: false
+	xy: 593, 658
+	size: 105, 55
+	orig: 129, 127
+	offset: 19, 49
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_7
+	rotate: false
+	xy: 889, 622
+	size: 105, 75
+	orig: 129, 127
+	offset: 19, 46
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_1
+	rotate: false
+	xy: 524, 891
+	size: 97, 109
+	orig: 129, 127
+	offset: 23, 9
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_2
+	rotate: false
+	xy: 422, 891
+	size: 101, 109
+	orig: 129, 127
+	offset: 23, 7
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_27
+	rotate: true
+	xy: 2, 892
+	size: 123, 109
+	orig: 129, 127
+	offset: 0, 2
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_25
+	rotate: false
+	xy: 896, 436
+	size: 123, 109
+	orig: 129, 127
+	offset: 1, 8
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_24
+	rotate: false
+	xy: 896, 326
+	size: 123, 109
+	orig: 129, 127
+	offset: 1, 11
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_23
+	rotate: false
+	xy: 901, 2
+	size: 121, 109
+	orig: 129, 127
+	offset: 3, 14
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_22
+	rotate: false
+	xy: 901, 112
+	size: 121, 107
+	orig: 129, 127
+	offset: 4, 18
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_21
+	rotate: false
+	xy: 900, 220
+	size: 121, 105
+	orig: 129, 127
+	offset: 4, 22
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_20
+	rotate: true
+	xy: 216, 892
+	size: 119, 103
+	orig: 129, 127
+	offset: 6, 5
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_29
+	rotate: false
+	xy: 829, 698
+	size: 95, 89
+	orig: 129, 127
+	offset: 26, 17
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_28
+	rotate: true
+	xy: 739, 714
+	size: 95, 89
+	orig: 129, 127
+	offset: 26, 20
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_56
+	rotate: true
+	xy: 2, 743
+	size: 148, 147
+	orig: 150, 147
+	offset: 2, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_55
+	rotate: true
+	xy: 2, 594
+	size: 148, 147
+	orig: 150, 147
+	offset: 2, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_54
+	rotate: false
+	xy: 747, 298
+	size: 148, 147
+	orig: 150, 147
+	offset: 2, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_53
+	rotate: false
+	xy: 598, 298
+	size: 148, 147
+	orig: 150, 147
+	offset: 2, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_52
+	rotate: false
+	xy: 151, 446
+	size: 148, 147
+	orig: 150, 147
+	offset: 2, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_40
+	rotate: false
+	xy: 602, 150
+	size: 148, 147
+	orig: 150, 147
+	offset: 1, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_41
+	rotate: false
+	xy: 751, 150
+	size: 148, 147
+	orig: 150, 147
+	offset: 1, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_42
+	rotate: false
+	xy: 592, 730
+	size: 146, 147
+	orig: 150, 147
+	offset: 3, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_43
+	rotate: false
+	xy: 449, 298
+	size: 148, 147
+	orig: 150, 147
+	offset: 1, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_44
+	rotate: false
+	xy: 300, 434
+	size: 148, 147
+	orig: 150, 147
+	offset: 1, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_45
+	rotate: false
+	xy: 2, 446
+	size: 148, 147
+	orig: 150, 147
+	offset: 1, 0
+	index: -1
+
+asset/spine/tx_xrjzf_syy_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/shuangyeying_daR_tupian_bkbw_34
+	rotate: false
+	xy: 153, 566
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_31
+	rotate: false
+	xy: 153, 418
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_30
+	rotate: false
+	xy: 2, 418
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_19
+	rotate: true
+	xy: 918, 452
+	size: 121, 103
+	orig: 129, 127
+	offset: 5, 8
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_16
+	rotate: true
+	xy: 934, 242
+	size: 119, 75
+	orig: 129, 127
+	offset: 9, 17
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_14
+	rotate: true
+	xy: 936, 2
+	size: 119, 75
+	orig: 129, 127
+	offset: 10, 24
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_15
+	rotate: true
+	xy: 936, 122
+	size: 119, 75
+	orig: 129, 127
+	offset: 9, 20
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_12
+	rotate: true
+	xy: 446, 905
+	size: 117, 75
+	orig: 129, 127
+	offset: 12, 30
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_13
+	rotate: true
+	xy: 522, 905
+	size: 117, 75
+	orig: 129, 127
+	offset: 12, 27
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_11
+	rotate: false
+	xy: 908, 678
+	size: 111, 75
+	orig: 129, 127
+	offset: 13, 33
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_19
+	rotate: false
+	xy: 549, 728
+	size: 35, 24
+	orig: 49, 34
+	offset: 0, 1
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_14
+	rotate: false
+	xy: 467, 728
+	size: 41, 24
+	orig: 49, 34
+	offset: 2, 8
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_15
+	rotate: false
+	xy: 509, 728
+	size: 39, 24
+	orig: 49, 34
+	offset: 2, 7
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_10
+	rotate: true
+	xy: 654, 720
+	size: 33, 20
+	orig: 49, 34
+	offset: 16, 14
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_11
+	rotate: true
+	xy: 631, 720
+	size: 33, 22
+	orig: 49, 34
+	offset: 15, 11
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_6
+	rotate: false
+	xy: 757, 720
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_5
+	rotate: true
+	xy: 298, 865
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_4
+	rotate: true
+	xy: 2, 714
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_3
+	rotate: false
+	xy: 455, 432
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_2
+	rotate: false
+	xy: 625, 276
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_ylz_13
+	rotate: false
+	xy: 160, 2
+	size: 157, 131
+	orig: 161, 143
+	offset: 0, 12
+	index: -1
+effect/common/shuangyeying_daR_tupian_ylz_12
+	rotate: false
+	xy: 318, 2
+	size: 157, 123
+	orig: 161, 143
+	offset: 1, 12
+	index: -1
+effect/common/shuangyeying_daR_tupian_ylz_11
+	rotate: false
+	xy: 318, 126
+	size: 155, 125
+	orig: 161, 143
+	offset: 4, 11
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_32
+	rotate: false
+	xy: 304, 548
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_26
+	rotate: false
+	xy: 767, 424
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_27
+	rotate: false
+	xy: 2, 270
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_24
+	rotate: false
+	xy: 465, 284
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_25
+	rotate: false
+	xy: 616, 424
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_23
+	rotate: false
+	xy: 776, 276
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_28
+	rotate: false
+	xy: 153, 270
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_28
+	rotate: true
+	xy: 1010, 268
+	size: 11, 12
+	orig: 49, 34
+	offset: 2, 1
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_23
+	rotate: true
+	xy: 446, 728
+	size: 25, 20
+	orig: 49, 34
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_21
+	rotate: true
+	xy: 715, 720
+	size: 31, 22
+	orig: 49, 34
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_20
+	rotate: true
+	xy: 606, 720
+	size: 33, 24
+	orig: 49, 34
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_27
+	rotate: false
+	xy: 353, 696
+	size: 15, 16
+	orig: 49, 34
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_26
+	rotate: true
+	xy: 304, 696
+	size: 17, 18
+	orig: 49, 34
+	offset: 1, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_24
+	rotate: true
+	xy: 585, 728
+	size: 23, 18
+	orig: 49, 34
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_13
+	rotate: false
+	xy: 474, 136
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_12
+	rotate: false
+	xy: 783, 128
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_11
+	rotate: false
+	xy: 632, 128
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_14
+	rotate: false
+	xy: 314, 252
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_ylz_7
+	rotate: false
+	xy: 160, 134
+	size: 153, 135
+	orig: 161, 143
+	offset: 8, 1
+	index: -1
+effect/common/shuangyeying_daR_tupian_ylz_6
+	rotate: true
+	xy: 890, 868
+	size: 141, 131
+	orig: 161, 143
+	offset: 8, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_ylz_9
+	rotate: false
+	xy: 784, 2
+	size: 151, 125
+	orig: 161, 143
+	offset: 10, 10
+	index: -1
+effect/common/shuangyeying_daR_tupian_ylz_8
+	rotate: false
+	xy: 2, 136
+	size: 151, 133
+	orig: 161, 143
+	offset: 10, 3
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_4
+	rotate: true
+	xy: 908, 574
+	size: 103, 111
+	orig: 129, 127
+	offset: 21, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_3
+	rotate: false
+	xy: 908, 754
+	size: 103, 109
+	orig: 129, 127
+	offset: 21, 4
+	index: -1
+effect/common/shuangyeying_daR_tupian_ylz_10
+	rotate: false
+	xy: 632, 2
+	size: 151, 125
+	orig: 161, 143
+	offset: 9, 11
+	index: -1
+effect/common/shuangyeying_daR_tupian_ylz_15
+	rotate: false
+	xy: 476, 2
+	size: 155, 133
+	orig: 161, 143
+	offset: 0, 9
+	index: -1
+effect/common/shuangyeying_daR_tupian_ylz_14
+	rotate: false
+	xy: 2, 2
+	size: 157, 133
+	orig: 161, 143
+	offset: 0, 10
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_33
+	rotate: false
+	xy: 2, 566
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_26
+	rotate: false
+	xy: 598, 905
+	size: 125, 109
+	orig: 129, 127
+	offset: 0, 5
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_8
+	rotate: true
+	xy: 696, 720
+	size: 33, 18
+	orig: 49, 34
+	offset: 16, 16
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_9
+	rotate: true
+	xy: 675, 720
+	size: 33, 20
+	orig: 49, 34
+	offset: 16, 14
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_4
+	rotate: false
+	xy: 399, 696
+	size: 27, 14
+	orig: 49, 34
+	offset: 22, 20
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_5
+	rotate: false
+	xy: 369, 696
+	size: 29, 14
+	orig: 49, 34
+	offset: 20, 20
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_6
+	rotate: false
+	xy: 323, 696
+	size: 29, 16
+	orig: 49, 34
+	offset: 20, 18
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_7
+	rotate: true
+	xy: 738, 720
+	size: 31, 18
+	orig: 49, 34
+	offset: 18, 16
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_1
+	rotate: true
+	xy: 1012, 26
+	size: 19, 8
+	orig: 49, 34
+	offset: 30, 26
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_2
+	rotate: true
+	xy: 1012, 2
+	size: 23, 10
+	orig: 49, 34
+	offset: 26, 24
+	index: -1
+effect/common/shuangyeying_daR_tupian_yjsg_3
+	rotate: true
+	xy: 1010, 242
+	size: 25, 12
+	orig: 49, 34
+	offset: 24, 22
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_60
+	rotate: true
+	xy: 742, 868
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_sp_30
+	rotate: false
+	xy: 927, 362
+	size: 95, 89
+	orig: 129, 127
+	offset: 25, 14
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_57
+	rotate: false
+	xy: 757, 572
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_51
+	rotate: false
+	xy: 455, 580
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_50
+	rotate: false
+	xy: 606, 572
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_59
+	rotate: true
+	xy: 594, 754
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_58
+	rotate: true
+	xy: 446, 754
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_29
+	rotate: false
+	xy: 304, 400
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_46
+	rotate: true
+	xy: 2, 865
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_47
+	rotate: true
+	xy: 150, 714
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_48
+	rotate: true
+	xy: 150, 865
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+effect/common/shuangyeying_daR_tupian_bkbw_49
+	rotate: true
+	xy: 298, 714
+	size: 150, 147
+	orig: 150, 147
+	offset: 0, 0
+	index: -1
+
+asset/spine/tx_xrjzf_syy_role0.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/shuangyeying_daR_tupian_zuiba
+	rotate: false
+	xy: 240, 2
+	size: 13, 8
+	orig: 15, 10
+	offset: 1, 1
+	index: -1
+role/shuangyeying_daR_tupian_tou
+	rotate: false
+	xy: 147, 145
+	size: 72, 65
+	orig: 74, 67
+	offset: 1, 1
+	index: -1
+role/shuangyeying_daR_tupian_bj
+	rotate: false
+	xy: 2, 160
+	size: 134, 134
+	orig: 136, 136
+	offset: 1, 1
+	index: -1
+role/shuangyeying_daR_tupian_yusan
+	rotate: false
+	xy: 137, 211
+	size: 70, 49
+	orig: 72, 51
+	offset: 1, 1
+	index: -1
+role/shuangyeying_daR_tupian_shenti
+	rotate: true
+	xy: 148, 2
+	size: 142, 91
+	orig: 144, 93
+	offset: 1, 1
+	index: -1
+role/shuangyeying_daR_tupian_yanpi
+	rotate: false
+	xy: 240, 11
+	size: 12, 11
+	orig: 14, 13
+	offset: 1, 1
+	index: -1
+role/shuangyeying_daR_tupian_bob_a
+	rotate: true
+	xy: 240, 23
+	size: 9, 10
+	orig: 11, 12
+	offset: 1, 1
+	index: -1
+role/shuangyeying_daR_tupian_bob_b
+	rotate: true
+	xy: 220, 197
+	size: 16, 17
+	orig: 18, 19
+	offset: 1, 1
+	index: -1
+role/shuangyeying_daR_tupian_icom
+	rotate: false
+	xy: 2, 2
+	size: 145, 128
+	orig: 147, 130
+	offset: 1, 1
+	index: -1
+role/shuangyeying_daR_tupian_bolang
+	rotate: false
+	xy: 2, 131
+	size: 144, 28
+	orig: 146, 30
+	offset: 1, 1
+	index: -1
+role/shuangyeying_daR_tupian_toufa_a
+	rotate: false
+	xy: 137, 261
+	size: 69, 55
+	orig: 71, 57
+	offset: 1, 1
+	index: -1
+role/shuangyeying_daR_tupian_toufa_b
+	rotate: false
+	xy: 220, 145
+	size: 33, 51
+	orig: 35, 53
+	offset: 1, 1
+	index: -1

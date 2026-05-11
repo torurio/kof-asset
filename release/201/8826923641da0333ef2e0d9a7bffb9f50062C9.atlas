@@ -1,0 +1,1329 @@
+
+asset/spine/global_spinehero_effect12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangsebo_00035
+	rotate: true
+	xy: 2, 841
+	size: 181, 169
+	orig: 181, 169
+	offset: 0, 0
+	index: -1
+effect/global/New_dlls_ptbs_texie_00009
+	rotate: true
+	xy: 755, 773
+	size: 193, 174
+	orig: 193, 174
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect10.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangxuanwo_00020
+	rotate: false
+	xy: 2, 839
+	size: 185, 183
+	orig: 185, 183
+	offset: 0, 0
+	index: -1
+effect/global/New_dlls_ptbs_texie_00007
+	rotate: true
+	xy: 804, 821
+	size: 201, 207
+	orig: 201, 207
+	offset: 0, 0
+	index: -1
+
+asset/spine/deluolisisz_common8.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_dlls_lmbs_gtiankongqiu1_00133
+	rotate: false
+	xy: 2, 2
+	size: 100, 100
+	orig: 100, 100
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gtiankongqiu1_00134
+	rotate: false
+	xy: 2, 103
+	size: 100, 100
+	orig: 100, 100
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gtiankongqiu1_00135
+	rotate: true
+	xy: 103, 103
+	size: 99, 100
+	orig: 101, 100
+	offset: 1, 0
+	index: -1
+effect/common/New_dlls_lmbs_gtiankongqiu1_00149
+	rotate: false
+	xy: 305, 102
+	size: 100, 99
+	orig: 100, 101
+	offset: 0, 1
+	index: -1
+effect/common/New_dlls_lmbs_gtiankongqiu1_00148
+	rotate: false
+	xy: 204, 203
+	size: 99, 99
+	orig: 99, 101
+	offset: 0, 1
+	index: -1
+effect/common/New_dlls_lmbs_gtiankongqiu1_00146
+	rotate: false
+	xy: 204, 2
+	size: 100, 100
+	orig: 100, 100
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gtiankongqiu1_00145
+	rotate: false
+	xy: 103, 2
+	size: 100, 100
+	orig: 100, 100
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gtiankongqiu1_00144
+	rotate: false
+	xy: 2, 406
+	size: 100, 100
+	orig: 100, 100
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gtiankongqiu1_00143
+	rotate: false
+	xy: 2, 305
+	size: 100, 100
+	orig: 100, 100
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gtiankongqiu1_00142
+	rotate: false
+	xy: 2, 204
+	size: 100, 100
+	orig: 100, 100
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gtiankongqiu1_00141
+	rotate: false
+	xy: 406, 2
+	size: 100, 99
+	orig: 100, 99
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gtiankongqiu1_00140
+	rotate: false
+	xy: 305, 2
+	size: 100, 99
+	orig: 100, 99
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gtiankongqiu1_00150
+	rotate: false
+	xy: 406, 102
+	size: 100, 99
+	orig: 100, 101
+	offset: 0, 1
+	index: -1
+
+asset/spine/global_spinehero_effect6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangxuanwo_00026
+	rotate: false
+	xy: 910, 345
+	size: 110, 96
+	orig: 110, 96
+	offset: 0, 0
+	index: -1
+
+asset/spine/deluolisisz_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_tongyongtexiao_00012
+	rotate: false
+	xy: 561, 315
+	size: 279, 87
+	orig: 279, 87
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00013
+	rotate: true
+	xy: 840, 732
+	size: 289, 86
+	orig: 289, 86
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptgj_shouji_00032
+	rotate: false
+	xy: 342, 832
+	size: 121, 114
+	orig: 123, 114
+	offset: 1, 0
+	index: -1
+effect/common/New_dlls_ptgj_shouji_00031
+	rotate: true
+	xy: 955, 928
+	size: 74, 65
+	orig: 74, 65
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptgj_shouji_00037
+	rotate: false
+	xy: 841, 2
+	size: 181, 202
+	orig: 181, 202
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptgj_shouji_00036
+	rotate: false
+	xy: 841, 443
+	size: 178, 182
+	orig: 178, 182
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00000
+	rotate: true
+	xy: 927, 928
+	size: 92, 27
+	orig: 92, 27
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00005
+	rotate: true
+	xy: 927, 732
+	size: 195, 95
+	orig: 195, 95
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00004
+	rotate: false
+	xy: 840, 626
+	size: 182, 105
+	orig: 182, 105
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptgj_shouji_00039
+	rotate: true
+	xy: 342, 628
+	size: 203, 218
+	orig: 203, 218
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00025
+	rotate: false
+	xy: 2, 947
+	size: 294, 74
+	orig: 294, 74
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gtiankongqiu1_00136
+	rotate: false
+	xy: 738, 798
+	size: 101, 100
+	orig: 101, 100
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn2_shouji_00032
+	rotate: true
+	xy: 298, 798
+	size: 148, 43
+	orig: 148, 43
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn2_shouji_00023
+	rotate: true
+	xy: 563, 798
+	size: 223, 174
+	orig: 223, 174
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00039
+	rotate: false
+	xy: 841, 205
+	size: 181, 110
+	orig: 181, 110
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00035
+	rotate: true
+	xy: 298, 628
+	size: 147, 43
+	orig: 147, 43
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptgj_shouji_00034
+	rotate: false
+	xy: 841, 316
+	size: 180, 126
+	orig: 180, 126
+	offset: 0, 0
+	index: -1
+
+asset/spine/deluolisisz_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_dlls_lmbs_zuihoubowen_00239
+	rotate: false
+	xy: 836, 989
+	size: 104, 32
+	orig: 104, 32
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00053
+	rotate: false
+	xy: 315, 2
+	size: 312, 102
+	orig: 312, 102
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00016
+	rotate: false
+	xy: 315, 105
+	size: 309, 89
+	orig: 309, 89
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00008
+	rotate: false
+	xy: 474, 853
+	size: 235, 78
+	orig: 235, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00023
+	rotate: false
+	xy: 628, 2
+	size: 312, 84
+	orig: 312, 84
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00027
+	rotate: false
+	xy: 474, 932
+	size: 233, 69
+	orig: 233, 69
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptgj_shouji_00042
+	rotate: false
+	xy: 213, 501
+	size: 55, 72
+	orig: 55, 72
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn2_shouji_00024
+	rotate: true
+	xy: 2, 793
+	size: 229, 164
+	orig: 229, 164
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn2_shouji_00027
+	rotate: false
+	xy: 474, 790
+	size: 237, 62
+	orig: 237, 62
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00038
+	rotate: true
+	xy: 930, 315
+	size: 171, 90
+	orig: 171, 90
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn_guang_00007
+	rotate: true
+	xy: 712, 579
+	size: 232, 217
+	orig: 232, 217
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00049
+	rotate: false
+	xy: 625, 169
+	size: 308, 122
+	orig: 308, 122
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00047
+	rotate: false
+	xy: 315, 195
+	size: 307, 128
+	orig: 307, 128
+	offset: 0, 0
+	index: -1
+
+asset/spine/deluolisisz_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_dlls_lmbs_zuihoubowen_00238
+	rotate: true
+	xy: 308, 702
+	size: 123, 31
+	orig: 123, 31
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00056
+	rotate: false
+	xy: 616, 2
+	size: 306, 87
+	orig: 306, 87
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_zuihoubowen_00214
+	rotate: true
+	xy: 377, 702
+	size: 115, 34
+	orig: 115, 34
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_zuihoubowen_00215
+	rotate: true
+	xy: 340, 702
+	size: 121, 36
+	orig: 121, 36
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gtiankongqiu1_00132
+	rotate: true
+	xy: 921, 307
+	size: 100, 101
+	orig: 100, 101
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gtiankongqiu1_00131
+	rotate: true
+	xy: 921, 206
+	size: 100, 101
+	orig: 100, 101
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn_guang_00010
+	rotate: false
+	xy: 433, 702
+	size: 178, 157
+	orig: 178, 157
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn2_shouji_00020
+	rotate: false
+	xy: 667, 871
+	size: 206, 151
+	orig: 206, 151
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gtiankongqiu1_00138
+	rotate: true
+	xy: 923, 104
+	size: 101, 99
+	orig: 101, 99
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn2_shouji_00025
+	rotate: false
+	xy: 433, 871
+	size: 233, 151
+	orig: 233, 151
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gtiankongqiu1_00139
+	rotate: false
+	xy: 920, 509
+	size: 101, 99
+	orig: 101, 99
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gtiankongqiu1_00147
+	rotate: false
+	xy: 923, 2
+	size: 99, 101
+	orig: 99, 101
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn_guang_00009
+	rotate: true
+	xy: 255, 826
+	size: 196, 177
+	orig: 196, 177
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn2_shouji_00012
+	rotate: true
+	xy: 874, 942
+	size: 79, 137
+	orig: 79, 137
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn2_shouji_00013
+	rotate: true
+	xy: 874, 942
+	size: 79, 137
+	orig: 79, 137
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn2_shouji_00014
+	rotate: true
+	xy: 874, 942
+	size: 79, 137
+	orig: 79, 137
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn2_shouji_00015
+	rotate: true
+	xy: 874, 942
+	size: 79, 137
+	orig: 79, 137
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00048
+	rotate: false
+	xy: 309, 2
+	size: 306, 124
+	orig: 306, 124
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00046
+	rotate: false
+	xy: 614, 469
+	size: 305, 133
+	orig: 305, 133
+	offset: 0, 0
+	index: -1
+
+asset/spine/deluolisisz_common4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_dlls_lmbs_zuihoubowen_00237
+	rotate: true
+	xy: 265, 444
+	size: 132, 34
+	orig: 132, 34
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00058
+	rotate: false
+	xy: 48, 704
+	size: 284, 53
+	orig: 284, 53
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00010
+	rotate: true
+	xy: 284, 761
+	size: 259, 84
+	orig: 261, 84
+	offset: 1, 0
+	index: -1
+effect/common/New_tongyongtexiao_00014
+	rotate: false
+	xy: 2, 357
+	size: 298, 86
+	orig: 298, 86
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00015
+	rotate: false
+	xy: 305, 83
+	size: 299, 88
+	orig: 299, 88
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_zuihoubowen_00213
+	rotate: false
+	xy: 912, 2
+	size: 104, 32
+	orig: 104, 32
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00026
+	rotate: true
+	xy: 301, 437
+	size: 266, 67
+	orig: 266, 67
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gtiankongqiu1_00137
+	rotate: false
+	xy: 912, 35
+	size: 101, 99
+	orig: 101, 99
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn_guang_00012
+	rotate: true
+	xy: 901, 337
+	size: 141, 117
+	orig: 141, 117
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn2_shouji_00026
+	rotate: false
+	xy: 369, 437
+	size: 233, 152
+	orig: 233, 152
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn2_shouji_00028
+	rotate: true
+	xy: 852, 829
+	size: 191, 58
+	orig: 191, 58
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn_guang_00003
+	rotate: true
+	xy: 2, 80
+	size: 276, 302
+	orig: 276, 302
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_zuihoubowen_00226
+	rotate: true
+	xy: 986, 761
+	size: 132, 36
+	orig: 132, 36
+	offset: 0, 0
+	index: -1
+
+asset/spine/deluolisisz_common5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_dlls_lmbs_zuihoubowen_00232
+	rotate: false
+	xy: 868, 955
+	size: 150, 38
+	orig: 150, 38
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_zuihoubowen_00233
+	rotate: false
+	xy: 868, 702
+	size: 153, 39
+	orig: 153, 39
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_zuihoubowen_00236
+	rotate: true
+	xy: 224, 655
+	size: 126, 38
+	orig: 126, 38
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptgj_shouji_00035
+	rotate: true
+	xy: 868, 742
+	size: 173, 152
+	orig: 173, 152
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00057
+	rotate: false
+	xy: 293, 524
+	size: 288, 78
+	orig: 288, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptgj_shouji_00033
+	rotate: true
+	xy: 881, 273
+	size: 145, 138
+	orig: 145, 138
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_zuihoubowen_00234
+	rotate: false
+	xy: 868, 621
+	size: 153, 40
+	orig: 153, 40
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_zuihoubowen_00216
+	rotate: true
+	xy: 147, 655
+	size: 127, 37
+	orig: 127, 37
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00002
+	rotate: true
+	xy: 515, 757
+	size: 137, 66
+	orig: 137, 66
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00028
+	rotate: false
+	xy: 363, 686
+	size: 217, 70
+	orig: 217, 70
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00024
+	rotate: false
+	xy: 293, 603
+	size: 284, 82
+	orig: 284, 82
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptgj_shouji_00041
+	rotate: false
+	xy: 75, 655
+	size: 71, 127
+	orig: 71, 127
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn_guang_00011
+	rotate: true
+	xy: 881, 419
+	size: 160, 137
+	orig: 160, 137
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00037
+	rotate: true
+	xy: 284, 785
+	size: 162, 77
+	orig: 162, 77
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn2_shouji_00029
+	rotate: false
+	xy: 616, 970
+	size: 201, 52
+	orig: 201, 52
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn_guang_00005
+	rotate: true
+	xy: 2, 417
+	size: 237, 290
+	orig: 237, 290
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn2_shouji_00018
+	rotate: true
+	xy: 881, 2
+	size: 135, 140
+	orig: 135, 140
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn2_shouji_00016
+	rotate: false
+	xy: 2, 655
+	size: 72, 129
+	orig: 72, 129
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn2_shouji_00017
+	rotate: true
+	xy: 881, 138
+	size: 134, 140
+	orig: 134, 140
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_zuihoubowen_00221
+	rotate: false
+	xy: 868, 916
+	size: 150, 38
+	orig: 150, 38
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_zuihoubowen_00223
+	rotate: false
+	xy: 868, 580
+	size: 153, 40
+	orig: 153, 40
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_zuihoubowen_00222
+	rotate: false
+	xy: 868, 662
+	size: 153, 39
+	orig: 153, 39
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_zuihoubowen_00225
+	rotate: true
+	xy: 185, 655
+	size: 126, 38
+	orig: 126, 38
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00043
+	rotate: false
+	xy: 2, 278
+	size: 292, 138
+	orig: 292, 138
+	offset: 0, 0
+	index: -1
+
+asset/spine/deluolisisz_common6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_dlls_lmbs_gongji1_00059
+	rotate: false
+	xy: 839, 725
+	size: 157, 40
+	orig: 157, 40
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn_guang_00008
+	rotate: true
+	xy: 74, 779
+	size: 214, 197
+	orig: 214, 197
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00006
+	rotate: true
+	xy: 671, 517
+	size: 206, 86
+	orig: 208, 86
+	offset: 1, 0
+	index: -1
+effect/common/New_tongyongtexiao_00009
+	rotate: true
+	xy: 758, 517
+	size: 248, 80
+	orig: 248, 80
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn2_shouji_00030
+	rotate: true
+	xy: 970, 766
+	size: 187, 47
+	orig: 187, 47
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn2_shouji_00022
+	rotate: true
+	xy: 848, 2
+	size: 214, 173
+	orig: 214, 173
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_zuihoubowen_00227
+	rotate: false
+	xy: 607, 725
+	size: 133, 37
+	orig: 133, 37
+	offset: 0, 0
+	index: -1
+
+asset/spine/deluolisisz_common7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_dlls_lmbs_zuihoubowen_00231
+	rotate: false
+	xy: 703, 948
+	size: 146, 40
+	orig: 146, 40
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00011
+	rotate: false
+	xy: 543, 267
+	size: 268, 86
+	orig: 268, 86
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00060
+	rotate: true
+	xy: 769, 602
+	size: 131, 40
+	orig: 131, 40
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_zuihoubowen_00218
+	rotate: true
+	xy: 2, 652
+	size: 135, 40
+	orig: 135, 40
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_zuihoubowen_00217
+	rotate: false
+	xy: 850, 602
+	size: 133, 39
+	orig: 133, 39
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00003
+	rotate: true
+	xy: 323, 613
+	size: 157, 85
+	orig: 159, 85
+	offset: 1, 0
+	index: -1
+effect/common/New_tongyongtexiao_00007
+	rotate: true
+	xy: 222, 792
+	size: 220, 76
+	orig: 222, 76
+	offset: 1, 0
+	index: -1
+effect/common/New_dlls_ptgj_shouji_00038
+	rotate: true
+	xy: 805, 411
+	size: 190, 216
+	orig: 190, 216
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_zuihoubowen_00229
+	rotate: true
+	xy: 43, 652
+	size: 135, 40
+	orig: 135, 40
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00029
+	rotate: true
+	xy: 642, 792
+	size: 204, 60
+	orig: 204, 60
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptgj_shouji_00040
+	rotate: false
+	xy: 445, 852
+	size: 133, 159
+	orig: 133, 159
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn_guang_00006
+	rotate: false
+	xy: 519, 543
+	size: 249, 248
+	orig: 249, 248
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn2_shouji_00021
+	rotate: false
+	xy: 814, 2
+	size: 208, 163
+	orig: 208, 163
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00034
+	rotate: false
+	xy: 509, 792
+	size: 132, 41
+	orig: 132, 41
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00036
+	rotate: true
+	xy: 703, 792
+	size: 155, 65
+	orig: 155, 65
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn2_shouji_00019
+	rotate: true
+	xy: 299, 852
+	size: 164, 145
+	orig: 164, 145
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_zuihoubowen_00220
+	rotate: true
+	xy: 579, 834
+	size: 146, 40
+	orig: 146, 40
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_zuihoubowen_00228
+	rotate: false
+	xy: 850, 642
+	size: 133, 39
+	orig: 133, 39
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00041
+	rotate: false
+	xy: 84, 652
+	size: 238, 134
+	orig: 238, 134
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_dlls_ptbs_texie_00004
+	rotate: false
+	xy: 398, 2
+	size: 209, 231
+	orig: 209, 231
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_dlls_ptbs_texie_00011
+	rotate: true
+	xy: 82, 612
+	size: 73, 72
+	orig: 73, 72
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_dlls_ptbs_texie_00010
+	rotate: true
+	xy: 858, 796
+	size: 187, 164
+	orig: 187, 164
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_lmbs_huangsebo_00029
+	rotate: false
+	xy: 457, 560
+	size: 102, 101
+	orig: 102, 101
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangxuanwo_00014
+	rotate: true
+	xy: 761, 475
+	size: 243, 261
+	orig: 243, 261
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangxuanwo_00016
+	rotate: true
+	xy: 780, 650
+	size: 221, 236
+	orig: 221, 236
+	offset: 0, 0
+	index: -1
+effect/global/New_dlls_ptbs_texie_00006
+	rotate: true
+	xy: 780, 150
+	size: 229, 239
+	orig: 229, 239
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect16.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangxuanwo_00024
+	rotate: false
+	xy: 143, 572
+	size: 135, 134
+	orig: 135, 134
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_lmbs_huangxuanwo_00022
+	rotate: false
+	xy: 2, 141
+	size: 160, 158
+	orig: 160, 158
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_lmbs_huangsebo_00031
+	rotate: true
+	xy: 2, 441
+	size: 139, 140
+	orig: 139, 140
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_dlls_ptbs_texie_00008
+	rotate: true
+	xy: 190, 234
+	size: 205, 200
+	orig: 205, 200
+	offset: 0, 0
+	index: -1
+effect/global/New_dlls_ptbs_texie_00002
+	rotate: false
+	xy: 2, 234
+	size: 187, 206
+	orig: 187, 206
+	offset: 0, 0
+	index: -1
+effect/global/New_dlls_ptbs_texie_00003
+	rotate: false
+	xy: 2, 2
+	size: 190, 231
+	orig: 190, 231
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangxuanwo_00018
+	rotate: false
+	xy: 810, 742
+	size: 209, 209
+	orig: 209, 209
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangsebo_00033
+	rotate: true
+	xy: 858, 307
+	size: 165, 163
+	orig: 165, 163
+	offset: 0, 0
+	index: -1
+effect/global/New_dlls_ptbs_texie_00005
+	rotate: true
+	xy: 780, 473
+	size: 220, 235
+	orig: 220, 235
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangsebo_00027
+	rotate: false
+	xy: 771, 499
+	size: 62, 62
+	orig: 62, 62
+	offset: 0, 0
+	index: -1
+
+asset/spine/deluolisisz_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_dlls_lmbs_zuihoubowen_00230
+	rotate: true
+	xy: 587, 580
+	size: 140, 41
+	orig: 140, 41
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_zuihoubowen_00235
+	rotate: false
+	xy: 2, 680
+	size: 156, 41
+	orig: 156, 41
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00054
+	rotate: false
+	xy: 2, 470
+	size: 319, 95
+	orig: 319, 95
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00055
+	rotate: false
+	xy: 681, 278
+	size: 325, 92
+	orig: 325, 92
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00052
+	rotate: false
+	xy: 684, 173
+	size: 332, 104
+	orig: 332, 104
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00050
+	rotate: false
+	xy: 2, 566
+	size: 318, 113
+	orig: 318, 113
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00051
+	rotate: false
+	xy: 2, 358
+	size: 323, 111
+	orig: 323, 111
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00017
+	rotate: false
+	xy: 646, 512
+	size: 318, 88
+	orig: 318, 88
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00018
+	rotate: false
+	xy: 333, 347
+	size: 325, 82
+	orig: 325, 82
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00019
+	rotate: false
+	xy: 684, 90
+	size: 333, 82
+	orig: 333, 82
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00061
+	rotate: false
+	xy: 839, 685
+	size: 122, 36
+	orig: 122, 36
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_zuihoubowen_00219
+	rotate: false
+	xy: 159, 680
+	size: 140, 41
+	orig: 140, 41
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00001
+	rotate: true
+	xy: 973, 880
+	size: 115, 46
+	orig: 115, 46
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00022
+	rotate: false
+	xy: 2, 2
+	size: 341, 88
+	orig: 341, 88
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00021
+	rotate: false
+	xy: 684, 2
+	size: 334, 87
+	orig: 334, 87
+	offset: 0, 0
+	index: -1
+effect/common/New_tongyongtexiao_00020
+	rotate: false
+	xy: 333, 262
+	size: 330, 84
+	orig: 330, 84
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_ptgj_shouji_00043
+	rotate: false
+	xy: 664, 262
+	size: 16, 35
+	orig: 16, 35
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn2_shouji_00031
+	rotate: true
+	xy: 973, 722
+	size: 157, 48
+	orig: 157, 48
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_xjn_guang_00004
+	rotate: true
+	xy: 344, 2
+	size: 259, 339
+	orig: 259, 339
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_zuihoubowen_00224
+	rotate: true
+	xy: 980, 371
+	size: 156, 41
+	orig: 156, 41
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00045
+	rotate: false
+	xy: 659, 371
+	size: 320, 140
+	orig: 320, 140
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00044
+	rotate: false
+	xy: 326, 430
+	size: 319, 149
+	orig: 319, 149
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00040
+	rotate: false
+	xy: 629, 601
+	size: 209, 118
+	orig: 209, 118
+	offset: 0, 0
+	index: -1
+effect/common/New_dlls_lmbs_gongji1_00042
+	rotate: false
+	xy: 321, 580
+	size: 265, 141
+	orig: 265, 141
+	offset: 0, 0
+	index: -1

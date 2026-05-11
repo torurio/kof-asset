@@ -1,0 +1,439 @@
+
+asset/spine/jjlkeXVCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lke_kb_bt_hy_00001
+	rotate: true
+	xy: 526, 666
+	size: 95, 173
+	orig: 133, 289
+	offset: 13, 0
+	index: -1
+lke_kb_bt_hy_00006
+	rotate: true
+	xy: 2, 568
+	size: 85, 225
+	orig: 133, 289
+	offset: 22, 0
+	index: -1
+lke_kb_bt_hy_00007
+	rotate: true
+	xy: 2, 654
+	size: 85, 225
+	orig: 133, 289
+	offset: 22, 0
+	index: -1
+lke_kb_bt_hy_00004
+	rotate: false
+	xy: 2, 769
+	size: 97, 213
+	orig: 133, 289
+	offset: 21, 0
+	index: -1
+lke_kb_bt_hy_00005
+	rotate: false
+	xy: 100, 769
+	size: 97, 213
+	orig: 133, 289
+	offset: 21, 0
+	index: -1
+lke_kb_bt_hy_00019
+	rotate: true
+	xy: 340, 190
+	size: 89, 241
+	orig: 133, 289
+	offset: 19, 0
+	index: -1
+lke_kb_bt_hy_00018
+	rotate: true
+	xy: 580, 362
+	size: 89, 239
+	orig: 133, 289
+	offset: 19, 0
+	index: -1
+lukaer_kb777
+	rotate: false
+	xy: 315, 291
+	size: 14, 8
+	orig: 14, 8
+	offset: 0, 0
+	index: -1
+lke_kb_bt_hy_00011
+	rotate: true
+	xy: 675, 96
+	size: 93, 245
+	orig: 133, 289
+	offset: 21, 0
+	index: -1
+lke_kb_bt_hy_00010
+	rotate: true
+	xy: 675, 2
+	size: 93, 245
+	orig: 133, 289
+	offset: 21, 0
+	index: -1
+lke_kb_bt_hy_00013
+	rotate: true
+	xy: 340, 280
+	size: 99, 239
+	orig: 133, 289
+	offset: 21, 0
+	index: -1
+lke_kb_bt_hy_00012
+	rotate: false
+	xy: 921, 2
+	size: 99, 239
+	orig: 133, 289
+	offset: 21, 0
+	index: -1
+lke_kb_bt_hy_00015
+	rotate: true
+	xy: 340, 478
+	size: 89, 227
+	orig: 133, 289
+	offset: 17, 0
+	index: -1
+lke_kb_bt_hy_00014
+	rotate: true
+	xy: 568, 542
+	size: 89, 223
+	orig: 133, 289
+	offset: 17, 0
+	index: -1
+lke_kb_bt_hy_00017
+	rotate: true
+	xy: 578, 452
+	size: 89, 235
+	orig: 133, 289
+	offset: 19, 0
+	index: -1
+lke_kb_bt_hy_00016
+	rotate: true
+	xy: 2, 348
+	size: 89, 231
+	orig: 133, 289
+	offset: 19, 0
+	index: -1
+lkr_bt26
+	rotate: true
+	xy: 228, 698
+	size: 68, 123
+	orig: 68, 123
+	offset: 0, 0
+	index: -1
+lkr_bt27
+	rotate: true
+	xy: 421, 973
+	size: 43, 130
+	orig: 43, 130
+	offset: 0, 0
+	index: -1
+lkr_bt24
+	rotate: false
+	xy: 2, 2
+	size: 342, 115
+	orig: 342, 115
+	offset: 0, 0
+	index: -1
+lkr_bt25
+	rotate: false
+	xy: 316, 189
+	size: 23, 101
+	orig: 23, 101
+	offset: 0, 0
+	index: -1
+lkr_bt22
+	rotate: true
+	xy: 2, 438
+	size: 129, 227
+	orig: 129, 227
+	offset: 0, 0
+	index: -1
+lkr_bt23
+	rotate: false
+	xy: 230, 495
+	size: 106, 202
+	orig: 106, 202
+	offset: 0, 0
+	index: -1
+lkr_bt20
+	rotate: true
+	xy: 2, 118
+	size: 133, 313
+	orig: 133, 313
+	offset: 0, 0
+	index: -1
+lkr_bt21
+	rotate: true
+	xy: 646, 762
+	size: 188, 167
+	orig: 188, 167
+	offset: 0, 0
+	index: -1
+lkr_bt28
+	rotate: false
+	xy: 905, 769
+	size: 106, 145
+	orig: 106, 145
+	offset: 0, 0
+	index: -1
+lkr_bt29
+	rotate: false
+	xy: 920, 346
+	size: 99, 200
+	orig: 99, 200
+	offset: 0, 0
+	index: -1
+lkr_bt19
+	rotate: true
+	xy: 700, 632
+	size: 54, 116
+	orig: 54, 116
+	offset: 0, 0
+	index: -1
+lkr_bt14
+	rotate: true
+	xy: 901, 915
+	size: 77, 121
+	orig: 77, 121
+	offset: 0, 0
+	index: -1
+lkr_bt9
+	rotate: false
+	xy: 123, 983
+	size: 34, 34
+	orig: 34, 34
+	offset: 0, 0
+	index: -1
+lkr_bt8
+	rotate: true
+	xy: 248, 319
+	size: 64, 91
+	orig: 64, 91
+	offset: 0, 0
+	index: -1
+lkr_bt7
+	rotate: false
+	xy: 792, 542
+	size: 18, 39
+	orig: 18, 39
+	offset: 0, 0
+	index: -1
+lkr_bt6
+	rotate: true
+	xy: 558, 762
+	size: 65, 55
+	orig: 65, 55
+	offset: 0, 0
+	index: -1
+lkr_bt5
+	rotate: true
+	xy: 71, 983
+	size: 35, 51
+	orig: 35, 51
+	offset: 0, 0
+	index: -1
+lkr_bt4
+	rotate: true
+	xy: 646, 951
+	size: 68, 87
+	orig: 68, 87
+	offset: 0, 0
+	index: -1
+lkr_bt2
+	rotate: true
+	xy: 920, 242
+	size: 103, 102
+	orig: 103, 102
+	offset: 0, 0
+	index: -1
+lkr_bt1
+	rotate: false
+	xy: 234, 384
+	size: 105, 110
+	orig: 105, 110
+	offset: 0, 0
+	index: -1
+lke_kb_bt_hy_00008
+	rotate: false
+	xy: 820, 398
+	size: 97, 237
+	orig: 133, 289
+	offset: 20, 0
+	index: -1
+lke_kb_bt_hy_00009
+	rotate: true
+	xy: 340, 380
+	size: 97, 237
+	orig: 133, 289
+	offset: 20, 0
+	index: -1
+lke_kb_bt_hy_00028
+	rotate: true
+	xy: 582, 190
+	size: 85, 241
+	orig: 133, 289
+	offset: 20, 0
+	index: -1
+lke_kb_bt_hy_00029
+	rotate: true
+	xy: 582, 276
+	size: 85, 241
+	orig: 133, 289
+	offset: 20, 0
+	index: -1
+lke_kb_bt_hy_00002
+	rotate: false
+	xy: 817, 636
+	size: 87, 191
+	orig: 133, 289
+	offset: 17, 0
+	index: -1
+lke_kb_bt_hy_00025
+	rotate: false
+	xy: 370, 769
+	size: 93, 203
+	orig: 133, 289
+	offset: 11, 0
+	index: -1
+lke_kb_bt_hy_00000
+	rotate: true
+	xy: 352, 666
+	size: 95, 173
+	orig: 133, 289
+	offset: 13, 0
+	index: -1
+lke_kb_bt_hy_00027
+	rotate: true
+	xy: 337, 568
+	size: 97, 221
+	orig: 133, 289
+	offset: 17, 0
+	index: -1
+lke_kb_bt_hy_00020
+	rotate: true
+	xy: 2, 252
+	size: 95, 245
+	orig: 133, 289
+	offset: 20, 0
+	index: -1
+lke_kb_bt_hy_00021
+	rotate: false
+	xy: 824, 190
+	size: 95, 207
+	orig: 133, 289
+	offset: 20, 0
+	index: -1
+lke_kb_bt_hy_00022
+	rotate: false
+	xy: 198, 769
+	size: 85, 211
+	orig: 133, 289
+	offset: 21, 0
+	index: -1
+lke_kb_bt_hy_00023
+	rotate: false
+	xy: 284, 769
+	size: 85, 211
+	orig: 133, 289
+	offset: 21, 0
+	index: -1
+lkr_bt13
+	rotate: true
+	xy: 316, 118
+	size: 70, 24
+	orig: 70, 24
+	offset: 0, 0
+	index: -1
+lkr_bt12
+	rotate: false
+	xy: 792, 582
+	size: 11, 41
+	orig: 11, 41
+	offset: 0, 0
+	index: -1
+lkr_bt11
+	rotate: false
+	xy: 198, 981
+	size: 72, 41
+	orig: 72, 41
+	offset: 0, 0
+	index: -1
+lukaer_kb111
+	rotate: false
+	xy: 2, 983
+	size: 68, 37
+	orig: 68, 37
+	offset: 0, 0
+	index: -1
+lkr_bt17
+	rotate: true
+	xy: 814, 828
+	size: 127, 86
+	orig: 127, 86
+	offset: 0, 0
+	index: -1
+lkr_bt16
+	rotate: true
+	xy: 345, 2
+	size: 187, 329
+	orig: 187, 329
+	offset: 0, 0
+	index: -1
+lkr_bt15
+	rotate: false
+	xy: 370, 973
+	size: 50, 46
+	orig: 50, 46
+	offset: 0, 0
+	index: -1
+lke_kb_bt_hy_00003
+	rotate: false
+	xy: 558, 828
+	size: 87, 191
+	orig: 133, 289
+	offset: 17, 0
+	index: -1
+lke_kb_bt_hy_00024
+	rotate: false
+	xy: 464, 769
+	size: 93, 201
+	orig: 133, 289
+	offset: 12, 0
+	index: -1
+lkr_bt10
+	rotate: false
+	xy: 700, 687
+	size: 52, 74
+	orig: 52, 74
+	offset: 0, 0
+	index: -1
+lkr_bt18
+	rotate: false
+	xy: 248, 252
+	size: 66, 66
+	orig: 66, 66
+	offset: 0, 0
+	index: -1
+lke_kb_bt_hy_00026
+	rotate: false
+	xy: 918, 547
+	size: 97, 221
+	orig: 133, 289
+	offset: 17, 0
+	index: -1
+
+asset/spine/jjlkeXVCard_role1.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lkr_bt3
+	rotate: true
+	xy: 2, 2
+	size: 126, 72
+	orig: 126, 72
+	offset: 0, 0
+	index: -1

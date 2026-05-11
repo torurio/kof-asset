@@ -1,0 +1,13 @@
+
+asset/spine/lctjxh_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/jrhcj_putongbisha_hbz_00004
+	rotate: true
+	xy: 382, 75
+	size: 368, 374
+	orig: 368, 374
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>mask01_BG_10016901image.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{343,288}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{343,288}}</string>
+			<key>sourceSize</key>
+			<string>{343,288}</string>
+		</dict>
+		<key>sdt_BG_10016901image.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{347,2},{276,20}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{276,20}}</string>
+			<key>sourceSize</key>
+			<string>{276,20}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>BG_10016901image.png</string>
+		<key>size</key>
+		<string>{512,512}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>BG_10016901image.png</string>
+	</dict>
+</dict>
+</plist>

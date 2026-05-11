@@ -1,0 +1,3144 @@
+
+asset/spine/ctj14xsz_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_x4
+	rotate: false
+	xy: 801, 684
+	size: 221, 105
+	orig: 229, 107
+	offset: 3, 2
+	index: -1
+effect/global/ty_baoqi_x5
+	rotate: true
+	xy: 2, 785
+	size: 236, 136
+	orig: 240, 136
+	offset: 3, 0
+	index: -1
+effect/global/ty_baoqi_x6
+	rotate: false
+	xy: 2, 620
+	size: 240, 164
+	orig: 240, 166
+	offset: 0, 1
+	index: -1
+
+asset/spine/global_spinehero_effect12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangsebo_00035
+	rotate: true
+	xy: 2, 841
+	size: 181, 169
+	orig: 181, 169
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baoqixuli_00019
+	rotate: true
+	xy: 172, 841
+	size: 181, 162
+	orig: 181, 162
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_lmbs_tongyongbaibo_00309
+	rotate: false
+	xy: 2, 646
+	size: 195, 194
+	orig: 195, 194
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect10.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_ptbs2_baoqixuli_00011
+	rotate: true
+	xy: 795, 314
+	size: 253, 227
+	orig: 253, 227
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baoqixuli_00017
+	rotate: false
+	xy: 370, 839
+	size: 210, 182
+	orig: 210, 182
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_lmbs_huangxuanwo_00020
+	rotate: false
+	xy: 2, 839
+	size: 185, 183
+	orig: 185, 183
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baoqixuli_00009
+	rotate: true
+	xy: 804, 568
+	size: 252, 214
+	orig: 252, 214
+	offset: 0, 0
+	index: -1
+
+asset/spine/meixing_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_mx_xjn_gongji1_00011
+	rotate: false
+	xy: 617, 71
+	size: 76, 64
+	orig: 76, 66
+	offset: 0, 1
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00118
+	rotate: false
+	xy: 2, 935
+	size: 104, 87
+	orig: 104, 91
+	offset: 0, 4
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00114
+	rotate: true
+	xy: 2, 132
+	size: 120, 111
+	orig: 122, 111
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_xjn_gongji2_00043
+	rotate: true
+	xy: 844, 970
+	size: 45, 54
+	orig: 51, 62
+	offset: 2, 5
+	index: -1
+effect/common/New_mx_xjn_gongji2_00042
+	rotate: true
+	xy: 689, 647
+	size: 48, 56
+	orig: 54, 60
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_xjn_gongji2_00040
+	rotate: true
+	xy: 827, 213
+	size: 71, 56
+	orig: 73, 66
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00021
+	rotate: true
+	xy: 324, 548
+	size: 99, 47
+	orig: 99, 47
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00039
+	rotate: true
+	xy: 772, 340
+	size: 86, 54
+	orig: 86, 54
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00035
+	rotate: false
+	xy: 499, 648
+	size: 79, 51
+	orig: 79, 51
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00036
+	rotate: false
+	xy: 370, 648
+	size: 73, 52
+	orig: 75, 52
+	offset: 1, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00061
+	rotate: false
+	xy: 385, 799
+	size: 82, 95
+	orig: 82, 97
+	offset: 0, 2
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00065
+	rotate: false
+	xy: 268, 902
+	size: 84, 97
+	orig: 84, 97
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00067
+	rotate: false
+	xy: 490, 472
+	size: 86, 92
+	orig: 86, 92
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00066
+	rotate: false
+	xy: 310, 111
+	size: 86, 100
+	orig: 86, 100
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00068
+	rotate: false
+	xy: 397, 2
+	size: 87, 93
+	orig: 89, 93
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00048
+	rotate: true
+	xy: 258, 802
+	size: 99, 60
+	orig: 99, 62
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00049
+	rotate: true
+	xy: 345, 2
+	size: 100, 51
+	orig: 100, 55
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00040
+	rotate: true
+	xy: 2, 710
+	size: 112, 51
+	orig: 112, 53
+	offset: 0, 2
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00042
+	rotate: true
+	xy: 663, 884
+	size: 91, 55
+	orig: 91, 55
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00043
+	rotate: true
+	xy: 528, 793
+	size: 92, 57
+	orig: 92, 57
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00044
+	rotate: true
+	xy: 468, 797
+	size: 94, 59
+	orig: 94, 59
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00045
+	rotate: true
+	xy: 437, 895
+	size: 95, 62
+	orig: 95, 62
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00217
+	rotate: false
+	xy: 2, 2
+	size: 55, 129
+	orig: 59, 133
+	offset: 4, 4
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00042
+	rotate: true
+	xy: 139, 233
+	size: 112, 63
+	orig: 116, 69
+	offset: 1, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00043
+	rotate: true
+	xy: 2, 253
+	size: 114, 64
+	orig: 114, 66
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00040
+	rotate: true
+	xy: 80, 821
+	size: 111, 63
+	orig: 111, 63
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00046
+	rotate: true
+	xy: 183, 701
+	size: 107, 46
+	orig: 109, 52
+	offset: 2, 2
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00044
+	rotate: true
+	xy: 58, 2
+	size: 117, 61
+	orig: 117, 63
+	offset: 0, 2
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00045
+	rotate: true
+	xy: 2, 368
+	size: 114, 57
+	orig: 114, 63
+	offset: 0, 6
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00048
+	rotate: true
+	xy: 353, 311
+	size: 98, 38
+	orig: 100, 42
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_xjn_gongji1_00017
+	rotate: false
+	xy: 572, 700
+	size: 89, 91
+	orig: 91, 91
+	offset: 1, 0
+	index: -1
+effect/common/New_mx_xjn_gongji1_00016
+	rotate: true
+	xy: 783, 787
+	size: 89, 84
+	orig: 89, 84
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji1_00018
+	rotate: false
+	xy: 586, 792
+	size: 79, 91
+	orig: 87, 91
+	offset: 5, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00039
+	rotate: true
+	xy: 281, 2
+	size: 108, 63
+	orig: 110, 63
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_xjn_gongji2_00033
+	rotate: false
+	xy: 798, 146
+	size: 69, 66
+	orig: 71, 66
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_xjn_gongji2_00030
+	rotate: false
+	xy: 725, 2
+	size: 72, 68
+	orig: 76, 68
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji2_00031
+	rotate: true
+	xy: 798, 2
+	size: 74, 69
+	orig: 78, 69
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji2_00036
+	rotate: false
+	xy: 953, 154
+	size: 69, 63
+	orig: 71, 69
+	offset: 0, 2
+	index: -1
+effect/common/New_mx_xjn_gongji2_00037
+	rotate: false
+	xy: 953, 88
+	size: 69, 65
+	orig: 71, 71
+	offset: 0, 3
+	index: -1
+effect/common/New_mx_xjn_gongji2_00034
+	rotate: false
+	xy: 798, 77
+	size: 69, 68
+	orig: 73, 68
+	offset: 1, 0
+	index: -1
+effect/common/New_mx_xjn_gongji2_00035
+	rotate: false
+	xy: 654, 2
+	size: 70, 68
+	orig: 72, 68
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji2_00038
+	rotate: false
+	xy: 725, 136
+	size: 71, 62
+	orig: 71, 66
+	offset: 0, 4
+	index: -1
+effect/common/New_mx_xjn_gongji2_00039
+	rotate: false
+	xy: 725, 71
+	size: 71, 64
+	orig: 71, 64
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00039
+	rotate: true
+	xy: 2, 597
+	size: 112, 51
+	orig: 112, 51
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00056
+	rotate: false
+	xy: 589, 976
+	size: 81, 45
+	orig: 87, 45
+	offset: 4, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00052
+	rotate: true
+	xy: 372, 527
+	size: 97, 55
+	orig: 101, 61
+	offset: 1, 6
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00073
+	rotate: false
+	xy: 479, 284
+	size: 56, 93
+	orig: 56, 97
+	offset: 0, 4
+	index: -1
+effect/common/New_mx_xjn_gongji4_00050
+	rotate: true
+	xy: 330, 212
+	size: 98, 57
+	orig: 100, 61
+	offset: 2, 2
+	index: -1
+effect/common/New_mx_xjn_gongji1_00012
+	rotate: true
+	xy: 558, 136
+	size: 81, 68
+	orig: 81, 72
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji1_00022
+	rotate: true
+	xy: 885, 207
+	size: 53, 62
+	orig: 53, 66
+	offset: 0, 4
+	index: -1
+effect/common/New_mx_xjn_gongji1_00021
+	rotate: true
+	xy: 782, 285
+	size: 53, 71
+	orig: 57, 71
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji5_00044
+	rotate: true
+	xy: 494, 565
+	size: 82, 92
+	orig: 82, 92
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji5_00047
+	rotate: false
+	xy: 218, 343
+	size: 86, 104
+	orig: 86, 104
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji5_00042
+	rotate: true
+	xy: 690, 428
+	size: 73, 66
+	orig: 77, 68
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji2_00183
+	rotate: true
+	xy: 206, 457
+	size: 104, 95
+	orig: 104, 97
+	offset: 0, 2
+	index: -1
+effect/common/New_mx_lmbs_gongji2_00182
+	rotate: true
+	xy: 741, 502
+	size: 60, 56
+	orig: 62, 58
+	offset: 1, 2
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00221
+	rotate: false
+	xy: 725, 260
+	size: 56, 79
+	orig: 56, 79
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00222
+	rotate: false
+	xy: 607, 428
+	size: 43, 42
+	orig: 47, 42
+	offset: 4, 0
+	index: -1
+effect/common/New_mx_xjn_gongji3_00028
+	rotate: true
+	xy: 587, 564
+	size: 83, 63
+	orig: 83, 63
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji3_00029
+	rotate: true
+	xy: 953, 2
+	size: 85, 69
+	orig: 85, 71
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji3_00024
+	rotate: false
+	xy: 618, 648
+	size: 70, 48
+	orig: 70, 48
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji3_00027
+	rotate: false
+	xy: 868, 150
+	size: 82, 56
+	orig: 82, 56
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji3_00023
+	rotate: true
+	xy: 651, 428
+	size: 42, 38
+	orig: 42, 40
+	offset: 0, 2
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00046
+	rotate: false
+	xy: 725, 199
+	size: 71, 60
+	orig: 71, 62
+	offset: 0, 2
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00049
+	rotate: false
+	xy: 651, 564
+	size: 73, 82
+	orig: 73, 82
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00078
+	rotate: true
+	xy: 228, 663
+	size: 37, 94
+	orig: 41, 94
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00076
+	rotate: false
+	xy: 484, 378
+	size: 41, 93
+	orig: 43, 93
+	offset: 1, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00077
+	rotate: false
+	xy: 666, 789
+	size: 39, 91
+	orig: 41, 93
+	offset: 2, 1
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00074
+	rotate: false
+	xy: 454, 701
+	size: 54, 95
+	orig: 56, 97
+	offset: 0, 2
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00072
+	rotate: false
+	xy: 388, 212
+	size: 89, 97
+	orig: 89, 97
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00053
+	rotate: true
+	xy: 350, 428
+	size: 98, 46
+	orig: 100, 48
+	offset: 1, 1
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00024
+	rotate: true
+	xy: 228, 562
+	size: 100, 47
+	orig: 100, 47
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00025
+	rotate: true
+	xy: 276, 562
+	size: 100, 47
+	orig: 100, 47
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00026
+	rotate: true
+	xy: 230, 701
+	size: 100, 47
+	orig: 100, 47
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00020
+	rotate: true
+	xy: 302, 448
+	size: 99, 47
+	orig: 99, 47
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00022
+	rotate: true
+	xy: 305, 328
+	size: 99, 47
+	orig: 99, 47
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00023
+	rotate: true
+	xy: 278, 701
+	size: 99, 48
+	orig: 99, 48
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00071
+	rotate: false
+	xy: 500, 892
+	size: 88, 93
+	orig: 88, 97
+	offset: 0, 3
+	index: -1
+effect/common/New_mx_xjn_gongji2_00021
+	rotate: false
+	xy: 671, 976
+	size: 60, 45
+	orig: 60, 45
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji2_00020
+	rotate: false
+	xy: 666, 205
+	size: 58, 44
+	orig: 60, 44
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_xjn_gongji2_00023
+	rotate: false
+	xy: 428, 600
+	size: 65, 47
+	orig: 65, 49
+	offset: 0, 2
+	index: -1
+effect/common/New_mx_xjn_gongji2_00022
+	rotate: false
+	xy: 781, 970
+	size: 62, 47
+	orig: 64, 47
+	offset: 1, 0
+	index: -1
+effect/common/New_mx_xjn_gongji2_00025
+	rotate: false
+	xy: 953, 218
+	size: 69, 61
+	orig: 69, 61
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji2_00024
+	rotate: true
+	xy: 666, 136
+	size: 68, 58
+	orig: 68, 60
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji2_00027
+	rotate: true
+	xy: 953, 280
+	size: 73, 68
+	orig: 73, 68
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji2_00026
+	rotate: false
+	xy: 558, 218
+	size: 71, 65
+	orig: 71, 65
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji2_00029
+	rotate: true
+	xy: 953, 428
+	size: 73, 66
+	orig: 77, 70
+	offset: 0, 1
+	index: -1
+effect/common/New_mx_xjn_gongji2_00028
+	rotate: true
+	xy: 953, 354
+	size: 73, 66
+	orig: 75, 72
+	offset: 1, 1
+	index: -1
+effect/common/New_mx_xjn_gongji4_00049
+	rotate: true
+	xy: 319, 801
+	size: 97, 65
+	orig: 97, 65
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00048
+	rotate: true
+	xy: 390, 701
+	size: 95, 63
+	orig: 97, 63
+	offset: 1, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00045
+	rotate: true
+	xy: 551, 2
+	size: 93, 65
+	orig: 95, 67
+	offset: 0, 2
+	index: -1
+effect/common/New_mx_xjn_gongji4_00044
+	rotate: true
+	xy: 536, 284
+	size: 92, 65
+	orig: 94, 65
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00047
+	rotate: true
+	xy: 327, 701
+	size: 97, 62
+	orig: 97, 62
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00046
+	rotate: true
+	xy: 428, 504
+	size: 95, 61
+	orig: 97, 63
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00040
+	rotate: false
+	xy: 654, 502
+	size: 86, 61
+	orig: 86, 61
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00043
+	rotate: true
+	xy: 509, 700
+	size: 92, 62
+	orig: 92, 62
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00042
+	rotate: true
+	xy: 737, 696
+	size: 90, 60
+	orig: 90, 64
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00120
+	rotate: false
+	xy: 107, 933
+	size: 108, 89
+	orig: 110, 89
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00121
+	rotate: true
+	xy: 110, 482
+	size: 110, 95
+	orig: 114, 95
+	offset: 4, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00122
+	rotate: true
+	xy: 607, 341
+	size: 86, 88
+	orig: 98, 88
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00123
+	rotate: false
+	xy: 759, 880
+	size: 86, 89
+	orig: 92, 91
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji5_00059
+	rotate: false
+	xy: 118, 593
+	size: 66, 107
+	orig: 70, 113
+	offset: 3, 5
+	index: -1
+effect/common/New_mx_xjn_gongji5_00058
+	rotate: false
+	xy: 67, 253
+	size: 71, 113
+	orig: 73, 115
+	offset: 0, 2
+	index: -1
+effect/common/New_mx_xjn_gongji5_00053
+	rotate: false
+	xy: 2, 823
+	size: 77, 111
+	orig: 81, 113
+	offset: 1, 2
+	index: -1
+effect/common/New_mx_xjn_gongji5_00052
+	rotate: false
+	xy: 203, 2
+	size: 77, 112
+	orig: 85, 114
+	offset: 1, 0
+	index: -1
+effect/common/New_mx_xjn_gongji5_00051
+	rotate: false
+	xy: 60, 368
+	size: 82, 113
+	orig: 86, 113
+	offset: 3, 0
+	index: -1
+effect/common/New_mx_xjn_gongji5_00050
+	rotate: false
+	xy: 120, 2
+	size: 82, 112
+	orig: 86, 112
+	offset: 4, 0
+	index: -1
+effect/common/New_mx_xjn_gongji5_00057
+	rotate: false
+	xy: 203, 233
+	size: 71, 109
+	orig: 73, 113
+	offset: 0, 3
+	index: -1
+effect/common/New_mx_xjn_gongji5_00056
+	rotate: false
+	xy: 143, 346
+	size: 74, 110
+	orig: 74, 114
+	offset: 0, 4
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00058
+	rotate: false
+	xy: 2, 483
+	size: 107, 113
+	orig: 107, 115
+	offset: 0, 1
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00059
+	rotate: false
+	xy: 114, 120
+	size: 112, 112
+	orig: 112, 118
+	offset: 0, 1
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00055
+	rotate: false
+	xy: 227, 115
+	size: 82, 108
+	orig: 82, 108
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00052
+	rotate: true
+	xy: 607, 284
+	size: 56, 43
+	orig: 56, 43
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji3_00039
+	rotate: true
+	xy: 481, 96
+	size: 93, 76
+	orig: 95, 86
+	offset: 0, 6
+	index: -1
+effect/common/New_mx_xjn_gongji3_00038
+	rotate: true
+	xy: 397, 96
+	size: 93, 83
+	orig: 95, 85
+	offset: 2, 1
+	index: -1
+effect/common/New_mx_xjn_gongji3_00032
+	rotate: true
+	xy: 526, 378
+	size: 92, 80
+	orig: 92, 82
+	offset: 0, 2
+	index: -1
+effect/common/New_mx_xjn_gongji3_00031
+	rotate: true
+	xy: 846, 877
+	size: 89, 79
+	orig: 89, 79
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji3_00030
+	rotate: true
+	xy: 696, 340
+	size: 87, 75
+	orig: 87, 77
+	offset: 0, 1
+	index: -1
+effect/common/New_mx_xjn_gongji3_00037
+	rotate: true
+	xy: 353, 899
+	size: 95, 83
+	orig: 95, 89
+	offset: 0, 5
+	index: -1
+effect/common/New_mx_xjn_gongji3_00036
+	rotate: true
+	xy: 397, 408
+	size: 95, 86
+	orig: 97, 86
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji3_00034
+	rotate: true
+	xy: 392, 310
+	size: 97, 86
+	orig: 97, 86
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00054
+	rotate: false
+	xy: 589, 884
+	size: 73, 91
+	orig: 73, 91
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00055
+	rotate: false
+	xy: 662, 697
+	size: 74, 91
+	orig: 74, 91
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00056
+	rotate: false
+	xy: 577, 471
+	size: 76, 92
+	orig: 76, 92
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00057
+	rotate: false
+	xy: 706, 789
+	size: 76, 90
+	orig: 76, 92
+	offset: 0, 2
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00050
+	rotate: true
+	xy: 868, 2
+	size: 73, 84
+	orig: 73, 84
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00051
+	rotate: true
+	xy: 868, 76
+	size: 73, 84
+	orig: 81, 84
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00052
+	rotate: true
+	xy: 796, 427
+	size: 74, 88
+	orig: 84, 88
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00053
+	rotate: false
+	xy: 651, 250
+	size: 73, 89
+	orig: 73, 89
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00059
+	rotate: false
+	xy: 478, 190
+	size: 79, 93
+	orig: 79, 95
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji3_00044
+	rotate: true
+	xy: 725, 564
+	size: 79, 38
+	orig: 83, 38
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_xjn_gongji3_00045
+	rotate: true
+	xy: 757, 428
+	size: 73, 38
+	orig: 81, 38
+	offset: 6, 0
+	index: -1
+effect/common/New_mx_xjn_gongji3_00042
+	rotate: true
+	xy: 719, 880
+	size: 90, 39
+	orig: 94, 41
+	offset: 0, 1
+	index: -1
+effect/common/New_mx_xjn_gongji3_00043
+	rotate: true
+	xy: 627, 136
+	size: 81, 38
+	orig: 83, 38
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_xjn_gongji3_00041
+	rotate: true
+	xy: 485, 2
+	size: 93, 65
+	orig: 95, 69
+	offset: 1, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00017
+	rotate: false
+	xy: 558, 96
+	size: 39, 39
+	orig: 41, 39
+	offset: 1, 0
+	index: -1
+effect/common/New_mx_xjn_gongji2_00018
+	rotate: false
+	xy: 579, 648
+	size: 38, 51
+	orig: 38, 51
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji2_00019
+	rotate: false
+	xy: 732, 971
+	size: 48, 48
+	orig: 48, 50
+	offset: 0, 2
+	index: -1
+effect/common/New_mx_xjn_gongji5_00062
+	rotate: false
+	xy: 118, 701
+	size: 64, 107
+	orig: 64, 107
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji5_00063
+	rotate: false
+	xy: 144, 809
+	size: 58, 107
+	orig: 60, 107
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji5_00060
+	rotate: false
+	xy: 54, 597
+	size: 63, 111
+	orig: 63, 113
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji5_00061
+	rotate: false
+	xy: 54, 709
+	size: 63, 111
+	orig: 63, 113
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji5_00066
+	rotate: true
+	xy: 899, 967
+	size: 55, 53
+	orig: 57, 53
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_xjn_gongji5_00067
+	rotate: false
+	xy: 323, 663
+	size: 46, 37
+	orig: 56, 53
+	offset: 2, 12
+	index: -1
+effect/common/New_mx_xjn_gongji5_00064
+	rotate: false
+	xy: 203, 809
+	size: 54, 105
+	orig: 56, 109
+	offset: 2, 2
+	index: -1
+effect/common/New_mx_xjn_gongji5_00065
+	rotate: false
+	xy: 444, 648
+	size: 54, 52
+	orig: 56, 98
+	offset: 2, 44
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00058
+	rotate: true
+	xy: 185, 593
+	size: 107, 42
+	orig: 107, 46
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00057
+	rotate: true
+	xy: 216, 915
+	size: 105, 51
+	orig: 105, 55
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00055
+	rotate: true
+	xy: 275, 224
+	size: 103, 54
+	orig: 107, 58
+	offset: 2, 4
+	index: -1
+
+asset/spine/meixing_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_mx_ptbs_gongji1_00033
+	rotate: false
+	xy: 326, 509
+	size: 101, 50
+	orig: 101, 50
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00115
+	rotate: false
+	xy: 829, 742
+	size: 110, 98
+	orig: 110, 102
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji1_00007
+	rotate: false
+	xy: 759, 769
+	size: 14, 19
+	orig: 14, 19
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji1_00008
+	rotate: true
+	xy: 525, 530
+	size: 27, 24
+	orig: 27, 24
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00063
+	rotate: false
+	xy: 615, 634
+	size: 159, 107
+	orig: 159, 113
+	offset: 0, 6
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00065
+	rotate: false
+	xy: 759, 841
+	size: 160, 108
+	orig: 162, 108
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00034
+	rotate: false
+	xy: 428, 509
+	size: 53, 50
+	orig: 55, 50
+	offset: 1, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00033
+	rotate: true
+	xy: 598, 722
+	size: 19, 16
+	orig: 19, 16
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00062
+	rotate: false
+	xy: 940, 742
+	size: 82, 95
+	orig: 82, 97
+	offset: 0, 2
+	index: -1
+effect/common/New_mx_xjn_gongji5_00070
+	rotate: false
+	xy: 443, 709
+	size: 35, 32
+	orig: 35, 38
+	offset: 0, 4
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00214
+	rotate: false
+	xy: 829, 605
+	size: 192, 136
+	orig: 192, 144
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00215
+	rotate: true
+	xy: 481, 951
+	size: 71, 136
+	orig: 71, 136
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00216
+	rotate: true
+	xy: 113, 955
+	size: 66, 139
+	orig: 72, 139
+	offset: 6, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00041
+	rotate: false
+	xy: 2, 955
+	size: 110, 67
+	orig: 114, 67
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00047
+	rotate: true
+	xy: 571, 383
+	size: 100, 43
+	orig: 104, 43
+	offset: 4, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00049
+	rotate: true
+	xy: 406, 709
+	size: 32, 36
+	orig: 32, 38
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji1_00013
+	rotate: false
+	xy: 253, 954
+	size: 82, 68
+	orig: 86, 72
+	offset: 2, 3
+	index: -1
+effect/common/New_mx_xjn_gongji1_00014
+	rotate: false
+	xy: 708, 950
+	size: 86, 72
+	orig: 86, 72
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00074
+	rotate: false
+	xy: 143, 432
+	size: 182, 125
+	orig: 182, 125
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00075
+	rotate: true
+	xy: 277, 560
+	size: 181, 128
+	orig: 183, 128
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00070
+	rotate: false
+	xy: 143, 305
+	size: 182, 126
+	orig: 182, 128
+	offset: 0, 2
+	index: -1
+effect/common/New_mx_xjn_gongji2_00032
+	rotate: true
+	xy: 411, 952
+	size: 70, 69
+	orig: 78, 69
+	offset: 4, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00087
+	rotate: true
+	xy: 2, 560
+	size: 181, 140
+	orig: 181, 144
+	offset: 0, 4
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00086
+	rotate: true
+	xy: 143, 558
+	size: 183, 133
+	orig: 183, 133
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00031
+	rotate: false
+	xy: 572, 709
+	size: 36, 12
+	orig: 36, 12
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00032
+	rotate: true
+	xy: 880, 950
+	size: 72, 37
+	orig: 74, 37
+	offset: 1, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00035
+	rotate: true
+	xy: 571, 276
+	size: 106, 43
+	orig: 106, 43
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00034
+	rotate: true
+	xy: 830, 305
+	size: 104, 42
+	orig: 104, 42
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00079
+	rotate: true
+	xy: 479, 709
+	size: 31, 92
+	orig: 33, 94
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00057
+	rotate: true
+	xy: 571, 484
+	size: 75, 43
+	orig: 85, 45
+	offset: 8, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00051
+	rotate: true
+	xy: 775, 740
+	size: 100, 53
+	orig: 100, 61
+	offset: 0, 6
+	index: -1
+effect/common/New_mx_xjn_gongji1_00023
+	rotate: false
+	xy: 572, 722
+	size: 25, 19
+	orig: 27, 23
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_xjn_gongji5_00040
+	rotate: false
+	xy: 759, 742
+	size: 14, 26
+	orig: 14, 26
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00191
+	rotate: true
+	xy: 618, 950
+	size: 72, 89
+	orig: 72, 91
+	offset: 0, 2
+	index: -1
+effect/common/New_mx_lmbs_gongji2_00188
+	rotate: false
+	xy: 2, 2
+	size: 323, 302
+	orig: 323, 304
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji2_00187
+	rotate: false
+	xy: 326, 2
+	size: 288, 273
+	orig: 290, 275
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji2_00186
+	rotate: false
+	xy: 326, 276
+	size: 244, 232
+	orig: 244, 234
+	offset: 0, 1
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00223
+	rotate: true
+	xy: 482, 530
+	size: 27, 42
+	orig: 27, 42
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00212
+	rotate: true
+	xy: 878, 2
+	size: 201, 143
+	orig: 201, 143
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00213
+	rotate: true
+	xy: 2, 305
+	size: 201, 140
+	orig: 201, 140
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00124
+	rotate: false
+	xy: 336, 952
+	size: 74, 70
+	orig: 76, 72
+	offset: 0, 1
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00057
+	rotate: false
+	xy: 920, 841
+	size: 102, 112
+	orig: 102, 112
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00053
+	rotate: true
+	xy: 795, 950
+	size: 72, 84
+	orig: 72, 88
+	offset: 0, 4
+	index: -1
+effect/common/New_mx_xjn_gongji3_00046
+	rotate: true
+	xy: 550, 530
+	size: 23, 20
+	orig: 27, 24
+	offset: 2, 1
+	index: -1
+effect/common/New_mx_xjn_gongji2_00016
+	rotate: true
+	xy: 759, 789
+	size: 16, 14
+	orig: 16, 14
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00059
+	rotate: true
+	xy: 106, 507
+	size: 43, 36
+	orig: 45, 42
+	offset: 1, 5
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00053
+	rotate: false
+	xy: 918, 954
+	size: 104, 57
+	orig: 104, 57
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00052
+	rotate: false
+	xy: 2, 507
+	size: 103, 52
+	orig: 103, 56
+	offset: 0, 4
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00054
+	rotate: true
+	xy: 775, 634
+	size: 105, 53
+	orig: 107, 59
+	offset: 2, 6
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00080
+	rotate: true
+	xy: 482, 509
+	size: 20, 88
+	orig: 30, 94
+	offset: 9, 6
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00207
+	rotate: true
+	xy: 452, 742
+	size: 208, 148
+	orig: 208, 152
+	offset: 0, 1
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00206
+	rotate: true
+	xy: 601, 742
+	size: 207, 157
+	orig: 217, 157
+	offset: 3, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00205
+	rotate: false
+	xy: 615, 305
+	size: 214, 156
+	orig: 214, 156
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00204
+	rotate: true
+	xy: 297, 742
+	size: 209, 154
+	orig: 209, 154
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00203
+	rotate: false
+	xy: 406, 560
+	size: 208, 148
+	orig: 208, 150
+	offset: 0, 1
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00202
+	rotate: true
+	xy: 873, 204
+	size: 206, 149
+	orig: 206, 151
+	offset: 0, 1
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00209
+	rotate: true
+	xy: 2, 742
+	size: 212, 146
+	orig: 216, 146
+	offset: 4, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00208
+	rotate: true
+	xy: 149, 742
+	size: 211, 147
+	orig: 213, 151
+	offset: 2, 1
+	index: -1
+
+asset/spine/global_spinehero_effect6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangxuanwo_00026
+	rotate: false
+	xy: 910, 345
+	size: 110, 96
+	orig: 110, 96
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baoqixuli_00015
+	rotate: false
+	xy: 792, 806
+	size: 230, 199
+	orig: 230, 199
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z7
+	rotate: false
+	xy: 115, 510
+	size: 111, 88
+	orig: 111, 88
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_l1
+	rotate: false
+	xy: 584, 309
+	size: 82, 82
+	orig: 82, 82
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_l0
+	rotate: false
+	xy: 792, 307
+	size: 91, 88
+	orig: 91, 88
+	offset: 0, 0
+	index: -1
+
+asset/spine/meixing_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_mx_ptbs_gongji1_00037
+	rotate: false
+	xy: 533, 963
+	size: 109, 59
+	orig: 109, 59
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00032
+	rotate: true
+	xy: 621, 759
+	size: 100, 48
+	orig: 100, 48
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00031
+	rotate: false
+	xy: 356, 972
+	size: 100, 48
+	orig: 100, 48
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00030
+	rotate: false
+	xy: 215, 973
+	size: 100, 48
+	orig: 100, 48
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00117
+	rotate: true
+	xy: 272, 856
+	size: 115, 93
+	orig: 115, 97
+	offset: 0, 4
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00111
+	rotate: false
+	xy: 809, 838
+	size: 132, 123
+	orig: 136, 123
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00110
+	rotate: false
+	xy: 137, 838
+	size: 134, 134
+	orig: 138, 138
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00113
+	rotate: true
+	xy: 2, 622
+	size: 136, 112
+	orig: 136, 112
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00112
+	rotate: true
+	xy: 348, 639
+	size: 132, 120
+	orig: 136, 126
+	offset: 4, 6
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00068
+	rotate: false
+	xy: 2, 2
+	size: 172, 117
+	orig: 172, 117
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji2_00045
+	rotate: false
+	xy: 457, 971
+	size: 44, 51
+	orig: 48, 55
+	offset: 2, 3
+	index: -1
+effect/common/New_mx_xjn_gongji2_00044
+	rotate: false
+	xy: 266, 622
+	size: 43, 52
+	orig: 47, 58
+	offset: 2, 5
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00061
+	rotate: false
+	xy: 828, 416
+	size: 148, 114
+	orig: 150, 114
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00062
+	rotate: false
+	xy: 164, 506
+	size: 153, 115
+	orig: 153, 115
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00064
+	rotate: false
+	xy: 671, 385
+	size: 156, 111
+	orig: 156, 111
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00067
+	rotate: false
+	xy: 691, 2
+	size: 167, 116
+	orig: 167, 116
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00066
+	rotate: false
+	xy: 337, 280
+	size: 160, 110
+	orig: 160, 110
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00037
+	rotate: true
+	xy: 755, 761
+	size: 81, 53
+	orig: 81, 53
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00060
+	rotate: false
+	xy: 942, 838
+	size: 80, 95
+	orig: 80, 95
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00063
+	rotate: false
+	xy: 469, 759
+	size: 83, 96
+	orig: 83, 96
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00064
+	rotate: false
+	xy: 670, 761
+	size: 84, 98
+	orig: 84, 98
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji2_00046
+	rotate: false
+	xy: 765, 915
+	size: 43, 47
+	orig: 45, 53
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00041
+	rotate: false
+	xy: 176, 622
+	size: 89, 52
+	orig: 89, 52
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00046
+	rotate: false
+	xy: 743, 963
+	size: 96, 59
+	orig: 96, 61
+	offset: 0, 2
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00047
+	rotate: false
+	xy: 643, 963
+	size: 99, 59
+	orig: 99, 61
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00218
+	rotate: false
+	xy: 115, 639
+	size: 60, 121
+	orig: 60, 125
+	offset: 0, 1
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00219
+	rotate: true
+	xy: 809, 783
+	size: 54, 114
+	orig: 60, 122
+	offset: 1, 7
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00108
+	rotate: false
+	xy: 809, 649
+	size: 137, 133
+	orig: 137, 133
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00109
+	rotate: false
+	xy: 2, 838
+	size: 134, 136
+	orig: 138, 136
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00103
+	rotate: false
+	xy: 2, 120
+	size: 171, 131
+	orig: 171, 131
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00106
+	rotate: false
+	xy: 670, 497
+	size: 147, 131
+	orig: 151, 131
+	offset: 4, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00107
+	rotate: false
+	xy: 670, 629
+	size: 138, 131
+	orig: 144, 131
+	offset: 5, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00036
+	rotate: true
+	xy: 706, 860
+	size: 102, 58
+	orig: 104, 58
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji1_00015
+	rotate: true
+	xy: 270, 675
+	size: 85, 77
+	orig: 87, 77
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00038
+	rotate: false
+	xy: 840, 962
+	size: 110, 60
+	orig: 110, 60
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00076
+	rotate: false
+	xy: 684, 256
+	size: 161, 128
+	orig: 167, 128
+	offset: 5, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00077
+	rotate: false
+	xy: 174, 255
+	size: 162, 127
+	orig: 162, 133
+	offset: 0, 5
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00078
+	rotate: false
+	xy: 2, 371
+	size: 161, 136
+	orig: 163, 136
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00079
+	rotate: false
+	xy: 691, 119
+	size: 166, 136
+	orig: 166, 140
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00088
+	rotate: false
+	xy: 175, 118
+	size: 171, 136
+	orig: 171, 138
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00083
+	rotate: false
+	xy: 2, 252
+	size: 171, 118
+	orig: 171, 120
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00082
+	rotate: false
+	xy: 175, 2
+	size: 172, 115
+	orig: 172, 115
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00080
+	rotate: false
+	xy: 858, 140
+	size: 164, 136
+	orig: 168, 142
+	offset: 4, 6
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00033
+	rotate: true
+	xy: 630, 454
+	size: 102, 39
+	orig: 102, 39
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00037
+	rotate: false
+	xy: 2, 975
+	size: 111, 47
+	orig: 111, 47
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00036
+	rotate: true
+	xy: 977, 416
+	size: 109, 45
+	orig: 109, 45
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00054
+	rotate: true
+	xy: 977, 526
+	size: 97, 45
+	orig: 99, 47
+	offset: 0, 1
+	index: -1
+effect/common/New_mx_xjn_gongji1_00020
+	rotate: true
+	xy: 2, 759
+	size: 78, 81
+	orig: 80, 85
+	offset: 0, 4
+	index: -1
+effect/common/New_mx_xjn_gongji5_00048
+	rotate: false
+	xy: 533, 856
+	size: 87, 106
+	orig: 87, 106
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji5_00049
+	rotate: true
+	xy: 348, 772
+	size: 83, 109
+	orig: 89, 109
+	offset: 6, 0
+	index: -1
+effect/common/New_mx_xjn_gongji5_00045
+	rotate: true
+	xy: 469, 675
+	size: 83, 98
+	orig: 83, 98
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji5_00046
+	rotate: false
+	xy: 621, 860
+	size: 84, 102
+	orig: 84, 102
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00193
+	rotate: false
+	xy: 164, 383
+	size: 157, 122
+	orig: 157, 122
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00192
+	rotate: true
+	xy: 422, 856
+	size: 114, 110
+	orig: 114, 110
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00190
+	rotate: false
+	xy: 316, 972
+	size: 39, 50
+	orig: 45, 50
+	offset: 6, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00220
+	rotate: false
+	xy: 366, 856
+	size: 55, 115
+	orig: 55, 117
+	offset: 0, 2
+	index: -1
+effect/common/New_mx_xjn_gongji3_00025
+	rotate: true
+	xy: 568, 758
+	size: 81, 52
+	orig: 81, 52
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji3_00026
+	rotate: true
+	xy: 568, 675
+	size: 82, 52
+	orig: 82, 60
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00075
+	rotate: false
+	xy: 302, 761
+	size: 45, 94
+	orig: 49, 96
+	offset: 4, 2
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00027
+	rotate: false
+	xy: 114, 975
+	size: 100, 47
+	orig: 100, 47
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00028
+	rotate: true
+	xy: 621, 557
+	size: 100, 48
+	orig: 100, 48
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00029
+	rotate: true
+	xy: 621, 658
+	size: 100, 48
+	orig: 100, 48
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00098
+	rotate: false
+	xy: 348, 2
+	size: 171, 140
+	orig: 171, 140
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00093
+	rotate: false
+	xy: 471, 544
+	size: 149, 130
+	orig: 153, 130
+	offset: 4, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00094
+	rotate: false
+	xy: 477, 407
+	size: 152, 136
+	orig: 156, 136
+	offset: 4, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00095
+	rotate: false
+	xy: 846, 277
+	size: 156, 138
+	orig: 156, 140
+	offset: 0, 2
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00096
+	rotate: false
+	xy: 859, 2
+	size: 163, 137
+	orig: 163, 141
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00097
+	rotate: false
+	xy: 347, 143
+	size: 162, 136
+	orig: 162, 136
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00041
+	rotate: true
+	xy: 951, 934
+	size: 88, 61
+	orig: 88, 65
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji5_00055
+	rotate: true
+	xy: 84, 761
+	size: 76, 114
+	orig: 80, 114
+	offset: 3, 0
+	index: -1
+effect/common/New_mx_xjn_gongji5_00054
+	rotate: false
+	xy: 947, 726
+	size: 75, 111
+	orig: 81, 113
+	offset: 3, 2
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00054
+	rotate: true
+	xy: 199, 761
+	size: 76, 102
+	orig: 76, 104
+	offset: 0, 2
+	index: -1
+effect/common/New_mx_xjn_gongji3_00035
+	rotate: false
+	xy: 176, 675
+	size: 93, 85
+	orig: 95, 89
+	offset: 1, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00018
+	rotate: true
+	xy: 765, 843
+	size: 71, 43
+	orig: 71, 43
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji5_00068
+	rotate: true
+	xy: 630, 407
+	size: 46, 40
+	orig: 48, 42
+	offset: 2, 2
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00051
+	rotate: true
+	xy: 966, 624
+	size: 101, 56
+	orig: 101, 56
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_ptbs2_baoqixuli_00013
+	rotate: true
+	xy: 775, 286
+	size: 237, 215
+	orig: 237, 215
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_x2
+	rotate: false
+	xy: 485, 900
+	size: 113, 121
+	orig: 113, 121
+	offset: 0, 0
+	index: -1
+effect/global/ty_tongyongbaoqi_00001
+	rotate: true
+	xy: 341, 685
+	size: 214, 169
+	orig: 214, 169
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_ptbs2_baobo_00026
+	rotate: true
+	xy: 890, 150
+	size: 140, 132
+	orig: 140, 132
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_x3
+	rotate: true
+	xy: 890, 386
+	size: 124, 130
+	orig: 124, 130
+	offset: 0, 0
+	index: -1
+effect/global/ty_tongyongbaoqi_00002
+	rotate: true
+	xy: 902, 656
+	size: 156, 118
+	orig: 156, 118
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baobo_00028
+	rotate: true
+	xy: 890, 511
+	size: 144, 126
+	orig: 144, 126
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt113
+	rotate: false
+	xy: 687, 844
+	size: 176, 178
+	orig: 176, 178
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z6
+	rotate: false
+	xy: 867, 295
+	size: 154, 57
+	orig: 154, 57
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z8
+	rotate: false
+	xy: 867, 91
+	size: 154, 77
+	orig: 154, 77
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z9
+	rotate: false
+	xy: 867, 2
+	size: 154, 88
+	orig: 154, 88
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_l3
+	rotate: false
+	xy: 914, 920
+	size: 88, 88
+	orig: 88, 88
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt13
+	rotate: false
+	xy: 445, 559
+	size: 168, 177
+	orig: 168, 177
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_tongyongbaoqi_00003
+	rotate: true
+	xy: 155, 612
+	size: 72, 70
+	orig: 72, 70
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z1
+	rotate: false
+	xy: 775, 950
+	size: 137, 66
+	orig: 137, 66
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangsebo_00029
+	rotate: false
+	xy: 457, 560
+	size: 102, 101
+	orig: 102, 101
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z0
+	rotate: true
+	xy: 552, 662
+	size: 85, 3
+	orig: 85, 3
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z5
+	rotate: false
+	xy: 858, 984
+	size: 154, 36
+	orig: 154, 36
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baobo_00018
+	rotate: false
+	xy: 976, 774
+	size: 20, 20
+	orig: 20, 20
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt14
+	rotate: false
+	xy: 384, 381
+	size: 176, 178
+	orig: 176, 178
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_tongyongbaibo_00313
+	rotate: false
+	xy: 547, 773
+	size: 251, 249
+	orig: 251, 249
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z2
+	rotate: true
+	xy: 412, 131
+	size: 94, 88
+	orig: 94, 88
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_l2
+	rotate: true
+	xy: 925, 929
+	size: 91, 88
+	orig: 91, 88
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangxuanwo_00014
+	rotate: true
+	xy: 761, 475
+	size: 243, 261
+	orig: 243, 261
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangxuanwo_00016
+	rotate: true
+	xy: 780, 650
+	size: 221, 236
+	orig: 221, 236
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect16.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_ptbs2_baobo_00020
+	rotate: false
+	xy: 2, 581
+	size: 126, 125
+	orig: 126, 125
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_lmbs_huangxuanwo_00022
+	rotate: false
+	xy: 2, 141
+	size: 160, 158
+	orig: 160, 158
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_lmbs_huangsebo_00031
+	rotate: true
+	xy: 2, 441
+	size: 139, 140
+	orig: 139, 140
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baoqixuli_00005
+	rotate: false
+	xy: 2, 2
+	size: 163, 138
+	orig: 163, 138
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_lmbs_huangxuanwo_00024
+	rotate: false
+	xy: 143, 572
+	size: 135, 134
+	orig: 135, 134
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt19
+	rotate: true
+	xy: 147, 437
+	size: 134, 143
+	orig: 134, 143
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt16
+	rotate: false
+	xy: 166, 2
+	size: 162, 140
+	orig: 162, 140
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt17
+	rotate: true
+	xy: 291, 559
+	size: 124, 136
+	orig: 124, 136
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_ptbs2_baobo_00024
+	rotate: false
+	xy: 521, 593
+	size: 187, 187
+	orig: 187, 187
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baobo_00022
+	rotate: false
+	xy: 800, 2
+	size: 171, 169
+	orig: 171, 169
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_x0
+	rotate: true
+	xy: 368, 840
+	size: 176, 192
+	orig: 176, 192
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_x1
+	rotate: true
+	xy: 709, 698
+	size: 146, 157
+	orig: 146, 157
+	offset: 0, 0
+	index: -1
+effect/global/ty_tongyongbaoqi_00000
+	rotate: true
+	xy: 169, 647
+	size: 200, 165
+	orig: 200, 165
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_lmbs_tongyongbaibo_00307
+	rotate: true
+	xy: 867, 334
+	size: 156, 155
+	orig: 156, 155
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt15
+	rotate: false
+	xy: 2, 851
+	size: 176, 171
+	orig: 176, 171
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangxuanwo_00018
+	rotate: false
+	xy: 810, 742
+	size: 209, 209
+	orig: 209, 209
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_lmbs_tongyongbaibo_00305
+	rotate: false
+	xy: 902, 2
+	size: 116, 115
+	orig: 116, 115
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_lmbs_tongyongbaibo_00311
+	rotate: false
+	xy: 349, 476
+	size: 227, 226
+	orig: 227, 226
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_lmbs_tongyongbaibo_00315
+	rotate: true
+	xy: 2, 742
+	size: 272, 270
+	orig: 272, 270
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_tongyongbaoqi_00004
+	rotate: false
+	xy: 780, 319
+	size: 76, 87
+	orig: 76, 87
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_lmbs_huangsebo_00033
+	rotate: true
+	xy: 858, 307
+	size: 165, 163
+	orig: 165, 163
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_ptbs2_baoqixuli_00007
+	rotate: false
+	xy: 777, 694
+	size: 234, 143
+	orig: 234, 143
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt18
+	rotate: false
+	xy: 858, 166
+	size: 164, 140
+	orig: 164, 140
+	offset: 0, 0
+	index: -1
+
+asset/spine/meixing_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_mx_ptbs_gongji1_00051
+	rotate: false
+	xy: 999, 406
+	size: 21, 20
+	orig: 23, 24
+	offset: 1, 1
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00050
+	rotate: false
+	xy: 389, 320
+	size: 22, 22
+	orig: 28, 24
+	offset: 3, 1
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00052
+	rotate: false
+	xy: 188, 194
+	size: 18, 17
+	orig: 20, 17
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00034
+	rotate: true
+	xy: 767, 543
+	size: 102, 52
+	orig: 102, 52
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00119
+	rotate: true
+	xy: 178, 747
+	size: 105, 89
+	orig: 105, 89
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00116
+	rotate: false
+	xy: 260, 928
+	size: 110, 94
+	orig: 112, 100
+	offset: 2, 1
+	index: -1
+effect/common/New_mx_xjn_gongji1_00009
+	rotate: true
+	xy: 996, 509
+	size: 47, 26
+	orig: 51, 26
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00069
+	rotate: true
+	xy: 900, 837
+	size: 172, 122
+	orig: 174, 122
+	offset: 1, 0
+	index: -1
+effect/common/New_mx_xjn_gongji2_00041
+	rotate: true
+	xy: 518, 878
+	size: 49, 59
+	orig: 53, 59
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00060
+	rotate: false
+	xy: 268, 815
+	size: 143, 112
+	orig: 145, 116
+	offset: 0, 1
+	index: -1
+effect/common/New_mx_xjn_gongji4_00038
+	rotate: true
+	xy: 358, 580
+	size: 84, 53
+	orig: 84, 53
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00069
+	rotate: false
+	xy: 572, 928
+	size: 85, 94
+	orig: 89, 94
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_xjn_gongji5_00071
+	rotate: false
+	xy: 785, 407
+	size: 34, 23
+	orig: 36, 23
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00210
+	rotate: false
+	xy: 2, 2
+	size: 204, 149
+	orig: 208, 149
+	offset: 4, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00211
+	rotate: false
+	xy: 207, 2
+	size: 204, 147
+	orig: 204, 153
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00061
+	rotate: true
+	xy: 188, 230
+	size: 19, 17
+	orig: 19, 17
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00060
+	rotate: false
+	xy: 999, 381
+	size: 21, 24
+	orig: 23, 24
+	offset: 1, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00102
+	rotate: true
+	xy: 133, 853
+	size: 167, 126
+	orig: 167, 130
+	offset: 0, 4
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00100
+	rotate: false
+	xy: 2, 401
+	size: 179, 121
+	orig: 179, 121
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00101
+	rotate: false
+	xy: 181, 536
+	size: 176, 128
+	orig: 176, 128
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00104
+	rotate: false
+	xy: 412, 747
+	size: 173, 130
+	orig: 173, 134
+	offset: 0, 4
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00105
+	rotate: false
+	xy: 590, 534
+	size: 176, 132
+	orig: 176, 132
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00035
+	rotate: true
+	xy: 763, 748
+	size: 104, 56
+	orig: 104, 56
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji1_00010
+	rotate: true
+	xy: 785, 253
+	size: 71, 34
+	orig: 71, 34
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji1_00019
+	rotate: false
+	xy: 820, 837
+	size: 79, 90
+	orig: 81, 92
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00072
+	rotate: false
+	xy: 820, 452
+	size: 175, 129
+	orig: 177, 133
+	offset: 0, 4
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00073
+	rotate: false
+	xy: 2, 523
+	size: 178, 125
+	orig: 178, 131
+	offset: 0, 6
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00071
+	rotate: false
+	xy: 586, 801
+	size: 173, 126
+	orig: 173, 130
+	offset: 0, 4
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00089
+	rotate: false
+	xy: 820, 705
+	size: 173, 131
+	orig: 175, 137
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00081
+	rotate: true
+	xy: 2, 853
+	size: 168, 130
+	orig: 170, 136
+	offset: 2, 6
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00085
+	rotate: false
+	xy: 2, 272
+	size: 184, 128
+	orig: 184, 128
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00084
+	rotate: false
+	xy: 592, 408
+	size: 177, 125
+	orig: 177, 125
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00038
+	rotate: true
+	xy: 770, 431
+	size: 111, 49
+	orig: 111, 49
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00058
+	rotate: false
+	xy: 999, 331
+	size: 23, 24
+	orig: 27, 24
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00055
+	rotate: true
+	xy: 367, 493
+	size: 86, 44
+	orig: 94, 44
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_xjn_gongji1_00024
+	rotate: true
+	xy: 188, 152
+	size: 20, 18
+	orig: 24, 22
+	offset: 0, 1
+	index: -1
+effect/common/New_mx_xjn_gongji1_00025
+	rotate: true
+	xy: 188, 173
+	size: 20, 18
+	orig: 20, 18
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji5_00041
+	rotate: true
+	xy: 996, 452
+	size: 56, 26
+	orig: 56, 30
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji5_00043
+	rotate: true
+	xy: 178, 665
+	size: 81, 91
+	orig: 81, 99
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00197
+	rotate: false
+	xy: 2, 152
+	size: 185, 119
+	orig: 195, 119
+	offset: 10, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00196
+	rotate: false
+	xy: 206, 269
+	size: 182, 119
+	orig: 188, 119
+	offset: 6, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00195
+	rotate: false
+	xy: 412, 489
+	size: 177, 123
+	orig: 179, 123
+	offset: 1, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00194
+	rotate: false
+	xy: 820, 582
+	size: 175, 122
+	orig: 175, 122
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00199
+	rotate: false
+	xy: 617, 129
+	size: 203, 123
+	orig: 203, 123
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00198
+	rotate: false
+	xy: 207, 150
+	size: 189, 118
+	orig: 189, 122
+	offset: 0, 3
+	index: -1
+effect/common/New_mx_lmbs_gongji2_00185
+	rotate: false
+	xy: 822, 2
+	size: 196, 185
+	orig: 196, 187
+	offset: 0, 2
+	index: -1
+effect/common/New_mx_lmbs_gongji2_00184
+	rotate: true
+	xy: 270, 665
+	size: 149, 141
+	orig: 149, 141
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji3_00021
+	rotate: false
+	xy: 188, 250
+	size: 17, 17
+	orig: 17, 17
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji3_00022
+	rotate: true
+	xy: 999, 356
+	size: 24, 23
+	orig: 26, 25
+	offset: 0, 2
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00047
+	rotate: true
+	xy: 84, 780
+	size: 72, 79
+	orig: 72, 79
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00045
+	rotate: false
+	xy: 389, 343
+	size: 22, 21
+	orig: 22, 21
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00048
+	rotate: true
+	xy: 2, 780
+	size: 72, 81
+	orig: 72, 81
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji4_00059
+	rotate: false
+	xy: 389, 385
+	size: 22, 19
+	orig: 24, 23
+	offset: 1, 1
+	index: -1
+effect/common/New_mx_xjn_gongji4_00062
+	rotate: false
+	xy: 188, 212
+	size: 18, 17
+	orig: 20, 17
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00070
+	rotate: false
+	xy: 482, 928
+	size: 89, 94
+	orig: 89, 94
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00099
+	rotate: false
+	xy: 820, 331
+	size: 178, 120
+	orig: 178, 122
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00090
+	rotate: false
+	xy: 588, 667
+	size: 174, 133
+	orig: 174, 133
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00091
+	rotate: false
+	xy: 412, 613
+	size: 175, 133
+	orig: 175, 135
+	offset: 0, 1
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00092
+	rotate: false
+	xy: 2, 649
+	size: 175, 130
+	orig: 175, 130
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00125
+	rotate: false
+	xy: 760, 853
+	size: 51, 74
+	orig: 51, 74
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji1_00056
+	rotate: true
+	xy: 371, 928
+	size: 94, 110
+	orig: 94, 110
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00060
+	rotate: true
+	xy: 785, 325
+	size: 42, 34
+	orig: 42, 38
+	offset: 0, 3
+	index: -1
+effect/common/New_mx_xjn_gongji3_00033
+	rotate: true
+	xy: 658, 928
+	size: 94, 83
+	orig: 94, 85
+	offset: 0, 2
+	index: -1
+effect/common/New_mx_ptgj_gongji2_00058
+	rotate: false
+	xy: 742, 928
+	size: 78, 94
+	orig: 78, 94
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji3_00048
+	rotate: false
+	xy: 999, 427
+	size: 21, 20
+	orig: 23, 24
+	offset: 1, 1
+	index: -1
+effect/common/New_mx_xjn_gongji3_00049
+	rotate: false
+	xy: 188, 268
+	size: 17, 17
+	orig: 19, 17
+	offset: 2, 0
+	index: -1
+effect/common/New_mx_xjn_gongji3_00047
+	rotate: false
+	xy: 389, 365
+	size: 22, 19
+	orig: 24, 23
+	offset: 2, 1
+	index: -1
+effect/common/New_mx_xjn_gongji3_00040
+	rotate: true
+	xy: 821, 928
+	size: 94, 76
+	orig: 96, 82
+	offset: 0, 6
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00016
+	rotate: true
+	xy: 187, 286
+	size: 22, 16
+	orig: 22, 16
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptbs_gongji1_00019
+	rotate: true
+	xy: 367, 405
+	size: 87, 44
+	orig: 95, 44
+	offset: 1, 0
+	index: -1
+effect/common/New_mx_xjn_gongji2_00017
+	rotate: false
+	xy: 389, 269
+	size: 22, 50
+	orig: 24, 50
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_xjn_gongji5_00069
+	rotate: true
+	xy: 785, 368
+	size: 38, 34
+	orig: 48, 40
+	offset: 5, 3
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00050
+	rotate: true
+	xy: 767, 646
+	size: 101, 52
+	orig: 101, 56
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_ptgj_gongji1_00056
+	rotate: false
+	xy: 412, 878
+	size: 105, 49
+	orig: 107, 55
+	offset: 1, 6
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00201
+	rotate: false
+	xy: 412, 2
+	size: 204, 138
+	orig: 206, 138
+	offset: 0, 0
+	index: -1
+effect/common/New_mx_lmbs_gongji3_00200
+	rotate: false
+	xy: 617, 2
+	size: 204, 126
+	orig: 204, 126
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_sy_lmbs_huangsebo_00027
+	rotate: false
+	xy: 771, 499
+	size: 62, 62
+	orig: 62, 62
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z3
+	rotate: false
+	xy: 616, 499
+	size: 154, 64
+	orig: 154, 64
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z4
+	rotate: false
+	xy: 834, 499
+	size: 154, 60
+	orig: 154, 60
+	offset: 0, 0
+	index: -1
+effect/global/New_sy_lmbs_tongyongbaibo_00303
+	rotate: true
+	xy: 539, 499
+	size: 75, 76
+	orig: 77, 76
+	offset: 0, 0
+	index: -1

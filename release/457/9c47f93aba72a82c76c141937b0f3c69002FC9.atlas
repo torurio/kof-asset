@@ -1,0 +1,681 @@
+
+asset/spine/ctczszCard_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/caiticzsz_te_huo33
+	rotate: false
+	xy: 2, 2
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te7
+	rotate: false
+	xy: 816, 416
+	size: 112, 94
+	orig: 124, 124
+	offset: 7, 20
+	index: -1
+effect/common/caiticzsz_te6
+	rotate: false
+	xy: 816, 319
+	size: 112, 96
+	orig: 124, 124
+	offset: 6, 19
+	index: -1
+effect/common/caiticzsz_te1
+	rotate: true
+	xy: 816, 2
+	size: 108, 112
+	orig: 124, 124
+	offset: 11, 7
+	index: -1
+effect/common/caiticzsz_te3
+	rotate: false
+	xy: 816, 111
+	size: 112, 104
+	orig: 124, 124
+	offset: 9, 12
+	index: -1
+effect/common/caiticzsz_te2
+	rotate: false
+	xy: 816, 511
+	size: 110, 108
+	orig: 124, 124
+	offset: 11, 8
+	index: -1
+effect/common/caiticzsz_te9
+	rotate: true
+	xy: 350, 832
+	size: 108, 104
+	orig: 124, 124
+	offset: 8, 17
+	index: -1
+effect/common/caiticzsz_te8
+	rotate: true
+	xy: 455, 832
+	size: 108, 98
+	orig: 124, 124
+	offset: 9, 17
+	index: -1
+effect/common/caiticzsz_te5
+	rotate: false
+	xy: 816, 216
+	size: 112, 102
+	orig: 124, 124
+	offset: 7, 19
+	index: -1
+effect/common/caiticzsz_te11
+	rotate: false
+	xy: 554, 832
+	size: 102, 104
+	orig: 124, 124
+	offset: 7, 16
+	index: -1
+effect/common/caiticzsz_te_huo36
+	rotate: true
+	xy: 350, 350
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te13
+	rotate: false
+	xy: 455, 723
+	size: 100, 108
+	orig: 124, 124
+	offset: 8, 13
+	index: -1
+effect/common/caiticzsz_te14
+	rotate: true
+	xy: 816, 620
+	size: 102, 110
+	orig: 124, 124
+	offset: 9, 10
+	index: -1
+effect/common/caiticzsz_te_huo34
+	rotate: false
+	xy: 2, 468
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo35
+	rotate: true
+	xy: 350, 2
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te10
+	rotate: true
+	xy: 350, 723
+	size: 108, 104
+	orig: 124, 124
+	offset: 7, 17
+	index: -1
+
+asset/spine/ctczszCard_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/caiticzsz_te_shui011
+	rotate: true
+	xy: 816, 228
+	size: 112, 161
+	orig: 156, 225
+	offset: 22, 32
+	index: -1
+effect/common/caiticzsz_te_shui010
+	rotate: true
+	xy: 816, 115
+	size: 112, 161
+	orig: 156, 225
+	offset: 22, 32
+	index: -1
+effect/common/caiticzsz_te_huo40
+	rotate: true
+	xy: 350, 350
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te4
+	rotate: false
+	xy: 689, 698
+	size: 114, 106
+	orig: 124, 124
+	offset: 7, 16
+	index: -1
+effect/common/caiticzsz_te15
+	rotate: false
+	xy: 915, 787
+	size: 106, 112
+	orig: 124, 124
+	offset: 10, 8
+	index: -1
+effect/common/caiticzsz_te_huo37
+	rotate: false
+	xy: 2, 2
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_shui008
+	rotate: true
+	xy: 816, 452
+	size: 110, 161
+	orig: 156, 225
+	offset: 24, 32
+	index: -1
+effect/common/caiticzsz_te_shui009
+	rotate: true
+	xy: 816, 563
+	size: 110, 161
+	orig: 156, 225
+	offset: 24, 32
+	index: -1
+effect/common/caiticzsz_te_shui000
+	rotate: true
+	xy: 816, 674
+	size: 112, 159
+	orig: 156, 225
+	offset: 22, 33
+	index: -1
+effect/common/caiticzsz_te_shui001
+	rotate: false
+	xy: 350, 787
+	size: 112, 159
+	orig: 156, 225
+	offset: 22, 33
+	index: -1
+effect/common/caiticzsz_te_shui002
+	rotate: false
+	xy: 463, 787
+	size: 112, 159
+	orig: 156, 225
+	offset: 22, 33
+	index: -1
+effect/common/caiticzsz_te_shui003
+	rotate: false
+	xy: 576, 787
+	size: 112, 159
+	orig: 156, 225
+	offset: 22, 33
+	index: -1
+effect/common/caiticzsz_te_shui004
+	rotate: false
+	xy: 689, 805
+	size: 112, 159
+	orig: 156, 225
+	offset: 22, 33
+	index: -1
+effect/common/caiticzsz_te_shui005
+	rotate: false
+	xy: 802, 805
+	size: 112, 159
+	orig: 156, 225
+	offset: 22, 33
+	index: -1
+effect/common/caiticzsz_te_shui006
+	rotate: true
+	xy: 816, 2
+	size: 112, 161
+	orig: 156, 225
+	offset: 22, 32
+	index: -1
+effect/common/caiticzsz_te_shui007
+	rotate: true
+	xy: 816, 341
+	size: 110, 161
+	orig: 156, 225
+	offset: 24, 32
+	index: -1
+effect/common/caiticzsz_te12
+	rotate: true
+	xy: 915, 900
+	size: 102, 106
+	orig: 124, 124
+	offset: 7, 14
+	index: -1
+effect/common/caiticzsz_te_huo38
+	rotate: false
+	xy: 2, 468
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo39
+	rotate: true
+	xy: 350, 2
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+
+asset/spine/ctczszCard_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/caiticzsz_te_huo28
+	rotate: false
+	xy: 350, 350
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo26
+	rotate: false
+	xy: 2, 468
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo25
+	rotate: false
+	xy: 2, 2
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo27
+	rotate: true
+	xy: 350, 2
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+
+asset/spine/ctczszCard_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/caiticzsz_te_huo32
+	rotate: false
+	xy: 350, 350
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo29
+	rotate: false
+	xy: 2, 2
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo31
+	rotate: true
+	xy: 350, 2
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo30
+	rotate: false
+	xy: 2, 468
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+
+asset/spine/ctczszCard_common5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/caiticzsz_te_huo20
+	rotate: false
+	xy: 350, 350
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo18
+	rotate: false
+	xy: 2, 468
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo19
+	rotate: true
+	xy: 350, 2
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo17
+	rotate: false
+	xy: 2, 2
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+
+asset/spine/ctczszCard_common4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/caiticzsz_te_huo21
+	rotate: false
+	xy: 2, 2
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo24
+	rotate: false
+	xy: 350, 350
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo23
+	rotate: true
+	xy: 350, 2
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo22
+	rotate: false
+	xy: 2, 468
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+
+asset/spine/ctczszCard_common7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/caiticzsz_te_huo09
+	rotate: false
+	xy: 2, 2
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo10
+	rotate: false
+	xy: 2, 468
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo11
+	rotate: true
+	xy: 350, 2
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo12
+	rotate: false
+	xy: 350, 350
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+
+asset/spine/ctczszCard_common6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/caiticzsz_te_huo13
+	rotate: false
+	xy: 2, 2
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo14
+	rotate: false
+	xy: 2, 468
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo15
+	rotate: true
+	xy: 350, 2
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo16
+	rotate: false
+	xy: 350, 350
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+
+asset/spine/ctczszCard_common9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/caiticzsz_te_huo03
+	rotate: true
+	xy: 350, 2
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo02
+	rotate: false
+	xy: 2, 468
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo01
+	rotate: false
+	xy: 2, 2
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo04
+	rotate: false
+	xy: 350, 350
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+
+asset/spine/ctczszCard_common8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/caiticzsz_te_huo08
+	rotate: false
+	xy: 350, 350
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo07
+	rotate: true
+	xy: 350, 2
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo06
+	rotate: false
+	xy: 2, 468
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+effect/common/caiticzsz_te_huo05
+	rotate: false
+	xy: 2, 2
+	size: 347, 465
+	orig: 347, 465
+	offset: 0, 0
+	index: -1
+
+asset/spine/ctczszCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/caitichaizhoushizhuangD_kabeitu_14
+	rotate: false
+	xy: 53, 940
+	size: 37, 76
+	orig: 39, 78
+	offset: 1, 1
+	index: -1
+role/caitichaizhoushizhuangD_kabeitu_15
+	rotate: true
+	xy: 115, 1000
+	size: 18, 34
+	orig: 20, 36
+	offset: 1, 1
+	index: -1
+role/caitichaizhoushizhuangD_kabeitu_16
+	rotate: false
+	xy: 913, 649
+	size: 98, 136
+	orig: 100, 138
+	offset: 1, 1
+	index: -1
+role/caitichaizhoushizhuangD_kabeitu_17
+	rotate: false
+	xy: 179, 987
+	size: 31, 31
+	orig: 33, 33
+	offset: 1, 1
+	index: -1
+role/caitichaizhoushizhuangD_kabeitu_10
+	rotate: false
+	xy: 91, 1000
+	size: 23, 22
+	orig: 25, 24
+	offset: 1, 1
+	index: -1
+role/caitichaizhoushizhuangD_kabeitu_13
+	rotate: true
+	xy: 694, 659
+	size: 160, 191
+	orig: 162, 193
+	offset: 1, 1
+	index: -1
+role/caitichaizhoushizhuangD_kabeitu_18
+	rotate: false
+	xy: 832, 820
+	size: 157, 142
+	orig: 159, 144
+	offset: 1, 1
+	index: -1
+role/caitichaizhoushizhuangD_kabeitu_19
+	rotate: false
+	xy: 2, 940
+	size: 50, 77
+	orig: 52, 79
+	offset: 1, 1
+	index: -1
+role/caitichaizhoushizhuangD_kabeitu_6
+	rotate: true
+	xy: 179, 940
+	size: 46, 28
+	orig: 48, 30
+	offset: 1, 1
+	index: -1
+role/caitichaizhoushizhuangD_kabeitu_7
+	rotate: true
+	xy: 913, 500
+	size: 148, 107
+	orig: 150, 109
+	offset: 1, 1
+	index: -1
+role/caitichaizhoushizhuangD_kabeitu_4
+	rotate: false
+	xy: 694, 348
+	size: 245, 151
+	orig: 247, 153
+	offset: 1, 1
+	index: -1
+role/caitichaizhoushizhuangD_kabeitu_5
+	rotate: true
+	xy: 694, 820
+	size: 170, 137
+	orig: 172, 139
+	offset: 1, 1
+	index: -1
+role/caitichaizhoushizhuangD_kabeitu_2
+	rotate: true
+	xy: 694, 2
+	size: 345, 276
+	orig: 347, 278
+	offset: 1, 1
+	index: -1
+role/caitichaizhoushizhuangD_kabeitu_1
+	rotate: false
+	xy: 694, 500
+	size: 218, 158
+	orig: 220, 160
+	offset: 1, 1
+	index: -1
+role/caitichaizhoushizhuangD_kabeitu_21
+	rotate: false
+	xy: 2, 2
+	size: 691, 937
+	orig: 693, 939
+	offset: 1, 1
+	index: -1
+role/caitichaizhoushizhuangD_kabeitu_8
+	rotate: false
+	xy: 125, 940
+	size: 53, 55
+	orig: 55, 57
+	offset: 1, 1
+	index: -1
+role/caitichaizhoushizhuangD_kabeitu_9
+	rotate: true
+	xy: 91, 940
+	size: 59, 33
+	orig: 61, 35
+	offset: 1, 1
+	index: -1
+
+asset/spine/ctczszCard_role1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/caitichaizhoushizhuangD_kabeitu_11
+	rotate: false
+	xy: 2, 571
+	size: 550, 379
+	orig: 552, 381
+	offset: 1, 1
+	index: -1
+role/caitichaizhoushizhuangD_kabeitu_12
+	rotate: true
+	xy: 553, 2
+	size: 139, 143
+	orig: 141, 145
+	offset: 1, 1
+	index: -1
+role/caitichaizhoushizhuangD_kabeitu_3
+	rotate: false
+	xy: 2, 2
+	size: 387, 568
+	orig: 389, 570
+	offset: 1, 1
+	index: -1

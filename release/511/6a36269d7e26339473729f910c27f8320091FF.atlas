@@ -1,0 +1,2450 @@
+
+asset/spine/teruiTRSZ_role2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+terui_rf_run_22
+	rotate: true
+	xy: 703, 759
+	size: 41, 42
+	orig: 41, 42
+	offset: 0, 0
+	index: -1
+terui_rf_run_27
+	rotate: false
+	xy: 758, 170
+	size: 173, 125
+	orig: 173, 125
+	offset: 0, 0
+	index: -1
+terui_rf_idle_20
+	rotate: false
+	xy: 558, 324
+	size: 157, 133
+	orig: 157, 133
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_48
+	rotate: false
+	xy: 431, 818
+	size: 101, 142
+	orig: 101, 142
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_44
+	rotate: false
+	xy: 934, 102
+	size: 88, 74
+	orig: 88, 74
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_47
+	rotate: true
+	xy: 508, 981
+	size: 41, 45
+	orig: 41, 45
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_105
+	rotate: false
+	xy: 893, 676
+	size: 128, 142
+	orig: 134, 142
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_27
+	rotate: true
+	xy: 308, 617
+	size: 97, 87
+	orig: 97, 87
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_6
+	rotate: false
+	xy: 746, 296
+	size: 168, 115
+	orig: 168, 115
+	offset: 0, 0
+	index: -1
+terui_rf_atk_68
+	rotate: false
+	xy: 2, 295
+	size: 161, 146
+	orig: 161, 146
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_4
+	rotate: false
+	xy: 895, 545
+	size: 127, 130
+	orig: 127, 130
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_6
+	rotate: false
+	xy: 552, 458
+	size: 150, 99
+	orig: 150, 99
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_29
+	rotate: false
+	xy: 431, 961
+	size: 76, 61
+	orig: 76, 61
+	offset: 0, 0
+	index: -1
+terui_rf_atk_80
+	rotate: false
+	xy: 398, 969
+	size: 32, 47
+	orig: 32, 47
+	offset: 0, 0
+	index: -1
+terui_rf_atk_85
+	rotate: false
+	xy: 396, 260
+	size: 161, 109
+	orig: 161, 109
+	offset: 0, 0
+	index: -1
+terui_rf_sl_0
+	rotate: false
+	xy: 703, 801
+	size: 42, 40
+	orig: 42, 40
+	offset: 0, 0
+	index: -1
+terui_rf_atk_79
+	rotate: false
+	xy: 822, 940
+	size: 69, 81
+	orig: 69, 81
+	offset: 0, 0
+	index: -1
+terui_rf_atk_74
+	rotate: false
+	xy: 155, 556
+	size: 152, 136
+	orig: 152, 136
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_23
+	rotate: true
+	xy: 758, 2
+	size: 167, 175
+	orig: 167, 175
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_25
+	rotate: false
+	xy: 398, 909
+	size: 32, 59
+	orig: 32, 59
+	offset: 0, 0
+	index: -1
+terui_rf_atk_96
+	rotate: true
+	xy: 543, 558
+	size: 81, 94
+	orig: 81, 94
+	offset: 0, 0
+	index: -1
+terui_rf_idle_13
+	rotate: false
+	xy: 716, 324
+	size: 29, 126
+	orig: 29, 126
+	offset: 0, 0
+	index: -1
+terui_rf_idle_12
+	rotate: false
+	xy: 332, 173
+	size: 63, 131
+	orig: 63, 131
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_18
+	rotate: false
+	xy: 396, 640
+	size: 95, 74
+	orig: 95, 74
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_36
+	rotate: false
+	xy: 396, 370
+	size: 155, 134
+	orig: 155, 134
+	offset: 0, 0
+	index: -1
+terui_rf_atk_88
+	rotate: true
+	xy: 354, 821
+	size: 87, 76
+	orig: 93, 76
+	offset: 6, 0
+	index: -1
+terui_rf_atk_3
+	rotate: false
+	xy: 703, 670
+	size: 42, 44
+	orig: 42, 44
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_31
+	rotate: true
+	xy: 404, 715
+	size: 102, 130
+	orig: 102, 130
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_26
+	rotate: false
+	xy: 164, 425
+	size: 154, 130
+	orig: 158, 130
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_18
+	rotate: false
+	xy: 535, 715
+	size: 48, 97
+	orig: 48, 97
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_111
+	rotate: true
+	xy: 716, 451
+	size: 57, 29
+	orig: 57, 29
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_28
+	rotate: false
+	xy: 219, 822
+	size: 57, 88
+	orig: 57, 88
+	offset: 0, 0
+	index: -1
+terui_rf_idle_22_bu_6
+	rotate: false
+	xy: 584, 857
+	size: 53, 47
+	orig: 53, 47
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_25
+	rotate: false
+	xy: 2, 542
+	size: 152, 145
+	orig: 152, 145
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_81
+	rotate: true
+	xy: 533, 911
+	size: 69, 50
+	orig: 73, 50
+	offset: 4, 0
+	index: -1
+terui_rf_run_17
+	rotate: false
+	xy: 2, 442
+	size: 153, 99
+	orig: 153, 99
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_16
+	rotate: false
+	xy: 638, 558
+	size: 64, 94
+	orig: 64, 94
+	offset: 0, 0
+	index: -1
+terui_rf_atk_20
+	rotate: true
+	xy: 328, 910
+	size: 104, 69
+	orig: 104, 69
+	offset: 0, 0
+	index: -1
+terui_rf_idle_5_3
+	rotate: false
+	xy: 718, 905
+	size: 27, 64
+	orig: 27, 64
+	offset: 0, 0
+	index: -1
+terui_rf_atk_65
+	rotate: false
+	xy: 154, 693
+	size: 146, 128
+	orig: 146, 128
+	offset: 0, 0
+	index: -1
+terui_rf_sl_2
+	rotate: true
+	xy: 746, 940
+	size: 82, 75
+	orig: 82, 75
+	offset: 0, 0
+	index: -1
+terui_rf_run_6
+	rotate: true
+	xy: 319, 493
+	size: 123, 76
+	orig: 123, 76
+	offset: 0, 0
+	index: -1
+terui_rf_sl_4
+	rotate: true
+	xy: 746, 840
+	size: 99, 145
+	orig: 99, 145
+	offset: 0, 0
+	index: -1
+terui_rf_atk_58
+	rotate: false
+	xy: 573, 171
+	size: 172, 152
+	orig: 172, 152
+	offset: 0, 0
+	index: -1
+terui_rf_run_19
+	rotate: false
+	xy: 554, 981
+	size: 29, 41
+	orig: 29, 41
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_62
+	rotate: true
+	xy: 915, 318
+	size: 148, 105
+	orig: 148, 119
+	offset: 0, 14
+	index: -1
+terui_rf_die_1
+	rotate: true
+	xy: 703, 842
+	size: 62, 32
+	orig: 62, 32
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_28
+	rotate: true
+	xy: 535, 813
+	size: 97, 48
+	orig: 97, 48
+	offset: 0, 0
+	index: -1
+terui_rf_run_31
+	rotate: true
+	xy: 324, 388
+	size: 104, 71
+	orig: 104, 71
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_2
+	rotate: false
+	xy: 746, 610
+	size: 146, 93
+	orig: 146, 93
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_3
+	rotate: false
+	xy: 746, 512
+	size: 148, 97
+	orig: 148, 97
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_4
+	rotate: false
+	xy: 746, 412
+	size: 150, 99
+	orig: 150, 99
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_5
+	rotate: false
+	xy: 2, 816
+	size: 146, 94
+	orig: 146, 94
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_7
+	rotate: false
+	xy: 2, 2
+	size: 196, 170
+	orig: 196, 170
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_8
+	rotate: false
+	xy: 199, 2
+	size: 196, 170
+	orig: 196, 170
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_119
+	rotate: false
+	xy: 703, 574
+	size: 42, 48
+	orig: 42, 48
+	offset: 0, 0
+	index: -1
+terui_rf_sl_19
+	rotate: false
+	xy: 301, 715
+	size: 102, 105
+	orig: 102, 105
+	offset: 0, 0
+	index: -1
+terui_rf_sl_13
+	rotate: true
+	xy: 892, 895
+	size: 127, 121
+	orig: 127, 121
+	offset: 0, 0
+	index: -1
+terui_rf_atk_32
+	rotate: false
+	xy: 208, 911
+	size: 119, 105
+	orig: 119, 105
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_2
+	rotate: false
+	xy: 492, 640
+	size: 91, 74
+	orig: 91, 74
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_0
+	rotate: true
+	xy: 703, 509
+	size: 64, 42
+	orig: 64, 42
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_paobu_yan2
+	rotate: false
+	xy: 978, 232
+	size: 43, 51
+	orig: 43, 51
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan3
+	rotate: false
+	xy: 978, 284
+	size: 43, 51
+	orig: 43, 51
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_diying_dy
+	rotate: false
+	xy: 656, 2
+	size: 305, 97
+	orig: 305, 97
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_paobu_yan0
+	rotate: false
+	xy: 532, 583
+	size: 49, 50
+	orig: 49, 50
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan1
+	rotate: false
+	xy: 345, 619
+	size: 49, 49
+	orig: 49, 49
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan4
+	rotate: false
+	xy: 532, 531
+	size: 49, 51
+	orig: 49, 51
+	offset: 0, 0
+	index: -1
+
+asset/spine/teruiTRSZ_role3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+terui_rf_run_20
+	rotate: false
+	xy: 929, 187
+	size: 37, 57
+	orig: 37, 57
+	offset: 0, 0
+	index: -1
+terui_rf_idle_21_a
+	rotate: false
+	xy: 777, 860
+	size: 42, 40
+	orig: 42, 40
+	offset: 0, 0
+	index: -1
+terui_rf_run_26
+	rotate: true
+	xy: 966, 414
+	size: 48, 56
+	orig: 48, 56
+	offset: 0, 0
+	index: -1
+terui_rf_run_24
+	rotate: true
+	xy: 707, 787
+	size: 74, 45
+	orig: 74, 45
+	offset: 0, 0
+	index: -1
+terui_rf_atk_99
+	rotate: true
+	xy: 889, 72
+	size: 50, 53
+	orig: 50, 53
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_14
+	rotate: true
+	xy: 646, 410
+	size: 75, 51
+	orig: 75, 51
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_49
+	rotate: true
+	xy: 717, 333
+	size: 70, 66
+	orig: 74, 66
+	offset: 0, 0
+	index: -1
+terui_rf_atk_63
+	rotate: true
+	xy: 217, 503
+	size: 55, 86
+	orig: 55, 86
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_22
+	rotate: true
+	xy: 928, 471
+	size: 32, 37
+	orig: 32, 37
+	offset: 0, 0
+	index: -1
+terui_rf_idle_14
+	rotate: true
+	xy: 964, 808
+	size: 41, 43
+	orig: 41, 43
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_41
+	rotate: false
+	xy: 621, 564
+	size: 74, 72
+	orig: 74, 72
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_42
+	rotate: true
+	xy: 670, 637
+	size: 74, 67
+	orig: 74, 67
+	offset: 0, 0
+	index: -1
+terui_rf_atk_61
+	rotate: true
+	xy: 820, 760
+	size: 44, 48
+	orig: 44, 48
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_55
+	rotate: false
+	xy: 121, 281
+	size: 121, 128
+	orig: 121, 132
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_46
+	rotate: false
+	xy: 328, 123
+	size: 69, 86
+	orig: 69, 88
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_101
+	rotate: false
+	xy: 696, 563
+	size: 68, 73
+	orig: 68, 73
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_20
+	rotate: false
+	xy: 698, 410
+	size: 46, 71
+	orig: 46, 71
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_103
+	rotate: true
+	xy: 417, 987
+	size: 35, 45
+	orig: 35, 45
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_3
+	rotate: false
+	xy: 966, 727
+	size: 48, 36
+	orig: 48, 36
+	offset: 0, 0
+	index: -1
+terui_rf_sl_11_2
+	rotate: false
+	xy: 577, 487
+	size: 57, 76
+	orig: 57, 76
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_21
+	rotate: false
+	xy: 611, 123
+	size: 62, 72
+	orig: 62, 72
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_74
+	rotate: true
+	xy: 749, 74
+	size: 48, 71
+	orig: 48, 73
+	offset: 0, 1
+	index: -1
+terui_rf_gebei_33
+	rotate: true
+	xy: 676, 863
+	size: 74, 53
+	orig: 74, 53
+	offset: 0, 0
+	index: -1
+terui_rf_atk_82
+	rotate: true
+	xy: 345, 827
+	size: 79, 75
+	orig: 83, 75
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_58
+	rotate: false
+	xy: 461, 558
+	size: 45, 78
+	orig: 45, 78
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_23
+	rotate: false
+	xy: 189, 873
+	size: 80, 93
+	orig: 80, 93
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_56
+	rotate: true
+	xy: 443, 2
+	size: 85, 69
+	orig: 85, 69
+	offset: 0, 0
+	index: -1
+terui_rf_atk_89
+	rotate: true
+	xy: 805, 123
+	size: 70, 59
+	orig: 70, 59
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_54
+	rotate: false
+	xy: 821, 74
+	size: 67, 48
+	orig: 67, 48
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_53
+	rotate: false
+	xy: 514, 973
+	size: 48, 49
+	orig: 48, 49
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_52
+	rotate: true
+	xy: 556, 637
+	size: 76, 66
+	orig: 76, 66
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_51
+	rotate: true
+	xy: 809, 400
+	size: 42, 32
+	orig: 42, 32
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_50
+	rotate: false
+	xy: 327, 352
+	size: 85, 57
+	orig: 89, 57
+	offset: 4, 0
+	index: -1
+terui_rf_skbs12_6_bu1
+	rotate: false
+	xy: 243, 2
+	size: 115, 120
+	orig: 115, 120
+	offset: 0, 0
+	index: -1
+terui_rf_atk_77
+	rotate: true
+	xy: 563, 207
+	size: 54, 47
+	orig: 54, 47
+	offset: 0, 0
+	index: -1
+terui_rf_atk_73
+	rotate: true
+	xy: 605, 86
+	size: 36, 60
+	orig: 36, 60
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_29
+	rotate: true
+	xy: 820, 924
+	size: 40, 41
+	orig: 40, 41
+	offset: 0, 0
+	index: -1
+terui_rf_atk_103
+	rotate: false
+	xy: 966, 463
+	size: 56, 40
+	orig: 56, 40
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_22
+	rotate: false
+	xy: 967, 123
+	size: 55, 44
+	orig: 55, 44
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_26
+	rotate: false
+	xy: 183, 657
+	size: 92, 94
+	orig: 92, 94
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_27
+	rotate: false
+	xy: 488, 717
+	size: 62, 77
+	orig: 62, 77
+	offset: 0, 0
+	index: -1
+terui_rf_atk_90
+	rotate: false
+	xy: 367, 410
+	size: 69, 86
+	orig: 69, 86
+	offset: 0, 0
+	index: -1
+terui_rf_atk_91
+	rotate: false
+	xy: 928, 426
+	size: 37, 44
+	orig: 39, 44
+	offset: 1, 0
+	index: -1
+terui_rf_atk_92
+	rotate: false
+	xy: 231, 135
+	size: 96, 126
+	orig: 96, 126
+	offset: 0, 0
+	index: -1
+terui_rf_atk_93
+	rotate: false
+	xy: 459, 800
+	size: 30, 78
+	orig: 30, 78
+	offset: 0, 0
+	index: -1
+terui_rf_atk_94
+	rotate: false
+	xy: 243, 262
+	size: 74, 91
+	orig: 74, 91
+	offset: 0, 0
+	index: -1
+terui_rf_atk_95
+	rotate: true
+	xy: 895, 313
+	size: 43, 32
+	orig: 43, 32
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_30
+	rotate: true
+	xy: 674, 123
+	size: 72, 62
+	orig: 74, 62
+	offset: 2, 0
+	index: -1
+terui_rf_sl_22
+	rotate: true
+	xy: 507, 567
+	size: 69, 59
+	orig: 69, 59
+	offset: 0, 0
+	index: -1
+terui_rf_sl_20
+	rotate: false
+	xy: 892, 493
+	size: 35, 43
+	orig: 35, 43
+	offset: 0, 0
+	index: -1
+terui_rf_atk_67
+	rotate: true
+	xy: 398, 558
+	size: 79, 62
+	orig: 79, 62
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_126
+	rotate: false
+	xy: 929, 245
+	size: 37, 57
+	orig: 39, 57
+	offset: 0, 0
+	index: -1
+terui_rf_run_1
+	rotate: true
+	xy: 536, 86
+	size: 36, 68
+	orig: 36, 68
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_124
+	rotate: true
+	xy: 946, 633
+	size: 44, 57
+	orig: 44, 57
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_45
+	rotate: true
+	xy: 865, 123
+	size: 66, 47
+	orig: 66, 47
+	offset: 0, 0
+	index: -1
+terui_rf_run_0
+	rotate: false
+	xy: 928, 343
+	size: 38, 35
+	orig: 38, 35
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_113
+	rotate: false
+	xy: 488, 346
+	size: 76, 63
+	orig: 76, 63
+	offset: 0, 0
+	index: -1
+terui_rf_atk_37
+	rotate: true
+	xy: 863, 913
+	size: 40, 41
+	orig: 40, 41
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_38
+	rotate: true
+	xy: 823, 194
+	size: 64, 60
+	orig: 64, 60
+	offset: 0, 0
+	index: -1
+terui_rf_run_5
+	rotate: true
+	xy: 456, 492
+	size: 65, 50
+	orig: 71, 54
+	offset: 0, 4
+	index: -1
+terui_rf_atk_21
+	rotate: false
+	xy: 865, 836
+	size: 43, 36
+	orig: 43, 36
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_37
+	rotate: true
+	xy: 498, 637
+	size: 77, 57
+	orig: 77, 57
+	offset: 0, 0
+	index: -1
+terui_rf_run_2
+	rotate: true
+	xy: 967, 278
+	size: 44, 53
+	orig: 44, 53
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_92
+	rotate: false
+	xy: 600, 410
+	size: 45, 76
+	orig: 45, 76
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_31
+	rotate: false
+	xy: 949, 927
+	size: 39, 39
+	orig: 39, 39
+	offset: 0, 0
+	index: -1
+terui_rf_sl_3
+	rotate: false
+	xy: 913, 123
+	size: 53, 63
+	orig: 53, 63
+	offset: 0, 0
+	index: -1
+terui_rf_atk_11
+	rotate: false
+	xy: 777, 938
+	size: 41, 39
+	orig: 41, 39
+	offset: 0, 0
+	index: -1
+terui_rf_atk_28
+	rotate: true
+	xy: 601, 869
+	size: 76, 74
+	orig: 76, 74
+	offset: 0, 0
+	index: -1
+terui_rf_sl_bu_4
+	rotate: false
+	xy: 820, 850
+	size: 43, 36
+	orig: 43, 36
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_16
+	rotate: false
+	xy: 928, 303
+	size: 38, 39
+	orig: 38, 39
+	offset: 0, 0
+	index: -1
+terui_rf_sl_bu_1
+	rotate: false
+	xy: 484, 88
+	size: 51, 34
+	orig: 51, 36
+	offset: 0, 1
+	index: -1
+terui_rf_sl_bu_3
+	rotate: true
+	xy: 928, 379
+	size: 46, 37
+	orig: 46, 37
+	offset: 0, 0
+	index: -1
+terui_rf_atk_59
+	rotate: true
+	xy: 642, 788
+	size: 74, 64
+	orig: 74, 64
+	offset: 0, 0
+	index: -1
+terui_rf_atk_80_3_bu
+	rotate: false
+	xy: 694, 712
+	size: 59, 74
+	orig: 59, 74
+	offset: 0, 0
+	index: -1
+terui_rf_atk_5
+	rotate: false
+	xy: 2, 292
+	size: 118, 137
+	orig: 118, 137
+	offset: 0, 0
+	index: -1
+terui_rf_idle_1
+	rotate: false
+	xy: 953, 850
+	size: 41, 41
+	orig: 41, 41
+	offset: 0, 0
+	index: -1
+terui_rf_atk_19
+	rotate: true
+	xy: 490, 207
+	size: 54, 72
+	orig: 54, 72
+	offset: 0, 0
+	index: -1
+terui_rf_sl_21_3
+	rotate: false
+	xy: 270, 928
+	size: 73, 81
+	orig: 73, 81
+	offset: 0, 0
+	index: -1
+terui_rf_idle_2
+	rotate: false
+	xy: 907, 886
+	size: 41, 41
+	orig: 41, 41
+	offset: 0, 0
+	index: -1
+terui_rf_idle_5
+	rotate: true
+	xy: 906, 2
+	size: 64, 57
+	orig: 64, 57
+	offset: 0, 0
+	index: -1
+terui_rf_idle_4
+	rotate: true
+	xy: 827, 636
+	size: 60, 48
+	orig: 60, 48
+	offset: 0, 0
+	index: -1
+terui_rf_idle_7
+	rotate: false
+	xy: 730, 862
+	size: 46, 73
+	orig: 46, 73
+	offset: 0, 0
+	index: -1
+terui_rf_idle_6
+	rotate: true
+	xy: 708, 84
+	size: 38, 40
+	orig: 38, 40
+	offset: 0, 0
+	index: -1
+terui_rf_idle_8
+	rotate: false
+	xy: 626, 713
+	size: 67, 74
+	orig: 67, 74
+	offset: 0, 0
+	index: -1
+terui_rf_die_16
+	rotate: true
+	xy: 964, 764
+	size: 43, 44
+	orig: 43, 44
+	offset: 0, 0
+	index: -1
+terui_rf_atk_15
+	rotate: false
+	xy: 964, 35
+	size: 58, 31
+	orig: 58, 31
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_70
+	rotate: false
+	xy: 2, 916
+	size: 84, 97
+	orig: 84, 97
+	offset: 0, 0
+	index: -1
+terui_rf_idle_0
+	rotate: false
+	xy: 666, 84
+	size: 41, 38
+	orig: 41, 38
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_9
+	rotate: true
+	xy: 943, 67
+	size: 55, 45
+	orig: 55, 45
+	offset: 0, 0
+	index: -1
+terui_rf_idle_23
+	rotate: true
+	xy: 895, 255
+	size: 57, 32
+	orig: 57, 32
+	offset: 0, 0
+	index: -1
+terui_rf_idle_19
+	rotate: false
+	xy: 814, 978
+	size: 39, 40
+	orig: 39, 40
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_12
+	rotate: false
+	xy: 87, 896
+	size: 55, 97
+	orig: 55, 97
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_16
+	rotate: true
+	xy: 99, 679
+	size: 97, 83
+	orig: 97, 83
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_17
+	rotate: false
+	xy: 127, 410
+	size: 81, 92
+	orig: 81, 92
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_14
+	rotate: false
+	xy: 812, 481
+	size: 47, 49
+	orig: 47, 49
+	offset: 0, 0
+	index: -1
+terui_rf_die_14
+	rotate: true
+	xy: 463, 973
+	size: 49, 50
+	orig: 49, 50
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_19
+	rotate: true
+	xy: 276, 652
+	size: 92, 46
+	orig: 92, 46
+	offset: 0, 0
+	index: -1
+terui_rf_die_11
+	rotate: false
+	xy: 127, 503
+	size: 89, 55
+	orig: 89, 55
+	offset: 0, 0
+	index: -1
+terui_rf_atk_2
+	rotate: false
+	xy: 743, 482
+	size: 68, 68
+	orig: 68, 68
+	offset: 0, 0
+	index: -1
+terui_rf_atk_0
+	rotate: true
+	xy: 344, 928
+	size: 81, 72
+	orig: 81, 74
+	offset: 0, 2
+	index: -1
+terui_rf_atk_1
+	rotate: false
+	xy: 652, 261
+	size: 71, 71
+	orig: 71, 71
+	offset: 0, 0
+	index: -1
+terui_rf_atk_4
+	rotate: true
+	xy: 186, 968
+	size: 54, 83
+	orig: 54, 83
+	offset: 0, 0
+	index: -1
+terui_rf_atk_8
+	rotate: true
+	xy: 477, 410
+	size: 79, 57
+	orig: 83, 57
+	offset: 1, 0
+	index: -1
+terui_rf_skbs12_86
+	rotate: false
+	xy: 490, 795
+	size: 76, 76
+	orig: 76, 76
+	offset: 0, 0
+	index: -1
+terui_rf_idle_22_bu_4
+	rotate: false
+	xy: 934, 967
+	size: 39, 39
+	orig: 39, 39
+	offset: 0, 0
+	index: -1
+terui_rf_idle_22_bu_5
+	rotate: false
+	xy: 949, 892
+	size: 40, 34
+	orig: 40, 34
+	offset: 0, 0
+	index: -1
+terui_rf_idle_22_bu_2
+	rotate: false
+	xy: 928, 504
+	size: 41, 31
+	orig: 41, 33
+	offset: 0, 2
+	index: -1
+terui_rf_sl_6
+	rotate: false
+	xy: 126, 2
+	size: 116, 132
+	orig: 116, 132
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_80
+	rotate: true
+	xy: 900, 592
+	size: 43, 45
+	orig: 43, 45
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_88
+	rotate: false
+	xy: 42, 798
+	size: 83, 97
+	orig: 83, 97
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_27
+	rotate: false
+	xy: 535, 410
+	size: 64, 76
+	orig: 64, 76
+	offset: 0, 0
+	index: -1
+terui_rf_idle_24_1
+	rotate: true
+	xy: 860, 418
+	size: 39, 32
+	orig: 39, 32
+	offset: 0, 0
+	index: -1
+terui_rf_atk_47
+	rotate: true
+	xy: 820, 887
+	size: 36, 42
+	orig: 36, 42
+	offset: 0, 0
+	index: -1
+terui_rf_atk_46
+	rotate: false
+	xy: 161, 135
+	size: 69, 127
+	orig: 69, 127
+	offset: 0, 0
+	index: -1
+terui_rf_atk_42
+	rotate: true
+	xy: 437, 410
+	size: 81, 39
+	orig: 81, 39
+	offset: 0, 0
+	index: -1
+terui_rf_atk_41
+	rotate: false
+	xy: 967, 229
+	size: 53, 48
+	orig: 53, 48
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_98
+	rotate: true
+	xy: 737, 123
+	size: 71, 67
+	orig: 71, 67
+	offset: 0, 0
+	index: -1
+terui_rf_run_13
+	rotate: true
+	xy: 801, 2
+	size: 71, 56
+	orig: 71, 56
+	offset: 0, 0
+	index: -1
+terui_rf_run_11
+	rotate: false
+	xy: 203, 752
+	size: 80, 93
+	orig: 80, 93
+	offset: 0, 0
+	index: -1
+terui_rf_atk_22
+	rotate: false
+	xy: 737, 2
+	size: 63, 71
+	orig: 63, 71
+	offset: 0, 0
+	index: -1
+terui_rf_run_16
+	rotate: true
+	xy: 777, 978
+	size: 41, 36
+	orig: 41, 36
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_14
+	rotate: true
+	xy: 357, 734
+	size: 79, 72
+	orig: 79, 72
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_15
+	rotate: false
+	xy: 975, 678
+	size: 46, 48
+	orig: 46, 48
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_17
+	rotate: true
+	xy: 784, 332
+	size: 67, 57
+	orig: 67, 57
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_11
+	rotate: true
+	xy: 100, 559
+	size: 97, 83
+	orig: 97, 83
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_12
+	rotate: false
+	xy: 892, 537
+	size: 44, 41
+	orig: 44, 41
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_13
+	rotate: true
+	xy: 406, 209
+	size: 52, 53
+	orig: 52, 53
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_87
+	rotate: false
+	xy: 592, 262
+	size: 59, 76
+	orig: 59, 76
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_19
+	rotate: false
+	xy: 820, 805
+	size: 44, 44
+	orig: 44, 44
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_43
+	rotate: true
+	xy: 777, 901
+	size: 36, 42
+	orig: 36, 42
+	offset: 0, 0
+	index: -1
+terui_rf_run_8_1
+	rotate: false
+	xy: 430, 88
+	size: 53, 34
+	orig: 53, 34
+	offset: 0, 0
+	index: -1
+terui_rf_atk_29
+	rotate: true
+	xy: 909, 849
+	size: 36, 43
+	orig: 36, 43
+	offset: 0, 0
+	index: -1
+terui_rf_idle_5_1
+	rotate: false
+	xy: 623, 637
+	size: 46, 75
+	orig: 46, 75
+	offset: 0, 0
+	index: -1
+terui_rf_sl_bu_2
+	rotate: false
+	xy: 967, 168
+	size: 53, 60
+	orig: 53, 60
+	offset: 0, 0
+	index: -1
+terui_rf_run_3
+	rotate: true
+	xy: 864, 873
+	size: 39, 42
+	orig: 39, 42
+	offset: 0, 0
+	index: -1
+terui_rf_atk_30
+	rotate: false
+	xy: 745, 404
+	size: 63, 67
+	orig: 63, 67
+	offset: 0, 0
+	index: -1
+terui_rf_atk_31
+	rotate: false
+	xy: 413, 348
+	size: 74, 61
+	orig: 74, 61
+	offset: 0, 0
+	index: -1
+terui_rf_atk_34
+	rotate: false
+	xy: 470, 123
+	size: 80, 83
+	orig: 80, 83
+	offset: 0, 0
+	index: -1
+terui_rf_run_4
+	rotate: true
+	xy: 785, 260
+	size: 66, 55
+	orig: 66, 55
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_93
+	rotate: false
+	xy: 2, 679
+	size: 96, 118
+	orig: 96, 118
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_97
+	rotate: true
+	xy: 860, 579
+	size: 56, 39
+	orig: 56, 39
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_96
+	rotate: false
+	xy: 753, 787
+	size: 66, 72
+	orig: 66, 72
+	offset: 0, 0
+	index: -1
+terui_rf_idle_18
+	rotate: false
+	xy: 877, 744
+	size: 39, 46
+	orig: 39, 46
+	offset: 0, 0
+	index: -1
+terui_rf_atk_50
+	rotate: true
+	xy: 430, 721
+	size: 78, 57
+	orig: 78, 57
+	offset: 0, 0
+	index: -1
+terui_rf_atk_51
+	rotate: true
+	xy: 893, 450
+	size: 42, 34
+	orig: 42, 34
+	offset: 0, 0
+	index: -1
+terui_rf_atk_52
+	rotate: false
+	xy: 270, 846
+	size: 74, 81
+	orig: 74, 81
+	offset: 0, 0
+	index: -1
+terui_rf_atk_64
+	rotate: true
+	xy: 869, 791
+	size: 44, 45
+	orig: 44, 45
+	offset: 0, 0
+	index: -1
+terui_rf_sl_7
+	rotate: true
+	xy: 640, 946
+	size: 76, 71
+	orig: 76, 71
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_66
+	rotate: false
+	xy: 567, 567
+	size: 53, 69
+	orig: 53, 69
+	offset: 0, 0
+	index: -1
+terui_rf_sl_1
+	rotate: false
+	xy: 765, 601
+	size: 41, 34
+	orig: 41, 34
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_64
+	rotate: false
+	xy: 946, 592
+	size: 60, 40
+	orig: 60, 40
+	offset: 0, 0
+	index: -1
+terui_rf_run_18
+	rotate: true
+	xy: 398, 123
+	size: 85, 71
+	orig: 85, 71
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_61
+	rotate: false
+	xy: 383, 641
+	size: 65, 79
+	orig: 65, 79
+	offset: 0, 0
+	index: -1
+terui_rf_idle_3
+	rotate: true
+	xy: 894, 954
+	size: 40, 39
+	orig: 40, 39
+	offset: 0, 0
+	index: -1
+terui_rf_atk_108
+	rotate: false
+	xy: 129, 994
+	size: 56, 25
+	orig: 56, 25
+	offset: 0, 0
+	index: -1
+terui_rf_atk_18
+	rotate: true
+	xy: 567, 792
+	size: 76, 74
+	orig: 76, 74
+	offset: 0, 0
+	index: -1
+terui_rf_idle_4_3
+	rotate: false
+	xy: 417, 907
+	size: 40, 79
+	orig: 40, 79
+	offset: 0, 0
+	index: -1
+terui_rf_die_6
+	rotate: true
+	xy: 2, 147
+	size: 144, 92
+	orig: 144, 92
+	offset: 0, 0
+	index: -1
+terui_rf_die_5
+	rotate: true
+	xy: 860, 458
+	size: 60, 31
+	orig: 60, 31
+	offset: 0, 0
+	index: -1
+terui_rf_die_2
+	rotate: true
+	xy: 858, 2
+	size: 69, 47
+	orig: 69, 47
+	offset: 0, 0
+	index: -1
+terui_rf_die_0
+	rotate: true
+	xy: 876, 636
+	size: 60, 40
+	orig: 60, 40
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_1_bu
+	rotate: false
+	xy: 842, 372
+	size: 50, 45
+	orig: 50, 45
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_5
+	rotate: false
+	xy: 698, 482
+	size: 44, 69
+	orig: 44, 69
+	offset: 0, 0
+	index: -1
+terui_rf_atk_24
+	rotate: false
+	xy: 507, 490
+	size: 69, 76
+	orig: 69, 76
+	offset: 0, 0
+	index: -1
+terui_rf_idle_24
+	rotate: true
+	xy: 359, 2
+	size: 85, 83
+	orig: 85, 83
+	offset: 0, 0
+	index: -1
+terui_rf_run_15
+	rotate: false
+	xy: 318, 262
+	size: 46, 89
+	orig: 46, 89
+	offset: 0, 0
+	index: -1
+terui_rf_idle_22
+	rotate: false
+	xy: 989, 67
+	size: 29, 54
+	orig: 29, 54
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_72
+	rotate: false
+	xy: 915, 809
+	size: 43, 39
+	orig: 43, 39
+	offset: 0, 0
+	index: -1
+terui_rf_run_14
+	rotate: true
+	xy: 551, 123
+	size: 83, 59
+	orig: 83, 59
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_79
+	rotate: true
+	xy: 683, 196
+	size: 64, 71
+	orig: 64, 71
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_78
+	rotate: false
+	xy: 450, 262
+	size: 83, 83
+	orig: 83, 83
+	offset: 0, 0
+	index: -1
+terui_rf_sl_18
+	rotate: true
+	xy: 284, 745
+	size: 81, 72
+	orig: 81, 72
+	offset: 0, 0
+	index: -1
+terui_rf_atk_69
+	rotate: false
+	xy: 877, 697
+	size: 39, 46
+	orig: 39, 46
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_116
+	rotate: false
+	xy: 2, 2
+	size: 123, 144
+	orig: 123, 144
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_115
+	rotate: true
+	xy: 656, 2
+	size: 81, 80
+	orig: 81, 80
+	offset: 0, 0
+	index: -1
+terui_rf_sl_11
+	rotate: true
+	xy: 917, 764
+	size: 44, 46
+	orig: 44, 46
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_11
+	rotate: false
+	xy: 458, 894
+	size: 67, 78
+	orig: 67, 78
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_4
+	rotate: false
+	xy: 551, 715
+	size: 74, 76
+	orig: 74, 76
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_117
+	rotate: true
+	xy: 449, 638
+	size: 78, 48
+	orig: 78, 48
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_1
+	rotate: false
+	xy: 967, 369
+	size: 50, 44
+	orig: 50, 46
+	offset: 0, 0
+	index: -1
+terui_rf_idle_15
+	rotate: true
+	xy: 970, 534
+	size: 57, 48
+	orig: 57, 48
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_118
+	rotate: true
+	xy: 243, 354
+	size: 55, 83
+	orig: 55, 83
+	offset: 0, 0
+	index: -1
+
+asset/spine/teruiTRSZ_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+terui_rf_run_21
+	rotate: false
+	xy: 581, 591
+	size: 28, 46
+	orig: 28, 46
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_106
+	rotate: false
+	xy: 542, 911
+	size: 114, 111
+	orig: 114, 111
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_0
+	rotate: false
+	xy: 320, 911
+	size: 32, 24
+	orig: 32, 24
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_24
+	rotate: false
+	xy: 2, 952
+	size: 114, 70
+	orig: 114, 70
+	offset: 0, 0
+	index: -1
+terui_rf_die_18
+	rotate: true
+	xy: 2, 640
+	size: 311, 158
+	orig: 311, 158
+	offset: 0, 0
+	index: -1
+terui_rf_sl_31
+	rotate: false
+	xy: 643, 2
+	size: 183, 267
+	orig: 183, 267
+	offset: 0, 0
+	index: -1
+terui_rf_atk_78
+	rotate: false
+	xy: 117, 952
+	size: 111, 70
+	orig: 111, 70
+	offset: 0, 0
+	index: -1
+terui_rf_atk_70
+	rotate: true
+	xy: 949, 774
+	size: 93, 73
+	orig: 93, 73
+	offset: 0, 0
+	index: -1
+terui_rf_die_19
+	rotate: true
+	xy: 161, 640
+	size: 295, 158
+	orig: 295, 158
+	offset: 0, 0
+	index: -1
+terui_rf_atk_104
+	rotate: false
+	xy: 827, 2
+	size: 194, 244
+	orig: 194, 244
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_29
+	rotate: true
+	xy: 376, 272
+	size: 49, 65
+	orig: 49, 65
+	offset: 0, 0
+	index: -1
+terui_rf_atk_60
+	rotate: true
+	xy: 666, 270
+	size: 51, 87
+	orig: 51, 87
+	offset: 0, 0
+	index: -1
+terui_rf_sl_27
+	rotate: false
+	xy: 235, 2
+	size: 215, 269
+	orig: 215, 269
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_30_2
+	rotate: true
+	xy: 592, 271
+	size: 50, 73
+	orig: 50, 73
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_122
+	rotate: true
+	xy: 610, 543
+	size: 167, 216
+	orig: 169, 216
+	offset: 0, 0
+	index: -1
+terui_rf_sl_28
+	rotate: false
+	xy: 827, 247
+	size: 193, 254
+	orig: 193, 254
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_37
+	rotate: false
+	xy: 229, 936
+	size: 85, 86
+	orig: 85, 86
+	offset: 0, 0
+	index: -1
+terui_rf_atk_26
+	rotate: true
+	xy: 233, 606
+	size: 33, 41
+	orig: 33, 41
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_39
+	rotate: true
+	xy: 275, 606
+	size: 33, 41
+	orig: 33, 41
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_40
+	rotate: false
+	xy: 827, 502
+	size: 192, 119
+	orig: 192, 119
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_99
+	rotate: false
+	xy: 451, 2
+	size: 191, 268
+	orig: 191, 268
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_0_bu
+	rotate: false
+	xy: 949, 868
+	size: 64, 41
+	orig: 64, 41
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_15
+	rotate: true
+	xy: 765, 910
+	size: 112, 107
+	orig: 112, 107
+	offset: 0, 0
+	index: -1
+terui_rf_idle_22_bu_3
+	rotate: true
+	xy: 501, 271
+	size: 50, 90
+	orig: 50, 90
+	offset: 0, 0
+	index: -1
+terui_rf_atk_45
+	rotate: true
+	xy: 537, 640
+	size: 87, 72
+	orig: 87, 72
+	offset: 0, 0
+	index: -1
+terui_rf_run_12
+	rotate: false
+	xy: 827, 622
+	size: 109, 88
+	orig: 109, 88
+	offset: 0, 0
+	index: -1
+terui_rf_atk_49
+	rotate: true
+	xy: 453, 591
+	size: 48, 127
+	orig: 48, 127
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_19
+	rotate: true
+	xy: 893, 774
+	size: 135, 55
+	orig: 135, 55
+	offset: 0, 0
+	index: -1
+terui_rf_atk_56
+	rotate: false
+	xy: 937, 622
+	size: 85, 85
+	orig: 85, 85
+	offset: 0, 0
+	index: -1
+terui_rf_sl_24
+	rotate: true
+	xy: 233, 322
+	size: 283, 182
+	orig: 283, 182
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_68
+	rotate: false
+	xy: 2, 322
+	size: 230, 317
+	orig: 230, 317
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_1
+	rotate: false
+	xy: 873, 910
+	size: 149, 99
+	orig: 149, 99
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_77
+	rotate: true
+	xy: 800, 270
+	size: 49, 20
+	orig: 49, 20
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_71
+	rotate: true
+	xy: 657, 911
+	size: 111, 107
+	orig: 111, 107
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_20
+	rotate: true
+	xy: 310, 272
+	size: 49, 65
+	orig: 49, 69
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_114
+	rotate: false
+	xy: 754, 270
+	size: 45, 51
+	orig: 45, 51
+	offset: 0, 0
+	index: -1
+terui_rf_sl_12
+	rotate: true
+	xy: 235, 272
+	size: 49, 74
+	orig: 49, 74
+	offset: 0, 0
+	index: -1
+terui_rf_sl_15
+	rotate: false
+	xy: 610, 711
+	size: 62, 16
+	orig: 62, 16
+	offset: 0, 0
+	index: -1
+terui_rf_idle_4_2
+	rotate: false
+	xy: 442, 272
+	size: 58, 49
+	orig: 58, 49
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_17
+	rotate: true
+	xy: 537, 728
+	size: 182, 132
+	orig: 182, 132
+	offset: 0, 0
+	index: -1
+terui_rf_atk_17
+	rotate: true
+	xy: 610, 322
+	size: 220, 216
+	orig: 220, 216
+	offset: 0, 0
+	index: -1
+
+asset/spine/teruiTRSZ_role1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+terui_rf_skbs12_107
+	rotate: false
+	xy: 200, 745
+	size: 197, 218
+	orig: 197, 218
+	offset: 0, 0
+	index: -1
+terui_rf_atk_83
+	rotate: false
+	xy: 908, 836
+	size: 104, 107
+	orig: 104, 107
+	offset: 0, 0
+	index: -1
+terui_rf_atk_23
+	rotate: false
+	xy: 908, 2
+	size: 114, 163
+	orig: 114, 163
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_13
+	rotate: false
+	xy: 600, 166
+	size: 187, 69
+	orig: 187, 69
+	offset: 0, 0
+	index: -1
+terui_rf_sl_30
+	rotate: true
+	xy: 528, 481
+	size: 200, 198
+	orig: 200, 198
+	offset: 0, 0
+	index: -1
+terui_rf_die_20
+	rotate: true
+	xy: 373, 2
+	size: 233, 226
+	orig: 233, 226
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_11
+	rotate: false
+	xy: 2, 256
+	size: 186, 249
+	orig: 186, 249
+	offset: 0, 0
+	index: -1
+terui_rf_atk_105
+	rotate: false
+	xy: 2, 745
+	size: 197, 233
+	orig: 201, 233
+	offset: 4, 0
+	index: -1
+terui_rf_atk_107
+	rotate: false
+	xy: 542, 439
+	size: 50, 41
+	orig: 50, 41
+	offset: 0, 0
+	index: -1
+terui_rf_atk_100
+	rotate: true
+	xy: 398, 745
+	size: 209, 146
+	orig: 209, 160
+	offset: 0, 14
+	index: -1
+terui_rf_skbs12_20
+	rotate: false
+	xy: 911, 552
+	size: 90, 85
+	orig: 90, 85
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_21
+	rotate: true
+	xy: 788, 189
+	size: 74, 122
+	orig: 74, 122
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_31
+	rotate: true
+	xy: 158, 2
+	size: 243, 214
+	orig: 243, 214
+	offset: 0, 0
+	index: -1
+terui_rf_idle_16
+	rotate: true
+	xy: 747, 406
+	size: 79, 56
+	orig: 81, 56
+	offset: 0, 0
+	index: -1
+terui_rf_idle_11
+	rotate: false
+	xy: 966, 708
+	size: 56, 71
+	orig: 56, 71
+	offset: 0, 0
+	index: -1
+terui_rf_idle_10
+	rotate: false
+	xy: 293, 964
+	size: 41, 58
+	orig: 41, 58
+	offset: 0, 0
+	index: -1
+terui_rf_sl_21
+	rotate: false
+	xy: 235, 964
+	size: 57, 58
+	orig: 57, 58
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_30
+	rotate: true
+	xy: 911, 418
+	size: 133, 110
+	orig: 133, 110
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_35
+	rotate: false
+	xy: 727, 611
+	size: 85, 70
+	orig: 89, 70
+	offset: 1, 0
+	index: -1
+terui_rf_skbs12_34
+	rotate: true
+	xy: 370, 964
+	size: 58, 32
+	orig: 58, 32
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_36
+	rotate: false
+	xy: 555, 682
+	size: 84, 62
+	orig: 84, 62
+	offset: 0, 0
+	index: -1
+terui_rf_idle_25
+	rotate: true
+	xy: 252, 481
+	size: 22, 48
+	orig: 22, 48
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_30
+	rotate: true
+	xy: 813, 638
+	size: 42, 71
+	orig: 42, 71
+	offset: 0, 0
+	index: -1
+terui_rf_idle_9
+	rotate: true
+	xy: 303, 723
+	size: 19, 39
+	orig: 19, 39
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_10
+	rotate: false
+	xy: 545, 745
+	size: 196, 202
+	orig: 196, 202
+	offset: 0, 0
+	index: -1
+terui_rf_atk_106
+	rotate: false
+	xy: 2, 2
+	size: 155, 253
+	orig: 155, 253
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_84
+	rotate: false
+	xy: 335, 964
+	size: 34, 58
+	orig: 34, 58
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_12
+	rotate: false
+	xy: 239, 504
+	size: 139, 218
+	orig: 139, 218
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_85
+	rotate: false
+	xy: 188, 979
+	size: 46, 43
+	orig: 46, 43
+	offset: 0, 0
+	index: -1
+terui_rf_idle_22_bu_1
+	rotate: true
+	xy: 489, 692
+	size: 52, 65
+	orig: 52, 65
+	offset: 0, 0
+	index: -1
+terui_rf_die_17
+	rotate: false
+	xy: 615, 948
+	size: 128, 74
+	orig: 128, 74
+	offset: 0, 0
+	index: -1
+terui_rf_atk_44
+	rotate: false
+	xy: 640, 682
+	size: 81, 62
+	orig: 81, 62
+	offset: 0, 0
+	index: -1
+terui_rf_atk_48
+	rotate: true
+	xy: 804, 682
+	size: 62, 80
+	orig: 62, 80
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_10
+	rotate: true
+	xy: 600, 2
+	size: 162, 171
+	orig: 162, 171
+	offset: 0, 0
+	index: -1
+terui_rf_die_21
+	rotate: false
+	xy: 189, 246
+	size: 214, 234
+	orig: 214, 234
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_22
+	rotate: true
+	xy: 911, 166
+	size: 91, 111
+	orig: 91, 111
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_18
+	rotate: false
+	xy: 836, 944
+	size: 74, 78
+	orig: 74, 78
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_89
+	rotate: false
+	xy: 908, 264
+	size: 113, 153
+	orig: 113, 153
+	offset: 0, 0
+	index: -1
+terui_rf_atk_33
+	rotate: false
+	xy: 640, 406
+	size: 106, 74
+	orig: 106, 74
+	offset: 0, 0
+	index: -1
+terui_rf_run_8
+	rotate: true
+	xy: 788, 2
+	size: 186, 119
+	orig: 186, 119
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_95
+	rotate: true
+	xy: 744, 944
+	size: 78, 91
+	orig: 78, 91
+	offset: 0, 0
+	index: -1
+terui_rf_atk_57
+	rotate: true
+	xy: 742, 745
+	size: 198, 165
+	orig: 210, 165
+	offset: 0, 0
+	index: -1
+terui_rf_skbs12_60
+	rotate: true
+	xy: 966, 780
+	size: 48, 56
+	orig: 48, 56
+	offset: 0, 0
+	index: -1
+terui_rf_sl_8
+	rotate: true
+	xy: 601, 236
+	size: 169, 186
+	orig: 169, 186
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_32
+	rotate: false
+	xy: 727, 486
+	size: 76, 124
+	orig: 76, 124
+	offset: 0, 0
+	index: -1
+terui_rf_die_3
+	rotate: false
+	xy: 403, 955
+	size: 120, 67
+	orig: 120, 67
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_5
+	rotate: true
+	xy: 137, 979
+	size: 43, 50
+	orig: 43, 50
+	offset: 0, 0
+	index: -1
+terui_rf_gebei_3
+	rotate: false
+	xy: 911, 944
+	size: 68, 78
+	orig: 70, 78
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_0
+	rotate: true
+	xy: 2, 506
+	size: 238, 236
+	orig: 238, 236
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_6
+	rotate: true
+	xy: 813, 489
+	size: 148, 97
+	orig: 148, 97
+	offset: 0, 0
+	index: -1
+terui_rf_bs3_9
+	rotate: false
+	xy: 404, 236
+	size: 196, 202
+	orig: 196, 202
+	offset: 0, 0
+	index: -1
+terui_rf_atk_80_2_bu
+	rotate: false
+	xy: 601, 406
+	size: 37, 32
+	orig: 37, 32
+	offset: 0, 0
+	index: -1
+terui_rf_sl_10
+	rotate: false
+	xy: 593, 439
+	size: 46, 41
+	orig: 46, 41
+	offset: 0, 0
+	index: -1
+terui_rf_idle_4_1
+	rotate: true
+	xy: 404, 439
+	size: 41, 79
+	orig: 41, 79
+	offset: 0, 0
+	index: -1

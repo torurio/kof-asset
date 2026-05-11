@@ -1,0 +1,160 @@
+
+asset/spine/szTeruiCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/tetui2003_zailin_chunjiesz_tupian_14
+	rotate: true
+	xy: 721, 2
+	size: 146, 222
+	orig: 148, 224
+	offset: 1, 1
+	index: -1
+role/tetui2003_zailin_chunjiesz_tupian_15
+	rotate: false
+	xy: 2, 2
+	size: 219, 620
+	orig: 221, 622
+	offset: 1, 1
+	index: -1
+role/tetui2003_zailin_chunjiesz_tupian_16
+	rotate: false
+	xy: 222, 2
+	size: 140, 618
+	orig: 142, 620
+	offset: 1, 1
+	index: -1
+role/tetui2003_zailin_chunjiesz_tupian_17
+	rotate: false
+	xy: 363, 2
+	size: 175, 401
+	orig: 177, 403
+	offset: 1, 1
+	index: -1
+role/tetui2003_zailin_chunjiesz_tupian_10
+	rotate: true
+	xy: 860, 440
+	size: 72, 88
+	orig: 74, 90
+	offset: 1, 1
+	index: -1
+role/tetui2003_zailin_chunjiesz_tupian_11
+	rotate: true
+	xy: 363, 404
+	size: 190, 231
+	orig: 192, 233
+	offset: 1, 1
+	index: -1
+role/tetui2003_zailin_chunjiesz_tupian_12
+	rotate: false
+	xy: 860, 384
+	size: 28, 50
+	orig: 30, 52
+	offset: 1, 1
+	index: -1
+role/tetui2003_zailin_chunjiesz_tupian_13
+	rotate: true
+	xy: 721, 288
+	size: 95, 170
+	orig: 97, 172
+	offset: 1, 1
+	index: -1
+role/tetui2003_zailin_chunjiesz_tupian_18
+	rotate: true
+	xy: 892, 372
+	size: 67, 130
+	orig: 69, 132
+	offset: 1, 1
+	index: -1
+role/tetui2003_zailin_chunjiesz_tupian_19
+	rotate: false
+	xy: 2, 623
+	size: 375, 398
+	orig: 377, 400
+	offset: 1, 1
+	index: -1
+role/tetui2003_zailin_chunjiesz_tupian_6
+	rotate: true
+	xy: 539, 374
+	size: 29, 69
+	orig: 31, 71
+	offset: 1, 1
+	index: -1
+role/tetui2003_zailin_chunjiesz_tupian_7
+	rotate: true
+	xy: 363, 595
+	size: 15, 57
+	orig: 17, 59
+	offset: 1, 1
+	index: -1
+role/tetui2003_zailin_chunjiesz_tupian_5
+	rotate: true
+	xy: 943, 168
+	size: 37, 71
+	orig: 39, 73
+	offset: 1, 1
+	index: -1
+role/tetui2003_zailin_chunjiesz_tupian_2
+	rotate: true
+	xy: 698, 384
+	size: 70, 161
+	orig: 72, 163
+	offset: 1, 1
+	index: -1
+role/tetui2003_zailin_chunjiesz_tupian_3
+	rotate: false
+	xy: 944, 2
+	size: 76, 165
+	orig: 78, 167
+	offset: 1, 1
+	index: -1
+role/tetui2003_zailin_chunjiesz_tupian_44444
+	rotate: false
+	xy: 609, 374
+	size: 88, 146
+	orig: 90, 148
+	offset: 1, 1
+	index: -1
+role/tetui2003_zailin_chunjiesz_tupian_1
+	rotate: false
+	xy: 595, 404
+	size: 12, 69
+	orig: 14, 71
+	offset: 1, 1
+	index: -1
+role/tetui2003_zailin_chunjiesz_tupian_8
+	rotate: false
+	xy: 903, 149
+	size: 39, 62
+	orig: 41, 64
+	offset: 1, 1
+	index: -1
+role/tetui2003_zailin_chunjiesz_tupian_9
+	rotate: false
+	xy: 949, 440
+	size: 73, 84
+	orig: 75, 86
+	offset: 1, 1
+	index: -1
+role/tetui2003_zailin_chunjiesz_tupian_21
+	rotate: false
+	xy: 539, 2
+	size: 181, 371
+	orig: 183, 373
+	offset: 1, 1
+	index: -1
+role/tetui2003_zailin_chunjiesz_tupian_20
+	rotate: false
+	xy: 721, 149
+	size: 181, 138
+	orig: 183, 140
+	offset: 1, 1
+	index: -1
+role/tetui2003_zailin_chunjiesz_tupian_22
+	rotate: false
+	xy: 903, 212
+	size: 113, 159
+	orig: 115, 161
+	offset: 1, 1
+	index: -1

@@ -1,0 +1,876 @@
+
+asset/spine/global_spinehero_effect14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx1
+	rotate: false
+	xy: 855, 584
+	size: 167, 157
+	orig: 167, 157
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx0
+	rotate: true
+	xy: 777, 838
+	size: 184, 180
+	orig: 184, 180
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx3
+	rotate: false
+	xy: 899, 851
+	size: 121, 106
+	orig: 121, 106
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx2
+	rotate: false
+	xy: 341, 900
+	size: 143, 122
+	orig: 143, 122
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z1
+	rotate: false
+	xy: 775, 950
+	size: 137, 66
+	orig: 137, 66
+	offset: 0, 0
+	index: -1
+effect/global/swdjtx5
+	rotate: true
+	xy: 575, 984
+	size: 29, 27
+	orig: 29, 27
+	offset: 0, 0
+	index: -1
+effect/global/swdjtx4
+	rotate: true
+	xy: 226, 612
+	size: 67, 60
+	orig: 67, 60
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z0
+	rotate: true
+	xy: 552, 662
+	size: 85, 3
+	orig: 85, 3
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z5
+	rotate: false
+	xy: 858, 984
+	size: 154, 36
+	orig: 154, 36
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z3
+	rotate: false
+	xy: 616, 499
+	size: 154, 64
+	orig: 154, 64
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z4
+	rotate: false
+	xy: 834, 499
+	size: 154, 60
+	orig: 154, 60
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z2
+	rotate: true
+	xy: 412, 131
+	size: 94, 88
+	orig: 94, 88
+	offset: 0, 0
+	index: -1
+
+asset/spine/taoziXISZ_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_tz_shengli_taoxin_00037
+	rotate: true
+	xy: 348, 317
+	size: 6, 7
+	orig: 14, 59
+	offset: 8, 3
+	index: -1
+effect/common/New_tz_shengli_taoxin_00035
+	rotate: true
+	xy: 358, 301
+	size: 4, 5
+	orig: 14, 59
+	offset: 10, 0
+	index: -1
+effect/common/New_tz_shengli_taoxin_00039
+	rotate: true
+	xy: 348, 301
+	size: 8, 9
+	orig: 14, 59
+	offset: 6, 7
+	index: -1
+effect/common/New_tz_xiaojineng_xingxing0017
+	rotate: true
+	xy: 508, 934
+	size: 85, 111
+	orig: 187, 121
+	offset: 102, 0
+	index: -1
+effect/common/New_tz_xiaojineng_xingxing0015
+	rotate: false
+	xy: 857, 522
+	size: 107, 105
+	orig: 187, 121
+	offset: 64, 9
+	index: -1
+effect/common/New_tz_xiaojineng_xingxing0013
+	rotate: false
+	xy: 558, 633
+	size: 141, 113
+	orig: 187, 121
+	offset: 28, 3
+	index: -1
+effect/common/New_tz_liumenbisha_chongjibo0009
+	rotate: false
+	xy: 2, 2
+	size: 363, 125
+	orig: 367, 139
+	offset: 0, 6
+	index: -1
+effect/common/New_tz_xiaojineng_xingxing0011
+	rotate: false
+	xy: 715, 522
+	size: 141, 115
+	orig: 187, 121
+	offset: 16, 6
+	index: -1
+effect/common/New_tz_liumenbisha_chongjibo0007
+	rotate: false
+	xy: 366, 126
+	size: 363, 115
+	orig: 367, 139
+	offset: 0, 12
+	index: -1
+effect/common/New_tz_liumenbisha_chongjibo0005
+	rotate: false
+	xy: 366, 2
+	size: 363, 123
+	orig: 367, 139
+	offset: 0, 7
+	index: -1
+effect/common/New_tz_liumenbisha_chongjibo0003
+	rotate: false
+	xy: 2, 2
+	size: 363, 125
+	orig: 367, 139
+	offset: 0, 6
+	index: -1
+effect/common/New_tz_liumenbisha_chongjibo0001
+	rotate: false
+	xy: 366, 126
+	size: 363, 115
+	orig: 367, 139
+	offset: 0, 12
+	index: -1
+effect/common/New_tz_xiaojineng_xingxing0019
+	rotate: false
+	xy: 967, 376
+	size: 55, 65
+	orig: 187, 121
+	offset: 117, 14
+	index: -1
+effect/common/New_tz_liumenbisha_baoqi0005
+	rotate: false
+	xy: 726, 291
+	size: 240, 230
+	orig: 288, 288
+	offset: 22, 27
+	index: -1
+effect/common/New_tz_liumenbisha_baoqi0007
+	rotate: false
+	xy: 967, 442
+	size: 54, 54
+	orig: 288, 288
+	offset: 115, 115
+	index: -1
+effect/common/New_tz_liumenbisha_baoqi0001
+	rotate: false
+	xy: 558, 482
+	size: 156, 150
+	orig: 288, 288
+	offset: 65, 67
+	index: -1
+effect/common/New_tz_liumenbisha_baoqi0003
+	rotate: false
+	xy: 2, 599
+	size: 210, 202
+	orig: 288, 288
+	offset: 38, 41
+	index: -1
+effect/common/New_tz_liumenbisha_xuli0021
+	rotate: true
+	xy: 692, 368
+	size: 32, 33
+	orig: 116, 111
+	offset: 47, 39
+	index: -1
+effect/common/New_tz_liumenbisha_xuli0023
+	rotate: true
+	xy: 712, 242
+	size: 18, 17
+	orig: 116, 111
+	offset: 53, 46
+	index: -1
+effect/common/New_tz_xiaojineng_xingxing0005
+	rotate: false
+	xy: 965, 684
+	size: 49, 73
+	orig: 187, 121
+	offset: 4, 28
+	index: -1
+effect/common/New_tz_xiaojineng_xingxing0007
+	rotate: false
+	xy: 215, 486
+	size: 125, 87
+	orig: 187, 121
+	offset: 7, 31
+	index: -1
+effect/common/New_tz_xiaojineng_xingxing0009
+	rotate: false
+	xy: 700, 638
+	size: 135, 77
+	orig: 187, 121
+	offset: 13, 43
+	index: -1
+effect/common/New_tz_liumenbisha_baoqi0013
+	rotate: false
+	xy: 347, 482
+	size: 210, 208
+	orig: 288, 288
+	offset: 38, 38
+	index: -1
+effect/common/New_tz_liumenbisha_baoqi0011
+	rotate: false
+	xy: 692, 421
+	size: 24, 24
+	orig: 288, 288
+	offset: 131, 130
+	index: -1
+effect/common/New_tz_liumenbisha_baoqi0017
+	rotate: false
+	xy: 730, 2
+	size: 288, 288
+	orig: 288, 288
+	offset: 0, 0
+	index: -1
+effect/common/New_tz_liumenbisha_baoqi0015
+	rotate: false
+	xy: 2, 392
+	size: 212, 206
+	orig: 288, 288
+	offset: 37, 39
+	index: -1
+effect/common/New_tz_liumenbisha_baoqi0019
+	rotate: true
+	xy: 102, 802
+	size: 198, 192
+	orig: 288, 288
+	offset: 42, 50
+	index: -1
+effect/common/New_tz_xiaojineng_xingxing0001
+	rotate: true
+	xy: 692, 401
+	size: 19, 27
+	orig: 187, 121
+	offset: 0, 29
+	index: -1
+effect/common/New_tz_shengli_taoxin_00055
+	rotate: true
+	xy: 356, 317
+	size: 6, 7
+	orig: 14, 59
+	offset: 3, 49
+	index: -1
+effect/common/New_tz_shengli_taoxin_00057
+	rotate: true
+	xy: 358, 306
+	size: 4, 5
+	orig: 14, 59
+	offset: 5, 54
+	index: -1
+effect/common/New_tz_shengli_taoxin_00051
+	rotate: true
+	xy: 348, 290
+	size: 10, 11
+	orig: 14, 59
+	offset: 0, 36
+	index: -1
+effect/common/New_tz_shengli_taoxin_00053
+	rotate: true
+	xy: 348, 310
+	size: 6, 9
+	orig: 14, 59
+	offset: 3, 42
+	index: -1
+effect/common/New_tz_liumenbisha_xuli0007
+	rotate: true
+	xy: 912, 916
+	size: 96, 95
+	orig: 116, 111
+	offset: 14, 7
+	index: -1
+effect/common/New_tz_liumenbisha_xuli0005
+	rotate: true
+	xy: 967, 497
+	size: 50, 51
+	orig: 116, 111
+	offset: 38, 29
+	index: -1
+effect/common/New_tz_liumenbisha_xuli0003
+	rotate: true
+	xy: 607, 747
+	size: 90, 91
+	orig: 116, 111
+	offset: 14, 10
+	index: -1
+effect/common/New_tz_liumenbisha_xuli0001
+	rotate: false
+	xy: 700, 716
+	size: 116, 111
+	orig: 116, 111
+	offset: 0, 0
+	index: -1
+effect/common/New_tz_daiji_xinxin_00019
+	rotate: false
+	xy: 620, 934
+	size: 78, 85
+	orig: 108, 119
+	offset: 0, 9
+	index: -1
+effect/common/New_tz_daiji_xinxin_00035
+	rotate: true
+	xy: 409, 747
+	size: 86, 99
+	orig: 108, 119
+	offset: 21, 11
+	index: -1
+effect/common/New_tz_daiji_xinxin_00034
+	rotate: false
+	xy: 813, 916
+	size: 98, 101
+	orig: 108, 119
+	offset: 10, 10
+	index: -1
+effect/common/New_tz_daiji_xinxin_00033
+	rotate: false
+	xy: 295, 916
+	size: 100, 105
+	orig: 108, 119
+	offset: 8, 8
+	index: -1
+effect/common/New_tz_daiji_xinxin_00032
+	rotate: true
+	xy: 857, 628
+	size: 102, 107
+	orig: 108, 119
+	offset: 6, 7
+	index: -1
+effect/common/New_tz_daiji_xinxin_00031
+	rotate: true
+	xy: 396, 916
+	size: 104, 111
+	orig: 108, 119
+	offset: 4, 5
+	index: -1
+effect/common/New_tz_daiji_xinxin_00030
+	rotate: true
+	xy: 699, 828
+	size: 102, 113
+	orig: 108, 119
+	offset: 5, 4
+	index: -1
+effect/common/New_tz_shengli_taoxin_00049
+	rotate: true
+	xy: 348, 268
+	size: 10, 13
+	orig: 14, 59
+	offset: 1, 30
+	index: -1
+effect/common/New_tz_shengli_taoxin_00047
+	rotate: true
+	xy: 712, 276
+	size: 12, 15
+	orig: 14, 59
+	offset: 0, 24
+	index: -1
+effect/common/New_tz_shengli_taoxin_00045
+	rotate: true
+	xy: 712, 261
+	size: 14, 15
+	orig: 14, 59
+	offset: 0, 19
+	index: -1
+effect/common/New_tz_shengli_taoxin_00043
+	rotate: true
+	xy: 712, 289
+	size: 12, 13
+	orig: 14, 59
+	offset: 1, 15
+	index: -1
+effect/common/New_tz_shengli_taoxin_00041
+	rotate: true
+	xy: 348, 279
+	size: 10, 11
+	orig: 14, 59
+	offset: 4, 11
+	index: -1
+effect/common/New_tz_liumenbisha_xuli0015
+	rotate: true
+	xy: 965, 625
+	size: 58, 57
+	orig: 116, 111
+	offset: 33, 25
+	index: -1
+effect/common/New_tz_liumenbisha_xuli0017
+	rotate: false
+	xy: 509, 691
+	size: 48, 47
+	orig: 116, 111
+	offset: 38, 31
+	index: -1
+effect/common/New_tz_daiji_xinxin_00028
+	rotate: true
+	xy: 213, 671
+	size: 96, 117
+	orig: 108, 119
+	offset: 3, 2
+	index: -1
+effect/common/New_tz_daiji_xinxin_00029
+	rotate: true
+	xy: 817, 731
+	size: 102, 115
+	orig: 108, 119
+	offset: 3, 3
+	index: -1
+effect/common/New_tz_liumenbisha_chongjibo0031
+	rotate: false
+	xy: 451, 834
+	size: 77, 81
+	orig: 367, 139
+	offset: 35, 30
+	index: -1
+effect/common/New_tz_daiji_xinxin_00024
+	rotate: true
+	xy: 933, 758
+	size: 72, 89
+	orig: 108, 119
+	offset: 1, 16
+	index: -1
+effect/common/New_tz_daiji_xinxin_00027
+	rotate: true
+	xy: 215, 574
+	size: 96, 117
+	orig: 108, 119
+	offset: 1, 1
+	index: -1
+effect/common/New_tz_daiji_xinxin_00022
+	rotate: false
+	xy: 699, 931
+	size: 72, 83
+	orig: 108, 119
+	offset: 0, 13
+	index: -1
+effect/common/New_tz_daiji_xinxin_00023
+	rotate: false
+	xy: 295, 828
+	size: 70, 87
+	orig: 108, 119
+	offset: 0, 15
+	index: -1
+effect/common/New_tz_liumenbisha_chongjibo0025
+	rotate: false
+	xy: 348, 368
+	size: 343, 113
+	orig: 367, 139
+	offset: 24, 6
+	index: -1
+effect/common/New_tz_daiji_xinxin_00018
+	rotate: false
+	xy: 409, 691
+	size: 74, 43
+	orig: 108, 119
+	offset: 3, 53
+	index: -1
+effect/common/New_tz_liumenbisha_chongjibo0027
+	rotate: true
+	xy: 2, 802
+	size: 199, 99
+	orig: 367, 139
+	offset: 29, 20
+	index: -1
+effect/common/New_tz_liumenbisha_chongjibo0021
+	rotate: false
+	xy: 364, 242
+	size: 347, 125
+	orig: 367, 139
+	offset: 15, 12
+	index: -1
+effect/common/New_tz_liumenbisha_chongjibo0023
+	rotate: false
+	xy: 2, 268
+	size: 345, 123
+	orig: 367, 139
+	offset: 22, 7
+	index: -1
+effect/common/New_tz_daiji_xinxin_00011
+	rotate: true
+	xy: 331, 691
+	size: 76, 77
+	orig: 108, 119
+	offset: 3, 42
+	index: -1
+effect/common/New_tz_daiji_xinxin_00017
+	rotate: true
+	xy: 965, 548
+	size: 76, 57
+	orig: 108, 119
+	offset: 2, 54
+	index: -1
+effect/common/tz_shengli_baitiao_00011
+	rotate: true
+	xy: 692, 446
+	size: 20, 24
+	orig: 20, 24
+	offset: 0, 0
+	index: -1
+effect/common/New_tz_liumenbisha_chongjibo0029
+	rotate: false
+	xy: 215, 392
+	size: 131, 93
+	orig: 367, 139
+	offset: 33, 23
+	index: -1
+effect/common/New_tz_liumenbisha_chongjibo0011
+	rotate: false
+	xy: 366, 2
+	size: 363, 123
+	orig: 367, 139
+	offset: 0, 7
+	index: -1
+effect/common/New_tz_liumenbisha_chongjibo0013
+	rotate: false
+	xy: 366, 126
+	size: 363, 115
+	orig: 367, 139
+	offset: 0, 12
+	index: -1
+effect/common/New_tz_liumenbisha_chongjibo0015
+	rotate: false
+	xy: 2, 2
+	size: 363, 125
+	orig: 367, 139
+	offset: 0, 6
+	index: -1
+effect/common/New_tz_liumenbisha_chongjibo0017
+	rotate: false
+	xy: 366, 2
+	size: 363, 123
+	orig: 367, 139
+	offset: 0, 7
+	index: -1
+effect/common/New_tz_liumenbisha_chongjibo0019
+	rotate: false
+	xy: 2, 128
+	size: 361, 139
+	orig: 367, 139
+	offset: 2, 0
+	index: -1
+effect/common/New_tz_daiji_xinxin_00006
+	rotate: true
+	xy: 967, 291
+	size: 84, 55
+	orig: 108, 119
+	offset: 16, 34
+	index: -1
+effect/common/New_tz_daiji_xinxin_00005
+	rotate: false
+	xy: 295, 768
+	size: 84, 59
+	orig: 108, 119
+	offset: 19, 33
+	index: -1
+effect/common/New_tz_daiji_xinxin_00002
+	rotate: true
+	xy: 933, 831
+	size: 84, 87
+	orig: 108, 119
+	offset: 21, 17
+	index: -1
+effect/common/New_tz_daiji_xinxin_00003
+	rotate: false
+	xy: 366, 834
+	size: 84, 81
+	orig: 108, 119
+	offset: 21, 21
+	index: -1
+effect/common/New_tz_daiji_xinxin_00000
+	rotate: true
+	xy: 509, 747
+	size: 86, 97
+	orig: 108, 119
+	offset: 21, 13
+	index: -1
+effect/common/New_tz_daiji_xinxin_00001
+	rotate: false
+	xy: 607, 838
+	size: 86, 95
+	orig: 108, 119
+	offset: 20, 15
+	index: -1
+effect/common/New_tz_daiji_xinxin_00008
+	rotate: false
+	xy: 813, 834
+	size: 94, 79
+	orig: 108, 119
+	offset: 4, 37
+	index: -1
+effect/common/New_tz_daiji_xinxin_00009
+	rotate: true
+	xy: 529, 834
+	size: 94, 77
+	orig: 108, 119
+	offset: 4, 39
+	index: -1
+
+asset/spine/global_spinehero_role6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z7
+	rotate: false
+	xy: 115, 510
+	size: 111, 88
+	orig: 111, 88
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z9
+	rotate: false
+	xy: 867, 2
+	size: 154, 88
+	orig: 154, 88
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z6
+	rotate: false
+	xy: 867, 295
+	size: 154, 57
+	orig: 154, 57
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z8
+	rotate: false
+	xy: 867, 91
+	size: 154, 77
+	orig: 154, 77
+	offset: 0, 0
+	index: -1
+
+asset/spine/taoziXI_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_tz_xiaojineng_xingxing0003
+	rotate: false
+	xy: 2, 741
+	size: 49, 82
+	orig: 219, 142
+	offset: 1, 34
+	index: -1
+effect/common/ydnns_e4_bai
+	rotate: false
+	xy: 176, 246
+	size: 49, 49
+	orig: 49, 49
+	offset: 0, 0
+	index: -1
+effect/common/New_tz_liumenbisha_xuli0009
+	rotate: true
+	xy: 2, 567
+	size: 87, 86
+	orig: 135, 130
+	offset: 29, 20
+	index: -1
+effect/common/New_tz_liumenbisha_xuli0011
+	rotate: true
+	xy: 2, 476
+	size: 87, 86
+	orig: 135, 130
+	offset: 29, 20
+	index: -1
+effect/common/New_tz_daiji_xinxin_00026
+	rotate: true
+	xy: 730, 244
+	size: 112, 131
+	orig: 126, 139
+	offset: 1, 0
+	index: -1
+effect/common/New_tz_daiji_xinxin_00020
+	rotate: false
+	xy: 52, 738
+	size: 86, 83
+	orig: 126, 139
+	offset: 0, 12
+	index: -1
+effect/common/New_tz_daiji_xinxin_00021
+	rotate: true
+	xy: 817, 642
+	size: 84, 97
+	orig: 126, 139
+	offset: 0, 13
+	index: -1
+effect/common/New_tz_daiji_xinxin_00012
+	rotate: false
+	xy: 813, 727
+	size: 90, 85
+	orig: 126, 139
+	offset: 3, 51
+	index: -1
+effect/common/New_tz_daiji_xinxin_00015
+	rotate: false
+	xy: 904, 750
+	size: 90, 73
+	orig: 126, 139
+	offset: 2, 60
+	index: -1
+effect/common/New_tz_daiji_xinxin_00007
+	rotate: false
+	xy: 608, 469
+	size: 110, 87
+	orig: 126, 139
+	offset: 5, 42
+	index: -1
+effect/common/New_tz_daiji_xinxin_00004
+	rotate: false
+	xy: 915, 678
+	size: 96, 71
+	orig: 126, 139
+	offset: 25, 37
+	index: -1
+
+asset/spine/taoziXI_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_tz_liumenbisha_baoqi0009
+	rotate: false
+	xy: 965, 658
+	size: 51, 49
+	orig: 337, 337
+	offset: 140, 142
+	index: -1
+effect/common/New_tz_liumenbisha_xuli0019
+	rotate: false
+	xy: 340, 659
+	size: 49, 48
+	orig: 135, 130
+	offset: 48, 40
+	index: -1
+effect/common/New_tz_liumenbisha_xuli0013
+	rotate: true
+	xy: 942, 708
+	size: 81, 80
+	orig: 135, 130
+	offset: 32, 23
+	index: -1
+effect/common/New_tz_daiji_xinxin_00025
+	rotate: true
+	xy: 270, 548
+	size: 110, 129
+	orig: 126, 139
+	offset: 2, 0
+	index: -1
+effect/common/New_tz_daiji_xinxin_00010
+	rotate: false
+	xy: 694, 677
+	size: 84, 91
+	orig: 126, 139
+	offset: 4, 47
+	index: -1
+effect/common/New_tz_daiji_xinxin_00013
+	rotate: true
+	xy: 610, 677
+	size: 92, 83
+	orig: 126, 139
+	offset: 2, 53
+	index: -1
+effect/common/New_tz_daiji_xinxin_00014
+	rotate: true
+	xy: 942, 790
+	size: 90, 79
+	orig: 126, 139
+	offset: 3, 56
+	index: -1
+effect/common/New_tz_daiji_xinxin_00016
+	rotate: true
+	xy: 270, 457
+	size: 90, 69
+	orig: 126, 139
+	offset: 2, 62
+	index: -1

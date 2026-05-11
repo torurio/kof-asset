@@ -1,0 +1,375 @@
+
+asset/spine/xewblbl_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_xew_xiaojineng_guang_00050
+	rotate: false
+	xy: 763, 119
+	size: 74, 80
+	orig: 74, 80
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_putongbisha1_shandian_00101
+	rotate: false
+	xy: 623, 2
+	size: 139, 197
+	orig: 139, 197
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_putongbisha1_shandian_00100
+	rotate: false
+	xy: 493, 2
+	size: 129, 198
+	orig: 129, 198
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_putongbisha1_shandian_00102
+	rotate: true
+	xy: 194, 886
+	size: 136, 189
+	orig: 136, 189
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_putongbisha1_shandian_00104
+	rotate: true
+	xy: 2, 891
+	size: 131, 191
+	orig: 131, 191
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_putongbisha1_shandian_00099
+	rotate: false
+	xy: 462, 440
+	size: 140, 203
+	orig: 140, 203
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_putongbisha1_shandian2_00099
+	rotate: false
+	xy: 2, 2
+	size: 68, 223
+	orig: 68, 223
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_putongbisha1_shandian2_00104
+	rotate: false
+	xy: 78, 669
+	size: 61, 220
+	orig: 61, 220
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_putongbisha1_shandian2_00100
+	rotate: false
+	xy: 71, 2
+	size: 66, 221
+	orig: 66, 221
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_putongbisha1_shandian2_00101
+	rotate: false
+	xy: 69, 448
+	size: 62, 220
+	orig: 62, 220
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_putongbisha1_shandian2_00102
+	rotate: false
+	xy: 138, 2
+	size: 74, 219
+	orig: 74, 219
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_putongbisha1_shandian2_00103
+	rotate: false
+	xy: 190, 222
+	size: 73, 219
+	orig: 73, 219
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_xiaojineng_guang_00054
+	rotate: true
+	xy: 755, 661
+	size: 63, 62
+	orig: 63, 62
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_liumenbisha_kejibao_00162
+	rotate: true
+	xy: 681, 200
+	size: 194, 171
+	orig: 194, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_liumenbisha_kejibao_00163
+	rotate: false
+	xy: 270, 661
+	size: 204, 205
+	orig: 204, 205
+	offset: 0, 0
+	index: -1
+
+asset/spine/xewblbl_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_xew_liumenbisha_bo_00008
+	rotate: true
+	xy: 251, 290
+	size: 92, 247
+	orig: 92, 247
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_liumenbisha_bo_00009
+	rotate: true
+	xy: 250, 383
+	size: 110, 246
+	orig: 110, 248
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_liumenbisha_bo_00002
+	rotate: true
+	xy: 249, 494
+	size: 93, 241
+	orig: 93, 241
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_liumenbisha_bo_00003
+	rotate: true
+	xy: 743, 480
+	size: 101, 244
+	orig: 101, 246
+	offset: 0, 2
+	index: -1
+effect/common/New_xew_liumenbisha_bo_00004
+	rotate: true
+	xy: 267, 2
+	size: 109, 249
+	orig: 109, 249
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_liumenbisha_bo_00005
+	rotate: true
+	xy: 2, 392
+	size: 100, 246
+	orig: 100, 246
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_liumenbisha_bo_00006
+	rotate: true
+	xy: 267, 112
+	size: 109, 248
+	orig: 109, 248
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_liumenbisha_bo_00007
+	rotate: true
+	xy: 517, 110
+	size: 110, 248
+	orig: 110, 248
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_liumenbisha_shandian2_00001
+	rotate: true
+	xy: 766, 177
+	size: 97, 248
+	orig: 97, 248
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_liumenbisha_shandian2_00011
+	rotate: true
+	xy: 765, 275
+	size: 96, 248
+	orig: 96, 248
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_liumenbisha_shandian2_00003
+	rotate: true
+	xy: 499, 319
+	size: 70, 247
+	orig: 70, 247
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_liumenbisha_bo_00011
+	rotate: true
+	xy: 497, 390
+	size: 102, 245
+	orig: 102, 245
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_liumenbisha_bo_00010
+	rotate: true
+	xy: 747, 372
+	size: 107, 245
+	orig: 107, 245
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_liumenbisha_kejibao_00160
+	rotate: false
+	xy: 226, 782
+	size: 146, 120
+	orig: 146, 120
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_liumenbisha_kejibao_00164
+	rotate: true
+	xy: 175, 903
+	size: 119, 120
+	orig: 119, 120
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_liumenbisha_shandian2_00005
+	rotate: true
+	xy: 2, 303
+	size: 88, 247
+	orig: 88, 247
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_liumenbisha_shandian2_00007
+	rotate: true
+	xy: 2, 493
+	size: 87, 246
+	orig: 87, 246
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_liumenbisha_shandian2_00009
+	rotate: true
+	xy: 517, 2
+	size: 107, 249
+	orig: 107, 249
+	offset: 0, 0
+	index: -1
+
+asset/spine/xewblbl_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_xew_xiaojineng_guang_00052
+	rotate: true
+	xy: 933, 118
+	size: 81, 82
+	orig: 81, 82
+	offset: 0, 0
+	index: -1
+
+asset/spine/xewblbl_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_xew_putongbisha1_shandian_00103
+	rotate: true
+	xy: 384, 2
+	size: 136, 187
+	orig: 136, 187
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_liumenbisha_kejibao_00159
+	rotate: true
+	xy: 758, 86
+	size: 171, 175
+	orig: 171, 175
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_xiaojineng_guang_00048
+	rotate: false
+	xy: 943, 807
+	size: 79, 82
+	orig: 79, 82
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_xiaojineng_guang_00046
+	rotate: false
+	xy: 863, 807
+	size: 79, 84
+	orig: 79, 84
+	offset: 0, 0
+	index: -1
+effect/common/New_xew_liumenbisha_kejibao_00161
+	rotate: false
+	xy: 2, 323
+	size: 176, 147
+	orig: 176, 147
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_tongyongbaoqi_00000
+	rotate: true
+	xy: 169, 647
+	size: 200, 165
+	orig: 200, 165
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_tongyongbaoqi_00005
+	rotate: false
+	xy: 930, 841
+	size: 90, 105
+	orig: 90, 105
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_tongyongbaoqi_00004
+	rotate: false
+	xy: 780, 319
+	size: 76, 87
+	orig: 76, 87
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_tongyongbaoqi_00001
+	rotate: true
+	xy: 341, 685
+	size: 214, 169
+	orig: 214, 169
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_tongyongbaoqi_00002
+	rotate: true
+	xy: 902, 656
+	size: 156, 118
+	orig: 156, 118
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_tongyongbaoqi_00003
+	rotate: true
+	xy: 155, 612
+	size: 72, 70
+	orig: 72, 70
+	offset: 0, 0
+	index: -1

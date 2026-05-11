@@ -1,0 +1,334 @@
+
+asset/spine/dasheXISRCard_role1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/dashe_zailin_cuixuanweizhuang_tu_42
+	rotate: false
+	xy: 2, 2
+	size: 163, 216
+	orig: 163, 216
+	offset: 0, 0
+	index: -1
+
+asset/spine/dasheXISRCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/dashe_zailin_cuixuanweizhuang_tu_29
+	rotate: true
+	xy: 723, 299
+	size: 226, 218
+	orig: 226, 218
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_28
+	rotate: false
+	xy: 680, 50
+	size: 261, 248
+	orig: 261, 248
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_25
+	rotate: true
+	xy: 266, 829
+	size: 193, 199
+	orig: 193, 205
+	offset: 0, 6
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_24
+	rotate: true
+	xy: 680, 2
+	size: 47, 295
+	orig: 47, 295
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_27
+	rotate: true
+	xy: 92, 830
+	size: 185, 173
+	orig: 185, 173
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_26
+	rotate: true
+	xy: 491, 401
+	size: 182, 120
+	orig: 182, 120
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_21
+	rotate: false
+	xy: 369, 401
+	size: 121, 183
+	orig: 121, 185
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_20
+	rotate: false
+	xy: 371, 249
+	size: 250, 151
+	orig: 250, 151
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_23
+	rotate: true
+	xy: 466, 1003
+	size: 16, 21
+	orig: 16, 21
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_22
+	rotate: true
+	xy: 466, 823
+	size: 179, 235
+	orig: 179, 235
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_43
+	rotate: true
+	xy: 2, 830
+	size: 189, 89
+	orig: 189, 89
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_41
+	rotate: false
+	xy: 242, 614
+	size: 163, 214
+	orig: 163, 214
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_40
+	rotate: false
+	xy: 255, 333
+	size: 114, 30
+	orig: 114, 30
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_46
+	rotate: true
+	xy: 612, 401
+	size: 182, 59
+	orig: 182, 59
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_45
+	rotate: true
+	xy: 702, 819
+	size: 168, 105
+	orig: 168, 105
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_44
+	rotate: false
+	xy: 406, 585
+	size: 230, 237
+	orig: 230, 237
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_38
+	rotate: false
+	xy: 724, 656
+	size: 105, 143
+	orig: 105, 143
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_39
+	rotate: false
+	xy: 637, 668
+	size: 86, 150
+	orig: 86, 150
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_32
+	rotate: true
+	xy: 371, 2
+	size: 246, 308
+	orig: 246, 308
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_33
+	rotate: false
+	xy: 255, 364
+	size: 113, 249
+	orig: 113, 249
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_30
+	rotate: true
+	xy: 808, 526
+	size: 127, 96
+	orig: 127, 96
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_31
+	rotate: false
+	xy: 2, 590
+	size: 239, 239
+	orig: 239, 239
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_36
+	rotate: true
+	xy: 672, 397
+	size: 125, 43
+	orig: 125, 43
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_37
+	rotate: false
+	xy: 2, 229
+	size: 252, 241
+	orig: 252, 241
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_34
+	rotate: false
+	xy: 2, 2
+	size: 368, 226
+	orig: 368, 226
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_35
+	rotate: true
+	xy: 672, 523
+	size: 124, 39
+	orig: 124, 39
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_14
+	rotate: false
+	xy: 663, 363
+	size: 59, 33
+	orig: 59, 33
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_15
+	rotate: false
+	xy: 942, 419
+	size: 66, 18
+	orig: 66, 18
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_16
+	rotate: true
+	xy: 942, 352
+	size: 66, 69
+	orig: 106, 69
+	offset: 40, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_17
+	rotate: false
+	xy: 976, 36
+	size: 45, 23
+	orig: 45, 25
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_10
+	rotate: true
+	xy: 942, 60
+	size: 230, 80
+	orig: 230, 80
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_11
+	rotate: true
+	xy: 808, 800
+	size: 219, 104
+	orig: 219, 104
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_12
+	rotate: false
+	xy: 255, 229
+	size: 115, 103
+	orig: 115, 103
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_13
+	rotate: false
+	xy: 976, 2
+	size: 45, 33
+	orig: 45, 33
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_18
+	rotate: false
+	xy: 369, 585
+	size: 24, 27
+	orig: 24, 27
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_19
+	rotate: false
+	xy: 2, 471
+	size: 243, 118
+	orig: 243, 118
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_2
+	rotate: true
+	xy: 942, 50
+	size: 8, 31
+	orig: 8, 31
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_3
+	rotate: false
+	xy: 637, 584
+	size: 30, 83
+	orig: 30, 87
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_1
+	rotate: true
+	xy: 913, 526
+	size: 84, 94
+	orig: 84, 96
+	offset: 0, 1
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_6
+	rotate: false
+	xy: 622, 281
+	size: 44, 81
+	orig: 44, 81
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_7
+	rotate: false
+	xy: 712, 526
+	size: 95, 129
+	orig: 95, 129
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_4
+	rotate: true
+	xy: 942, 291
+	size: 60, 74
+	orig: 60, 74
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_5
+	rotate: true
+	xy: 913, 611
+	size: 81, 87
+	orig: 81, 87
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_8
+	rotate: true
+	xy: 622, 249
+	size: 31, 55
+	orig: 41, 55
+	offset: 0, 0
+	index: -1
+role/dashe_zailin_cuixuanweizhuang_tu_9
+	rotate: true
+	xy: 622, 363
+	size: 34, 40
+	orig: 34, 40
+	offset: 0, 0
+	index: -1

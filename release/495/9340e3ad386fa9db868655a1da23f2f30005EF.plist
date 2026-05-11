@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>pic_common_buttntext_saodang10ci_big.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{139,2},{143,36}}</string>
+			<key>offset</key>
+			<string>{-1,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{143,36}}</string>
+			<key>sourceSize</key>
+			<string>{145,36}</string>
+		</dict>
+		<key>pic_common_buttntext_zaicisaodang_big.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{284,2},{111,36}}</string>
+			<key>offset</key>
+			<string>{-1,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3,1},{111,36}}</string>
+			<key>sourceSize</key>
+			<string>{119,38}</string>
+		</dict>
+		<key>pic_jingyingben_chakanvip2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{135,37}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5,0},{135,37}}</string>
+			<key>sourceSize</key>
+			<string>{145,37}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>lang_wipe0.png</string>
+		<key>size</key>
+		<string>{397,41}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>lang_wipe0.png</string>
+	</dict>
+</dict>
+</plist>

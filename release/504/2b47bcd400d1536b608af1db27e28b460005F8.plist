@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>wy_1_1_56529_txk_wuyzltxk23image.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{175,2},{28,27}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{28,27}}</string>
+			<key>sourceSize</key>
+			<string>{28,27}</string>
+		</dict>
+		<key>wy_3_3_22988_txk_wuyzltxk23image.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,168},{169,165}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{169,165}}</string>
+			<key>sourceSize</key>
+			<string>{169,165}</string>
+		</dict>
+		<key>wy_6_6_53795_txk_wuyzltxk23image.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{171,164}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{171,164}}</string>
+			<key>sourceSize</key>
+			<string>{171,164}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>wuyzltxk23image.png</string>
+		<key>size</key>
+		<string>{256,512}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>wuyzltxk23image.png</string>
+	</dict>
+</dict>
+</plist>

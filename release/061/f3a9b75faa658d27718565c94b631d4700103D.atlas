@@ -1,0 +1,237 @@
+
+asset/spine/jxlzxemszCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/zailin_leizhixiaermei_xz_35
+	rotate: true
+	xy: 719, 151
+	size: 177, 190
+	orig: 177, 190
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_34
+	rotate: true
+	xy: 381, 2
+	size: 184, 337
+	orig: 184, 337
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_33
+	rotate: true
+	xy: 286, 985
+	size: 33, 23
+	orig: 33, 23
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_32
+	rotate: true
+	xy: 997, 346
+	size: 51, 25
+	orig: 51, 25
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_31
+	rotate: true
+	xy: 314, 329
+	size: 75, 53
+	orig: 75, 53
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_30
+	rotate: false
+	xy: 895, 406
+	size: 54, 28
+	orig: 54, 28
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_15
+	rotate: false
+	xy: 314, 111
+	size: 62, 167
+	orig: 62, 167
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_14
+	rotate: false
+	xy: 925, 2
+	size: 87, 180
+	orig: 87, 180
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_17
+	rotate: false
+	xy: 2, 2
+	size: 311, 703
+	orig: 317, 703
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_16
+	rotate: false
+	xy: 314, 406
+	size: 163, 181
+	orig: 163, 181
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_11
+	rotate: false
+	xy: 314, 279
+	size: 30, 43
+	orig: 30, 45
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_10
+	rotate: false
+	xy: 377, 187
+	size: 59, 86
+	orig: 59, 86
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_13
+	rotate: true
+	xy: 705, 329
+	size: 43, 150
+	orig: 43, 150
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_12
+	rotate: false
+	xy: 122, 985
+	size: 44, 34
+	orig: 44, 34
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_2
+	rotate: false
+	xy: 426, 274
+	size: 155, 131
+	orig: 155, 131
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_19
+	rotate: true
+	xy: 582, 321
+	size: 79, 122
+	orig: 79, 122
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_18
+	rotate: false
+	xy: 910, 289
+	size: 86, 116
+	orig: 86, 116
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_7
+	rotate: true
+	xy: 314, 659
+	size: 44, 60
+	orig: 44, 60
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_6
+	rotate: true
+	xy: 167, 985
+	size: 33, 59
+	orig: 33, 59
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_9
+	rotate: true
+	xy: 227, 985
+	size: 33, 58
+	orig: 33, 58
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_8
+	rotate: true
+	xy: 310, 985
+	size: 32, 70
+	orig: 32, 70
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_24
+	rotate: true
+	xy: 719, 2
+	size: 148, 205
+	orig: 148, 205
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_25
+	rotate: false
+	xy: 856, 329
+	size: 38, 148
+	orig: 38, 148
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_26
+	rotate: false
+	xy: 368, 279
+	size: 57, 124
+	orig: 57, 124
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_27
+	rotate: false
+	xy: 582, 187
+	size: 134, 133
+	orig: 134, 133
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_20
+	rotate: false
+	xy: 314, 22
+	size: 63, 88
+	orig: 63, 88
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_21
+	rotate: false
+	xy: 122, 706
+	size: 209, 278
+	orig: 209, 278
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_22
+	rotate: false
+	xy: 2, 706
+	size: 119, 309
+	orig: 123, 309
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_5
+	rotate: true
+	xy: 437, 187
+	size: 79, 129
+	orig: 79, 129
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_28
+	rotate: true
+	xy: 997, 289
+	size: 56, 25
+	orig: 56, 25
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_29
+	rotate: false
+	xy: 314, 2
+	size: 65, 19
+	orig: 65, 19
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_4
+	rotate: true
+	xy: 314, 588
+	size: 70, 157
+	orig: 70, 157
+	offset: 0, 0
+	index: -1
+role/zailin_leizhixiaermei_xz_3
+	rotate: false
+	xy: 910, 183
+	size: 109, 105
+	orig: 109, 105
+	offset: 0, 0
+	index: -1

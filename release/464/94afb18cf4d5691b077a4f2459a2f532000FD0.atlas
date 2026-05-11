@@ -1,0 +1,229 @@
+
+asset/spine/teruiTRSCCard_role1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/terui2003_zailin_hjsz_tu_21
+	rotate: false
+	xy: 2, 2
+	size: 200, 209
+	orig: 202, 211
+	offset: 1, 1
+	index: -1
+
+asset/spine/teruiTRSCCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/terui2003_zailin_hjsz_tu_11
+	rotate: true
+	xy: 194, 308
+	size: 21, 76
+	orig: 23, 78
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_10
+	rotate: false
+	xy: 509, 555
+	size: 39, 88
+	orig: 41, 90
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_13
+	rotate: true
+	xy: 114, 945
+	size: 61, 192
+	orig: 63, 194
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_12
+	rotate: true
+	xy: 367, 2
+	size: 121, 166
+	orig: 123, 168
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_15
+	rotate: true
+	xy: 361, 555
+	size: 99, 147
+	orig: 101, 149
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_14
+	rotate: true
+	xy: 367, 124
+	size: 160, 152
+	orig: 162, 154
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_17
+	rotate: false
+	xy: 604, 902
+	size: 136, 117
+	orig: 138, 119
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_16
+	rotate: true
+	xy: 48, 945
+	size: 69, 65
+	orig: 71, 67
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_19
+	rotate: false
+	xy: 232, 330
+	size: 117, 270
+	orig: 119, 272
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_18
+	rotate: false
+	xy: 553, 228
+	size: 163, 207
+	orig: 165, 209
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_9
+	rotate: false
+	xy: 2, 945
+	size: 45, 76
+	orig: 47, 78
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_8
+	rotate: true
+	xy: 307, 930
+	size: 90, 170
+	orig: 92, 172
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_20
+	rotate: false
+	xy: 553, 436
+	size: 188, 210
+	orig: 190, 212
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_6
+	rotate: false
+	xy: 858, 876
+	size: 105, 142
+	orig: 107, 144
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_1
+	rotate: true
+	xy: 741, 876
+	size: 144, 116
+	orig: 146, 118
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_31
+	rotate: false
+	xy: 2, 2
+	size: 191, 342
+	orig: 193, 344
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_30
+	rotate: false
+	xy: 350, 308
+	size: 202, 246
+	orig: 204, 248
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_3
+	rotate: true
+	xy: 553, 2
+	size: 225, 180
+	orig: 227, 182
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_2
+	rotate: true
+	xy: 496, 655
+	size: 246, 159
+	orig: 248, 161
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_5
+	rotate: true
+	xy: 318, 601
+	size: 46, 42
+	orig: 48, 44
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_28
+	rotate: true
+	xy: 250, 660
+	size: 269, 245
+	orig: 271, 247
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_29
+	rotate: true
+	xy: 2, 668
+	size: 276, 247
+	orig: 278, 249
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_4
+	rotate: false
+	xy: 656, 647
+	size: 209, 228
+	orig: 211, 230
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_22
+	rotate: false
+	xy: 741, 2
+	size: 241, 208
+	orig: 243, 210
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_23
+	rotate: true
+	xy: 232, 601
+	size: 58, 85
+	orig: 60, 87
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_24
+	rotate: false
+	xy: 478, 930
+	size: 125, 90
+	orig: 127, 92
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_25
+	rotate: false
+	xy: 2, 345
+	size: 229, 322
+	orig: 231, 324
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_26
+	rotate: false
+	xy: 194, 2
+	size: 172, 305
+	orig: 174, 307
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_27
+	rotate: false
+	xy: 866, 344
+	size: 129, 207
+	orig: 131, 209
+	offset: 1, 1
+	index: -1
+role/terui2003_zailin_hjsz_tu_7
+	rotate: true
+	xy: 741, 211
+	size: 132, 239
+	orig: 134, 241
+	offset: 1, 1
+	index: -1

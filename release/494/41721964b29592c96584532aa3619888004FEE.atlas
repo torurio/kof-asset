@@ -1,0 +1,1403 @@
+
+asset/spine/global_spinehero_role2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_diying_dy
+	rotate: false
+	xy: 656, 2
+	size: 305, 97
+	orig: 305, 97
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_paobu_yan0
+	rotate: false
+	xy: 532, 583
+	size: 49, 50
+	orig: 49, 50
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan1
+	rotate: false
+	xy: 345, 619
+	size: 49, 49
+	orig: 49, 49
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan4
+	rotate: false
+	xy: 532, 531
+	size: 49, 51
+	orig: 49, 51
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_paobu_yan2
+	rotate: false
+	xy: 978, 232
+	size: 43, 51
+	orig: 43, 51
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan3
+	rotate: false
+	xy: 978, 284
+	size: 43, 51
+	orig: 43, 51
+	offset: 0, 0
+	index: -1
+
+asset/spine/deluolisi_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dlls_i5_st01
+	rotate: false
+	xy: 74, 623
+	size: 84, 96
+	orig: 84, 96
+	offset: 0, 0
+	index: -1
+dlls_j1_t01
+	rotate: false
+	xy: 78, 323
+	size: 77, 98
+	orig: 77, 98
+	offset: 0, 0
+	index: -1
+dlls_c_zs01
+	rotate: true
+	xy: 752, 600
+	size: 47, 49
+	orig: 47, 49
+	offset: 0, 0
+	index: -1
+dlls_i7_zj01
+	rotate: true
+	xy: 688, 650
+	size: 51, 47
+	orig: 51, 47
+	offset: 0, 0
+	index: -1
+dlls_d_yj01
+	rotate: true
+	xy: 332, 676
+	size: 30, 55
+	orig: 30, 55
+	offset: 0, 0
+	index: -1
+dlls_d_ys01
+	rotate: true
+	xy: 361, 286
+	size: 32, 55
+	orig: 32, 55
+	offset: 0, 0
+	index: -1
+dlls_g2_yj01
+	rotate: true
+	xy: 411, 982
+	size: 40, 61
+	orig: 40, 61
+	offset: 0, 0
+	index: -1
+dlls_i7_yj01
+	rotate: false
+	xy: 704, 437
+	size: 49, 53
+	orig: 49, 53
+	offset: 0, 0
+	index: -1
+dlls_f1_zs01
+	rotate: false
+	xy: 671, 707
+	size: 47, 51
+	orig: 47, 51
+	offset: 0, 0
+	index: -1
+dlls_i1_yxb01
+	rotate: true
+	xy: 643, 66
+	size: 62, 61
+	orig: 62, 61
+	offset: 0, 0
+	index: -1
+dlls_a_bz_01
+	rotate: false
+	xy: 2, 109
+	size: 29, 106
+	orig: 29, 106
+	offset: 0, 0
+	index: -1
+dlls_a_bz_03
+	rotate: false
+	xy: 22, 216
+	size: 28, 100
+	orig: 28, 100
+	offset: 0, 0
+	index: -1
+dlls_a_bz_02
+	rotate: false
+	xy: 2, 216
+	size: 19, 106
+	orig: 19, 106
+	offset: 0, 0
+	index: -1
+dlls_a_bz_05
+	rotate: false
+	xy: 2, 721
+	size: 34, 97
+	orig: 34, 97
+	offset: 0, 0
+	index: -1
+dlls_a_bz_04
+	rotate: false
+	xy: 2, 2
+	size: 67, 106
+	orig: 67, 106
+	offset: 0, 0
+	index: -1
+dlls_g2_st01
+	rotate: false
+	xy: 471, 707
+	size: 73, 80
+	orig: 73, 80
+	offset: 0, 0
+	index: -1
+dlls_i9_k01
+	rotate: false
+	xy: 616, 2
+	size: 60, 63
+	orig: 60, 63
+	offset: 0, 0
+	index: -1
+dlls_e3_st01
+	rotate: true
+	xy: 181, 912
+	size: 92, 69
+	orig: 92, 69
+	offset: 0, 0
+	index: -1
+dlls_g3_t01
+	rotate: true
+	xy: 51, 209
+	size: 99, 80
+	orig: 99, 80
+	offset: 0, 0
+	index: -1
+dlls_h4_k01
+	rotate: true
+	xy: 662, 854
+	size: 70, 64
+	orig: 70, 64
+	offset: 0, 0
+	index: -1
+dlls_i1_zdt01
+	rotate: false
+	xy: 332, 587
+	size: 60, 88
+	orig: 60, 88
+	offset: 0, 0
+	index: -1
+dlls_j1_yj01
+	rotate: true
+	xy: 499, 667
+	size: 39, 62
+	orig: 39, 62
+	offset: 0, 0
+	index: -1
+dlls_a_t_01
+	rotate: false
+	xy: 75, 525
+	size: 78, 96
+	orig: 78, 96
+	offset: 0, 0
+	index: -1
+dlls_j5_st01
+	rotate: false
+	xy: 37, 721
+	size: 86, 96
+	orig: 86, 96
+	offset: 0, 0
+	index: -1
+dlls_d_st01
+	rotate: false
+	xy: 184, 814
+	size: 80, 91
+	orig: 80, 91
+	offset: 0, 0
+	index: -1
+dlls_e3_ys01
+	rotate: false
+	xy: 444, 674
+	size: 54, 32
+	orig: 54, 32
+	offset: 0, 0
+	index: -1
+dlls_h4_t01
+	rotate: false
+	xy: 339, 707
+	size: 82, 86
+	orig: 82, 86
+	offset: 0, 0
+	index: -1
+dlls_a_zdt_01
+	rotate: false
+	xy: 426, 879
+	size: 67, 81
+	orig: 67, 81
+	offset: 0, 0
+	index: -1
+dlls_d_t01
+	rotate: false
+	xy: 236, 2
+	size: 78, 97
+	orig: 78, 97
+	offset: 0, 0
+	index: -1
+dlls_f3_k01
+	rotate: true
+	xy: 545, 707
+	size: 74, 72
+	orig: 74, 72
+	offset: 0, 0
+	index: -1
+dlls_a_yj_02
+	rotate: true
+	xy: 22, 317
+	size: 5, 12
+	orig: 5, 12
+	offset: 0, 0
+	index: -1
+dlls_a_yj_01
+	rotate: true
+	xy: 543, 384
+	size: 62, 57
+	orig: 62, 57
+	offset: 0, 0
+	index: -1
+dlls_b_zxb01
+	rotate: false
+	xy: 677, 2
+	size: 60, 62
+	orig: 60, 62
+	offset: 0, 0
+	index: -1
+dlls_c_zdt01
+	rotate: false
+	xy: 393, 587
+	size: 61, 86
+	orig: 61, 86
+	offset: 0, 0
+	index: -1
+dlls_e1_ydt01
+	rotate: true
+	xy: 494, 873
+	size: 80, 42
+	orig: 80, 42
+	offset: 0, 0
+	index: -1
+dlls_i3_k01
+	rotate: false
+	xy: 537, 868
+	size: 66, 73
+	orig: 66, 73
+	offset: 0, 0
+	index: -1
+dlls_h7_zdt01
+	rotate: true
+	xy: 328, 498
+	size: 88, 67
+	orig: 88, 67
+	offset: 0, 0
+	index: -1
+dlls_i10_zxt01
+	rotate: false
+	xy: 727, 850
+	size: 58, 70
+	orig: 58, 70
+	offset: 0, 0
+	index: -1
+dlls_d_zs01
+	rotate: false
+	xy: 302, 286
+	size: 58, 32
+	orig: 58, 32
+	offset: 0, 0
+	index: -1
+dlls_i3_yj01
+	rotate: true
+	xy: 483, 286
+	size: 30, 55
+	orig: 30, 55
+	offset: 0, 0
+	index: -1
+dlls_f2_ys01
+	rotate: true
+	xy: 765, 309
+	size: 53, 44
+	orig: 53, 44
+	offset: 0, 0
+	index: -1
+dlls_h2_zdt01
+	rotate: false
+	xy: 402, 408
+	size: 65, 84
+	orig: 65, 84
+	offset: 0, 0
+	index: -1
+dlls_i1_ydt01
+	rotate: false
+	xy: 62, 916
+	size: 43, 94
+	orig: 43, 94
+	offset: 0, 0
+	index: -1
+dlls_f2_zs01
+	rotate: false
+	xy: 770, 535
+	size: 38, 47
+	orig: 38, 47
+	offset: 0, 0
+	index: -1
+dlls_k4_st01
+	rotate: false
+	xy: 154, 519
+	size: 84, 94
+	orig: 84, 94
+	offset: 0, 0
+	index: -1
+dlls_i10_ys01
+	rotate: false
+	xy: 600, 201
+	size: 42, 64
+	orig: 42, 64
+	offset: 0, 0
+	index: -1
+dlls_f2_st01
+	rotate: true
+	xy: 32, 109
+	size: 99, 84
+	orig: 99, 84
+	offset: 0, 0
+	index: -1
+dlls_a_zdb_01
+	rotate: false
+	xy: 588, 447
+	size: 58, 44
+	orig: 58, 44
+	offset: 0, 0
+	index: -1
+dlls_a_zdb_02
+	rotate: false
+	xy: 501, 136
+	size: 43, 66
+	orig: 43, 66
+	offset: 0, 0
+	index: -1
+dlls_a_zdb_03
+	rotate: true
+	xy: 417, 286
+	size: 31, 36
+	orig: 31, 36
+	offset: 0, 0
+	index: -1
+dlls_i1_zj01
+	rotate: false
+	xy: 514, 2
+	size: 47, 66
+	orig: 47, 66
+	offset: 0, 0
+	index: -1
+dlls_h3_zxt01
+	rotate: true
+	xy: 487, 69
+	size: 66, 61
+	orig: 66, 61
+	offset: 0, 0
+	index: -1
+dlls_e3_yj01
+	rotate: true
+	xy: 607, 67
+	size: 64, 35
+	orig: 64, 35
+	offset: 0, 0
+	index: -1
+dlls_a_k_01
+	rotate: true
+	xy: 669, 779
+	size: 70, 62
+	orig: 70, 62
+	offset: 0, 0
+	index: -1
+dlls_h4_st01
+	rotate: false
+	xy: 2, 819
+	size: 87, 96
+	orig: 87, 96
+	offset: 0, 0
+	index: -1
+dlls_h6_ys01
+	rotate: false
+	xy: 720, 491
+	size: 41, 56
+	orig: 41, 56
+	offset: 0, 0
+	index: -1
+dlls_b_ys01
+	rotate: true
+	xy: 738, 2
+	size: 61, 41
+	orig: 61, 41
+	offset: 0, 0
+	index: -1
+dlls_f3_st01
+	rotate: false
+	xy: 239, 507
+	size: 88, 88
+	orig: 88, 88
+	offset: 0, 0
+	index: -1
+dlls_i6_zj_01
+	rotate: true
+	xy: 603, 317
+	size: 61, 55
+	orig: 61, 55
+	offset: 0, 0
+	index: -1
+dlls_g1_zs01
+	rotate: true
+	xy: 643, 196
+	size: 61, 51
+	orig: 61, 51
+	offset: 0, 0
+	index: -1
+dlls_c_zdb_01
+	rotate: false
+	xy: 586, 555
+	size: 56, 59
+	orig: 56, 59
+	offset: 0, 0
+	index: -1
+dlls_i5_zs01
+	rotate: false
+	xy: 604, 266
+	size: 61, 50
+	orig: 61, 50
+	offset: 0, 0
+	index: -1
+dlls_e2_yxt_01
+	rotate: false
+	xy: 204, 708
+	size: 66, 91
+	orig: 66, 91
+	offset: 0, 0
+	index: -1
+dlls_a_eh_01
+	rotate: true
+	xy: 2, 1011
+	size: 9, 14
+	orig: 9, 14
+	offset: 0, 0
+	index: -1
+dlls_b_t01
+	rotate: false
+	xy: 132, 202
+	size: 82, 97
+	orig: 82, 97
+	offset: 0, 0
+	index: -1
+dlls_a_zxb_01
+	rotate: false
+	xy: 601, 384
+	size: 59, 61
+	orig: 59, 61
+	offset: 0, 0
+	index: -1
+dlls_a_zxb_02
+	rotate: true
+	xy: 281, 997
+	size: 24, 64
+	orig: 24, 64
+	offset: 0, 0
+	index: -1
+dlls_a_zxb_03
+	rotate: true
+	xy: 643, 552
+	size: 59, 28
+	orig: 59, 28
+	offset: 0, 0
+	index: -1
+dlls_h4_zxt01
+	rotate: true
+	xy: 448, 2
+	size: 66, 65
+	orig: 66, 65
+	offset: 0, 0
+	index: -1
+dlls_h1_yxt_01
+	rotate: true
+	xy: 446, 229
+	size: 56, 60
+	orig: 56, 60
+	offset: 0, 0
+	index: -1
+dlls_a_zj_01
+	rotate: false
+	xy: 507, 203
+	size: 42, 65
+	orig: 42, 65
+	offset: 0, 0
+	index: -1
+dlls_a_ys_02
+	rotate: true
+	xy: 666, 996
+	size: 26, 31
+	orig: 26, 31
+	offset: 0, 0
+	index: -1
+dlls_a_yanjing_01
+	rotate: true
+	xy: 718, 127
+	size: 61, 29
+	orig: 61, 29
+	offset: 0, 0
+	index: -1
+dlls_a_ys_05
+	rotate: true
+	xy: 106, 1005
+	size: 16, 28
+	orig: 16, 28
+	offset: 0, 0
+	index: -1
+dlls_e2_yj_01
+	rotate: false
+	xy: 565, 782
+	size: 48, 72
+	orig: 48, 72
+	offset: 0, 0
+	index: -1
+dlls_e1_k01
+	rotate: false
+	xy: 378, 92
+	size: 63, 68
+	orig: 63, 68
+	offset: 0, 0
+	index: -1
+dlls_c_ys01
+	rotate: true
+	xy: 731, 189
+	size: 55, 38
+	orig: 55, 38
+	offset: 0, 0
+	index: -1
+dlls_a_yxb_02
+	rotate: false
+	xy: 290, 685
+	size: 23, 18
+	orig: 23, 18
+	offset: 0, 0
+	index: -1
+dlls_g2_t01
+	rotate: false
+	xy: 2, 623
+	size: 71, 97
+	orig: 71, 97
+	offset: 0, 0
+	index: -1
+dlls_e2_ys01
+	rotate: true
+	xy: 700, 609
+	size: 38, 51
+	orig: 38, 51
+	offset: 0, 0
+	index: -1
+dlls_i1_yj01
+	rotate: false
+	xy: 766, 363
+	size: 49, 52
+	orig: 49, 52
+	offset: 0, 0
+	index: -1
+dlls_h4_zdt01
+	rotate: false
+	xy: 159, 614
+	size: 47, 93
+	orig: 47, 93
+	offset: 0, 0
+	index: -1
+dlls_e3_k01
+	rotate: true
+	xy: 604, 855
+	size: 71, 57
+	orig: 71, 57
+	offset: 0, 0
+	index: -1
+dlls_a_gl_02
+	rotate: true
+	xy: 122, 309
+	size: 10, 36
+	orig: 10, 36
+	offset: 0, 0
+	index: -1
+dlls_e2_zj_01
+	rotate: false
+	xy: 537, 575
+	size: 48, 74
+	orig: 48, 74
+	offset: 0, 0
+	index: -1
+dlls_a_gl_01
+	rotate: true
+	xy: 210, 300
+	size: 18, 54
+	orig: 18, 54
+	offset: 0, 0
+	index: -1
+dlls_i7_ys01
+	rotate: true
+	xy: 713, 317
+	size: 55, 51
+	orig: 55, 51
+	offset: 0, 0
+	index: -1
+dlls_b_k01
+	rotate: false
+	xy: 562, 650
+	size: 68, 56
+	orig: 68, 56
+	offset: 0, 0
+	index: -1
+dlls_c_yxb01
+	rotate: true
+	xy: 477, 318
+	size: 67, 60
+	orig: 67, 60
+	offset: 0, 0
+	index: -1
+dlls_c_yj01
+	rotate: false
+	xy: 705, 65
+	size: 42, 61
+	orig: 42, 61
+	offset: 0, 0
+	index: -1
+dlls_f1_yj_01
+	rotate: false
+	xy: 562, 2
+	size: 53, 64
+	orig: 53, 64
+	offset: 0, 0
+	index: -1
+dlls_i10_t01
+	rotate: false
+	xy: 170, 101
+	size: 82, 97
+	orig: 82, 97
+	offset: 0, 0
+	index: -1
+dlls_f1_zxb_01
+	rotate: true
+	xy: 554, 942
+	size: 72, 64
+	orig: 72, 64
+	offset: 0, 0
+	index: -1
+dlls_i6_yj_01
+	rotate: false
+	xy: 727, 253
+	size: 50, 55
+	orig: 50, 55
+	offset: 0, 0
+	index: -1
+dlls_i8_ydb01
+	rotate: false
+	xy: 549, 69
+	size: 57, 64
+	orig: 57, 64
+	offset: 0, 0
+	index: -1
+dlls_d_ydt01
+	rotate: false
+	xy: 457, 791
+	size: 45, 81
+	orig: 45, 81
+	offset: 0, 0
+	index: -1
+dlls_e2_k_01
+	rotate: true
+	xy: 619, 927
+	size: 71, 46
+	orig: 71, 46
+	offset: 0, 0
+	index: -1
+dlls_h1_zdt01
+	rotate: false
+	xy: 503, 788
+	size: 61, 79
+	orig: 61, 79
+	offset: 0, 0
+	index: -1
+dlls_h3_yxt01
+	rotate: false
+	xy: 473, 961
+	size: 80, 61
+	orig: 80, 61
+	offset: 0, 0
+	index: -1
+dlls_a_ys_01
+	rotate: true
+	xy: 253, 685
+	size: 21, 36
+	orig: 21, 36
+	offset: 0, 0
+	index: -1
+dlls_a_ys_03
+	rotate: true
+	xy: 265, 295
+	size: 23, 36
+	orig: 23, 36
+	offset: 0, 0
+	index: -1
+dlls_d_k01
+	rotate: false
+	xy: 544, 493
+	size: 61, 61
+	orig: 61, 61
+	offset: 0, 0
+	index: -1
+dlls_a_yxb_01
+	rotate: false
+	xy: 545, 136
+	size: 64, 64
+	orig: 64, 64
+	offset: 0, 0
+	index: -1
+dlls_a_ys_04
+	rotate: true
+	xy: 86, 309
+	size: 12, 35
+	orig: 12, 35
+	offset: 0, 0
+	index: -1
+dlls_a_ys_06
+	rotate: true
+	xy: 191, 300
+	size: 19, 18
+	orig: 19, 18
+	offset: 0, 0
+	index: -1
+dlls_j3_t01
+	rotate: false
+	xy: 299, 100
+	size: 78, 89
+	orig: 78, 89
+	offset: 0, 0
+	index: -1
+dlls_h6_zs01
+	rotate: false
+	xy: 346, 982
+	size: 64, 40
+	orig: 64, 40
+	offset: 0, 0
+	index: -1
+dlls_i6_zdt1
+	rotate: true
+	xy: 413, 794
+	size: 84, 43
+	orig: 84, 43
+	offset: 0, 0
+	index: -1
+dlls_e2_zs01
+	rotate: true
+	xy: 799, 416
+	size: 50, 44
+	orig: 50, 44
+	offset: 0, 0
+	index: -1
+dlls_e1_st01
+	rotate: false
+	xy: 239, 416
+	size: 80, 90
+	orig: 80, 90
+	offset: 0, 0
+	index: -1
+dlls_i3_zdt01
+	rotate: true
+	xy: 396, 498
+	size: 85, 67
+	orig: 85, 67
+	offset: 0, 0
+	index: -1
+dlls_h4_lz04
+	rotate: true
+	xy: 32, 209
+	size: 6, 16
+	orig: 6, 16
+	offset: 0, 0
+	index: -1
+dlls_h4_lz03
+	rotate: true
+	xy: 778, 990
+	size: 32, 39
+	orig: 32, 39
+	offset: 0, 0
+	index: -1
+dlls_h4_lz02
+	rotate: false
+	xy: 251, 997
+	size: 29, 25
+	orig: 29, 25
+	offset: 0, 0
+	index: -1
+dlls_h4_lz01
+	rotate: false
+	xy: 159, 1005
+	size: 14, 16
+	orig: 14, 16
+	offset: 0, 0
+	index: -1
+dlls_e2_st01
+	rotate: true
+	xy: 315, 2
+	size: 89, 71
+	orig: 89, 71
+	offset: 0, 0
+	index: -1
+dlls_h1_zj01
+	rotate: true
+	xy: 388, 676
+	size: 30, 55
+	orig: 30, 55
+	offset: 0, 0
+	index: -1
+dlls_b_st01
+	rotate: true
+	xy: 342, 891
+	size: 90, 83
+	orig: 90, 83
+	offset: 0, 0
+	index: -1
+dlls_j5_zdt01
+	rotate: false
+	xy: 253, 100
+	size: 45, 95
+	orig: 45, 95
+	offset: 0, 0
+	index: -1
+dlls_a_zxt_01
+	rotate: false
+	xy: 464, 493
+	size: 79, 81
+	orig: 79, 81
+	offset: 0, 0
+	index: -1
+dlls_a_ydt_01
+	rotate: false
+	xy: 207, 614
+	size: 45, 91
+	orig: 45, 91
+	offset: 0, 0
+	index: -1
+dlls_k4_ydb_01
+	rotate: false
+	xy: 378, 161
+	size: 57, 68
+	orig: 57, 68
+	offset: 0, 0
+	index: -1
+dlls_k2_st01
+	rotate: false
+	xy: 2, 323
+	size: 75, 102
+	orig: 75, 102
+	offset: 0, 0
+	index: -1
+dlls_h1_st01
+	rotate: false
+	xy: 251, 906
+	size: 90, 90
+	orig: 90, 90
+	offset: 0, 0
+	index: -1
+dlls_e3_zdb01
+	rotate: false
+	xy: 631, 650
+	size: 56, 56
+	orig: 56, 56
+	offset: 0, 0
+	index: -1
+dlls_g2_k01
+	rotate: true
+	xy: 668, 129
+	size: 61, 49
+	orig: 61, 49
+	offset: 0, 0
+	index: -1
+dlls_h5_k01
+	rotate: true
+	xy: 378, 230
+	size: 55, 67
+	orig: 55, 67
+	offset: 0, 0
+	index: -1
+dlls_a_zs_03
+	rotate: false
+	xy: 454, 286
+	size: 28, 31
+	orig: 28, 31
+	offset: 0, 0
+	index: -1
+dlls_i1_ys01
+	rotate: true
+	xy: 539, 269
+	size: 47, 64
+	orig: 47, 64
+	offset: 0, 0
+	index: -1
+dlls_h5_st01
+	rotate: false
+	xy: 106, 912
+	size: 74, 92
+	orig: 74, 92
+	offset: 0, 0
+	index: -1
+dlls_a_yx_01
+	rotate: false
+	xy: 807, 467
+	size: 43, 43
+	orig: 43, 43
+	offset: 0, 0
+	index: -1
+dlls_a_zx_01
+	rotate: false
+	xy: 543, 447
+	size: 44, 45
+	orig: 44, 45
+	offset: 0, 0
+	index: -1
+dlls_h5_t01
+	rotate: false
+	xy: 253, 596
+	size: 78, 88
+	orig: 78, 88
+	offset: 0, 0
+	index: -1
+dlls_i1_st01
+	rotate: false
+	xy: 90, 818
+	size: 93, 93
+	orig: 93, 93
+	offset: 0, 0
+	index: -1
+dlls_i2_ys01
+	rotate: false
+	xy: 672, 550
+	size: 50, 58
+	orig: 50, 58
+	offset: 0, 0
+	index: -1
+dlls_h3_k01
+	rotate: true
+	xy: 538, 317
+	size: 66, 64
+	orig: 66, 64
+	offset: 0, 0
+	index: -1
+dlls_h3_st01
+	rotate: false
+	xy: 156, 320
+	size: 86, 95
+	orig: 86, 95
+	offset: 0, 0
+	index: -1
+dlls_h5_lz01
+	rotate: false
+	xy: 754, 428
+	size: 44, 54
+	orig: 44, 54
+	offset: 0, 0
+	index: -1
+dlls_g3_zs01
+	rotate: false
+	xy: 661, 379
+	size: 53, 57
+	orig: 53, 57
+	offset: 0, 0
+	index: -1
+dlls_f2_yj_01
+	rotate: false
+	xy: 550, 201
+	size: 49, 64
+	orig: 49, 64
+	offset: 0, 0
+	index: -1
+dlls_g2_t01++
+	rotate: false
+	xy: 2, 525
+	size: 72, 97
+	orig: 72, 97
+	offset: 0, 0
+	index: -1
+tou20
+	rotate: false
+	xy: 320, 409
+	size: 81, 88
+	orig: 81, 88
+	offset: 0, 0
+	index: -1
+dlls_a_xl_01
+	rotate: false
+	xy: 619, 999
+	size: 27, 23
+	orig: 27, 23
+	offset: 0, 0
+	index: -1
+dlls_h3_ys01
+	rotate: true
+	xy: 647, 446
+	size: 44, 56
+	orig: 44, 56
+	offset: 0, 0
+	index: -1
+dlls_a_xl_03
+	rotate: true
+	xy: 732, 753
+	size: 37, 29
+	orig: 37, 29
+	offset: 0, 0
+	index: -1
+dlls_e2_t01
+	rotate: true
+	xy: 124, 720
+	size: 93, 79
+	orig: 93, 79
+	offset: 0, 0
+	index: -1
+dlls_a_xl_04
+	rotate: true
+	xy: 206, 1005
+	size: 14, 22
+	orig: 14, 22
+	offset: 0, 0
+	index: -1
+dlls_i5_ys01
+	rotate: true
+	xy: 659, 317
+	size: 61, 53
+	orig: 61, 53
+	offset: 0, 0
+	index: -1
+dlls_j5_zxt01
+	rotate: false
+	xy: 468, 408
+	size: 74, 81
+	orig: 74, 81
+	offset: 0, 0
+	index: -1
+dlls_j5_t01
+	rotate: true
+	xy: 293, 196
+	size: 89, 84
+	orig: 89, 84
+	offset: 0, 0
+	index: -1
+dlls_f3_zs01
+	rotate: true
+	xy: 723, 548
+	size: 51, 46
+	orig: 51, 46
+	offset: 0, 0
+	index: -1
+dlls_g1_ys01
+	rotate: true
+	xy: 442, 71
+	size: 67, 44
+	orig: 67, 44
+	offset: 0, 0
+	index: -1
+dlls_e3_t01
+	rotate: true
+	xy: 2, 426
+	size: 98, 78
+	orig: 98, 78
+	offset: 0, 0
+	index: -1
+dlls_d_ydb_01
+	rotate: false
+	xy: 610, 132
+	size: 57, 63
+	orig: 57, 63
+	offset: 0, 0
+	index: -1
+dlls_i3_zj01
+	rotate: true
+	xy: 666, 258
+	size: 58, 60
+	orig: 58, 60
+	offset: 0, 0
+	index: -1
+dlls_a_st_01
+	rotate: false
+	xy: 215, 199
+	size: 77, 95
+	orig: 77, 95
+	offset: 0, 0
+	index: -1
+dlls_j4_k01
+	rotate: true
+	xy: 618, 707
+	size: 71, 52
+	orig: 71, 52
+	offset: 0, 0
+	index: -1
+dlls_e1_ydb01
+	rotate: true
+	xy: 606, 492
+	size: 59, 55
+	orig: 59, 55
+	offset: 0, 0
+	index: -1
+dlls_g3_ydt01
+	rotate: true
+	xy: 2, 916
+	size: 94, 59
+	orig: 94, 59
+	offset: 0, 0
+	index: -1
+dlls_h7_k01
+	rotate: true
+	xy: 387, 2
+	size: 68, 60
+	orig: 68, 60
+	offset: 0, 0
+	index: -1
+dlls_h1_k01
+	rotate: true
+	xy: 614, 782
+	size: 71, 54
+	orig: 71, 54
+	offset: 0, 0
+	index: -1
+dlls_a_yxt_02
+	rotate: true
+	xy: 736, 648
+	size: 50, 27
+	orig: 50, 27
+	offset: 0, 0
+	index: -1
+dlls_a_yxt_01
+	rotate: false
+	xy: 271, 707
+	size: 67, 88
+	orig: 67, 88
+	offset: 0, 0
+	index: -1
+dlls_h2_st01
+	rotate: false
+	xy: 70, 2
+	size: 83, 99
+	orig: 83, 99
+	offset: 0, 0
+	index: -1
+dlls_e1_ys01
+	rotate: false
+	xy: 762, 483
+	size: 44, 51
+	orig: 44, 51
+	offset: 0, 0
+	index: -1
+dlls_e1_yj01
+	rotate: true
+	xy: 715, 373
+	size: 54, 50
+	orig: 54, 50
+	offset: 0, 0
+	index: -1
+dlls_e2_ydt01
+	rotate: false
+	xy: 117, 102
+	size: 52, 99
+	orig: 52, 99
+	offset: 0, 0
+	index: -1
+dlls_a_t01+++
+	rotate: false
+	xy: 81, 422
+	size: 75, 96
+	orig: 75, 96
+	offset: 0, 0
+	index: -1
+dlls_h4_ydt01
+	rotate: false
+	xy: 422, 707
+	size: 48, 83
+	orig: 48, 83
+	offset: 0, 0
+	index: -1
+dlls_i6_zxb01
+	rotate: false
+	xy: 728, 921
+	size: 67, 68
+	orig: 67, 68
+	offset: 0, 0
+	index: -1
+dlls_a_ydb_01
+	rotate: false
+	xy: 645, 612
+	size: 54, 37
+	orig: 54, 37
+	offset: 0, 0
+	index: -1
+dlls_g2_zdt01
+	rotate: true
+	xy: 719, 702
+	size: 50, 42
+	orig: 50, 42
+	offset: 0, 0
+	index: -1
+dlls_a_ydb_02
+	rotate: false
+	xy: 695, 191
+	size: 35, 61
+	orig: 35, 61
+	offset: 0, 0
+	index: -1
+dlls_d_zxb01
+	rotate: true
+	xy: 666, 925
+	size: 70, 61
+	orig: 70, 61
+	offset: 0, 0
+	index: -1
+dlls_i1_t01
+	rotate: false
+	xy: 157, 416
+	size: 81, 94
+	orig: 81, 94
+	offset: 0, 0
+	index: -1
+dlls_a_zs_06
+	rotate: true
+	xy: 135, 1005
+	size: 16, 23
+	orig: 16, 23
+	offset: 0, 0
+	index: -1
+dlls_a_zs_04
+	rotate: true
+	xy: 51, 309
+	size: 13, 34
+	orig: 13, 34
+	offset: 0, 0
+	index: -1
+dlls_a_zs_05
+	rotate: true
+	xy: 174, 1005
+	size: 15, 31
+	orig: 15, 31
+	offset: 0, 0
+	index: -1
+dlls_a_zs_02
+	rotate: true
+	xy: 698, 996
+	size: 24, 32
+	orig: 24, 32
+	offset: 0, 0
+	index: -1
+dlls_g1_t01
+	rotate: false
+	xy: 455, 584
+	size: 81, 82
+	orig: 81, 82
+	offset: 0, 0
+	index: -1
+dlls_g1_t02
+	rotate: false
+	xy: 319, 319
+	size: 77, 89
+	orig: 77, 89
+	offset: 0, 0
+	index: -1
+dlls_a_zs_01
+	rotate: true
+	xy: 159, 300
+	size: 19, 31
+	orig: 19, 31
+	offset: 0, 0
+	index: -1
+dlls_b_zs01
+	rotate: true
+	xy: 731, 990
+	size: 32, 46
+	orig: 32, 46
+	offset: 0, 0
+	index: -1
+dlls_e1_t01
+	rotate: false
+	xy: 154, 2
+	size: 81, 98
+	orig: 81, 98
+	offset: 0, 0
+	index: -1
+dlls_j4_ydt_01
+	rotate: true
+	xy: 397, 319
+	size: 88, 79
+	orig: 88, 79
+	offset: 0, 0
+	index: -1
+dlls_i4_k01
+	rotate: true
+	xy: 436, 161
+	size: 67, 64
+	orig: 67, 64
+	offset: 0, 0
+	index: -1
+dlls_i1_zxt01
+	rotate: false
+	xy: 243, 319
+	size: 75, 90
+	orig: 75, 90
+	offset: 0, 0
+	index: -1
+dlls_e1_zxt01
+	rotate: false
+	xy: 265, 800
+	size: 84, 90
+	orig: 84, 90
+	offset: 0, 0
+	index: -1
+dlls_e3_zxt_01
+	rotate: true
+	xy: 350, 794
+	size: 84, 62
+	orig: 84, 62
+	offset: 0, 0
+	index: -1
+dlls_h1_yj01
+	rotate: true
+	xy: 586, 615
+	size: 34, 58
+	orig: 34, 58
+	offset: 0, 0
+	index: -1
+dlls_h1_ys01
+	rotate: true
+	xy: 662, 491
+	size: 58, 57
+	orig: 58, 57
+	offset: 0, 0
+	index: -1

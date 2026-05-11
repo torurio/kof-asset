@@ -1,0 +1,180 @@
+
+asset/spine/bhmvCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DDD_jiuweilianna_004
+	rotate: true
+	xy: 367, 958
+	size: 47, 46
+	orig: 47, 46
+	offset: 0, 0
+	index: -1
+DDD_jiuweilianna_023
+	rotate: false
+	xy: 336, 547
+	size: 188, 410
+	orig: 188, 410
+	offset: 0, 0
+	index: -1
+DDD_jiuweilianna_020
+	rotate: false
+	xy: 140, 547
+	size: 195, 417
+	orig: 195, 417
+	offset: 0, 0
+	index: -1
+DDD_jiuweilianna_007
+	rotate: true
+	xy: 140, 965
+	size: 15, 48
+	orig: 15, 48
+	offset: 0, 0
+	index: -1
+DDD_jiuweilianna_001
+	rotate: true
+	xy: 126, 990
+	size: 28, 75
+	orig: 28, 75
+	offset: 0, 0
+	index: -1
+DDD_jiuweilianna_002
+	rotate: false
+	xy: 303, 965
+	size: 63, 53
+	orig: 63, 53
+	offset: 0, 0
+	index: -1
+DDD_jiuweilianna_003
+	rotate: true
+	xy: 2, 990
+	size: 32, 49
+	orig: 32, 49
+	offset: 0, 0
+	index: -1
+DDD_jiuweilianna_008
+	rotate: false
+	xy: 237, 965
+	size: 65, 54
+	orig: 65, 54
+	offset: 0, 0
+	index: -1
+DDD_jiuweilianna_009
+	rotate: false
+	xy: 407, 2
+	size: 112, 206
+	orig: 112, 206
+	offset: 0, 0
+	index: -1
+DDD_jiuweilianna_025a
+	rotate: false
+	xy: 2, 2
+	size: 404, 544
+	orig: 404, 544
+	offset: 0, 0
+	index: -1
+DDD_jiuweilianna_017
+	rotate: true
+	xy: 525, 2
+	size: 274, 375
+	orig: 274, 375
+	offset: 0, 0
+	index: -1
+DDD_jiuweilianna_016
+	rotate: false
+	xy: 594, 590
+	size: 295, 208
+	orig: 295, 208
+	offset: 0, 0
+	index: -1
+DDD_jiuweilianna_015
+	rotate: false
+	xy: 898, 372
+	size: 93, 171
+	orig: 93, 171
+	offset: 0, 0
+	index: -1
+DDD_jiuweilianna_014
+	rotate: false
+	xy: 202, 965
+	size: 34, 57
+	orig: 34, 57
+	offset: 0, 0
+	index: -1
+DDD_jiuweilianna_013
+	rotate: true
+	xy: 52, 990
+	size: 30, 73
+	orig: 30, 73
+	offset: 0, 0
+	index: -1
+DDD_jiuweilianna_011
+	rotate: false
+	xy: 901, 167
+	size: 96, 204
+	orig: 96, 204
+	offset: 0, 0
+	index: -1
+DDD_jiuweilianna_019
+	rotate: true
+	xy: 596, 277
+	size: 312, 301
+	orig: 312, 301
+	offset: 0, 0
+	index: -1
+DDD_jiuweilianna_018
+	rotate: false
+	xy: 2, 547
+	size: 137, 442
+	orig: 137, 442
+	offset: 0, 0
+	index: -1
+DDD_jiuweilianna_005
+	rotate: true
+	xy: 140, 981
+	size: 8, 10
+	orig: 8, 10
+	offset: 0, 0
+	index: -1
+DDD_jiuweilianna_006
+	rotate: false
+	xy: 525, 542
+	size: 68, 84
+	orig: 68, 84
+	offset: 0, 0
+	index: -1
+DDD_jiuweilianna_024a
+	rotate: true
+	xy: 898, 544
+	size: 201, 77
+	orig: 201, 77
+	offset: 0, 0
+	index: -1
+DDD_jiuweilianna_012a
+	rotate: true
+	xy: 901, 2
+	size: 164, 107
+	orig: 164, 107
+	offset: 0, 0
+	index: -1
+DDD_jiuweilianna_010a
+	rotate: true
+	xy: 525, 627
+	size: 184, 65
+	orig: 188, 65
+	offset: 0, 0
+	index: -1
+
+asset/spine/bhmvCard_role1.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DDD_jiuweilianna_021
+	rotate: false
+	xy: 2, 2
+	size: 245, 337
+	orig: 245, 337
+	offset: 0, 0
+	index: -1

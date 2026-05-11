@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>jb_wsccimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{81,154}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{81,154}}</string>
+			<key>sourceSize</key>
+			<string>{81,154}</string>
+		</dict>
+		<key>tiao_wsccimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{85,2},{4,362}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{4,362}}</string>
+			<key>sourceSize</key>
+			<string>{4,362}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>wsccimage.png</string>
+		<key>size</key>
+		<string>{128,512}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>wsccimage.png</string>
+	</dict>
+</dict>
+</plist>

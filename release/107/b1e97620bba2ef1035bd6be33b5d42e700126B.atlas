@@ -1,0 +1,286 @@
+
+asset/spine/KLXVJJCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/kelonggaizaoren_kabei9
+	rotate: false
+	xy: 688, 465
+	size: 84, 110
+	orig: 84, 110
+	offset: 0, 0
+	index: -1
+role/kelonggaizaoren_kabei8
+	rotate: false
+	xy: 429, 815
+	size: 145, 201
+	orig: 145, 201
+	offset: 0, 0
+	index: -1
+role/kelonggaizaoren_kabei4
+	rotate: false
+	xy: 2, 831
+	size: 227, 186
+	orig: 227, 186
+	offset: 0, 0
+	index: -1
+role/kelonggaizaoren_kabei7
+	rotate: false
+	xy: 447, 2
+	size: 120, 70
+	orig: 120, 70
+	offset: 0, 0
+	index: -1
+role/kelonggaizaoren_kabei6
+	rotate: false
+	xy: 313, 775
+	size: 39, 40
+	orig: 39, 40
+	offset: 0, 0
+	index: -1
+role/kelonggaizaoren_kabei1
+	rotate: false
+	xy: 2, 462
+	size: 80, 368
+	orig: 80, 368
+	offset: 0, 0
+	index: -1
+role/kelonggaizaoren_kabei3
+	rotate: false
+	xy: 429, 115
+	size: 82, 159
+	orig: 82, 159
+	offset: 0, 0
+	index: -1
+role/kelonggaizaoren_kabei2
+	rotate: false
+	xy: 342, 115
+	size: 86, 159
+	orig: 86, 159
+	offset: 0, 0
+	index: -1
+role/kelonggaizaoren_kabei20
+	rotate: false
+	xy: 2, 2
+	size: 339, 459
+	orig: 339, 459
+	offset: 0, 0
+	index: -1
+role/kelonggaizaoren_kabei21
+	rotate: false
+	xy: 575, 281
+	size: 199, 183
+	orig: 199, 183
+	offset: 0, 0
+	index: -1
+role/kelonggaizaoren_kabei22
+	rotate: true
+	xy: 83, 462
+	size: 354, 229
+	orig: 354, 229
+	offset: 0, 0
+	index: -1
+role/kelonggaizaoren_kabei23
+	rotate: false
+	xy: 230, 817
+	size: 198, 205
+	orig: 198, 205
+	offset: 0, 0
+	index: -1
+role/kelonggaizaoren_kabei24
+	rotate: false
+	xy: 512, 162
+	size: 52, 106
+	orig: 52, 106
+	offset: 0, 0
+	index: -1
+role/kelonggaizaoren_kabei25
+	rotate: true
+	xy: 575, 166
+	size: 114, 277
+	orig: 114, 277
+	offset: 0, 0
+	index: -1
+role/kelonggaizaoren_kabei19
+	rotate: true
+	xy: 923, 682
+	size: 101, 95
+	orig: 101, 95
+	offset: 0, 0
+	index: -1
+role/kelonggaizaoren_kabei18
+	rotate: false
+	xy: 856, 2
+	size: 166, 253
+	orig: 166, 253
+	offset: 0, 0
+	index: -1
+role/kelonggaizaoren_kabei11
+	rotate: true
+	xy: 512, 73
+	size: 88, 59
+	orig: 88, 59
+	offset: 0, 0
+	index: -1
+role/kelonggaizaoren_kabei10
+	rotate: false
+	xy: 773, 472
+	size: 112, 82
+	orig: 112, 82
+	offset: 0, 0
+	index: -1
+role/kelonggaizaoren_kabei13
+	rotate: false
+	xy: 447, 275
+	size: 119, 136
+	orig: 119, 136
+	offset: 0, 0
+	index: -1
+role/kelonggaizaoren_kabei12
+	rotate: false
+	xy: 447, 412
+	size: 68, 49
+	orig: 68, 49
+	offset: 0, 0
+	index: -1
+role/kelonggaizaoren_kabei15
+	rotate: true
+	xy: 313, 462
+	size: 312, 183
+	orig: 312, 183
+	offset: 0, 0
+	index: -1
+role/kelonggaizaoren_kabei14
+	rotate: true
+	xy: 353, 775
+	size: 39, 124
+	orig: 39, 124
+	offset: 0, 0
+	index: -1
+role/kelonggaizaoren_kabei17
+	rotate: true
+	xy: 575, 2
+	size: 163, 280
+	orig: 163, 280
+	offset: 0, 0
+	index: -1
+role/kelonggaizaoren_kabei16
+	rotate: true
+	xy: 342, 281
+	size: 177, 104
+	orig: 177, 104
+	offset: 0, 0
+	index: -1
+role/klkbsh0014
+	rotate: false
+	xy: 497, 682
+	size: 102, 110
+	orig: 124, 124
+	offset: 9, 4
+	index: -1
+role/klkbsh0015
+	rotate: true
+	xy: 888, 363
+	size: 106, 112
+	orig: 124, 124
+	offset: 10, 4
+	index: -1
+role/klkbsh0010
+	rotate: false
+	xy: 709, 667
+	size: 108, 104
+	orig: 124, 124
+	offset: 7, 3
+	index: -1
+role/klkbsh0011
+	rotate: true
+	xy: 818, 682
+	size: 102, 104
+	orig: 124, 124
+	offset: 7, 4
+	index: -1
+role/klkbsh0012
+	rotate: false
+	xy: 674, 863
+	size: 102, 106
+	orig: 124, 124
+	offset: 7, 4
+	index: -1
+role/klkbsh0013
+	rotate: true
+	xy: 600, 762
+	size: 100, 108
+	orig: 124, 124
+	offset: 8, 3
+	index: -1
+role/klkbtx20241227
+	rotate: false
+	xy: 773, 555
+	size: 111, 111
+	orig: 111, 111
+	offset: 0, 0
+	index: -1
+role/klkbsh0007
+	rotate: false
+	xy: 575, 562
+	size: 112, 94
+	orig: 124, 124
+	offset: 7, 10
+	index: -1
+role/klkbsh0006
+	rotate: false
+	xy: 575, 465
+	size: 112, 96
+	orig: 124, 124
+	offset: 6, 9
+	index: -1
+role/klkbsh0005
+	rotate: false
+	xy: 888, 470
+	size: 112, 102
+	orig: 124, 124
+	offset: 7, 3
+	index: -1
+role/klkbsh0004
+	rotate: false
+	xy: 853, 256
+	size: 114, 106
+	orig: 124, 124
+	offset: 7, 2
+	index: -1
+role/klkbsh0003
+	rotate: true
+	xy: 342, 2
+	size: 112, 104
+	orig: 124, 124
+	offset: 9, 8
+	index: -1
+role/klkbsh0002
+	rotate: false
+	xy: 885, 573
+	size: 110, 108
+	orig: 124, 124
+	offset: 11, 8
+	index: -1
+role/klkbsh0001
+	rotate: true
+	xy: 775, 363
+	size: 108, 112
+	orig: 124, 124
+	offset: 11, 5
+	index: -1
+role/klkbsh0009
+	rotate: false
+	xy: 600, 657
+	size: 108, 104
+	orig: 124, 124
+	offset: 8, 3
+	index: -1
+role/klkbsh0008
+	rotate: true
+	xy: 575, 863
+	size: 108, 98
+	orig: 124, 124
+	offset: 9, 9
+	index: -1

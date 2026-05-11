@@ -1,0 +1,139 @@
+
+asset/spine/tx_daR_ygnzYG_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/yigenizi_daR_tupian_19
+	rotate: false
+	xy: 2, 291
+	size: 233, 212
+	orig: 235, 214
+	offset: 1, 1
+	index: -1
+role/yigenizi_daR_tupian_10
+	rotate: false
+	xy: 236, 291
+	size: 32, 69
+	orig: 34, 71
+	offset: 1, 1
+	index: -1
+role/yigenizi_daR_tupian_20
+	rotate: false
+	xy: 299, 278
+	size: 234, 231
+	orig: 236, 233
+	offset: 1, 1
+	index: -1
+role/yigenizi_daR_tupian_16
+	rotate: false
+	xy: 299, 2
+	size: 293, 275
+	orig: 295, 277
+	offset: 1, 1
+	index: -1
+role/yigenizi_daR_tupian_3
+	rotate: true
+	xy: 534, 486
+	size: 24, 34
+	orig: 26, 36
+	offset: 1, 1
+	index: -1
+role/yigenizi_daR_tupian_17
+	rotate: true
+	xy: 875, 92
+	size: 232, 142
+	orig: 234, 144
+	offset: 1, 1
+	index: -1
+role/yigenizi_daR_tupian_13
+	rotate: false
+	xy: 593, 2
+	size: 281, 262
+	orig: 283, 264
+	offset: 1, 1
+	index: -1
+role/yigenizi_daR_tupian_2
+	rotate: true
+	xy: 534, 460
+	size: 25, 36
+	orig: 27, 38
+	offset: 1, 1
+	index: -1
+role/yigenizi_daR_tupian_11
+	rotate: false
+	xy: 534, 385
+	size: 37, 74
+	orig: 39, 76
+	offset: 1, 1
+	index: -1
+role/yigenizi_daR_tupian_1
+	rotate: true
+	xy: 269, 291
+	size: 32, 28
+	orig: 34, 30
+	offset: 1, 1
+	index: -1
+role/yigenizi_daR_tupian_6
+	rotate: false
+	xy: 534, 278
+	size: 49, 81
+	orig: 51, 83
+	offset: 1, 1
+	index: -1
+role/yigenizi_daR_tupian_7
+	rotate: true
+	xy: 875, 2
+	size: 89, 145
+	orig: 91, 147
+	offset: 1, 1
+	index: -1
+role/yigenizi_daR_tupian_4
+	rotate: false
+	xy: 534, 360
+	size: 46, 24
+	orig: 48, 26
+	offset: 1, 1
+	index: -1
+role/yigenizi_daR_tupian_5
+	rotate: false
+	xy: 235, 510
+	size: 125, 73
+	orig: 127, 75
+	offset: 1, 1
+	index: -1
+role/yigenizi_daR_tupian_18
+	rotate: false
+	xy: 2, 504
+	size: 232, 129
+	orig: 234, 131
+	offset: 1, 1
+	index: -1
+role/yigenizi_daR_tupian_14
+	rotate: false
+	xy: 2, 2
+	size: 296, 288
+	orig: 298, 290
+	offset: 1, 1
+	index: -1
+role/yigenizi_daR_tupian_8
+	rotate: true
+	xy: 858, 476
+	size: 84, 153
+	orig: 86, 155
+	offset: 1, 1
+	index: -1
+role/yigenizi_daR_tupian_9
+	rotate: true
+	xy: 858, 325
+	size: 150, 158
+	orig: 152, 160
+	offset: 1, 1
+	index: -1
+role/yigenizi_daR_tupian_15
+	rotate: false
+	xy: 593, 265
+	size: 264, 256
+	orig: 266, 258
+	offset: 1, 1
+	index: -1

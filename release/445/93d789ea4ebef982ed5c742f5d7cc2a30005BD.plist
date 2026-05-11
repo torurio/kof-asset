@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>lizi01_jjpkpaiimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,220},{8,11}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{8,11}}</string>
+			<key>sourceSize</key>
+			<string>{8,11}</string>
+		</dict>
+		<key>lizi02_jjpkpaiimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,233},{7,8}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{7,8}}</string>
+			<key>sourceSize</key>
+			<string>{7,8}</string>
+		</dict>
+		<key>zhezhao_jjpkpaiimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{174,216}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{174,216}}</string>
+			<key>sourceSize</key>
+			<string>{174,216}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>jjpkpaiimage.png</string>
+		<key>size</key>
+		<string>{256,256}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>jjpkpaiimage.png</string>
+	</dict>
+</dict>
+</plist>

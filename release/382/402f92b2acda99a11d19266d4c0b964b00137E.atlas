@@ -1,0 +1,286 @@
+
+asset/spine/lctjMylyCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/caoti_mylykabei_16
+	rotate: false
+	xy: 385, 2
+	size: 293, 314
+	orig: 295, 316
+	offset: 1, 1
+	index: -1
+role/caoti_mylykabei_17
+	rotate: false
+	xy: 889, 2
+	size: 130, 139
+	orig: 132, 141
+	offset: 1, 1
+	index: -1
+role/caoti_mylykabei_14
+	rotate: true
+	xy: 632, 853
+	size: 93, 92
+	orig: 95, 94
+	offset: 1, 1
+	index: -1
+role/caoti_mylykabei_15
+	rotate: true
+	xy: 679, 2
+	size: 178, 209
+	orig: 180, 211
+	offset: 1, 1
+	index: -1
+role/caoti_mylykabei_12
+	rotate: true
+	xy: 435, 743
+	size: 209, 196
+	orig: 211, 198
+	offset: 1, 1
+	index: -1
+role/caoti_mylykabei_13
+	rotate: false
+	xy: 859, 323
+	size: 122, 121
+	orig: 124, 123
+	offset: 1, 1
+	index: -1
+role/caoti_mylykabei_10
+	rotate: false
+	xy: 830, 758
+	size: 93, 89
+	orig: 95, 91
+	offset: 1, 1
+	index: -1
+role/caoti_mylykabei_11
+	rotate: false
+	xy: 602, 317
+	size: 63, 59
+	orig: 65, 61
+	offset: 1, 1
+	index: -1
+role/caoti_mylykabei_18
+	rotate: false
+	xy: 2, 2
+	size: 268, 384
+	orig: 270, 386
+	offset: 1, 1
+	index: -1
+role/caoti_mylykabei_19
+	rotate: false
+	xy: 2, 387
+	size: 250, 355
+	orig: 252, 357
+	offset: 1, 1
+	index: -1
+role/caoti_oyinglieyankabeitexiao_huo0013
+	rotate: false
+	xy: 725, 853
+	size: 100, 108
+	orig: 124, 124
+	offset: 8, 13
+	index: -1
+role/caoti_oyinglieyankabeitexiao_huo0012
+	rotate: false
+	xy: 727, 714
+	size: 102, 106
+	orig: 124, 124
+	offset: 7, 14
+	index: -1
+role/caoti_oyinglieyankabeitexiao_huo0011
+	rotate: true
+	xy: 830, 655
+	size: 102, 104
+	orig: 124, 124
+	offset: 7, 16
+	index: -1
+role/caoti_oyinglieyankabeitexiao_huo0010
+	rotate: false
+	xy: 892, 550
+	size: 108, 104
+	orig: 124, 124
+	offset: 7, 17
+	index: -1
+role/caoti_oyinglieyankabeitexiao_huo0015
+	rotate: false
+	xy: 474, 530
+	size: 106, 112
+	orig: 124, 124
+	offset: 10, 8
+	index: -1
+role/caoti_oyinglieyankabeitexiao_huo0014
+	rotate: false
+	xy: 789, 445
+	size: 102, 110
+	orig: 124, 124
+	offset: 9, 10
+	index: -1
+role/caoti_mylykabei_8
+	rotate: true
+	xy: 602, 377
+	size: 87, 57
+	orig: 89, 59
+	offset: 1, 1
+	index: -1
+role/caoti_mylykabei_9
+	rotate: false
+	xy: 547, 953
+	size: 91, 64
+	orig: 93, 66
+	offset: 1, 1
+	index: -1
+role/caoti_mylykabei_4
+	rotate: true
+	xy: 889, 142
+	size: 180, 126
+	orig: 182, 128
+	offset: 1, 1
+	index: -1
+role/caoti_mylykabei_5
+	rotate: false
+	xy: 271, 2
+	size: 113, 334
+	orig: 115, 336
+	offset: 1, 1
+	index: -1
+role/caoti_mylykabei_6
+	rotate: false
+	xy: 356, 743
+	size: 78, 227
+	orig: 80, 229
+	offset: 1, 1
+	index: -1
+role/caoti_mylykabei_7
+	rotate: false
+	xy: 271, 337
+	size: 52, 46
+	orig: 54, 48
+	offset: 1, 1
+	index: -1
+role/caoti_mylykabei_1
+	rotate: true
+	xy: 435, 953
+	size: 64, 111
+	orig: 66, 113
+	offset: 1, 1
+	index: -1
+role/caoti_mylykabei_2
+	rotate: true
+	xy: 2, 743
+	size: 245, 72
+	orig: 247, 74
+	offset: 1, 1
+	index: -1
+role/caoti_mylykabei_3
+	rotate: true
+	xy: 485, 317
+	size: 105, 116
+	orig: 107, 118
+	offset: 1, 1
+	index: -1
+role/caoti_oyinglieyankabeitexiao_huo0008
+	rotate: false
+	xy: 474, 643
+	size: 108, 98
+	orig: 124, 124
+	offset: 9, 17
+	index: -1
+role/caoti_oyinglieyankabeitexiao_huo0009
+	rotate: false
+	xy: 892, 445
+	size: 108, 104
+	orig: 124, 124
+	offset: 8, 17
+	index: -1
+role/caoti_oyinglieyankabeitexiao_huo0004
+	rotate: false
+	xy: 474, 423
+	size: 114, 106
+	orig: 124, 124
+	offset: 7, 16
+	index: -1
+role/caoti_oyinglieyankabeitexiao_huo0005
+	rotate: true
+	xy: 686, 490
+	size: 112, 102
+	orig: 124, 124
+	offset: 7, 19
+	index: -1
+role/caoti_oyinglieyankabeitexiao_huo0006
+	rotate: false
+	xy: 583, 643
+	size: 112, 96
+	orig: 124, 124
+	offset: 6, 19
+	index: -1
+role/caoti_oyinglieyankabeitexiao_huo0007
+	rotate: true
+	xy: 632, 740
+	size: 112, 94
+	orig: 124, 124
+	offset: 7, 20
+	index: -1
+role/caoti_oyinglieyankabeitexiao_huo0001
+	rotate: true
+	xy: 660, 381
+	size: 108, 112
+	orig: 124, 124
+	offset: 11, 7
+	index: -1
+role/caoti_oyinglieyankabeitexiao_huo0002
+	rotate: true
+	xy: 696, 603
+	size: 110, 108
+	orig: 124, 124
+	offset: 11, 8
+	index: -1
+role/caoti_oyinglieyankabeitexiao_huo0003
+	rotate: true
+	xy: 581, 530
+	size: 112, 104
+	orig: 124, 124
+	offset: 9, 12
+	index: -1
+role/caoti_mylykabei_25
+	rotate: false
+	xy: 679, 254
+	size: 179, 126
+	orig: 181, 128
+	offset: 1, 1
+	index: -1
+role/caoti_mylykabei_24
+	rotate: false
+	xy: 679, 181
+	size: 187, 72
+	orig: 189, 74
+	offset: 1, 1
+	index: -1
+role/caoti_mylykabei_23
+	rotate: true
+	xy: 385, 317
+	size: 67, 99
+	orig: 69, 101
+	offset: 1, 1
+	index: -1
+role/caoti_mylykabei_22
+	rotate: false
+	xy: 75, 743
+	size: 280, 239
+	orig: 282, 241
+	offset: 1, 1
+	index: -1
+role/caoti_mylykabei_21
+	rotate: false
+	xy: 253, 387
+	size: 220, 355
+	orig: 222, 357
+	offset: 1, 1
+	index: -1
+role/caoti_mylykabei_20
+	rotate: false
+	xy: 2, 989
+	size: 52, 26
+	orig: 54, 28
+	offset: 1, 1
+	index: -1

@@ -1,0 +1,3100 @@
+
+asset/spine/lukaer02umxsz_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_lke2_liumenbisha_shayuchongqi_00044
+	rotate: false
+	xy: 2, 348
+	size: 275, 340
+	orig: 275, 340
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_shayuchongqi_00047
+	rotate: true
+	xy: 786, 801
+	size: 221, 154
+	orig: 221, 154
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_shayuchongqi_00040
+	rotate: false
+	xy: 2, 2
+	size: 272, 345
+	orig: 272, 345
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_shayuchongqi_00043
+	rotate: false
+	xy: 278, 348
+	size: 265, 337
+	orig: 265, 337
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_shayuchongqi_00042
+	rotate: false
+	xy: 257, 689
+	size: 252, 327
+	orig: 252, 327
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji5_00068
+	rotate: false
+	xy: 854, 634
+	size: 166, 166
+	orig: 166, 168
+	offset: 0, 2
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji4_00050
+	rotate: true
+	xy: 544, 431
+	size: 82, 241
+	orig: 82, 241
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_bao_00080
+	rotate: true
+	xy: 786, 348
+	size: 67, 56
+	orig: 67, 56
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00021
+	rotate: true
+	xy: 786, 468
+	size: 45, 72
+	orig: 53, 84
+	offset: 5, 12
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji2_00027
+	rotate: false
+	xy: 530, 2
+	size: 35, 120
+	orig: 35, 120
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji1_00019
+	rotate: false
+	xy: 257, 1017
+	size: 7, 5
+	orig: 7, 5
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_guangci2_00046
+	rotate: false
+	xy: 859, 468
+	size: 163, 165
+	orig: 163, 165
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_shayuchongqi_00050
+	rotate: true
+	xy: 834, 789
+	size: 11, 17
+	orig: 11, 17
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_daiji_yushang_00009
+	rotate: true
+	xy: 992, 423
+	size: 44, 29
+	orig: 120, 105
+	offset: 9, 70
+	index: -1
+effect/common/New_lke2_liumenbisha_tuowei_00027
+	rotate: false
+	xy: 602, 80
+	size: 183, 32
+	orig: 185, 32
+	offset: 1, 0
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00022
+	rotate: true
+	xy: 786, 770
+	size: 29, 47
+	orig: 119, 107
+	offset: 4, 57
+	index: -1
+effect/common/New_lke2_daiji_yushang_00044
+	rotate: false
+	xy: 641, 113
+	size: 6, 7
+	orig: 120, 105
+	offset: 105, 3
+	index: -1
+effect/common/New_lke2_daiji_yushang_00047
+	rotate: true
+	xy: 834, 770
+	size: 18, 19
+	orig: 120, 105
+	offset: 101, 0
+	index: -1
+effect/common/New_lke_kc_shuihua2_00029
+	rotate: false
+	xy: 617, 113
+	size: 8, 8
+	orig: 8, 8
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_guangci_00007
+	rotate: true
+	xy: 681, 514
+	size: 170, 172
+	orig: 170, 172
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji6_00086
+	rotate: true
+	xy: 602, 2
+	size: 77, 183
+	orig: 77, 183
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji6_00084
+	rotate: false
+	xy: 941, 801
+	size: 75, 221
+	orig: 75, 221
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00003
+	rotate: true
+	xy: 786, 416
+	size: 51, 56
+	orig: 53, 84
+	offset: 0, 24
+	index: -1
+effect/common/New_lke_kc_houshuihua_00056
+	rotate: false
+	xy: 786, 685
+	size: 67, 84
+	orig: 67, 84
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_daiji_yushang_00020
+	rotate: false
+	xy: 634, 113
+	size: 6, 7
+	orig: 120, 105
+	offset: 4, 88
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji5_00071
+	rotate: true
+	xy: 544, 514
+	size: 171, 136
+	orig: 171, 136
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji3_00030
+	rotate: true
+	xy: 786, 2
+	size: 120, 233
+	orig: 120, 233
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji2_00019
+	rotate: true
+	xy: 544, 348
+	size: 82, 241
+	orig: 82, 241
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua2_00061
+	rotate: false
+	xy: 843, 423
+	size: 148, 44
+	orig: 148, 44
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_shayuchongqi_00038
+	rotate: false
+	xy: 510, 686
+	size: 275, 334
+	orig: 275, 334
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_shayuchongqi_00039
+	rotate: false
+	xy: 275, 2
+	size: 254, 340
+	orig: 254, 340
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_shayuchongqi_00033
+	rotate: false
+	xy: 843, 123
+	size: 178, 299
+	orig: 178, 299
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_shayuchongqi_00035
+	rotate: true
+	xy: 530, 123
+	size: 224, 312
+	orig: 224, 312
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_shayuchongqi_00037
+	rotate: false
+	xy: 2, 689
+	size: 254, 328
+	orig: 254, 328
+	offset: 0, 0
+	index: -1
+
+asset/spine/lukaer02umxsz_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_lke2_liumenbisha_shayuchongqi_00045
+	rotate: true
+	xy: 267, 641
+	size: 287, 256
+	orig: 287, 256
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_shayuchongqi_00046
+	rotate: true
+	xy: 2, 641
+	size: 287, 264
+	orig: 287, 264
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_shayuchongqi_00041
+	rotate: false
+	xy: 2, 323
+	size: 289, 317
+	orig: 289, 317
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua_00048
+	rotate: true
+	xy: 399, 929
+	size: 93, 83
+	orig: 93, 83
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00045
+	rotate: true
+	xy: 648, 806
+	size: 40, 34
+	orig: 92, 148
+	offset: 45, 80
+	index: -1
+effect/common/New_lke_kc_dibo_00016
+	rotate: false
+	xy: 868, 165
+	size: 154, 78
+	orig: 154, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00017
+	rotate: false
+	xy: 868, 244
+	size: 154, 78
+	orig: 154, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00014
+	rotate: false
+	xy: 868, 2
+	size: 154, 78
+	orig: 154, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00015
+	rotate: false
+	xy: 671, 2
+	size: 154, 78
+	orig: 154, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji5_00067
+	rotate: false
+	xy: 671, 81
+	size: 162, 174
+	orig: 162, 174
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00018
+	rotate: false
+	xy: 868, 323
+	size: 154, 78
+	orig: 154, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00019
+	rotate: false
+	xy: 868, 402
+	size: 154, 78
+	orig: 154, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji4_00053
+	rotate: true
+	xy: 834, 81
+	size: 83, 188
+	orig: 83, 188
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji4_00057
+	rotate: false
+	xy: 631, 900
+	size: 51, 122
+	orig: 51, 122
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua2_00051
+	rotate: false
+	xy: 483, 929
+	size: 147, 92
+	orig: 147, 92
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00035
+	rotate: false
+	xy: 518, 584
+	size: 59, 55
+	orig: 119, 107
+	offset: 33, 9
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00033
+	rotate: false
+	xy: 539, 262
+	size: 57, 59
+	orig: 119, 107
+	offset: 26, 13
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00031
+	rotate: true
+	xy: 456, 584
+	size: 55, 61
+	orig: 119, 107
+	offset: 19, 19
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00038
+	rotate: true
+	xy: 578, 584
+	size: 55, 47
+	orig: 119, 107
+	offset: 48, 4
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00020
+	rotate: true
+	xy: 452, 262
+	size: 45, 68
+	orig: 53, 84
+	offset: 5, 15
+	index: -1
+effect/common/New_lke_kc_houshuihua_00075
+	rotate: false
+	xy: 419, 308
+	size: 13, 13
+	orig: 13, 13
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua_00071
+	rotate: true
+	xy: 985, 955
+	size: 67, 36
+	orig: 67, 36
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua_00073
+	rotate: true
+	xy: 737, 256
+	size: 65, 32
+	orig: 65, 32
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji2_00026
+	rotate: true
+	xy: 292, 589
+	size: 51, 122
+	orig: 51, 122
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji2_00021
+	rotate: true
+	xy: 683, 640
+	size: 84, 184
+	orig: 84, 184
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji1_00009
+	rotate: true
+	xy: 521, 2
+	size: 259, 68
+	orig: 259, 68
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00025
+	rotate: false
+	xy: 868, 876
+	size: 154, 78
+	orig: 154, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00024
+	rotate: false
+	xy: 868, 797
+	size: 154, 78
+	orig: 154, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00023
+	rotate: false
+	xy: 868, 718
+	size: 154, 78
+	orig: 154, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00022
+	rotate: false
+	xy: 868, 639
+	size: 154, 78
+	orig: 154, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00021
+	rotate: false
+	xy: 868, 560
+	size: 154, 78
+	orig: 154, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00020
+	rotate: false
+	xy: 868, 481
+	size: 154, 78
+	orig: 154, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji1_00014
+	rotate: false
+	xy: 683, 803
+	size: 184, 74
+	orig: 184, 74
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_guangci2_00044
+	rotate: false
+	xy: 338, 322
+	size: 259, 261
+	orig: 259, 261
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_daiji_yushang_00007
+	rotate: true
+	xy: 834, 165
+	size: 46, 33
+	orig: 120, 105
+	offset: 16, 62
+	index: -1
+effect/common/New_lke2_daiji_yushang_00002
+	rotate: true
+	xy: 834, 257
+	size: 42, 33
+	orig: 120, 105
+	offset: 46, 40
+	index: -1
+effect/common/New_lke2_daiji_yushang_00003
+	rotate: true
+	xy: 834, 212
+	size: 44, 33
+	orig: 120, 105
+	offset: 39, 45
+	index: -1
+effect/common/New_lke2_liumenbisha_tuowei_00029
+	rotate: true
+	xy: 524, 640
+	size: 260, 42
+	orig: 260, 44
+	offset: 0, 2
+	index: -1
+effect/common/New_lke2_liumenbisha_tuowei_00028
+	rotate: true
+	xy: 292, 323
+	size: 265, 45
+	orig: 265, 45
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00023
+	rotate: false
+	xy: 832, 511
+	size: 35, 51
+	orig: 119, 107
+	offset: 4, 53
+	index: -1
+effect/common/New_lke2_daiji_yushang_00045
+	rotate: false
+	xy: 433, 308
+	size: 12, 13
+	orig: 120, 105
+	offset: 104, 3
+	index: -1
+effect/common/New_lke2_daiji_yushang_00046
+	rotate: true
+	xy: 282, 308
+	size: 14, 15
+	orig: 120, 105
+	offset: 103, 3
+	index: -1
+effect/common/New_lke_kc_shuihua2_00026
+	rotate: false
+	xy: 770, 256
+	size: 63, 62
+	orig: 63, 62
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00022
+	rotate: false
+	xy: 648, 847
+	size: 34, 38
+	orig: 92, 148
+	offset: 37, 20
+	index: -1
+effect/common/New_lke_kc_houshuihua_00050
+	rotate: false
+	xy: 288, 929
+	size: 110, 93
+	orig: 110, 93
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_shuihua2_00012
+	rotate: false
+	xy: 172, 929
+	size: 115, 93
+	orig: 115, 93
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00013
+	rotate: false
+	xy: 446, 308
+	size: 11, 13
+	orig: 119, 107
+	offset: 3, 89
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00014
+	rotate: true
+	xy: 387, 308
+	size: 13, 17
+	orig: 119, 107
+	offset: 3, 86
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00067
+	rotate: true
+	xy: 648, 640
+	size: 42, 34
+	orig: 92, 148
+	offset: 43, 85
+	index: -1
+effect/common/New_lke2_daiji_yushang_00010
+	rotate: false
+	xy: 524, 901
+	size: 42, 27
+	orig: 120, 105
+	offset: 6, 75
+	index: -1
+effect/common/New_lke2_daiji_yushang_00017
+	rotate: true
+	xy: 521, 287
+	size: 18, 15
+	orig: 120, 105
+	offset: 3, 88
+	index: -1
+effect/common/New_lke2_daiji_yushang_00016
+	rotate: false
+	xy: 598, 568
+	size: 22, 15
+	orig: 120, 105
+	offset: 2, 87
+	index: -1
+effect/common/New_lke2_daiji_yushang_00015
+	rotate: true
+	xy: 521, 262
+	size: 24, 17
+	orig: 120, 105
+	offset: 3, 87
+	index: -1
+effect/common/New_lke2_daiji_yushang_00019
+	rotate: true
+	xy: 266, 308
+	size: 14, 15
+	orig: 120, 105
+	offset: 3, 88
+	index: -1
+effect/common/New_lke2_daiji_yushang_00018
+	rotate: true
+	xy: 250, 308
+	size: 14, 15
+	orig: 120, 105
+	offset: 5, 88
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji6_00087
+	rotate: true
+	xy: 683, 725
+	size: 77, 184
+	orig: 77, 184
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji6_00085
+	rotate: false
+	xy: 791, 319
+	size: 76, 191
+	orig: 76, 191
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji6_00083
+	rotate: true
+	xy: 626, 568
+	size: 71, 241
+	orig: 71, 241
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji6_00082
+	rotate: false
+	xy: 452, 2
+	size: 68, 259
+	orig: 68, 259
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_tuowei_00030
+	rotate: true
+	xy: 750, 322
+	size: 245, 40
+	orig: 251, 40
+	offset: 2, 0
+	index: -1
+effect/common/New_lke2_shengli_tuoweishui_00018
+	rotate: true
+	xy: 567, 900
+	size: 25, 63
+	orig: 25, 63
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_shayuchongqi_00028
+	rotate: false
+	xy: 834, 300
+	size: 31, 18
+	orig: 31, 18
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_bao_00075
+	rotate: true
+	xy: 791, 511
+	size: 55, 40
+	orig: 55, 40
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_bao_00078
+	rotate: true
+	xy: 935, 955
+	size: 67, 49
+	orig: 67, 49
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00037
+	rotate: true
+	xy: 648, 765
+	size: 40, 34
+	orig: 92, 148
+	offset: 49, 81
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00030
+	rotate: true
+	xy: 648, 683
+	size: 40, 34
+	orig: 92, 148
+	offset: 52, 79
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00033
+	rotate: true
+	xy: 648, 724
+	size: 40, 34
+	orig: 92, 148
+	offset: 51, 81
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji5_00070
+	rotate: false
+	xy: 683, 878
+	size: 170, 144
+	orig: 170, 146
+	offset: 0, 2
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji4_00049
+	rotate: false
+	xy: 590, 2
+	size: 80, 253
+	orig: 80, 253
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_tuowei2_00051
+	rotate: true
+	xy: 826, 2
+	size: 78, 36
+	orig: 78, 36
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji3_00036
+	rotate: true
+	xy: 2, 929
+	size: 93, 169
+	orig: 93, 169
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji2_00018
+	rotate: false
+	xy: 567, 640
+	size: 80, 259
+	orig: 80, 259
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00048
+	rotate: false
+	xy: 369, 308
+	size: 17, 13
+	orig: 119, 107
+	offset: 98, 5
+	index: -1
+effect/common/New_lke2_shengli_tuoweishui_00025
+	rotate: true
+	xy: 298, 308
+	size: 13, 70
+	orig: 13, 70
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_tuoweishui_00027
+	rotate: true
+	xy: 515, 308
+	size: 10, 23
+	orig: 10, 23
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_tuoweishui_00026
+	rotate: true
+	xy: 515, 308
+	size: 10, 23
+	orig: 10, 23
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_shayuchongqi_00032
+	rotate: false
+	xy: 598, 322
+	size: 151, 245
+	orig: 151, 245
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_shayuchongqi_00034
+	rotate: false
+	xy: 250, 2
+	size: 201, 305
+	orig: 201, 305
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_shayuchongqi_00036
+	rotate: false
+	xy: 2, 2
+	size: 247, 320
+	orig: 247, 320
+	offset: 0, 0
+	index: -1
+
+asset/spine/lukaer02umxsz_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_lke2_liumenbisha_shayuchongqi_00048
+	rotate: true
+	xy: 472, 704
+	size: 32, 54
+	orig: 32, 54
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_shuihua2_00009
+	rotate: true
+	xy: 898, 339
+	size: 116, 121
+	orig: 116, 121
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua_00049
+	rotate: true
+	xy: 642, 796
+	size: 101, 86
+	orig: 101, 86
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua_00044
+	rotate: false
+	xy: 2, 807
+	size: 59, 45
+	orig: 59, 45
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_shuihua2_00006
+	rotate: true
+	xy: 898, 197
+	size: 141, 121
+	orig: 141, 121
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_shuihua2_00007
+	rotate: false
+	xy: 860, 611
+	size: 155, 131
+	orig: 155, 131
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_shuihua2_00005
+	rotate: true
+	xy: 414, 737
+	size: 107, 112
+	orig: 107, 112
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00049
+	rotate: true
+	xy: 423, 464
+	size: 46, 48
+	orig: 92, 148
+	offset: 41, 82
+	index: -1
+effect/common/New_lke_kc_dibo_00012
+	rotate: false
+	xy: 643, 717
+	size: 154, 78
+	orig: 154, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00013
+	rotate: false
+	xy: 868, 901
+	size: 154, 78
+	orig: 154, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji5_00069
+	rotate: false
+	xy: 244, 688
+	size: 169, 155
+	orig: 169, 157
+	offset: 0, 2
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji5_00066
+	rotate: true
+	xy: 860, 484
+	size: 126, 161
+	orig: 128, 161
+	offset: 2, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji4_00052
+	rotate: true
+	xy: 686, 120
+	size: 84, 211
+	orig: 84, 211
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji4_00051
+	rotate: true
+	xy: 244, 2
+	size: 83, 227
+	orig: 83, 227
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji4_00056
+	rotate: true
+	xy: 472, 635
+	size: 68, 170
+	orig: 68, 170
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji4_00054
+	rotate: true
+	xy: 682, 408
+	size: 83, 177
+	orig: 83, 177
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji4_00055
+	rotate: true
+	xy: 244, 509
+	size: 80, 175
+	orig: 80, 175
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua2_00057
+	rotate: true
+	xy: 798, 692
+	size: 153, 61
+	orig: 153, 61
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_bao_00084
+	rotate: false
+	xy: 177, 573
+	size: 66, 60
+	orig: 66, 60
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_bao_00081
+	rotate: false
+	xy: 651, 965
+	size: 71, 57
+	orig: 71, 57
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00023
+	rotate: false
+	xy: 192, 240
+	size: 51, 82
+	orig: 53, 84
+	offset: 1, 2
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00027
+	rotate: false
+	xy: 192, 512
+	size: 51, 60
+	orig: 53, 84
+	offset: 1, 22
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00024
+	rotate: false
+	xy: 192, 155
+	size: 51, 84
+	orig: 53, 84
+	offset: 1, 0
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00028
+	rotate: false
+	xy: 420, 511
+	size: 51, 60
+	orig: 53, 84
+	offset: 1, 22
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00029
+	rotate: false
+	xy: 420, 572
+	size: 51, 60
+	orig: 53, 84
+	offset: 1, 23
+	index: -1
+effect/common/New_lke_kc_houshuihua_00070
+	rotate: false
+	xy: 176, 674
+	size: 67, 38
+	orig: 67, 38
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji2_00025
+	rotate: true
+	xy: 645, 569
+	size: 68, 170
+	orig: 68, 170
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji2_00024
+	rotate: true
+	xy: 472, 434
+	size: 80, 175
+	orig: 80, 175
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji2_00020
+	rotate: true
+	xy: 2, 71
+	size: 83, 220
+	orig: 83, 220
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji2_00023
+	rotate: true
+	xy: 684, 324
+	size: 83, 177
+	orig: 83, 177
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji2_00022
+	rotate: true
+	xy: 244, 425
+	size: 83, 178
+	orig: 83, 178
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00018
+	rotate: false
+	xy: 427, 421
+	size: 44, 42
+	orig: 92, 148
+	offset: 0, 4
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00017
+	rotate: false
+	xy: 427, 378
+	size: 44, 42
+	orig: 92, 148
+	offset: 0, 3
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji1_00016
+	rotate: false
+	xy: 2, 531
+	size: 174, 72
+	orig: 174, 72
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji1_00015
+	rotate: false
+	xy: 472, 361
+	size: 183, 72
+	orig: 183, 72
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji1_00013
+	rotate: false
+	xy: 472, 286
+	size: 185, 74
+	orig: 185, 74
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji1_00012
+	rotate: false
+	xy: 244, 86
+	size: 199, 73
+	orig: 199, 73
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji1_00011
+	rotate: false
+	xy: 472, 2
+	size: 220, 71
+	orig: 220, 71
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji1_00010
+	rotate: false
+	xy: 2, 2
+	size: 241, 68
+	orig: 241, 68
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji1_00018
+	rotate: true
+	xy: 816, 573
+	size: 118, 43
+	orig: 118, 43
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_guangci2_00045
+	rotate: true
+	xy: 472, 74
+	size: 211, 213
+	orig: 211, 213
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua2_00043
+	rotate: true
+	xy: 444, 133
+	size: 40, 26
+	orig: 40, 28
+	offset: 0, 1
+	index: -1
+effect/common/New_lke_kc_dibo_00010
+	rotate: false
+	xy: 860, 743
+	size: 154, 78
+	orig: 154, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00011
+	rotate: false
+	xy: 860, 822
+	size: 154, 78
+	orig: 154, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00029
+	rotate: false
+	xy: 192, 323
+	size: 51, 63
+	orig: 119, 107
+	offset: 15, 26
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00028
+	rotate: false
+	xy: 192, 450
+	size: 51, 61
+	orig: 119, 107
+	offset: 11, 31
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00021
+	rotate: true
+	xy: 978, 456
+	size: 25, 43
+	orig: 119, 107
+	offset: 4, 61
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00026
+	rotate: true
+	xy: 62, 807
+	size: 45, 59
+	orig: 119, 107
+	offset: 8, 40
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00016
+	rotate: false
+	xy: 192, 387
+	size: 51, 62
+	orig: 53, 84
+	offset: 0, 22
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00013
+	rotate: false
+	xy: 679, 898
+	size: 49, 66
+	orig: 53, 84
+	offset: 2, 16
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00010
+	rotate: false
+	xy: 385, 846
+	size: 51, 54
+	orig: 53, 84
+	offset: 0, 25
+	index: -1
+effect/common/New_lke_kc_houshuihua_00069
+	rotate: false
+	xy: 176, 634
+	size: 67, 39
+	orig: 67, 39
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_shuihua2_00023
+	rotate: true
+	xy: 173, 713
+	size: 69, 70
+	orig: 69, 70
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_shuihua2_00024
+	rotate: true
+	xy: 173, 783
+	size: 69, 70
+	orig: 69, 70
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_shuihua2_00025
+	rotate: false
+	xy: 798, 846
+	size: 61, 69
+	orig: 61, 69
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua_00053
+	rotate: false
+	xy: 544, 948
+	size: 106, 74
+	orig: 106, 74
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua_00052
+	rotate: false
+	xy: 527, 704
+	size: 115, 74
+	orig: 115, 74
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00023
+	rotate: false
+	xy: 986, 980
+	size: 36, 38
+	orig: 92, 148
+	offset: 40, 27
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00020
+	rotate: false
+	xy: 822, 534
+	size: 36, 38
+	orig: 92, 148
+	offset: 23, 12
+	index: -1
+effect/common/New_lke_kc_shuihua2_00011
+	rotate: true
+	xy: 281, 901
+	size: 119, 113
+	orig: 119, 113
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_shuihua2_00010
+	rotate: false
+	xy: 527, 779
+	size: 114, 118
+	orig: 114, 118
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00030
+	rotate: false
+	xy: 395, 948
+	size: 148, 74
+	orig: 148, 74
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_tuowei2_00048
+	rotate: true
+	xy: 862, 324
+	size: 79, 35
+	orig: 79, 35
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_tuowei2_00049
+	rotate: true
+	xy: 862, 404
+	size: 79, 35
+	orig: 79, 35
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_tuowei2_00044
+	rotate: true
+	xy: 434, 252
+	size: 74, 37
+	orig: 74, 37
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_tuowei2_00045
+	rotate: true
+	xy: 434, 174
+	size: 77, 37
+	orig: 77, 37
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00015
+	rotate: false
+	xy: 798, 638
+	size: 17, 23
+	orig: 119, 107
+	offset: 1, 83
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00016
+	rotate: true
+	xy: 444, 111
+	size: 21, 27
+	orig: 119, 107
+	offset: 0, 80
+	index: -1
+effect/common/New_lke_kc_guangci_00006
+	rotate: true
+	xy: 2, 343
+	size: 187, 189
+	orig: 187, 189
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_guangci_00004
+	rotate: true
+	xy: 2, 155
+	size: 187, 189
+	orig: 187, 189
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_guangci_00005
+	rotate: true
+	xy: 244, 160
+	size: 187, 189
+	orig: 187, 189
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00062
+	rotate: true
+	xy: 122, 807
+	size: 46, 50
+	orig: 92, 148
+	offset: 33, 97
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji6_00089
+	rotate: true
+	xy: 648, 492
+	size: 76, 173
+	orig: 76, 173
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji6_00088
+	rotate: true
+	xy: 244, 348
+	size: 76, 182
+	orig: 76, 182
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_tuoweishui_00011
+	rotate: false
+	xy: 798, 662
+	size: 16, 28
+	orig: 16, 28
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00008
+	rotate: false
+	xy: 281, 846
+	size: 51, 54
+	orig: 53, 84
+	offset: 0, 25
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00009
+	rotate: false
+	xy: 333, 846
+	size: 51, 54
+	orig: 53, 84
+	offset: 0, 25
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00006
+	rotate: true
+	xy: 417, 633
+	size: 51, 54
+	orig: 53, 84
+	offset: 0, 25
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00007
+	rotate: true
+	xy: 417, 685
+	size: 51, 54
+	orig: 53, 84
+	offset: 0, 25
+	index: -1
+effect/common/New_lke2_shengli_bao_00074
+	rotate: true
+	xy: 434, 327
+	size: 50, 37
+	orig: 50, 37
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_daiji_yushang_00059
+	rotate: true
+	xy: 648, 451
+	size: 40, 33
+	orig: 120, 105
+	offset: 58, 32
+	index: -1
+effect/common/New_lke2_daiji_yushang_00052
+	rotate: true
+	xy: 444, 86
+	size: 24, 27
+	orig: 120, 105
+	offset: 93, 5
+	index: -1
+effect/common/New_lke_kc_dibo_00009
+	rotate: false
+	xy: 643, 638
+	size: 154, 78
+	orig: 154, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00008
+	rotate: true
+	xy: 202, 853
+	size: 154, 78
+	orig: 154, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji5_00073
+	rotate: true
+	xy: 2, 853
+	size: 165, 118
+	orig: 167, 118
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji5_00072
+	rotate: false
+	xy: 472, 515
+	size: 172, 119
+	orig: 172, 119
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji5_00074
+	rotate: true
+	xy: 729, 796
+	size: 137, 68
+	orig: 137, 68
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji3_00039
+	rotate: true
+	xy: 868, 980
+	size: 42, 117
+	orig: 42, 117
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji3_00033
+	rotate: true
+	xy: 2, 604
+	size: 104, 173
+	orig: 104, 173
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji3_00032
+	rotate: false
+	xy: 908, 2
+	size: 114, 194
+	orig: 114, 194
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji3_00031
+	rotate: true
+	xy: 693, 2
+	size: 117, 214
+	orig: 117, 214
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji3_00037
+	rotate: false
+	xy: 121, 854
+	size: 80, 165
+	orig: 80, 165
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji3_00035
+	rotate: true
+	xy: 2, 709
+	size: 97, 170
+	orig: 97, 170
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji3_00034
+	rotate: true
+	xy: 244, 590
+	size: 97, 172
+	orig: 97, 172
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_shuihua2_00017
+	rotate: true
+	xy: 437, 845
+	size: 97, 89
+	orig: 97, 89
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua2_00060
+	rotate: false
+	xy: 527, 898
+	size: 151, 49
+	orig: 151, 49
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00042
+	rotate: true
+	xy: 822, 492
+	size: 41, 37
+	orig: 119, 107
+	offset: 72, 0
+	index: -1
+effect/common/New_lke2_shengli_tuoweishui_00024
+	rotate: false
+	xy: 223, 71
+	size: 20, 83
+	orig: 20, 83
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_tuoweishui_00021
+	rotate: false
+	xy: 656, 370
+	size: 25, 80
+	orig: 25, 80
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_tuoweishui_00020
+	rotate: true
+	xy: 898, 456
+	size: 25, 79
+	orig: 25, 79
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_tuoweishui_00023
+	rotate: false
+	xy: 658, 286
+	size: 25, 83
+	orig: 25, 83
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_shayuchongqi_00031
+	rotate: true
+	xy: 686, 205
+	size: 118, 203
+	orig: 118, 203
+	offset: 0, 0
+	index: -1
+
+asset/spine/lukaer02umxsz_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_lke2_liumenbisha_shayuchongqi_00049
+	rotate: true
+	xy: 61, 912
+	size: 25, 39
+	orig: 25, 39
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_shuihua2_00008
+	rotate: false
+	xy: 307, 158
+	size: 148, 126
+	orig: 148, 126
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_shuihua2_00003
+	rotate: false
+	xy: 384, 504
+	size: 71, 80
+	orig: 71, 80
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua_00046
+	rotate: false
+	xy: 146, 666
+	size: 79, 79
+	orig: 79, 79
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua_00047
+	rotate: false
+	xy: 2, 500
+	size: 84, 79
+	orig: 84, 79
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_shuihua2_00004
+	rotate: true
+	xy: 300, 402
+	size: 84, 97
+	orig: 84, 97
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00040
+	rotate: true
+	xy: 567, 953
+	size: 38, 34
+	orig: 92, 148
+	offset: 49, 80
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00041
+	rotate: false
+	xy: 755, 629
+	size: 38, 34
+	orig: 92, 148
+	offset: 49, 80
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00042
+	rotate: false
+	xy: 794, 629
+	size: 38, 34
+	orig: 92, 148
+	offset: 48, 80
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00043
+	rotate: false
+	xy: 833, 629
+	size: 38, 34
+	orig: 92, 148
+	offset: 47, 80
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00044
+	rotate: false
+	xy: 872, 629
+	size: 38, 34
+	orig: 92, 148
+	offset: 47, 80
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00046
+	rotate: false
+	xy: 911, 634
+	size: 38, 34
+	orig: 92, 148
+	offset: 46, 80
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00047
+	rotate: false
+	xy: 500, 847
+	size: 46, 46
+	orig: 92, 148
+	offset: 44, 74
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00048
+	rotate: true
+	xy: 97, 362
+	size: 46, 48
+	orig: 92, 148
+	offset: 43, 78
+	index: -1
+effect/common/New_lke_kc_houshuihua2_00052
+	rotate: false
+	xy: 154, 230
+	size: 147, 87
+	orig: 147, 87
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua2_00053
+	rotate: false
+	xy: 613, 81
+	size: 150, 82
+	orig: 150, 82
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua2_00050
+	rotate: false
+	xy: 2, 269
+	size: 143, 92
+	orig: 143, 92
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua2_00056
+	rotate: false
+	xy: 2, 81
+	size: 153, 57
+	orig: 153, 57
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua2_00054
+	rotate: false
+	xy: 156, 81
+	size: 152, 71
+	orig: 152, 71
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua2_00055
+	rotate: false
+	xy: 777, 2
+	size: 153, 58
+	orig: 153, 58
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_bao_00086
+	rotate: false
+	xy: 300, 662
+	size: 69, 52
+	orig: 69, 52
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_bao_00085
+	rotate: true
+	xy: 87, 614
+	size: 69, 58
+	orig: 69, 58
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_bao_00082
+	rotate: true
+	xy: 239, 410
+	size: 61, 60
+	orig: 61, 60
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_bao_00083
+	rotate: false
+	xy: 432, 731
+	size: 64, 61
+	orig: 64, 61
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00036
+	rotate: false
+	xy: 268, 859
+	size: 59, 51
+	orig: 119, 107
+	offset: 37, 7
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00037
+	rotate: true
+	xy: 75, 938
+	size: 57, 47
+	orig: 119, 107
+	offset: 42, 7
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00034
+	rotate: true
+	xy: 398, 444
+	size: 59, 57
+	orig: 119, 107
+	offset: 29, 10
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00032
+	rotate: false
+	xy: 706, 393
+	size: 57, 59
+	orig: 119, 107
+	offset: 22, 16
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00030
+	rotate: true
+	xy: 82, 684
+	size: 53, 63
+	orig: 119, 107
+	offset: 17, 22
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00039
+	rotate: true
+	xy: 315, 964
+	size: 51, 45
+	orig: 119, 107
+	offset: 55, 3
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00022
+	rotate: true
+	xy: 2, 788
+	size: 47, 78
+	orig: 53, 84
+	offset: 4, 6
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00026
+	rotate: true
+	xy: 2, 836
+	size: 51, 60
+	orig: 53, 84
+	offset: 2, 22
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00025
+	rotate: true
+	xy: 81, 808
+	size: 51, 60
+	orig: 53, 84
+	offset: 2, 22
+	index: -1
+effect/common/New_lke_kc_houshuihua_00074
+	rotate: true
+	xy: 573, 318
+	size: 59, 15
+	orig: 59, 15
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua_00072
+	rotate: false
+	xy: 365, 717
+	size: 66, 35
+	orig: 66, 35
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua_00045
+	rotate: true
+	xy: 87, 539
+	size: 74, 58
+	orig: 74, 58
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua_00043
+	rotate: true
+	xy: 361, 901
+	size: 51, 32
+	orig: 51, 32
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00019
+	rotate: true
+	xy: 229, 985
+	size: 36, 38
+	orig: 92, 148
+	offset: 16, 11
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00016
+	rotate: true
+	xy: 570, 734
+	size: 44, 42
+	orig: 92, 148
+	offset: 0, 2
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00015
+	rotate: false
+	xy: 547, 832
+	size: 42, 42
+	orig: 92, 148
+	offset: 3, 1
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00014
+	rotate: false
+	xy: 457, 855
+	size: 42, 44
+	orig: 92, 148
+	offset: 4, 0
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00013
+	rotate: false
+	xy: 524, 894
+	size: 42, 42
+	orig: 92, 148
+	offset: 5, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00029
+	rotate: false
+	xy: 764, 120
+	size: 149, 75
+	orig: 149, 75
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00028
+	rotate: false
+	xy: 461, 81
+	size: 151, 76
+	orig: 151, 76
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00027
+	rotate: false
+	xy: 2, 192
+	size: 151, 76
+	orig: 151, 76
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00026
+	rotate: false
+	xy: 155, 153
+	size: 151, 76
+	orig: 151, 76
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji1_00017
+	rotate: false
+	xy: 764, 295
+	size: 119, 71
+	orig: 119, 71
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_guangci2_00043
+	rotate: true
+	xy: 430, 793
+	size: 61, 62
+	orig: 61, 62
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_guangci2_00047
+	rotate: true
+	xy: 302, 285
+	size: 116, 117
+	orig: 116, 117
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00053
+	rotate: false
+	xy: 394, 901
+	size: 46, 50
+	orig: 92, 148
+	offset: 32, 93
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00052
+	rotate: false
+	xy: 361, 953
+	size: 46, 50
+	orig: 92, 148
+	offset: 32, 93
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00051
+	rotate: true
+	xy: 95, 492
+	size: 46, 50
+	orig: 92, 148
+	offset: 35, 90
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00050
+	rotate: true
+	xy: 95, 445
+	size: 46, 50
+	orig: 92, 148
+	offset: 39, 86
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00057
+	rotate: false
+	xy: 441, 901
+	size: 46, 50
+	orig: 92, 148
+	offset: 32, 95
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00056
+	rotate: false
+	xy: 605, 674
+	size: 46, 52
+	orig: 92, 148
+	offset: 32, 94
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00055
+	rotate: false
+	xy: 408, 952
+	size: 46, 50
+	orig: 92, 148
+	offset: 32, 94
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00054
+	rotate: false
+	xy: 605, 621
+	size: 46, 52
+	orig: 92, 148
+	offset: 32, 93
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00059
+	rotate: false
+	xy: 493, 796
+	size: 46, 50
+	orig: 92, 148
+	offset: 33, 96
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00058
+	rotate: false
+	xy: 173, 936
+	size: 46, 52
+	orig: 92, 148
+	offset: 33, 95
+	index: -1
+effect/common/New_lke2_daiji_yushang_00008
+	rotate: true
+	xy: 723, 620
+	size: 46, 31
+	orig: 120, 105
+	offset: 12, 66
+	index: -1
+effect/common/New_lke2_daiji_yushang_00004
+	rotate: true
+	xy: 540, 785
+	size: 46, 35
+	orig: 120, 105
+	offset: 32, 49
+	index: -1
+effect/common/New_lke2_daiji_yushang_00005
+	rotate: false
+	xy: 97, 409
+	size: 48, 35
+	orig: 120, 105
+	offset: 25, 53
+	index: -1
+effect/common/New_lke2_daiji_yushang_00006
+	rotate: true
+	xy: 488, 900
+	size: 48, 35
+	orig: 120, 105
+	offset: 20, 57
+	index: -1
+effect/common/New_lke2_daiji_yushang_00000
+	rotate: false
+	xy: 755, 664
+	size: 38, 31
+	orig: 120, 105
+	offset: 59, 33
+	index: -1
+effect/common/New_lke2_daiji_yushang_00001
+	rotate: true
+	xy: 879, 446
+	size: 40, 33
+	orig: 120, 105
+	offset: 53, 36
+	index: -1
+effect/common/New_lke_kc_houshuihua2_00049
+	rotate: false
+	xy: 600, 164
+	size: 139, 96
+	orig: 139, 96
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua2_00048
+	rotate: false
+	xy: 764, 196
+	size: 131, 98
+	orig: 131, 98
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua2_00045
+	rotate: false
+	xy: 656, 551
+	size: 98, 68
+	orig: 98, 68
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua2_00044
+	rotate: false
+	xy: 145, 746
+	size: 66, 53
+	orig: 66, 53
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua2_00047
+	rotate: false
+	xy: 590, 261
+	size: 119, 85
+	orig: 119, 85
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua2_00046
+	rotate: false
+	xy: 557, 476
+	size: 98, 75
+	orig: 98, 75
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_tuowei_00026
+	rotate: true
+	xy: 896, 196
+	size: 101, 17
+	orig: 103, 17
+	offset: 1, 0
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00020
+	rotate: false
+	xy: 740, 203
+	size: 23, 35
+	orig: 119, 107
+	offset: 1, 65
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00025
+	rotate: false
+	xy: 122, 880
+	size: 43, 57
+	orig: 119, 107
+	offset: 6, 44
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00024
+	rotate: true
+	xy: 245, 318
+	size: 39, 55
+	orig: 119, 107
+	offset: 5, 48
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00027
+	rotate: true
+	xy: 212, 782
+	size: 49, 61
+	orig: 119, 107
+	offset: 9, 35
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00017
+	rotate: true
+	xy: 239, 472
+	size: 51, 60
+	orig: 53, 84
+	offset: 0, 23
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00015
+	rotate: true
+	xy: 207, 832
+	size: 47, 60
+	orig: 53, 84
+	offset: 3, 22
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00014
+	rotate: false
+	xy: 2, 940
+	size: 47, 58
+	orig: 53, 84
+	offset: 3, 23
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00012
+	rotate: true
+	xy: 274, 809
+	size: 49, 60
+	orig: 53, 84
+	offset: 2, 21
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00011
+	rotate: false
+	xy: 123, 938
+	size: 49, 54
+	orig: 53, 84
+	offset: 2, 25
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00019
+	rotate: true
+	xy: 365, 753
+	size: 47, 64
+	orig: 53, 84
+	offset: 3, 19
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00018
+	rotate: true
+	xy: 358, 801
+	size: 47, 62
+	orig: 53, 84
+	offset: 3, 22
+	index: -1
+effect/common/New_lke_kc_houshuihua_00066
+	rotate: false
+	xy: 448, 690
+	size: 68, 40
+	orig: 68, 40
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua_00067
+	rotate: false
+	xy: 296, 715
+	size: 68, 40
+	orig: 68, 40
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua_00064
+	rotate: true
+	xy: 146, 557
+	size: 69, 80
+	orig: 69, 80
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua_00065
+	rotate: false
+	xy: 226, 676
+	size: 69, 40
+	orig: 69, 40
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua_00062
+	rotate: true
+	xy: 2, 654
+	size: 69, 79
+	orig: 69, 79
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua_00063
+	rotate: true
+	xy: 300, 487
+	size: 69, 83
+	orig: 69, 83
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua_00060
+	rotate: true
+	xy: 456, 486
+	size: 68, 97
+	orig: 68, 97
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua_00061
+	rotate: true
+	xy: 456, 417
+	size: 68, 100
+	orig: 68, 100
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua_00068
+	rotate: false
+	xy: 226, 717
+	size: 68, 39
+	orig: 68, 39
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_daiji_yushang_00048
+	rotate: false
+	xy: 656, 520
+	size: 18, 21
+	orig: 120, 105
+	offset: 102, 0
+	index: -1
+effect/common/New_lke2_daiji_yushang_00049
+	rotate: false
+	xy: 274, 782
+	size: 20, 23
+	orig: 120, 105
+	offset: 100, 1
+	index: -1
+effect/common/New_lke_kc_shuihua2_00020
+	rotate: false
+	xy: 914, 234
+	size: 104, 78
+	orig: 104, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_shuihua2_00021
+	rotate: false
+	xy: 913, 391
+	size: 109, 76
+	orig: 109, 76
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_shuihua2_00022
+	rotate: false
+	xy: 2, 580
+	size: 84, 73
+	orig: 84, 73
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_shuihua2_00027
+	rotate: true
+	xy: 25, 999
+	size: 23, 21
+	orig: 23, 21
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_shuihua2_00028
+	rotate: true
+	xy: 47, 999
+	size: 23, 21
+	orig: 23, 21
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00028
+	rotate: true
+	xy: 722, 700
+	size: 36, 32
+	orig: 92, 148
+	offset: 56, 70
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00029
+	rotate: false
+	xy: 950, 668
+	size: 38, 32
+	orig: 92, 148
+	offset: 54, 75
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00021
+	rotate: false
+	xy: 576, 779
+	size: 34, 38
+	orig: 92, 148
+	offset: 31, 16
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00026
+	rotate: false
+	xy: 755, 696
+	size: 36, 34
+	orig: 92, 148
+	offset: 51, 53
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00027
+	rotate: true
+	xy: 689, 685
+	size: 36, 32
+	orig: 92, 148
+	offset: 55, 62
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00024
+	rotate: false
+	xy: 652, 685
+	size: 36, 36
+	orig: 92, 148
+	offset: 44, 35
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00025
+	rotate: false
+	xy: 794, 664
+	size: 36, 36
+	orig: 92, 148
+	offset: 48, 43
+	index: -1
+effect/common/New_lke_kc_houshuihua_00055
+	rotate: false
+	xy: 146, 476
+	size: 88, 80
+	orig: 88, 80
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00031
+	rotate: false
+	xy: 456, 158
+	size: 143, 72
+	orig: 143, 72
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua2_00058
+	rotate: false
+	xy: 777, 61
+	size: 153, 58
+	orig: 153, 58
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua2_00059
+	rotate: false
+	xy: 2, 139
+	size: 152, 52
+	orig: 152, 52
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_tuowei2_00046
+	rotate: true
+	xy: 420, 365
+	size: 78, 35
+	orig: 78, 35
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_tuowei2_00047
+	rotate: true
+	xy: 420, 285
+	size: 79, 35
+	orig: 79, 35
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_tuowei2_00043
+	rotate: false
+	xy: 755, 590
+	size: 74, 38
+	orig: 74, 38
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00017
+	rotate: true
+	xy: 499, 994
+	size: 21, 31
+	orig: 119, 107
+	offset: 0, 76
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00018
+	rotate: true
+	xy: 123, 993
+	size: 21, 33
+	orig: 119, 107
+	offset: 0, 72
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00019
+	rotate: false
+	xy: 398, 402
+	size: 21, 35
+	orig: 119, 107
+	offset: 1, 68
+	index: -1
+effect/common/New_lke_kc_guangci_00003
+	rotate: true
+	xy: 430, 793
+	size: 61, 62
+	orig: 61, 62
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00068
+	rotate: false
+	xy: 166, 911
+	size: 40, 24
+	orig: 92, 148
+	offset: 46, 85
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00066
+	rotate: true
+	xy: 166, 868
+	size: 42, 40
+	orig: 92, 148
+	offset: 40, 89
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00064
+	rotate: false
+	xy: 268, 964
+	size: 46, 52
+	orig: 92, 148
+	offset: 33, 96
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00065
+	rotate: false
+	xy: 314, 911
+	size: 46, 52
+	orig: 92, 148
+	offset: 33, 96
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00063
+	rotate: false
+	xy: 267, 911
+	size: 46, 52
+	orig: 92, 148
+	offset: 33, 96
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00060
+	rotate: false
+	xy: 220, 932
+	size: 46, 52
+	orig: 92, 148
+	offset: 33, 96
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00061
+	rotate: false
+	xy: 523, 734
+	size: 46, 50
+	orig: 92, 148
+	offset: 33, 97
+	index: -1
+effect/common/New_lke2_daiji_yushang_00013
+	rotate: true
+	xy: 740, 239
+	size: 34, 23
+	orig: 120, 105
+	offset: 1, 82
+	index: -1
+effect/common/New_lke2_daiji_yushang_00012
+	rotate: true
+	xy: 740, 164
+	size: 38, 23
+	orig: 120, 105
+	offset: 2, 82
+	index: -1
+effect/common/New_lke2_daiji_yushang_00011
+	rotate: false
+	xy: 975, 140
+	size: 40, 23
+	orig: 120, 105
+	offset: 4, 79
+	index: -1
+effect/common/New_lke2_daiji_yushang_00014
+	rotate: false
+	xy: 157, 993
+	size: 32, 21
+	orig: 120, 105
+	offset: 0, 84
+	index: -1
+effect/common/New_lke2_shengli_tuoweishui_00019
+	rotate: false
+	xy: 497, 731
+	size: 25, 64
+	orig: 25, 64
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_tuoweishui_00012
+	rotate: false
+	xy: 335, 809
+	size: 22, 28
+	orig: 22, 28
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_tuoweishui_00013
+	rotate: false
+	xy: 335, 838
+	size: 22, 28
+	orig: 22, 28
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_tuoweishui_00014
+	rotate: true
+	xy: 931, 140
+	size: 23, 43
+	orig: 23, 43
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_tuoweishui_00015
+	rotate: false
+	xy: 50, 940
+	size: 24, 58
+	orig: 24, 58
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_tuoweishui_00016
+	rotate: true
+	xy: 142, 843
+	size: 24, 60
+	orig: 24, 60
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_tuoweishui_00017
+	rotate: true
+	xy: 212, 757
+	size: 24, 62
+	orig: 24, 62
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00000
+	rotate: true
+	xy: 358, 849
+	size: 51, 58
+	orig: 53, 84
+	offset: 0, 23
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00001
+	rotate: true
+	xy: 63, 860
+	size: 51, 58
+	orig: 53, 84
+	offset: 0, 23
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00002
+	rotate: true
+	xy: 2, 888
+	size: 51, 58
+	orig: 53, 84
+	offset: 0, 23
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00004
+	rotate: true
+	xy: 245, 358
+	size: 51, 54
+	orig: 53, 84
+	offset: 0, 25
+	index: -1
+effect/common/New_lke2_daiji_xuanwo_00005
+	rotate: true
+	xy: 207, 880
+	size: 51, 54
+	orig: 53, 84
+	offset: 0, 25
+	index: -1
+effect/common/New_lke2_liumenbisha_shayuchongqi_00029
+	rotate: false
+	xy: 235, 524
+	size: 64, 81
+	orig: 64, 81
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_bao_00077
+	rotate: true
+	xy: 866, 527
+	size: 62, 46
+	orig: 62, 46
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_bao_00076
+	rotate: false
+	xy: 145, 800
+	size: 61, 42
+	orig: 61, 42
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_bao_00073
+	rotate: true
+	xy: 499, 949
+	size: 44, 32
+	orig: 44, 32
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_bao_00072
+	rotate: true
+	xy: 883, 404
+	size: 41, 28
+	orig: 41, 28
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_bao_00071
+	rotate: true
+	xy: 328, 867
+	size: 41, 25
+	orig: 41, 25
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_bao_00079
+	rotate: false
+	xy: 295, 756
+	size: 62, 52
+	orig: 62, 52
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_daiji_yushang_00058
+	rotate: false
+	xy: 950, 634
+	size: 38, 33
+	orig: 120, 105
+	offset: 65, 27
+	index: -1
+effect/common/New_lke2_daiji_yushang_00057
+	rotate: false
+	xy: 190, 989
+	size: 38, 33
+	orig: 120, 105
+	offset: 70, 22
+	index: -1
+effect/common/New_lke2_daiji_yushang_00056
+	rotate: true
+	xy: 989, 634
+	size: 36, 33
+	orig: 120, 105
+	offset: 76, 18
+	index: -1
+effect/common/New_lke2_daiji_yushang_00055
+	rotate: true
+	xy: 989, 671
+	size: 34, 33
+	orig: 120, 105
+	offset: 80, 13
+	index: -1
+effect/common/New_lke2_daiji_yushang_00054
+	rotate: true
+	xy: 723, 667
+	size: 32, 31
+	orig: 120, 105
+	offset: 84, 10
+	index: -1
+effect/common/New_lke2_daiji_yushang_00053
+	rotate: false
+	xy: 676, 395
+	size: 28, 31
+	orig: 120, 105
+	offset: 89, 7
+	index: -1
+effect/common/New_lke2_daiji_yushang_00051
+	rotate: false
+	xy: 2, 999
+	size: 22, 23
+	orig: 120, 105
+	offset: 95, 6
+	index: -1
+effect/common/New_lke2_daiji_yushang_00050
+	rotate: true
+	xy: 69, 999
+	size: 22, 21
+	orig: 120, 105
+	offset: 97, 3
+	index: -1
+effect/common/New_lke_kc_houshuihua_00059
+	rotate: true
+	xy: 146, 318
+	size: 68, 98
+	orig: 68, 98
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua_00058
+	rotate: true
+	xy: 2, 362
+	size: 68, 94
+	orig: 68, 94
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_shuihua2_00019
+	rotate: false
+	xy: 573, 395
+	size: 102, 80
+	orig: 102, 80
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_shuihua2_00018
+	rotate: false
+	xy: 913, 554
+	size: 101, 79
+	orig: 101, 79
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_shuihua2_00015
+	rotate: true
+	xy: 676, 453
+	size: 97, 86
+	orig: 97, 86
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_shuihua2_00014
+	rotate: false
+	xy: 913, 468
+	size: 102, 85
+	orig: 104, 87
+	offset: 2, 2
+	index: -1
+effect/common/New_lke_kc_houshuihua_00051
+	rotate: false
+	xy: 764, 443
+	size: 114, 76
+	orig: 114, 76
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_shuihua2_00016
+	rotate: false
+	xy: 146, 387
+	size: 92, 88
+	orig: 92, 88
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua_00057
+	rotate: true
+	xy: 931, 71
+	size: 68, 89
+	orig: 68, 89
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_shuihua2_00013
+	rotate: false
+	xy: 456, 318
+	size: 116, 98
+	orig: 116, 98
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_houshuihua_00054
+	rotate: false
+	xy: 914, 313
+	size: 104, 77
+	orig: 104, 77
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00035
+	rotate: true
+	xy: 590, 818
+	size: 38, 34
+	orig: 92, 148
+	offset: 52, 81
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00034
+	rotate: true
+	xy: 567, 875
+	size: 38, 34
+	orig: 92, 148
+	offset: 52, 81
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00036
+	rotate: true
+	xy: 611, 779
+	size: 38, 34
+	orig: 92, 148
+	offset: 51, 81
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00031
+	rotate: true
+	xy: 532, 937
+	size: 38, 34
+	orig: 92, 148
+	offset: 53, 80
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00032
+	rotate: true
+	xy: 532, 976
+	size: 38, 34
+	orig: 92, 148
+	offset: 53, 80
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00039
+	rotate: true
+	xy: 567, 914
+	size: 38, 34
+	orig: 92, 148
+	offset: 50, 81
+	index: -1
+effect/common/New_lke2_shengli_lanshou_00038
+	rotate: true
+	xy: 613, 727
+	size: 38, 34
+	orig: 92, 148
+	offset: 50, 81
+	index: -1
+effect/common/New_lke_kc_dibo_00003
+	rotate: false
+	xy: 2, 2
+	size: 154, 78
+	orig: 154, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00002
+	rotate: false
+	xy: 309, 81
+	size: 151, 76
+	orig: 151, 76
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00005
+	rotate: false
+	xy: 312, 2
+	size: 154, 78
+	orig: 154, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00004
+	rotate: false
+	xy: 157, 2
+	size: 154, 78
+	orig: 154, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00007
+	rotate: false
+	xy: 622, 2
+	size: 154, 78
+	orig: 154, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_lke_kc_dibo_00006
+	rotate: false
+	xy: 467, 2
+	size: 154, 78
+	orig: 154, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_tuowei2_00050
+	rotate: false
+	xy: 300, 626
+	size: 77, 35
+	orig: 77, 35
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_tuowei2_00053
+	rotate: false
+	xy: 2, 724
+	size: 79, 38
+	orig: 79, 38
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_tuowei2_00052
+	rotate: false
+	xy: 146, 627
+	size: 80, 38
+	orig: 80, 38
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_tuowei2_00054
+	rotate: false
+	xy: 830, 590
+	size: 74, 38
+	orig: 74, 38
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji3_00038
+	rotate: false
+	xy: 710, 274
+	size: 53, 118
+	orig: 53, 118
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji6_00090
+	rotate: true
+	xy: 764, 367
+	size: 75, 118
+	orig: 75, 118
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_xiaojineng_gongji6_00091
+	rotate: true
+	xy: 589, 347
+	size: 47, 116
+	orig: 47, 116
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00047
+	rotate: true
+	xy: 676, 427
+	size: 25, 21
+	orig: 119, 107
+	offset: 94, 2
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00046
+	rotate: false
+	xy: 884, 334
+	size: 29, 23
+	orig: 119, 107
+	offset: 90, 0
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00045
+	rotate: false
+	xy: 91, 996
+	size: 31, 25
+	orig: 119, 107
+	offset: 87, 0
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00044
+	rotate: true
+	xy: 884, 298
+	size: 35, 29
+	orig: 119, 107
+	offset: 82, 0
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00043
+	rotate: true
+	xy: 879, 487
+	size: 39, 33
+	orig: 119, 107
+	offset: 76, 0
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00041
+	rotate: true
+	xy: 417, 855
+	size: 45, 39
+	orig: 119, 107
+	offset: 66, 0
+	index: -1
+effect/common/New_lke2_daiji_yuxia_00040
+	rotate: true
+	xy: 455, 952
+	size: 49, 43
+	orig: 119, 107
+	offset: 60, 1
+	index: -1
+effect/common/New_lke2_shengli_tuoweishui_00022
+	rotate: true
+	xy: 2, 763
+	size: 24, 79
+	orig: 24, 79
+	offset: 0, 0
+	index: -1
+effect/common/New_lke2_liumenbisha_shayuchongqi_00030
+	rotate: true
+	xy: 456, 231
+	size: 86, 133
+	orig: 86, 133
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect16.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/sczw_ex_00014
+	rotate: false
+	xy: 2, 300
+	size: 144, 140
+	orig: 144, 140
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt17
+	rotate: true
+	xy: 291, 559
+	size: 124, 136
+	orig: 124, 136
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt19
+	rotate: true
+	xy: 147, 437
+	size: 134, 143
+	orig: 134, 143
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt16
+	rotate: false
+	xy: 166, 2
+	size: 162, 140
+	orig: 162, 140
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/sczw_ex_00012
+	rotate: false
+	xy: 800, 172
+	size: 166, 161
+	orig: 166, 161
+	offset: 0, 0
+	index: -1
+effect/global/sczw_ex_00013
+	rotate: false
+	xy: 867, 637
+	size: 154, 162
+	orig: 154, 162
+	offset: 0, 0
+	index: -1
+effect/global/sczw_ex_00005
+	rotate: false
+	xy: 179, 848
+	size: 188, 172
+	orig: 188, 172
+	offset: 0, 0
+	index: -1
+effect/global/sczw_ex_00004
+	rotate: true
+	xy: 2, 647
+	size: 203, 166
+	orig: 203, 166
+	offset: 0, 0
+	index: -1
+effect/global/sczw_ex_00008
+	rotate: true
+	xy: 394, 402
+	size: 190, 169
+	orig: 190, 169
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt15
+	rotate: false
+	xy: 2, 851
+	size: 176, 171
+	orig: 176, 171
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/sczw_ex_00007
+	rotate: true
+	xy: 177, 566
+	size: 175, 171
+	orig: 175, 171
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt13
+	rotate: false
+	xy: 445, 559
+	size: 168, 177
+	orig: 168, 177
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt18
+	rotate: false
+	xy: 858, 166
+	size: 164, 140
+	orig: 164, 140
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/sczw_ex_00006
+	rotate: false
+	xy: 720, 851
+	size: 178, 171
+	orig: 178, 171
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/sczw_ex_00003
+	rotate: true
+	xy: 511, 734
+	size: 120, 87
+	orig: 120, 87
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/sczw_ex_00016
+	rotate: true
+	xy: 487, 984
+	size: 30, 29
+	orig: 30, 29
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt14
+	rotate: false
+	xy: 384, 381
+	size: 176, 178
+	orig: 176, 178
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/sczw_ex_00009
+	rotate: false
+	xy: 2, 967
+	size: 93, 50
+	orig: 93, 50
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/sczw_ex_00010
+	rotate: true
+	xy: 670, 150
+	size: 96, 108
+	orig: 96, 108
+	offset: 0, 0
+	index: -1
+effect/global/sczw_ex_00011
+	rotate: true
+	xy: 670, 150
+	size: 96, 108
+	orig: 96, 108
+	offset: 0, 0
+	index: -1

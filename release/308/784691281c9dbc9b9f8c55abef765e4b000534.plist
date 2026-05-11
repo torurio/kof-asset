@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>kelingqu_taskkelingquimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,126},{110,107}}</string>
+			<key>offset</key>
+			<string>{0,-1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{7,3},{110,107}}</string>
+			<key>sourceSize</key>
+			<string>{124,115}</string>
+		</dict>
+		<key>zhuanquan_taskkelingquimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{124,122}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{124,122}}</string>
+			<key>sourceSize</key>
+			<string>{124,122}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>extension</key>
+		<integer>1</integer>
+		<key>format</key>
+		<integer>2</integer>
+		<key>imageFormat</key>
+		<string>RGBA8888</string>
+		<key>realTextureFileName</key>
+		<string>taskkelingquimage.png</string>
+		<key>scale</key>
+		<real>0.9</real>
+		<key>size</key>
+		<string>{128,256}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>taskkelingquimage.png</string>
+	</dict>
+</dict>
+</plist>

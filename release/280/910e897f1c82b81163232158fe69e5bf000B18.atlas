@@ -1,0 +1,167 @@
+
+asset/spine/jxlzxemCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/leizhixiaermei_wf_kb_21
+	rotate: false
+	xy: 345, 349
+	size: 215, 193
+	orig: 215, 193
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_wf_kb_20
+	rotate: false
+	xy: 180, 695
+	size: 187, 201
+	orig: 187, 201
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_wf_kb_23
+	rotate: true
+	xy: 346, 155
+	size: 193, 285
+	orig: 193, 285
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_wf_kb_22
+	rotate: true
+	xy: 346, 2
+	size: 152, 290
+	orig: 152, 290
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_wf_kb_8
+	rotate: false
+	xy: 978, 566
+	size: 34, 64
+	orig: 34, 64
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_wf_kb_9
+	rotate: false
+	xy: 978, 506
+	size: 35, 59
+	orig: 37, 59
+	offset: 1, 0
+	index: -1
+role/leizhixiaermei_wf_kb_6
+	rotate: true
+	xy: 927, 88
+	size: 101, 76
+	orig: 103, 76
+	offset: 1, 0
+	index: -1
+role/leizhixiaermei_wf_kb_7
+	rotate: false
+	xy: 978, 631
+	size: 27, 63
+	orig: 27, 63
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_wf_kb_4
+	rotate: true
+	xy: 632, 276
+	size: 270, 274
+	orig: 270, 274
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_wf_kb_5
+	rotate: true
+	xy: 927, 190
+	size: 57, 76
+	orig: 57, 76
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_wf_kb_2
+	rotate: false
+	xy: 2, 547
+	size: 151, 142
+	orig: 153, 142
+	offset: 1, 0
+	index: -1
+role/leizhixiaermei_wf_kb_3
+	rotate: true
+	xy: 1004, 88
+	size: 24, 18
+	orig: 24, 18
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_wf_kb_1
+	rotate: true
+	xy: 169, 316
+	size: 203, 175
+	orig: 203, 175
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_wf_kb_10
+	rotate: false
+	xy: 1002, 306
+	size: 19, 47
+	orig: 19, 47
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_wf_kb_11
+	rotate: true
+	xy: 907, 436
+	size: 69, 114
+	orig: 69, 114
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_wf_kb_12
+	rotate: true
+	xy: 927, 2
+	size: 85, 89
+	orig: 85, 89
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_wf_kb_13
+	rotate: true
+	xy: 637, 2
+	size: 273, 289
+	orig: 273, 289
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_wf_kb_14
+	rotate: false
+	xy: 2, 349
+	size: 166, 195
+	orig: 166, 195
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_wf_kb_15
+	rotate: false
+	xy: 2, 695
+	size: 177, 262
+	orig: 179, 264
+	offset: 0, 1
+	index: -1
+role/leizhixiaermei_wf_kb_16
+	rotate: false
+	xy: 927, 248
+	size: 74, 187
+	orig: 74, 187
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_wf_kb_17
+	rotate: false
+	xy: 907, 506
+	size: 70, 178
+	orig: 70, 178
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_wf_kb_18
+	rotate: true
+	xy: 1002, 248
+	size: 57, 19
+	orig: 57, 19
+	offset: 0, 0
+	index: -1
+role/leizhixiaermei_wf_kb_19
+	rotate: false
+	xy: 2, 2
+	size: 343, 313
+	orig: 343, 313
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,97 @@
+
+asset/spine/kelongxvhurt_role0.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kltx_huoren11
+	rotate: true
+	xy: 2, 324
+	size: 72, 79
+	orig: 72, 79
+	offset: 0, 0
+	index: -1
+kltx_huoren12
+	rotate: false
+	xy: 2, 236
+	size: 92, 87
+	orig: 92, 87
+	offset: 0, 0
+	index: -1
+kltx_huoren10
+	rotate: true
+	xy: 187, 383
+	size: 58, 64
+	orig: 58, 64
+	offset: 0, 0
+	index: -1
+kltx_huoren08
+	rotate: true
+	xy: 149, 85
+	size: 66, 104
+	orig: 66, 104
+	offset: 0, 0
+	index: -1
+kltx_huoren09
+	rotate: true
+	xy: 120, 152
+	size: 61, 104
+	orig: 61, 104
+	offset: 0, 0
+	index: -1
+kltx_huoren06
+	rotate: true
+	xy: 200, 214
+	size: 68, 52
+	orig: 68, 52
+	offset: 0, 0
+	index: -1
+kltx_huoren07
+	rotate: true
+	xy: 2, 162
+	size: 73, 102
+	orig: 73, 102
+	offset: 0, 0
+	index: -1
+kltx_huoren04
+	rotate: false
+	xy: 95, 305
+	size: 91, 85
+	orig: 91, 85
+	offset: 0, 0
+	index: -1
+kltx_huoren05
+	rotate: true
+	xy: 187, 305
+	size: 77, 65
+	orig: 77, 65
+	offset: 0, 0
+	index: -1
+kltx_huoren02
+	rotate: true
+	xy: 105, 214
+	size: 90, 94
+	orig: 90, 94
+	offset: 0, 0
+	index: -1
+kltx_huoren03
+	rotate: true
+	xy: 2, 117
+	size: 44, 117
+	orig: 44, 117
+	offset: 0, 0
+	index: -1
+kltx_huoren13
+	rotate: true
+	xy: 2, 2
+	size: 114, 146
+	orig: 114, 146
+	offset: 0, 0
+	index: -1
+kltx_huoren01
+	rotate: true
+	xy: 149, 2
+	size: 82, 104
+	orig: 82, 104
+	offset: 0, 0
+	index: -1

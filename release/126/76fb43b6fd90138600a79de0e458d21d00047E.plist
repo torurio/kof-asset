@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>dl_zcmflsimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{70,101}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{70,101}}</string>
+			<key>sourceSize</key>
+			<string>{70,101}</string>
+		</dict>
+		<key>guang_zcmflsimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{74,2},{33,33}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1,1},{33,33}}</string>
+			<key>sourceSize</key>
+			<string>{35,35}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>zcmflsimage.png</string>
+		<key>size</key>
+		<string>{128,128}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>zcmflsimage.png</string>
+	</dict>
+</dict>
+</plist>

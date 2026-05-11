@@ -1,0 +1,613 @@
+
+asset/spine/dasheXISKCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/dashe_zl_xkzz_tu_48
+	rotate: true
+	xy: 565, 2
+	size: 289, 394
+	orig: 289, 394
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_38
+	rotate: false
+	xy: 735, 819
+	size: 29, 34
+	orig: 29, 34
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_42
+	rotate: false
+	xy: 727, 784
+	size: 30, 34
+	orig: 30, 34
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_43
+	rotate: false
+	xy: 315, 422
+	size: 152, 150
+	orig: 152, 150
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_40
+	rotate: true
+	xy: 615, 580
+	size: 15, 37
+	orig: 15, 37
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_41
+	rotate: true
+	xy: 468, 549
+	size: 22, 36
+	orig: 22, 36
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_46
+	rotate: false
+	xy: 692, 878
+	size: 132, 144
+	orig: 134, 146
+	offset: 1, 1
+	index: -1
+role/dashe_zl_xkzz_tu_47
+	rotate: false
+	xy: 940, 601
+	size: 79, 42
+	orig: 79, 42
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_44
+	rotate: true
+	xy: 960, 245
+	size: 66, 57
+	orig: 66, 57
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_45
+	rotate: false
+	xy: 692, 831
+	size: 42, 45
+	orig: 42, 47
+	offset: 0, 2
+	index: -1
+role/dashe_zl_xkzz_tu_14
+	rotate: true
+	xy: 960, 53
+	size: 34, 60
+	orig: 34, 60
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_32
+	rotate: true
+	xy: 940, 743
+	size: 134, 75
+	orig: 134, 75
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_37
+	rotate: false
+	xy: 758, 784
+	size: 26, 32
+	orig: 26, 32
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_34
+	rotate: true
+	xy: 2, 422
+	size: 559, 169
+	orig: 559, 169
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_31
+	rotate: true
+	xy: 177, 935
+	size: 87, 290
+	orig: 87, 290
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_33
+	rotate: true
+	xy: 953, 878
+	size: 137, 54
+	orig: 137, 54
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_3
+	rotate: true
+	xy: 954, 445
+	size: 33, 66
+	orig: 33, 66
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_8
+	rotate: false
+	xy: 940, 644
+	size: 77, 98
+	orig: 77, 98
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_28
+	rotate: false
+	xy: 565, 292
+	size: 388, 287
+	orig: 388, 287
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_22
+	rotate: true
+	xy: 954, 351
+	size: 93, 66
+	orig: 93, 66
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_23
+	rotate: false
+	xy: 564, 601
+	size: 146, 173
+	orig: 152, 173
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_24
+	rotate: false
+	xy: 711, 580
+	size: 228, 203
+	orig: 228, 203
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_25
+	rotate: true
+	xy: 330, 573
+	size: 204, 233
+	orig: 204, 233
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_26
+	rotate: true
+	xy: 376, 778
+	size: 147, 315
+	orig: 147, 315
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_30
+	rotate: false
+	xy: 468, 926
+	size: 77, 94
+	orig: 77, 94
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_16
+	rotate: false
+	xy: 468, 422
+	size: 96, 84
+	orig: 96, 86
+	offset: 0, 2
+	index: -1
+role/dashe_zl_xkzz_tu_51
+	rotate: false
+	xy: 2, 2
+	size: 562, 419
+	orig: 562, 421
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_50
+	rotate: false
+	xy: 172, 601
+	size: 157, 333
+	orig: 159, 333
+	offset: 1, 0
+	index: -1
+role/dashe_zl_xkzz_tu_20
+	rotate: true
+	xy: 330, 778
+	size: 150, 45
+	orig: 150, 45
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_39
+	rotate: true
+	xy: 960, 88
+	size: 66, 58
+	orig: 66, 58
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_18
+	rotate: true
+	xy: 172, 422
+	size: 178, 142
+	orig: 178, 142
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00034
+	rotate: true
+	xy: 825, 878
+	size: 140, 127
+	orig: 158, 141
+	offset: 6, 7
+	index: -1
+role/dashe_zl_xkzz_tu_2
+	rotate: true
+	xy: 954, 312
+	size: 38, 67
+	orig: 38, 67
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_11
+	rotate: false
+	xy: 765, 817
+	size: 30, 30
+	orig: 30, 30
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_13
+	rotate: false
+	xy: 960, 155
+	size: 58, 50
+	orig: 58, 50
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_12
+	rotate: false
+	xy: 954, 563
+	size: 55, 37
+	orig: 55, 37
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_15
+	rotate: false
+	xy: 692, 784
+	size: 34, 46
+	orig: 34, 46
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_17
+	rotate: false
+	xy: 2, 982
+	size: 174, 38
+	orig: 174, 38
+	offset: 0, 0
+	index: -1
+
+asset/spine/dasheXISKCard_role1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/dashe_zl_xkzz_tu_49
+	rotate: true
+	xy: 2, 566
+	size: 223, 160
+	orig: 223, 162
+	offset: 0, 1
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00001
+	rotate: false
+	xy: 168, 432
+	size: 140, 127
+	orig: 158, 141
+	offset: 6, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00023
+	rotate: false
+	xy: 883, 130
+	size: 138, 127
+	orig: 158, 141
+	offset: 7, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00022
+	rotate: false
+	xy: 688, 2
+	size: 138, 125
+	orig: 158, 141
+	offset: 7, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00021
+	rotate: true
+	xy: 414, 553
+	size: 140, 125
+	orig: 158, 141
+	offset: 6, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00020
+	rotate: true
+	xy: 757, 831
+	size: 138, 125
+	orig: 158, 141
+	offset: 8, 7
+	index: -1
+role/dashe_zl_xkzz_tu_1
+	rotate: true
+	xy: 202, 755
+	size: 183, 172
+	orig: 185, 178
+	offset: 0, 4
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00026
+	rotate: true
+	xy: 324, 2
+	size: 140, 127
+	orig: 158, 141
+	offset: 6, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00024
+	rotate: false
+	xy: 408, 425
+	size: 140, 127
+	orig: 158, 141
+	offset: 6, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00029
+	rotate: false
+	xy: 704, 128
+	size: 138, 125
+	orig: 158, 141
+	offset: 8, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00028
+	rotate: true
+	xy: 578, 128
+	size: 138, 125
+	orig: 158, 141
+	offset: 8, 7
+	index: -1
+role/dashe_zl_xkzz_tu_29
+	rotate: true
+	xy: 309, 425
+	size: 134, 98
+	orig: 134, 98
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_35
+	rotate: false
+	xy: 163, 566
+	size: 122, 188
+	orig: 122, 190
+	offset: 0, 1
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00019
+	rotate: false
+	xy: 883, 2
+	size: 138, 127
+	orig: 158, 141
+	offset: 8, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00009
+	rotate: true
+	xy: 627, 692
+	size: 138, 127
+	orig: 158, 141
+	offset: 8, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00008
+	rotate: true
+	xy: 501, 835
+	size: 138, 127
+	orig: 158, 141
+	offset: 8, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00004
+	rotate: true
+	xy: 452, 2
+	size: 140, 125
+	orig: 158, 141
+	offset: 6, 7
+	index: -1
+role/dashe_zl_xkzz_tu_27
+	rotate: false
+	xy: 2, 2
+	size: 193, 282
+	orig: 193, 282
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_19
+	rotate: true
+	xy: 2, 285
+	size: 280, 165
+	orig: 280, 165
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_36
+	rotate: false
+	xy: 2, 790
+	size: 199, 218
+	orig: 199, 218
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00018
+	rotate: true
+	xy: 755, 692
+	size: 138, 127
+	orig: 158, 141
+	offset: 8, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00025
+	rotate: false
+	xy: 883, 258
+	size: 138, 127
+	orig: 158, 141
+	offset: 8, 7
+	index: -1
+role/dashe_zl_xkzz_tu_21
+	rotate: true
+	xy: 168, 285
+	size: 146, 135
+	orig: 146, 135
+	offset: 0, 0
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00027
+	rotate: true
+	xy: 324, 143
+	size: 140, 127
+	orig: 158, 141
+	offset: 6, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00007
+	rotate: true
+	xy: 286, 560
+	size: 140, 127
+	orig: 158, 141
+	offset: 6, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00030
+	rotate: false
+	xy: 704, 254
+	size: 138, 125
+	orig: 158, 141
+	offset: 8, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00031
+	rotate: true
+	xy: 432, 284
+	size: 140, 127
+	orig: 158, 141
+	offset: 6, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00032
+	rotate: false
+	xy: 883, 386
+	size: 138, 127
+	orig: 158, 141
+	offset: 7, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00033
+	rotate: false
+	xy: 883, 514
+	size: 138, 127
+	orig: 158, 141
+	offset: 7, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00035
+	rotate: false
+	xy: 883, 642
+	size: 138, 127
+	orig: 158, 141
+	offset: 8, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00036
+	rotate: true
+	xy: 375, 842
+	size: 140, 125
+	orig: 158, 141
+	offset: 6, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00037
+	rotate: true
+	xy: 501, 694
+	size: 140, 125
+	orig: 158, 141
+	offset: 6, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00038
+	rotate: true
+	xy: 688, 380
+	size: 138, 125
+	orig: 158, 141
+	offset: 8, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00039
+	rotate: false
+	xy: 883, 770
+	size: 138, 127
+	orig: 158, 141
+	offset: 8, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00011
+	rotate: true
+	xy: 196, 2
+	size: 140, 127
+	orig: 158, 141
+	offset: 6, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00000
+	rotate: true
+	xy: 540, 553
+	size: 138, 127
+	orig: 158, 141
+	offset: 8, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00003
+	rotate: true
+	xy: 560, 284
+	size: 138, 127
+	orig: 158, 141
+	offset: 7, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00006
+	rotate: true
+	xy: 452, 143
+	size: 140, 125
+	orig: 158, 141
+	offset: 6, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00010
+	rotate: true
+	xy: 668, 553
+	size: 138, 127
+	orig: 158, 141
+	offset: 8, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00002
+	rotate: false
+	xy: 549, 425
+	size: 138, 127
+	orig: 158, 141
+	offset: 7, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00016
+	rotate: true
+	xy: 196, 143
+	size: 140, 127
+	orig: 158, 141
+	offset: 6, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00017
+	rotate: true
+	xy: 304, 284
+	size: 140, 127
+	orig: 158, 141
+	offset: 6, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00014
+	rotate: true
+	xy: 375, 701
+	size: 140, 125
+	orig: 158, 141
+	offset: 6, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00015
+	rotate: true
+	xy: 629, 831
+	size: 138, 127
+	orig: 158, 141
+	offset: 8, 7
+	index: -1
+
+asset/spine/dasheXISKCard_role2.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/dashe_zl_xkzz_tu_tf__00005
+	rotate: false
+	xy: 2, 2
+	size: 138, 125
+	orig: 158, 141
+	offset: 8, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00012
+	rotate: false
+	xy: 2, 128
+	size: 138, 125
+	orig: 158, 141
+	offset: 7, 7
+	index: -1
+role/dashe_zl_xkzz_tu_tf__00013
+	rotate: false
+	xy: 2, 254
+	size: 138, 125
+	orig: 158, 141
+	offset: 7, 7
+	index: -1

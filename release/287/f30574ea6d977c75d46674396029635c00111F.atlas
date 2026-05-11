@@ -1,0 +1,265 @@
+
+asset/spine/szMGyadianCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/yadianna_gf_nt_tu_29
+	rotate: true
+	xy: 2, 528
+	size: 302, 238
+	orig: 304, 240
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_28
+	rotate: true
+	xy: 149, 831
+	size: 189, 106
+	orig: 191, 108
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_25
+	rotate: true
+	xy: 568, 642
+	size: 94, 91
+	orig: 96, 93
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_24
+	rotate: false
+	xy: 373, 428
+	size: 87, 97
+	orig: 89, 99
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_27
+	rotate: false
+	xy: 241, 526
+	size: 221, 235
+	orig: 223, 237
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_26
+	rotate: true
+	xy: 164, 288
+	size: 237, 208
+	orig: 239, 210
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_21
+	rotate: false
+	xy: 490, 396
+	size: 44, 16
+	orig: 46, 18
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_20
+	rotate: false
+	xy: 310, 996
+	size: 46, 20
+	orig: 48, 22
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_23
+	rotate: false
+	xy: 341, 274
+	size: 25, 10
+	orig: 27, 12
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_22
+	rotate: true
+	xy: 493, 752
+	size: 51, 49
+	orig: 53, 51
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_6
+	rotate: false
+	xy: 282, 762
+	size: 71, 54
+	orig: 73, 56
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_7
+	rotate: false
+	xy: 256, 996
+	size: 53, 26
+	orig: 55, 28
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_4
+	rotate: false
+	xy: 241, 762
+	size: 40, 56
+	orig: 42, 58
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_5
+	rotate: true
+	xy: 499, 989
+	size: 32, 45
+	orig: 34, 47
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_2
+	rotate: true
+	xy: 450, 989
+	size: 32, 48
+	orig: 34, 50
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_3
+	rotate: false
+	xy: 448, 762
+	size: 44, 52
+	orig: 46, 54
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_1
+	rotate: true
+	xy: 398, 762
+	size: 53, 49
+	orig: 55, 51
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_18
+	rotate: false
+	xy: 357, 996
+	size: 41, 18
+	orig: 43, 20
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_8
+	rotate: false
+	xy: 373, 282
+	size: 116, 145
+	orig: 118, 147
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_19
+	rotate: false
+	xy: 585, 737
+	size: 35, 47
+	orig: 37, 49
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_14
+	rotate: true
+	xy: 463, 525
+	size: 116, 115
+	orig: 118, 117
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_15
+	rotate: false
+	xy: 354, 762
+	size: 43, 54
+	orig: 45, 56
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_16
+	rotate: false
+	xy: 461, 428
+	size: 127, 96
+	orig: 129, 98
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_17
+	rotate: true
+	xy: 545, 989
+	size: 29, 46
+	orig: 31, 48
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_10
+	rotate: false
+	xy: 490, 274
+	size: 84, 121
+	orig: 86, 123
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_11
+	rotate: false
+	xy: 579, 525
+	size: 47, 90
+	orig: 49, 92
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_12
+	rotate: true
+	xy: 367, 274
+	size: 7, 16
+	orig: 9, 18
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_13
+	rotate: false
+	xy: 256, 819
+	size: 142, 176
+	orig: 144, 178
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_36
+	rotate: true
+	xy: 164, 2
+	size: 285, 176
+	orig: 287, 178
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_37
+	rotate: false
+	xy: 2, 2
+	size: 161, 525
+	orig: 163, 527
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_34
+	rotate: false
+	xy: 463, 642
+	size: 104, 109
+	orig: 106, 111
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_35
+	rotate: true
+	xy: 399, 989
+	size: 33, 50
+	orig: 35, 52
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_32
+	rotate: true
+	xy: 399, 816
+	size: 172, 208
+	orig: 174, 210
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_33
+	rotate: true
+	xy: 341, 2
+	size: 271, 167
+	orig: 273, 169
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_30
+	rotate: true
+	xy: 2, 831
+	size: 189, 146
+	orig: 191, 148
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_31
+	rotate: false
+	xy: 543, 752
+	size: 41, 50
+	orig: 43, 52
+	offset: 1, 1
+	index: -1
+role/yadianna_gf_nt_tu_9
+	rotate: true
+	xy: 592, 989
+	size: 17, 16
+	orig: 19, 18
+	offset: 1, 1
+	index: -1

@@ -1,0 +1,145 @@
+
+asset/spine/zhenniteSZCard_role1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/zhenniteshizhuang_kb_4
+	rotate: false
+	xy: 2, 2
+	size: 142, 157
+	orig: 144, 163
+	offset: 1, 5
+	index: -1
+
+asset/spine/zhenniteSZCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/zhenniteshizhuang_kb_1
+	rotate: true
+	xy: 415, 2
+	size: 132, 249
+	orig: 132, 251
+	offset: 0, 1
+	index: -1
+role/zhenniteshizhuang_kb_18
+	rotate: false
+	xy: 2, 2
+	size: 412, 595
+	orig: 412, 595
+	offset: 0, 0
+	index: -1
+role/zhenniteshizhuang_kb_15
+	rotate: true
+	xy: 685, 228
+	size: 176, 306
+	orig: 176, 306
+	offset: 0, 0
+	index: -1
+role/zhenniteshizhuang_kb_14
+	rotate: true
+	xy: 588, 752
+	size: 169, 122
+	orig: 169, 122
+	offset: 0, 0
+	index: -1
+role/zhenniteshizhuang_kb_17
+	rotate: true
+	xy: 415, 135
+	size: 128, 248
+	orig: 128, 248
+	offset: 0, 0
+	index: -1
+role/zhenniteshizhuang_kb_16
+	rotate: false
+	xy: 415, 264
+	size: 194, 308
+	orig: 194, 308
+	offset: 0, 0
+	index: -1
+role/zhenniteshizhuang_kb_11
+	rotate: false
+	xy: 321, 598
+	size: 266, 332
+	orig: 270, 332
+	offset: 2, 0
+	index: -1
+role/zhenniteshizhuang_kb_10
+	rotate: false
+	xy: 711, 752
+	size: 149, 215
+	orig: 149, 215
+	offset: 0, 0
+	index: -1
+role/zhenniteshizhuang_kb_13
+	rotate: false
+	xy: 55, 598
+	size: 265, 367
+	orig: 267, 367
+	offset: 2, 0
+	index: -1
+role/zhenniteshizhuang_kb_12
+	rotate: true
+	xy: 685, 2
+	size: 225, 320
+	orig: 225, 322
+	offset: 0, 1
+	index: -1
+role/znt_kabei_guang0328
+	rotate: false
+	xy: 861, 752
+	size: 158, 164
+	orig: 158, 164
+	offset: 0, 0
+	index: -1
+role/zhenniteshizhuang_kb_3
+	rotate: true
+	xy: 2, 982
+	size: 14, 49
+	orig: 14, 49
+	offset: 0, 0
+	index: -1
+role/zhenniteshizhuang_kb_2
+	rotate: true
+	xy: 544, 931
+	size: 62, 140
+	orig: 62, 142
+	offset: 0, 1
+	index: -1
+role/zhenniteshizhuang_kb_5
+	rotate: true
+	xy: 2, 598
+	size: 383, 52
+	orig: 383, 52
+	offset: 0, 0
+	index: -1
+role/zhenniteshizhuang_kb_7
+	rotate: true
+	xy: 685, 519
+	size: 232, 234
+	orig: 232, 234
+	offset: 0, 0
+	index: -1
+role/zhenniteshizhuang_kb_6
+	rotate: false
+	xy: 424, 931
+	size: 119, 81
+	orig: 119, 81
+	offset: 0, 0
+	index: -1
+role/zhenniteshizhuang_kb_9
+	rotate: true
+	xy: 685, 405
+	size: 113, 243
+	orig: 113, 243
+	offset: 0, 0
+	index: -1
+role/zhenniteshizhuang_kb_8
+	rotate: false
+	xy: 321, 931
+	size: 102, 87
+	orig: 102, 87
+	offset: 0, 0
+	index: -1

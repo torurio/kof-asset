@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>fire_wmkpimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{349,311}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{349,311}}</string>
+			<key>sourceSize</key>
+			<string>{349,311}</string>
+		</dict>
+		<key>firea_wmkpimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,315},{284,266}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{284,266}}</string>
+			<key>sourceSize</key>
+			<string>{284,266}</string>
+		</dict>
+		<key>mask1_wmkpimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{288,315},{175,235}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{175,235}}</string>
+			<key>sourceSize</key>
+			<string>{175,235}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>wmkpimage.png</string>
+		<key>size</key>
+		<string>{512,1024}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>wmkpimage.png</string>
+	</dict>
+</dict>
+</plist>

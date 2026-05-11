@@ -1,0 +1,2585 @@
+
+asset/spine/global_spinehero_role2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_diying_dy
+	rotate: false
+	xy: 656, 2
+	size: 305, 97
+	orig: 305, 97
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_paobu_yan0
+	rotate: false
+	xy: 532, 583
+	size: 49, 50
+	orig: 49, 50
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan1
+	rotate: false
+	xy: 345, 619
+	size: 49, 49
+	orig: 49, 49
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan4
+	rotate: false
+	xy: 532, 531
+	size: 49, 51
+	orig: 49, 51
+	offset: 0, 0
+	index: -1
+
+asset/spine/bashenBZSZ_role1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozoubashenpifu_daodshengl_60
+	rotate: true
+	xy: 667, 352
+	size: 40, 38
+	orig: 40, 38
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_61
+	rotate: false
+	xy: 444, 786
+	size: 40, 46
+	orig: 40, 46
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_66
+	rotate: true
+	xy: 401, 226
+	size: 52, 49
+	orig: 52, 49
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_68
+	rotate: false
+	xy: 614, 673
+	size: 36, 37
+	orig: 36, 37
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_40
+	rotate: true
+	xy: 436, 738
+	size: 47, 33
+	orig: 47, 33
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_73
+	rotate: true
+	xy: 664, 918
+	size: 29, 28
+	orig: 29, 28
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_bu_13
+	rotate: true
+	xy: 735, 301
+	size: 38, 33
+	orig: 38, 33
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_61
+	rotate: false
+	xy: 758, 2
+	size: 29, 40
+	orig: 29, 40
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_201
+	rotate: false
+	xy: 769, 297
+	size: 29, 35
+	orig: 29, 35
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_57
+	rotate: false
+	xy: 415, 279
+	size: 50, 35
+	orig: 50, 35
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_54
+	rotate: true
+	xy: 199, 196
+	size: 60, 45
+	orig: 60, 45
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_62
+	rotate: false
+	xy: 223, 257
+	size: 51, 58
+	orig: 51, 58
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_99
+	rotate: false
+	xy: 283, 375
+	size: 42, 56
+	orig: 42, 56
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_94
+	rotate: true
+	xy: 527, 809
+	size: 45, 34
+	orig: 45, 34
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_97
+	rotate: false
+	xy: 643, 858
+	size: 28, 29
+	orig: 28, 29
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_96
+	rotate: true
+	xy: 76, 730
+	size: 59, 50
+	orig: 59, 50
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_91
+	rotate: true
+	xy: 682, 515
+	size: 36, 31
+	orig: 36, 31
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_21
+	rotate: true
+	xy: 608, 46
+	size: 43, 31
+	orig: 43, 31
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_20
+	rotate: true
+	xy: 860, 116
+	size: 33, 31
+	orig: 33, 31
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_46
+	rotate: false
+	xy: 826, 121
+	size: 33, 34
+	orig: 33, 34
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_104
+	rotate: true
+	xy: 163, 714
+	size: 56, 51
+	orig: 56, 51
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_105
+	rotate: true
+	xy: 754, 377
+	size: 35, 32
+	orig: 35, 32
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_102
+	rotate: false
+	xy: 146, 537
+	size: 31, 59
+	orig: 31, 59
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_100
+	rotate: true
+	xy: 683, 732
+	size: 28, 27
+	orig: 28, 27
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_101
+	rotate: true
+	xy: 694, 264
+	size: 41, 28
+	orig: 41, 28
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_71
+	rotate: true
+	xy: 351, 229
+	size: 54, 49
+	orig: 54, 49
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_70
+	rotate: true
+	xy: 720, 2
+	size: 41, 37
+	orig: 41, 37
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_74
+	rotate: true
+	xy: 483, 459
+	size: 45, 33
+	orig: 45, 33
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_76
+	rotate: false
+	xy: 616, 898
+	size: 31, 27
+	orig: 31, 27
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_24
+	rotate: false
+	xy: 484, 927
+	size: 35, 46
+	orig: 35, 46
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_idle_13
+	rotate: false
+	xy: 2, 974
+	size: 53, 48
+	orig: 53, 48
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_idle_10
+	rotate: false
+	xy: 832, 42
+	size: 27, 38
+	orig: 27, 38
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_idle_16
+	rotate: false
+	xy: 540, 855
+	size: 33, 45
+	orig: 33, 45
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_21
+	rotate: false
+	xy: 104, 69
+	size: 59, 65
+	orig: 59, 65
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_idle_15
+	rotate: false
+	xy: 364, 956
+	size: 30, 48
+	orig: 30, 48
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_idle_18
+	rotate: false
+	xy: 403, 847
+	size: 45, 47
+	orig: 45, 47
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_idle_19
+	rotate: false
+	xy: 253, 2
+	size: 42, 60
+	orig: 42, 60
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_28
+	rotate: false
+	xy: 629, 311
+	size: 35, 42
+	orig: 35, 42
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_77
+	rotate: true
+	xy: 566, 926
+	size: 45, 33
+	orig: 45, 33
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_75
+	rotate: false
+	xy: 315, 238
+	size: 35, 56
+	orig: 35, 56
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_74
+	rotate: true
+	xy: 243, 653
+	size: 54, 33
+	orig: 54, 33
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_109
+	rotate: false
+	xy: 107, 537
+	size: 38, 59
+	orig: 38, 59
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_71
+	rotate: true
+	xy: 648, 888
+	size: 29, 28
+	orig: 29, 28
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_70
+	rotate: false
+	xy: 586, 634
+	size: 38, 38
+	orig: 38, 38
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_106
+	rotate: true
+	xy: 197, 656
+	size: 56, 45
+	orig: 56, 45
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_bu_8
+	rotate: false
+	xy: 671, 815
+	size: 26, 29
+	orig: 26, 29
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_15
+	rotate: true
+	xy: 245, 181
+	size: 56, 39
+	orig: 56, 39
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_idle_8
+	rotate: false
+	xy: 422, 57
+	size: 46, 52
+	orig: 46, 52
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_0
+	rotate: false
+	xy: 574, 844
+	size: 32, 40
+	orig: 32, 40
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_2
+	rotate: true
+	xy: 725, 386
+	size: 36, 28
+	orig: 36, 28
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_5
+	rotate: true
+	xy: 622, 751
+	size: 37, 25
+	orig: 37, 25
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_4
+	rotate: true
+	xy: 824, 242
+	size: 34, 25
+	orig: 36, 25
+	offset: 2, 0
+	index: -1
+baozoubashenpifu_daodshengl_7
+	rotate: true
+	xy: 324, 116
+	size: 56, 31
+	orig: 56, 31
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_idle_1
+	rotate: false
+	xy: 586, 404
+	size: 30, 44
+	orig: 30, 44
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_idle_2
+	rotate: true
+	xy: 535, 187
+	size: 36, 42
+	orig: 36, 44
+	offset: 0, 2
+	index: -1
+baozoubashenpifu_idle_7
+	rotate: true
+	xy: 566, 314
+	size: 44, 35
+	orig: 44, 35
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_62
+	rotate: false
+	xy: 607, 539
+	size: 35, 41
+	orig: 35, 41
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_68
+	rotate: true
+	xy: 326, 372
+	size: 52, 50
+	orig: 52, 50
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_34
+	rotate: true
+	xy: 399, 419
+	size: 49, 42
+	orig: 49, 42
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_37
+	rotate: true
+	xy: 212, 881
+	size: 24, 44
+	orig: 24, 44
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_36
+	rotate: true
+	xy: 260, 436
+	size: 56, 43
+	orig: 56, 43
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_31
+	rotate: false
+	xy: 112, 206
+	size: 38, 61
+	orig: 38, 61
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_30
+	rotate: true
+	xy: 106, 603
+	size: 59, 42
+	orig: 59, 42
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_33
+	rotate: true
+	xy: 89, 409
+	size: 61, 44
+	orig: 61, 44
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_32
+	rotate: true
+	xy: 540, 901
+	size: 24, 43
+	orig: 24, 43
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_175
+	rotate: true
+	xy: 860, 41
+	size: 34, 31
+	orig: 34, 31
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_83
+	rotate: true
+	xy: 395, 641
+	size: 49, 25
+	orig: 49, 25
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_80
+	rotate: true
+	xy: 212, 771
+	size: 54, 37
+	orig: 54, 37
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_81
+	rotate: false
+	xy: 210, 509
+	size: 45, 27
+	orig: 45, 27
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_87
+	rotate: true
+	xy: 329, 958
+	size: 49, 34
+	orig: 49, 38
+	offset: 0, 4
+	index: -1
+baozoubashenpifu_daodshengl_88
+	rotate: false
+	xy: 2, 278
+	size: 66, 67
+	orig: 66, 67
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_179
+	rotate: true
+	xy: 312, 644
+	size: 51, 49
+	orig: 51, 49
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_bu_5
+	rotate: false
+	xy: 257, 867
+	size: 49, 38
+	orig: 49, 38
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_bu_7
+	rotate: false
+	xy: 440, 469
+	size: 42, 47
+	orig: 42, 47
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_bu_1
+	rotate: true
+	xy: 250, 708
+	size: 52, 36
+	orig: 52, 36
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_bu_3
+	rotate: false
+	xy: 875, 2
+	size: 29, 34
+	orig: 29, 34
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_bu_2
+	rotate: true
+	xy: 478, 517
+	size: 45, 40
+	orig: 45, 40
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_81
+	rotate: false
+	xy: 788, 2
+	size: 31, 39
+	orig: 31, 39
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_82
+	rotate: true
+	xy: 799, 289
+	size: 34, 26
+	orig: 34, 26
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_84
+	rotate: false
+	xy: 288, 906
+	size: 51, 51
+	orig: 51, 51
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_36
+	rotate: true
+	xy: 847, 2
+	size: 38, 27
+	orig: 38, 27
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_35
+	rotate: false
+	xy: 166, 881
+	size: 45, 24
+	orig: 45, 24
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_79
+	rotate: true
+	xy: 61, 2
+	size: 67, 39
+	orig: 67, 39
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_78
+	rotate: false
+	xy: 736, 217
+	size: 36, 40
+	orig: 36, 40
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_77
+	rotate: true
+	xy: 166, 826
+	size: 54, 44
+	orig: 54, 44
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_72
+	rotate: false
+	xy: 625, 620
+	size: 33, 37
+	orig: 33, 37
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_71
+	rotate: true
+	xy: 781, 167
+	size: 38, 31
+	orig: 38, 31
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_1
+	rotate: true
+	xy: 712, 132
+	size: 42, 28
+	orig: 42, 28
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_8
+	rotate: true
+	xy: 458, 565
+	size: 45, 41
+	orig: 45, 41
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_61
+	rotate: true
+	xy: 285, 181
+	size: 56, 38
+	orig: 56, 38
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_1
+	rotate: true
+	xy: 710, 687
+	size: 28, 26
+	orig: 28, 26
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_0
+	rotate: true
+	xy: 367, 806
+	size: 49, 30
+	orig: 51, 30
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_5
+	rotate: true
+	xy: 721, 552
+	size: 35, 34
+	orig: 35, 34
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_156
+	rotate: false
+	xy: 250, 761
+	size: 31, 52
+	orig: 31, 52
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_88
+	rotate: false
+	xy: 233, 537
+	size: 43, 56
+	orig: 43, 56
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_7
+	rotate: false
+	xy: 659, 613
+	size: 35, 36
+	orig: 35, 36
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_83
+	rotate: false
+	xy: 273, 316
+	size: 47, 58
+	orig: 47, 58
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_81
+	rotate: true
+	xy: 2, 346
+	size: 65, 47
+	orig: 65, 47
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_87
+	rotate: false
+	xy: 578, 180
+	size: 35, 43
+	orig: 35, 43
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_56
+	rotate: true
+	xy: 690, 552
+	size: 36, 30
+	orig: 36, 30
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_57
+	rotate: true
+	xy: 573, 359
+	size: 44, 35
+	orig: 44, 35
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_50
+	rotate: true
+	xy: 299, 493
+	size: 43, 42
+	orig: 43, 42
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_58
+	rotate: true
+	xy: 576, 494
+	size: 44, 32
+	orig: 44, 32
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_54
+	rotate: true
+	xy: 602, 314
+	size: 44, 26
+	orig: 44, 26
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_124
+	rotate: false
+	xy: 395, 954
+	size: 45, 47
+	orig: 45, 47
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_56
+	rotate: true
+	xy: 211, 826
+	size: 54, 42
+	orig: 54, 42
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_123
+	rotate: true
+	xy: 741, 131
+	size: 41, 26
+	orig: 45, 26
+	offset: 4, 0
+	index: -1
+baozoubashenpifu_skill2_42
+	rotate: true
+	xy: 503, 363
+	size: 45, 33
+	orig: 45, 33
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_43
+	rotate: false
+	xy: 549, 680
+	size: 36, 40
+	orig: 36, 40
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_121
+	rotate: true
+	xy: 596, 790
+	size: 37, 30
+	orig: 37, 30
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_36
+	rotate: true
+	xy: 43, 911
+	size: 58, 36
+	orig: 58, 36
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_35
+	rotate: false
+	xy: 768, 126
+	size: 27, 40
+	orig: 27, 40
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_58
+	rotate: true
+	xy: 433, 2
+	size: 52, 46
+	orig: 52, 46
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_47
+	rotate: true
+	xy: 772, 85
+	size: 39, 38
+	orig: 39, 38
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_133
+	rotate: false
+	xy: 79, 790
+	size: 40, 58
+	orig: 40, 58
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_135
+	rotate: false
+	xy: 568, 2
+	size: 38, 43
+	orig: 38, 43
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_43
+	rotate: false
+	xy: 651, 658
+	size: 36, 36
+	orig: 36, 36
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_68
+	rotate: true
+	xy: 571, 224
+	size: 44, 28
+	orig: 44, 28
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_69
+	rotate: true
+	xy: 723, 432
+	size: 36, 28
+	orig: 36, 28
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_48
+	rotate: false
+	xy: 356, 116
+	size: 54, 54
+	orig: 54, 54
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_0
+	rotate: true
+	xy: 293, 958
+	size: 49, 35
+	orig: 49, 35
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_6
+	rotate: false
+	xy: 362, 284
+	size: 52, 30
+	orig: 52, 30
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_7
+	rotate: true
+	xy: 394, 589
+	size: 51, 30
+	orig: 51, 30
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_97
+	rotate: false
+	xy: 529, 2
+	size: 38, 44
+	orig: 38, 44
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_30
+	rotate: true
+	xy: 160, 966
+	size: 56, 53
+	orig: 56, 53
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_93
+	rotate: false
+	xy: 498, 52
+	size: 38, 44
+	orig: 38, 44
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_35
+	rotate: false
+	xy: 332, 754
+	size: 35, 51
+	orig: 35, 51
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_36
+	rotate: true
+	xy: 550, 404
+	size: 44, 35
+	orig: 44, 35
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_bu_4
+	rotate: false
+	xy: 282, 761
+	size: 49, 51
+	orig: 49, 51
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_26
+	rotate: false
+	xy: 752, 423
+	size: 32, 35
+	orig: 32, 35
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_bu_13
+	rotate: true
+	xy: 282, 591
+	size: 52, 34
+	orig: 52, 34
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_bu_10
+	rotate: true
+	xy: 453, 315
+	size: 49, 36
+	orig: 49, 36
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_bu_11
+	rotate: true
+	xy: 399, 743
+	size: 48, 36
+	orig: 48, 36
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_90
+	rotate: false
+	xy: 691, 393
+	size: 33, 38
+	orig: 33, 38
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_95
+	rotate: true
+	xy: 78, 663
+	size: 59, 46
+	orig: 59, 46
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_28
+	rotate: false
+	xy: 520, 926
+	size: 45, 45
+	orig: 45, 45
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_99
+	rotate: false
+	xy: 151, 196
+	size: 47, 60
+	orig: 47, 60
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_98
+	rotate: false
+	xy: 683, 175
+	size: 31, 42
+	orig: 31, 42
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_96
+	rotate: true
+	xy: 349, 425
+	size: 50, 49
+	orig: 52, 49
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_22
+	rotate: false
+	xy: 695, 589
+	size: 35, 35
+	orig: 35, 35
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_23
+	rotate: false
+	xy: 317, 591
+	size: 39, 51
+	orig: 39, 51
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_92
+	rotate: true
+	xy: 342, 486
+	size: 50, 49
+	orig: 52, 49
+	offset: 2, 0
+	index: -1
+baozoubashenpifu_skill2_192
+	rotate: true
+	xy: 517, 455
+	size: 45, 32
+	orig: 45, 32
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_52
+	rotate: true
+	xy: 820, 2
+	size: 39, 26
+	orig: 39, 26
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_198
+	rotate: false
+	xy: 50, 346
+	size: 39, 62
+	orig: 39, 62
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_163
+	rotate: true
+	xy: 442, 416
+	size: 47, 40
+	orig: 51, 40
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_160
+	rotate: true
+	xy: 420, 895
+	size: 47, 44
+	orig: 47, 44
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_161
+	rotate: false
+	xy: 440, 517
+	size: 37, 47
+	orig: 37, 47
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_166
+	rotate: false
+	xy: 796, 125
+	size: 29, 38
+	orig: 29, 38
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_167
+	rotate: false
+	xy: 2, 2
+	size: 58, 68
+	orig: 58, 68
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_164
+	rotate: false
+	xy: 254, 814
+	size: 31, 52
+	orig: 31, 52
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_165
+	rotate: true
+	xy: 562, 136
+	size: 43, 38
+	orig: 43, 38
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_49
+	rotate: false
+	xy: 586, 712
+	size: 26, 38
+	orig: 26, 38
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_48
+	rotate: true
+	xy: 336, 806
+	size: 51, 30
+	orig: 51, 30
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_41
+	rotate: false
+	xy: 584, 449
+	size: 31, 44
+	orig: 31, 44
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_42
+	rotate: false
+	xy: 538, 547
+	size: 28, 45
+	orig: 28, 45
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_7
+	rotate: false
+	xy: 2, 209
+	size: 50, 68
+	orig: 50, 68
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_2
+	rotate: false
+	xy: 609, 494
+	size: 35, 41
+	orig: 35, 41
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_1
+	rotate: true
+	xy: 441, 991
+	size: 31, 46
+	orig: 31, 46
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_9
+	rotate: true
+	xy: 552, 269
+	size: 44, 36
+	orig: 44, 36
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_50
+	rotate: true
+	xy: 2, 852
+	size: 60, 40
+	orig: 60, 40
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_59
+	rotate: true
+	xy: 773, 214
+	size: 38, 33
+	orig: 38, 33
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_53
+	rotate: false
+	xy: 646, 178
+	size: 36, 42
+	orig: 38, 42
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_50
+	rotate: false
+	xy: 2, 791
+	size: 40, 60
+	orig: 40, 60
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_57
+	rotate: false
+	xy: 742, 85
+	size: 29, 40
+	orig: 29, 40
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_54
+	rotate: false
+	xy: 715, 45
+	size: 26, 42
+	orig: 26, 42
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_44
+	rotate: true
+	xy: 368, 748
+	size: 49, 30
+	orig: 49, 30
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_153
+	rotate: true
+	xy: 176, 257
+	size: 60, 46
+	orig: 60, 46
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_157
+	rotate: true
+	xy: 616, 449
+	size: 41, 35
+	orig: 41, 35
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_60
+	rotate: true
+	xy: 381, 2
+	size: 54, 51
+	orig: 54, 51
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_159
+	rotate: true
+	xy: 626, 967
+	size: 40, 31
+	orig: 40, 31
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_134
+	rotate: true
+	xy: 742, 44
+	size: 40, 30
+	orig: 40, 30
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_127
+	rotate: true
+	xy: 513, 657
+	size: 45, 35
+	orig: 45, 35
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_53
+	rotate: false
+	xy: 639, 711
+	size: 36, 36
+	orig: 36, 36
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_51
+	rotate: true
+	xy: 125, 663
+	size: 59, 36
+	orig: 59, 36
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_57
+	rotate: true
+	xy: 2, 607
+	size: 61, 56
+	orig: 61, 56
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_63
+	rotate: true
+	xy: 635, 354
+	size: 41, 31
+	orig: 41, 31
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_177
+	rotate: false
+	xy: 500, 563
+	size: 37, 45
+	orig: 37, 45
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_48
+	rotate: true
+	xy: 181, 391
+	size: 58, 53
+	orig: 58, 53
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_45
+	rotate: true
+	xy: 287, 702
+	size: 51, 49
+	orig: 51, 49
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_41
+	rotate: false
+	xy: 519, 501
+	size: 29, 45
+	orig: 29, 45
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_39
+	rotate: true
+	xy: 676, 695
+	size: 36, 33
+	orig: 36, 33
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_42
+	rotate: true
+	xy: 2, 544
+	size: 62, 49
+	orig: 62, 49
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_bu_6
+	rotate: false
+	xy: 842, 156
+	size: 31, 33
+	orig: 31, 33
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_154
+	rotate: false
+	xy: 469, 55
+	size: 28, 50
+	orig: 28, 50
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_31
+	rotate: false
+	xy: 490, 832
+	size: 36, 46
+	orig: 36, 46
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_34
+	rotate: true
+	xy: 600, 224
+	size: 43, 31
+	orig: 43, 31
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_30
+	rotate: true
+	xy: 296, 2
+	size: 56, 42
+	orig: 56, 42
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_31
+	rotate: false
+	xy: 214, 960
+	size: 40, 52
+	orig: 40, 52
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_bu_28
+	rotate: true
+	xy: 407, 315
+	size: 50, 45
+	orig: 50, 45
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_bu_27
+	rotate: true
+	xy: 367, 537
+	size: 51, 36
+	orig: 51, 36
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_37
+	rotate: true
+	xy: 54, 140
+	size: 67, 44
+	orig: 67, 44
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_bu_24
+	rotate: true
+	xy: 2, 71
+	size: 68, 56
+	orig: 68, 56
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_3
+	rotate: false
+	xy: 638, 90
+	size: 40, 42
+	orig: 42, 42
+	offset: 2, 0
+	index: -1
+baozoubashenpifu_skill1_5
+	rotate: true
+	xy: 85, 475
+	size: 61, 54
+	orig: 61, 54
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_6
+	rotate: false
+	xy: 120, 790
+	size: 45, 57
+	orig: 45, 57
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_7
+	rotate: true
+	xy: 490, 315
+	size: 47, 38
+	orig: 47, 38
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_16
+	rotate: true
+	xy: 905, 2
+	size: 32, 28
+	orig: 32, 28
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_14
+	rotate: true
+	xy: 504, 879
+	size: 46, 35
+	orig: 46, 35
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_12
+	rotate: false
+	xy: 59, 603
+	size: 46, 59
+	orig: 46, 59
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_11
+	rotate: false
+	xy: 706, 347
+	size: 33, 38
+	orig: 33, 38
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_82
+	rotate: true
+	xy: 485, 785
+	size: 46, 39
+	orig: 46, 39
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_18
+	rotate: true
+	xy: 525, 763
+	size: 45, 35
+	orig: 45, 35
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_60
+	rotate: false
+	xy: 607, 2
+	size: 38, 43
+	orig: 38, 43
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_66
+	rotate: true
+	xy: 48, 412
+	size: 62, 40
+	orig: 62, 40
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_67
+	rotate: false
+	xy: 595, 751
+	size: 26, 38
+	orig: 26, 38
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_68
+	rotate: false
+	xy: 658, 990
+	size: 29, 31
+	orig: 29, 31
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_19
+	rotate: true
+	xy: 580, 592
+	size: 41, 36
+	orig: 41, 36
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_11
+	rotate: true
+	xy: 101, 2
+	size: 66, 49
+	orig: 66, 49
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_13
+	rotate: false
+	xy: 199, 906
+	size: 47, 53
+	orig: 47, 53
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_10
+	rotate: false
+	xy: 355, 858
+	size: 47, 47
+	orig: 47, 47
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_idle_24
+	rotate: true
+	xy: 488, 974
+	size: 46, 28
+	orig: 46, 28
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_idle_23
+	rotate: true
+	xy: 617, 404
+	size: 41, 32
+	orig: 41, 32
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_idle_22
+	rotate: false
+	xy: 426, 366
+	size: 37, 49
+	orig: 37, 49
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_idle_20
+	rotate: true
+	xy: 707, 218
+	size: 41, 28
+	orig: 41, 28
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_184
+	rotate: false
+	xy: 53, 209
+	size: 58, 67
+	orig: 58, 67
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_185
+	rotate: false
+	xy: 493, 196
+	size: 41, 27
+	orig: 41, 27
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_186
+	rotate: true
+	xy: 614, 180
+	size: 43, 31
+	orig: 43, 31
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_180
+	rotate: false
+	xy: 451, 224
+	size: 44, 50
+	orig: 44, 50
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_181
+	rotate: false
+	xy: 461, 110
+	size: 31, 50
+	orig: 31, 50
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_182
+	rotate: true
+	xy: 688, 437
+	size: 38, 34
+	orig: 38, 34
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_183
+	rotate: true
+	xy: 671, 221
+	size: 42, 35
+	orig: 42, 35
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_188
+	rotate: false
+	xy: 561, 762
+	size: 33, 40
+	orig: 33, 40
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_189
+	rotate: false
+	xy: 324, 173
+	size: 33, 55
+	orig: 33, 55
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_116
+	rotate: true
+	xy: 562, 92
+	size: 43, 40
+	orig: 43, 40
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_114
+	rotate: true
+	xy: 277, 537
+	size: 53, 49
+	orig: 53, 49
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_112
+	rotate: false
+	xy: 358, 171
+	size: 47, 54
+	orig: 47, 54
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_110
+	rotate: true
+	xy: 586, 673
+	size: 38, 27
+	orig: 38, 27
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_bu_26
+	rotate: true
+	xy: 807, 206
+	size: 35, 29
+	orig: 35, 29
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_20
+	rotate: true
+	xy: 404, 526
+	size: 49, 35
+	orig: 49, 35
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_22
+	rotate: false
+	xy: 464, 365
+	size: 38, 47
+	orig: 38, 47
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_23
+	rotate: false
+	xy: 723, 260
+	size: 36, 40
+	orig: 36, 40
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_71
+	rotate: false
+	xy: 304, 432
+	size: 44, 53
+	orig: 44, 53
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_72
+	rotate: true
+	xy: 652, 437
+	size: 38, 35
+	orig: 38, 35
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_74
+	rotate: false
+	xy: 162, 656
+	size: 34, 57
+	orig: 34, 57
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_75
+	rotate: true
+	xy: 713, 88
+	size: 42, 28
+	orig: 42, 28
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_14
+	rotate: true
+	xy: 811, 82
+	size: 38, 29
+	orig: 38, 29
+	offset: 0, 0
+	index: -1
+
+asset/spine/bashenBZSZ_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozoubashenpifu_skill2_143
+	rotate: false
+	xy: 401, 460
+	size: 63, 83
+	orig: 63, 83
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_63
+	rotate: false
+	xy: 509, 644
+	size: 74, 77
+	orig: 74, 77
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_64
+	rotate: false
+	xy: 748, 362
+	size: 71, 72
+	orig: 71, 72
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_67
+	rotate: false
+	xy: 894, 212
+	size: 63, 66
+	orig: 63, 66
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_67
+	rotate: true
+	xy: 895, 69
+	size: 67, 62
+	orig: 67, 62
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_bu_19
+	rotate: true
+	xy: 958, 229
+	size: 60, 63
+	orig: 60, 63
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_56
+	rotate: false
+	xy: 961, 781
+	size: 61, 56
+	orig: 61, 56
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_52
+	rotate: false
+	xy: 401, 290
+	size: 67, 84
+	orig: 67, 84
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_53
+	rotate: false
+	xy: 965, 974
+	size: 54, 48
+	orig: 54, 48
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_50
+	rotate: false
+	xy: 726, 711
+	size: 46, 29
+	orig: 46, 29
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_102
+	rotate: false
+	xy: 533, 952
+	size: 73, 70
+	orig: 73, 70
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_22
+	rotate: false
+	xy: 774, 79
+	size: 46, 26
+	orig: 46, 26
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_48
+	rotate: true
+	xy: 279, 565
+	size: 91, 64
+	orig: 91, 64
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_73
+	rotate: false
+	xy: 621, 213
+	size: 72, 74
+	orig: 72, 74
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_75
+	rotate: true
+	xy: 958, 114
+	size: 40, 64
+	orig: 40, 64
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_79
+	rotate: false
+	xy: 478, 213
+	size: 72, 75
+	orig: 72, 75
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_78
+	rotate: true
+	xy: 713, 895
+	size: 56, 72
+	orig: 56, 72
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_idle_11
+	rotate: true
+	xy: 537, 78
+	size: 73, 74
+	orig: 73, 74
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_idle_14
+	rotate: true
+	xy: 443, 915
+	size: 36, 64
+	orig: 36, 64
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_29
+	rotate: false
+	xy: 838, 707
+	size: 63, 33
+	orig: 63, 33
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_108
+	rotate: true
+	xy: 832, 565
+	size: 70, 54
+	orig: 70, 54
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_105
+	rotate: true
+	xy: 894, 336
+	size: 50, 63
+	orig: 50, 63
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_79
+	rotate: false
+	xy: 218, 751
+	size: 62, 81
+	orig: 62, 81
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_103
+	rotate: true
+	xy: 482, 741
+	size: 78, 52
+	orig: 78, 52
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_idle_0jiaobu1
+	rotate: false
+	xy: 326, 556
+	size: 30, 8
+	orig: 30, 8
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_bu_2
+	rotate: true
+	xy: 850, 882
+	size: 68, 61
+	orig: 68, 61
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_6
+	rotate: false
+	xy: 727, 637
+	size: 56, 71
+	orig: 56, 71
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_idle_0
+	rotate: false
+	xy: 209, 556
+	size: 116, 8
+	orig: 116, 8
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_idle_4
+	rotate: false
+	xy: 774, 2
+	size: 50, 76
+	orig: 50, 76
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_idle_5
+	rotate: false
+	xy: 774, 812
+	size: 45, 70
+	orig: 45, 70
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_idle_6
+	rotate: true
+	xy: 478, 728
+	size: 12, 19
+	orig: 12, 19
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_67
+	rotate: true
+	xy: 377, 833
+	size: 86, 63
+	orig: 86, 63
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_64
+	rotate: true
+	xy: 679, 2
+	size: 72, 64
+	orig: 72, 64
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_69
+	rotate: false
+	xy: 578, 896
+	size: 61, 55
+	orig: 61, 55
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_15
+	rotate: false
+	xy: 281, 751
+	size: 59, 81
+	orig: 59, 81
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_26
+	rotate: true
+	xy: 608, 741
+	size: 76, 67
+	orig: 76, 67
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_25
+	rotate: true
+	xy: 958, 2
+	size: 56, 64
+	orig: 56, 64
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_13
+	rotate: false
+	xy: 209, 291
+	size: 191, 264
+	orig: 191, 264
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_10
+	rotate: true
+	xy: 861, 810
+	size: 67, 43
+	orig: 67, 43
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_16
+	rotate: false
+	xy: 134, 2
+	size: 164, 272
+	orig: 164, 272
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_17
+	rotate: false
+	xy: 2, 566
+	size: 215, 266
+	orig: 215, 266
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_14
+	rotate: true
+	xy: 118, 833
+	size: 118, 258
+	orig: 118, 258
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_15
+	rotate: false
+	xy: 299, 2
+	size: 168, 264
+	orig: 168, 264
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_18
+	rotate: false
+	xy: 2, 2
+	size: 131, 289
+	orig: 131, 289
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_19
+	rotate: false
+	xy: 2, 292
+	size: 206, 273
+	orig: 206, 273
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_38
+	rotate: false
+	xy: 961, 720
+	size: 61, 60
+	orig: 61, 60
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_bu_4
+	rotate: false
+	xy: 902, 706
+	size: 58, 34
+	orig: 58, 34
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_38
+	rotate: false
+	xy: 958, 391
+	size: 63, 44
+	orig: 63, 44
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_30
+	rotate: false
+	xy: 537, 2
+	size: 74, 75
+	orig: 74, 75
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_76
+	rotate: false
+	xy: 888, 151
+	size: 69, 60
+	orig: 69, 60
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_75
+	rotate: true
+	xy: 135, 952
+	size: 70, 85
+	orig: 70, 85
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_idle_9
+	rotate: true
+	xy: 401, 544
+	size: 20, 60
+	orig: 20, 60
+	offset: 0, 0
+	index: -1
+aozoubashenpifu_runsg_bu_8
+	rotate: true
+	xy: 218, 658
+	size: 92, 56
+	orig: 92, 56
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_62
+	rotate: true
+	xy: 685, 363
+	size: 74, 62
+	orig: 74, 62
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_80
+	rotate: false
+	xy: 681, 515
+	size: 66, 49
+	orig: 66, 49
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_54
+	rotate: true
+	xy: 820, 359
+	size: 70, 67
+	orig: 70, 67
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_52
+	rotate: false
+	xy: 381, 952
+	size: 76, 70
+	orig: 76, 70
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_40
+	rotate: true
+	xy: 706, 818
+	size: 76, 67
+	orig: 76, 67
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_33
+	rotate: false
+	xy: 744, 741
+	size: 60, 70
+	orig: 60, 70
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_30
+	rotate: true
+	xy: 627, 565
+	size: 73, 67
+	orig: 73, 67
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_37
+	rotate: false
+	xy: 679, 711
+	size: 46, 29
+	orig: 46, 29
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_39
+	rotate: false
+	xy: 721, 438
+	size: 71, 72
+	orig: 71, 72
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_38
+	rotate: true
+	xy: 221, 952
+	size: 70, 79
+	orig: 70, 79
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_45
+	rotate: false
+	xy: 614, 152
+	size: 71, 60
+	orig: 71, 60
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_137
+	rotate: true
+	xy: 659, 639
+	size: 71, 67
+	orig: 71, 67
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_41
+	rotate: true
+	xy: 744, 54
+	size: 51, 29
+	orig: 51, 29
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_139
+	rotate: false
+	xy: 894, 279
+	size: 63, 56
+	orig: 63, 56
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_49
+	rotate: true
+	xy: 467, 375
+	size: 79, 77
+	orig: 79, 77
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_9
+	rotate: true
+	xy: 760, 151
+	size: 61, 70
+	orig: 61, 70
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_21
+	rotate: true
+	xy: 912, 949
+	size: 62, 52
+	orig: 62, 52
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_95
+	rotate: false
+	xy: 607, 952
+	size: 73, 70
+	orig: 73, 70
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_38
+	rotate: true
+	xy: 275, 658
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_94
+	rotate: true
+	xy: 546, 534
+	size: 30, 65
+	orig: 30, 65
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_91
+	rotate: false
+	xy: 492, 820
+	size: 77, 77
+	orig: 77, 77
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_92
+	rotate: false
+	xy: 331, 657
+	size: 59, 90
+	orig: 59, 90
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_29
+	rotate: true
+	xy: 480, 565
+	size: 78, 73
+	orig: 78, 73
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_20
+	rotate: false
+	xy: 401, 375
+	size: 65, 84
+	orig: 65, 84
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_24
+	rotate: false
+	xy: 535, 455
+	size: 49, 78
+	orig: 49, 78
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_91
+	rotate: false
+	xy: 458, 952
+	size: 74, 70
+	orig: 74, 70
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_169
+	rotate: true
+	xy: 551, 213
+	size: 75, 69
+	orig: 75, 69
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_47
+	rotate: true
+	xy: 958, 345
+	size: 45, 63
+	orig: 45, 63
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_46
+	rotate: true
+	xy: 469, 289
+	size: 79, 67
+	orig: 79, 67
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_6
+	rotate: true
+	xy: 545, 366
+	size: 75, 69
+	orig: 75, 69
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_5
+	rotate: true
+	xy: 341, 748
+	size: 84, 79
+	orig: 84, 79
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_0
+	rotate: false
+	xy: 761, 565
+	size: 70, 70
+	orig: 70, 70
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_58
+	rotate: true
+	xy: 915, 635
+	size: 67, 45
+	orig: 67, 45
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_55
+	rotate: true
+	xy: 468, 77
+	size: 69, 68
+	orig: 69, 68
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_152
+	rotate: true
+	xy: 599, 289
+	size: 75, 58
+	orig: 77, 58
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_151
+	rotate: false
+	xy: 958, 59
+	size: 64, 54
+	orig: 64, 54
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_150
+	rotate: true
+	xy: 301, 952
+	size: 70, 79
+	orig: 70, 79
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_4
+	rotate: true
+	xy: 695, 565
+	size: 71, 65
+	orig: 71, 65
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_155
+	rotate: true
+	xy: 958, 514
+	size: 37, 63
+	orig: 37, 63
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_6
+	rotate: false
+	xy: 686, 151
+	size: 73, 61
+	orig: 73, 61
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_125
+	rotate: true
+	xy: 465, 460
+	size: 82, 69
+	orig: 82, 69
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_50
+	rotate: false
+	xy: 724, 288
+	size: 72, 73
+	orig: 72, 73
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_56
+	rotate: true
+	xy: 584, 643
+	size: 76, 74
+	orig: 76, 74
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_atk_58
+	rotate: true
+	xy: 441, 828
+	size: 86, 50
+	orig: 86, 50
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_59
+	rotate: false
+	xy: 508, 898
+	size: 69, 53
+	orig: 69, 53
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_128
+	rotate: false
+	xy: 391, 654
+	size: 66, 86
+	orig: 66, 86
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_49
+	rotate: false
+	xy: 865, 287
+	size: 28, 58
+	orig: 28, 58
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_43
+	rotate: false
+	xy: 888, 387
+	size: 63, 42
+	orig: 63, 42
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_85
+	rotate: true
+	xy: 535, 741
+	size: 77, 72
+	orig: 77, 72
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_1
+	rotate: true
+	xy: 958, 552
+	size: 35, 63
+	orig: 35, 63
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_2
+	rotate: false
+	xy: 821, 79
+	size: 73, 71
+	orig: 73, 71
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_4
+	rotate: true
+	xy: 615, 365
+	size: 74, 69
+	orig: 74, 69
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_42
+	rotate: true
+	xy: 961, 654
+	size: 65, 61
+	orig: 65, 61
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_61
+	rotate: true
+	xy: 405, 565
+	size: 82, 74
+	orig: 82, 74
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_64
+	rotate: true
+	xy: 468, 2
+	size: 74, 68
+	orig: 74, 68
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_65
+	rotate: false
+	xy: 902, 2
+	size: 55, 59
+	orig: 55, 59
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_69
+	rotate: false
+	xy: 658, 288
+	size: 65, 74
+	orig: 67, 74
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_daodshengl_11
+	rotate: false
+	xy: 537, 152
+	size: 76, 60
+	orig: 76, 60
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_idle_21
+	rotate: true
+	xy: 912, 882
+	size: 66, 52
+	orig: 66, 52
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_idle_12
+	rotate: false
+	xy: 845, 741
+	size: 59, 68
+	orig: 59, 68
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_117
+	rotate: true
+	xy: 585, 442
+	size: 74, 72
+	orig: 74, 72
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_70
+	rotate: false
+	xy: 887, 565
+	size: 60, 69
+	orig: 60, 69
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill1_73
+	rotate: false
+	xy: 965, 838
+	size: 57, 67
+	orig: 57, 67
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_13
+	rotate: false
+	xy: 2, 833
+	size: 115, 165
+	orig: 115, 165
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_17
+	rotate: true
+	xy: 537, 289
+	size: 76, 61
+	orig: 76, 61
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_runsg_19
+	rotate: true
+	xy: 748, 511
+	size: 53, 69
+	orig: 53, 69
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_26
+	rotate: true
+	xy: 868, 951
+	size: 60, 43
+	orig: 60, 43
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_22
+	rotate: true
+	xy: 965, 906
+	size: 67, 57
+	orig: 67, 57
+	offset: 0, 0
+	index: -1
+baozoubashenpifu_skill2_20
+	rotate: false
+	xy: 845, 636
+	size: 69, 69
+	orig: 69, 69
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_paobu_yan2
+	rotate: false
+	xy: 978, 232
+	size: 43, 51
+	orig: 43, 51
+	offset: 0, 0
+	index: -1
+global/ty_paobu_yan3
+	rotate: false
+	xy: 978, 284
+	size: 43, 51
+	orig: 43, 51
+	offset: 0, 0
+	index: -1

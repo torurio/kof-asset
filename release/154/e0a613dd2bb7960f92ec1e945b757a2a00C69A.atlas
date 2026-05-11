@@ -1,0 +1,3459 @@
+
+asset/spine/global_spinehero_role2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_diying_dy
+	rotate: false
+	xy: 656, 2
+	size: 305, 97
+	orig: 305, 97
+	offset: 0, 0
+	index: -1
+
+asset/spine/liannaLA_role1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anna_skill_40
+	rotate: true
+	xy: 220, 338
+	size: 53, 83
+	orig: 53, 83
+	offset: 0, 0
+	index: -1
+anna_skill_49
+	rotate: false
+	xy: 170, 392
+	size: 231, 344
+	orig: 231, 344
+	offset: 0, 0
+	index: -1
+anna_bisha1_150
+	rotate: true
+	xy: 626, 327
+	size: 120, 218
+	orig: 120, 218
+	offset: 0, 0
+	index: -1
+anna_bisha2_30
+	rotate: false
+	xy: 579, 392
+	size: 46, 55
+	orig: 48, 55
+	offset: 1, 0
+	index: -1
+anna_bisha1_42
+	rotate: true
+	xy: 855, 631
+	size: 95, 157
+	orig: 95, 157
+	offset: 0, 0
+	index: -1
+anna_bisha1_105
+	rotate: false
+	xy: 625, 2
+	size: 221, 324
+	orig: 221, 324
+	offset: 0, 0
+	index: -1
+anna_atk_0
+	rotate: false
+	xy: 2, 2
+	size: 217, 389
+	orig: 217, 389
+	offset: 0, 0
+	index: -1
+anna_shengl_0
+	rotate: true
+	xy: 845, 421
+	size: 26, 60
+	orig: 26, 60
+	offset: 0, 0
+	index: -1
+anna_bisha1_228
+	rotate: false
+	xy: 220, 2
+	size: 199, 335
+	orig: 199, 335
+	offset: 0, 0
+	index: -1
+anna_bisha2_25
+	rotate: false
+	xy: 941, 804
+	size: 81, 73
+	orig: 81, 73
+	offset: 0, 0
+	index: -1
+anna_bsd_17
+	rotate: true
+	xy: 402, 392
+	size: 330, 176
+	orig: 330, 176
+	offset: 0, 0
+	index: -1
+anna_bsd_16
+	rotate: true
+	xy: 2, 392
+	size: 362, 167
+	orig: 362, 167
+	offset: 0, 0
+	index: -1
+anna_bsd_18
+	rotate: true
+	xy: 623, 727
+	size: 293, 317
+	orig: 295, 317
+	offset: 2, 0
+	index: -1
+anna_skill_32
+	rotate: true
+	xy: 579, 448
+	size: 278, 275
+	orig: 278, 277
+	offset: 0, 1
+	index: -1
+anna_skill_31
+	rotate: true
+	xy: 847, 98
+	size: 322, 161
+	orig: 324, 163
+	offset: 1, 1
+	index: -1
+anna_bisha2_4
+	rotate: true
+	xy: 941, 727
+	size: 76, 81
+	orig: 76, 81
+	offset: 0, 0
+	index: -1
+anna_bisha1_159
+	rotate: true
+	xy: 290, 737
+	size: 282, 332
+	orig: 282, 332
+	offset: 0, 0
+	index: -1
+anna_idrun_37
+	rotate: false
+	xy: 561, 335
+	size: 64, 56
+	orig: 64, 56
+	offset: 0, 0
+	index: -1
+anna_bisha1_122
+	rotate: true
+	xy: 941, 500
+	size: 90, 81
+	orig: 90, 81
+	offset: 0, 0
+	index: -1
+anna_bsd_5
+	rotate: false
+	xy: 436, 335
+	size: 124, 56
+	orig: 124, 56
+	offset: 0, 0
+	index: -1
+anna_bisha1_160
+	rotate: false
+	xy: 2, 755
+	size: 287, 258
+	orig: 287, 258
+	offset: 0, 0
+	index: -1
+anna_bisha1_161
+	rotate: true
+	xy: 941, 949
+	size: 73, 78
+	orig: 73, 78
+	offset: 0, 0
+	index: -1
+anna_skill_53
+	rotate: false
+	xy: 420, 2
+	size: 204, 332
+	orig: 204, 332
+	offset: 0, 0
+	index: -1
+anna_bisha1_30
+	rotate: false
+	xy: 304, 338
+	size: 68, 53
+	orig: 68, 53
+	offset: 0, 0
+	index: -1
+anna_bsd_36
+	rotate: true
+	xy: 373, 338
+	size: 53, 62
+	orig: 53, 62
+	offset: 0, 0
+	index: -1
+anna_bisha1_181
+	rotate: true
+	xy: 855, 523
+	size: 107, 85
+	orig: 107, 85
+	offset: 0, 0
+	index: -1
+anna_bisha1_76
+	rotate: true
+	xy: 941, 591
+	size: 36, 81
+	orig: 36, 81
+	offset: 0, 0
+	index: -1
+
+asset/spine/liannaLA_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anna_idrun_17
+	rotate: false
+	xy: 880, 946
+	size: 50, 25
+	orig: 50, 25
+	offset: 0, 0
+	index: -1
+anna_idrun_15
+	rotate: true
+	xy: 435, 120
+	size: 56, 65
+	orig: 56, 65
+	offset: 0, 0
+	index: -1
+anna_atk_64
+	rotate: false
+	xy: 422, 456
+	size: 211, 391
+	orig: 211, 391
+	offset: 0, 0
+	index: -1
+anna_shengl_10
+	rotate: true
+	xy: 880, 764
+	size: 95, 136
+	orig: 95, 136
+	offset: 0, 0
+	index: -1
+anna_shengl_11
+	rotate: false
+	xy: 435, 177
+	size: 72, 68
+	orig: 72, 68
+	offset: 0, 0
+	index: -1
+anna_bisha1_40
+	rotate: true
+	xy: 880, 246
+	size: 151, 141
+	orig: 151, 141
+	offset: 0, 0
+	index: -1
+anna_idrun_6
+	rotate: false
+	xy: 880, 478
+	size: 139, 71
+	orig: 139, 71
+	offset: 0, 0
+	index: -1
+anna_bisha1_106
+	rotate: false
+	xy: 2, 2
+	size: 209, 453
+	orig: 209, 453
+	offset: 0, 0
+	index: -1
+anna_bisha1_107
+	rotate: false
+	xy: 2, 456
+	size: 235, 408
+	orig: 235, 408
+	offset: 0, 0
+	index: -1
+anna_bisha1_102
+	rotate: true
+	xy: 435, 2
+	size: 63, 96
+	orig: 63, 96
+	offset: 0, 0
+	index: -1
+anna_bisha1_103
+	rotate: true
+	xy: 212, 2
+	size: 406, 222
+	orig: 406, 222
+	offset: 0, 0
+	index: -1
+anna_bisha1_108
+	rotate: false
+	xy: 238, 456
+	size: 183, 392
+	orig: 183, 392
+	offset: 0, 0
+	index: -1
+anna_bisha1_109
+	rotate: true
+	xy: 634, 2
+	size: 243, 388
+	orig: 243, 388
+	offset: 0, 0
+	index: -1
+anna_bisha1_191
+	rotate: true
+	xy: 426, 409
+	size: 46, 58
+	orig: 46, 58
+	offset: 0, 0
+	index: -1
+anna_bisha1_193
+	rotate: false
+	xy: 532, 92
+	size: 101, 84
+	orig: 101, 84
+	offset: 0, 0
+	index: -1
+anna_bisha1_210
+	rotate: true
+	xy: 950, 860
+	size: 134, 72
+	orig: 134, 72
+	offset: 0, 0
+	index: -1
+anna_bisha1_19
+	rotate: false
+	xy: 435, 66
+	size: 96, 53
+	orig: 96, 53
+	offset: 0, 0
+	index: -1
+anna_atk_70
+	rotate: false
+	xy: 363, 409
+	size: 62, 46
+	orig: 62, 46
+	offset: 0, 0
+	index: -1
+anna_bisha2_20
+	rotate: true
+	xy: 2, 865
+	size: 157, 350
+	orig: 157, 350
+	offset: 0, 0
+	index: -1
+anna_bisha1_58
+	rotate: false
+	xy: 875, 972
+	size: 74, 50
+	orig: 74, 50
+	offset: 0, 0
+	index: -1
+anna_bsd_10
+	rotate: false
+	xy: 212, 409
+	size: 80, 46
+	orig: 80, 46
+	offset: 0, 0
+	index: -1
+anna_skill_33
+	rotate: false
+	xy: 880, 860
+	size: 69, 85
+	orig: 69, 85
+	offset: 0, 0
+	index: -1
+anna_idrun_31
+	rotate: true
+	xy: 543, 177
+	size: 87, 90
+	orig: 87, 90
+	offset: 0, 0
+	index: -1
+anna_bisha1_174
+	rotate: false
+	xy: 634, 456
+	size: 245, 385
+	orig: 245, 385
+	offset: 0, 0
+	index: -1
+anna_bisha2_8
+	rotate: true
+	xy: 293, 409
+	size: 46, 69
+	orig: 46, 69
+	offset: 0, 0
+	index: -1
+anna_idrun_30
+	rotate: true
+	xy: 634, 246
+	size: 18, 70
+	orig: 18, 70
+	offset: 0, 0
+	index: -1
+anna_bisha1_25
+	rotate: false
+	xy: 435, 246
+	size: 96, 162
+	orig: 96, 162
+	offset: 0, 0
+	index: -1
+anna_atk_16
+	rotate: true
+	xy: 532, 2
+	size: 89, 101
+	orig: 89, 101
+	offset: 0, 0
+	index: -1
+anna_skill_0
+	rotate: true
+	xy: 880, 550
+	size: 213, 137
+	orig: 213, 137
+	offset: 0, 0
+	index: -1
+anna_bisha2_17
+	rotate: true
+	xy: 792, 972
+	size: 50, 82
+	orig: 50, 82
+	offset: 0, 0
+	index: -1
+anna_skill_24
+	rotate: false
+	xy: 543, 265
+	size: 336, 190
+	orig: 336, 190
+	offset: 0, 0
+	index: -1
+anna_skill_51
+	rotate: false
+	xy: 353, 849
+	size: 234, 173
+	orig: 240, 173
+	offset: 6, 0
+	index: -1
+anna_bisha1_39
+	rotate: true
+	xy: 588, 848
+	size: 173, 203
+	orig: 173, 203
+	offset: 0, 0
+	index: -1
+anna_sk2_tf_bu_d
+	rotate: false
+	xy: 880, 398
+	size: 141, 79
+	orig: 141, 81
+	offset: 0, 1
+	index: -1
+anna_bisha1_187
+	rotate: true
+	xy: 501, 120
+	size: 52, 30
+	orig: 52, 30
+	offset: 0, 0
+	index: -1
+
+asset/spine/liannaLA_role3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anna_bisha1_184
+	rotate: false
+	xy: 923, 93
+	size: 50, 31
+	orig: 50, 31
+	offset: 0, 0
+	index: -1
+anna_idrun_16
+	rotate: true
+	xy: 800, 959
+	size: 55, 48
+	orig: 55, 48
+	offset: 0, 0
+	index: -1
+anna_idrun_14
+	rotate: true
+	xy: 70, 278
+	size: 90, 44
+	orig: 90, 44
+	offset: 0, 0
+	index: -1
+anna_idrun_13
+	rotate: false
+	xy: 329, 234
+	size: 51, 68
+	orig: 51, 68
+	offset: 0, 0
+	index: -1
+anna_idrun_10
+	rotate: false
+	xy: 974, 135
+	size: 48, 37
+	orig: 48, 37
+	offset: 0, 0
+	index: -1
+anna_idrun_11
+	rotate: true
+	xy: 906, 853
+	size: 54, 51
+	orig: 54, 51
+	offset: 0, 0
+	index: -1
+anna_idrun_18
+	rotate: true
+	xy: 2, 716
+	size: 82, 80
+	orig: 82, 80
+	offset: 0, 0
+	index: -1
+anna_atk_65
+	rotate: false
+	xy: 681, 63
+	size: 41, 58
+	orig: 41, 58
+	offset: 0, 0
+	index: -1
+anna_atk_67
+	rotate: false
+	xy: 755, 753
+	size: 51, 55
+	orig: 51, 55
+	offset: 0, 0
+	index: -1
+anna_atk_66
+	rotate: true
+	xy: 862, 519
+	size: 55, 48
+	orig: 55, 48
+	offset: 0, 0
+	index: -1
+anna_atk_69
+	rotate: true
+	xy: 914, 574
+	size: 51, 32
+	orig: 51, 32
+	offset: 0, 0
+	index: -1
+anna_atk_68
+	rotate: true
+	xy: 586, 519
+	size: 63, 30
+	orig: 63, 30
+	offset: 0, 0
+	index: -1
+anna_skill_46
+	rotate: false
+	xy: 381, 215
+	size: 44, 64
+	orig: 44, 64
+	offset: 0, 0
+	index: -1
+anna_skill_47
+	rotate: false
+	xy: 922, 424
+	size: 51, 44
+	orig: 51, 44
+	offset: 0, 0
+	index: -1
+anna_skill_45
+	rotate: true
+	xy: 632, 629
+	size: 66, 37
+	orig: 66, 37
+	offset: 0, 0
+	index: -1
+anna_skill_43
+	rotate: true
+	xy: 883, 195
+	size: 42, 39
+	orig: 42, 39
+	offset: 0, 0
+	index: -1
+anna_skill_41
+	rotate: true
+	xy: 974, 747
+	size: 40, 46
+	orig: 42, 46
+	offset: 1, 0
+	index: -1
+anna_atk_88
+	rotate: false
+	xy: 2, 370
+	size: 70, 90
+	orig: 70, 90
+	offset: 0, 0
+	index: -1
+anna_atk_81
+	rotate: false
+	xy: 257, 860
+	size: 37, 76
+	orig: 37, 76
+	offset: 0, 0
+	index: -1
+anna_atk_87
+	rotate: true
+	xy: 571, 2
+	size: 61, 51
+	orig: 63, 51
+	offset: 1, 0
+	index: -1
+anna_atk_84
+	rotate: false
+	xy: 923, 153
+	size: 49, 49
+	orig: 49, 49
+	offset: 0, 0
+	index: -1
+anna_shengl_12
+	rotate: true
+	xy: 262, 2
+	size: 76, 73
+	orig: 80, 73
+	offset: 1, 0
+	index: -1
+anna_shengl_16
+	rotate: true
+	xy: 923, 125
+	size: 27, 50
+	orig: 27, 50
+	offset: 0, 0
+	index: -1
+anna_shengl_14
+	rotate: false
+	xy: 791, 629
+	size: 50, 55
+	orig: 50, 55
+	offset: 0, 0
+	index: -1
+anna_shengl_15
+	rotate: false
+	xy: 327, 703
+	size: 37, 73
+	orig: 37, 73
+	offset: 0, 0
+	index: -1
+anna_bisha1_155
+	rotate: false
+	xy: 172, 2
+	size: 44, 85
+	orig: 44, 85
+	offset: 0, 0
+	index: -1
+anna_bisha1_152
+	rotate: false
+	xy: 192, 629
+	size: 49, 76
+	orig: 49, 76
+	offset: 0, 0
+	index: -1
+anna_bsd_70
+	rotate: false
+	xy: 427, 415
+	size: 55, 67
+	orig: 55, 67
+	offset: 0, 0
+	index: -1
+anna_bisha2_31
+	rotate: false
+	xy: 817, 685
+	size: 47, 55
+	orig: 47, 55
+	offset: 0, 0
+	index: -1
+anna_sk2_tou_bu_c
+	rotate: true
+	xy: 189, 955
+	size: 67, 78
+	orig: 67, 78
+	offset: 0, 0
+	index: -1
+anna_bisha1_46
+	rotate: false
+	xy: 189, 261
+	size: 39, 77
+	orig: 39, 77
+	offset: 0, 0
+	index: -1
+anna_bisha1_47
+	rotate: true
+	xy: 837, 51
+	size: 47, 45
+	orig: 47, 45
+	offset: 0, 0
+	index: -1
+anna_bisha1_44
+	rotate: true
+	xy: 788, 109
+	size: 43, 48
+	orig: 43, 48
+	offset: 0, 0
+	index: -1
+anna_bisha1_45
+	rotate: true
+	xy: 164, 596
+	size: 32, 75
+	orig: 32, 75
+	offset: 0, 0
+	index: -1
+anna_bisha1_48
+	rotate: false
+	xy: 229, 415
+	size: 32, 75
+	orig: 32, 75
+	offset: 0, 0
+	index: -1
+anna_bisha1_49
+	rotate: false
+	xy: 221, 172
+	size: 39, 77
+	orig: 39, 77
+	offset: 0, 0
+	index: -1
+anna_idrun_5
+	rotate: true
+	xy: 121, 629
+	size: 78, 70
+	orig: 78, 70
+	offset: 0, 0
+	index: -1
+anna_idrun_0
+	rotate: false
+	xy: 229, 491
+	size: 58, 27
+	orig: 58, 27
+	offset: 0, 0
+	index: -1
+anna_idrun_1
+	rotate: true
+	xy: 737, 179
+	size: 57, 30
+	orig: 57, 30
+	offset: 0, 0
+	index: -1
+anna_idrun_2
+	rotate: false
+	xy: 518, 129
+	size: 58, 61
+	orig: 58, 61
+	offset: 0, 0
+	index: -1
+anna_idrun_3
+	rotate: true
+	xy: 903, 685
+	size: 54, 52
+	orig: 54, 52
+	offset: 0, 0
+	index: -1
+anna_idrun_8
+	rotate: true
+	xy: 922, 469
+	size: 44, 51
+	orig: 44, 51
+	offset: 0, 0
+	index: -1
+anna_idrun_9
+	rotate: false
+	xy: 2, 547
+	size: 71, 84
+	orig: 71, 84
+	offset: 0, 0
+	index: -1
+anna_bisha1_100
+	rotate: false
+	xy: 623, 2
+	size: 56, 60
+	orig: 56, 60
+	offset: 0, 0
+	index: -1
+anna_atk_2
+	rotate: true
+	xy: 875, 797
+	size: 55, 32
+	orig: 55, 32
+	offset: 0, 0
+	index: -1
+anna_atk_3
+	rotate: true
+	xy: 475, 483
+	size: 35, 65
+	orig: 35, 65
+	offset: 0, 0
+	index: -1
+anna_atk_1
+	rotate: false
+	xy: 974, 476
+	size: 47, 32
+	orig: 47, 32
+	offset: 0, 0
+	index: -1
+anna_atk_6
+	rotate: false
+	xy: 627, 696
+	size: 48, 66
+	orig: 48, 66
+	offset: 0, 0
+	index: -1
+anna_atk_7
+	rotate: true
+	xy: 530, 65
+	size: 61, 55
+	orig: 61, 55
+	offset: 0, 0
+	index: -1
+anna_atk_4
+	rotate: false
+	xy: 186, 708
+	size: 44, 78
+	orig: 44, 78
+	offset: 0, 0
+	index: -1
+anna_atk_5
+	rotate: false
+	xy: 124, 956
+	size: 64, 66
+	orig: 64, 66
+	offset: 0, 0
+	index: -1
+anna_atk_108
+	rotate: false
+	xy: 837, 147
+	size: 45, 45
+	orig: 45, 45
+	offset: 0, 0
+	index: -1
+anna_atk_39
+	rotate: false
+	xy: 492, 982
+	size: 69, 40
+	orig: 69, 40
+	offset: 0, 0
+	index: -1
+anna_atk_32
+	rotate: false
+	xy: 121, 708
+	size: 64, 78
+	orig: 64, 78
+	offset: 0, 0
+	index: -1
+anna_atk_33
+	rotate: false
+	xy: 65, 963
+	size: 58, 59
+	orig: 58, 59
+	offset: 0, 0
+	index: -1
+anna_atk_30
+	rotate: true
+	xy: 284, 326
+	size: 71, 35
+	orig: 71, 35
+	offset: 0, 0
+	index: -1
+anna_atk_31
+	rotate: true
+	xy: 398, 921
+	size: 69, 62
+	orig: 69, 62
+	offset: 0, 0
+	index: -1
+anna_atk_34
+	rotate: true
+	xy: 2, 461
+	size: 85, 39
+	orig: 85, 39
+	offset: 0, 0
+	index: -1
+anna_atk_35
+	rotate: false
+	xy: 594, 415
+	size: 52, 62
+	orig: 52, 62
+	offset: 0, 0
+	index: -1
+anna_bisha1_190
+	rotate: false
+	xy: 824, 317
+	size: 41, 43
+	orig: 41, 43
+	offset: 0, 0
+	index: -1
+anna_bisha1_219
+	rotate: false
+	xy: 723, 61
+	size: 37, 58
+	orig: 37, 58
+	offset: 0, 0
+	index: -1
+anna_bisha1_195
+	rotate: false
+	xy: 922, 947
+	size: 35, 37
+	orig: 35, 37
+	offset: 0, 0
+	index: -1
+anna_bisha1_194
+	rotate: false
+	xy: 375, 519
+	size: 44, 69
+	orig: 44, 69
+	offset: 0, 0
+	index: -1
+anna_bisha1_197
+	rotate: true
+	xy: 703, 519
+	size: 58, 55
+	orig: 58, 55
+	offset: 0, 0
+	index: -1
+anna_bisha1_196
+	rotate: true
+	xy: 974, 247
+	size: 34, 48
+	orig: 34, 48
+	offset: 0, 0
+	index: -1
+anna_bisha1_198
+	rotate: false
+	xy: 761, 415
+	size: 39, 57
+	orig: 43, 57
+	offset: 3, 0
+	index: -1
+anna_bisha1_216
+	rotate: false
+	xy: 399, 2
+	size: 58, 70
+	orig: 58, 70
+	offset: 0, 0
+	index: -1
+anna_bisha1_217
+	rotate: false
+	xy: 779, 473
+	size: 52, 45
+	orig: 54, 45
+	offset: 0, 0
+	index: -1
+anna_bisha1_214
+	rotate: false
+	xy: 117, 91
+	size: 72, 85
+	orig: 72, 85
+	offset: 0, 0
+	index: -1
+anna_bisha1_99
+	rotate: false
+	xy: 2, 963
+	size: 62, 59
+	orig: 62, 59
+	offset: 0, 0
+	index: -1
+anna_bisha1_86
+	rotate: false
+	xy: 186, 436
+	size: 42, 76
+	orig: 42, 76
+	offset: 0, 0
+	index: -1
+anna_bisha1_87
+	rotate: false
+	xy: 956, 825
+	size: 37, 27
+	orig: 37, 27
+	offset: 0, 0
+	index: -1
+anna_bisha1_83
+	rotate: false
+	xy: 849, 958
+	size: 34, 55
+	orig: 34, 55
+	offset: 0, 0
+	index: -1
+anna_bisha1_81
+	rotate: false
+	xy: 462, 138
+	size: 55, 62
+	orig: 55, 62
+	offset: 0, 0
+	index: -1
+anna_bsd_28
+	rotate: true
+	xy: 385, 629
+	size: 71, 37
+	orig: 71, 37
+	offset: 0, 0
+	index: -1
+anna_bsd_29
+	rotate: false
+	xy: 597, 372
+	size: 42, 42
+	orig: 42, 42
+	offset: 0, 0
+	index: -1
+anna_bsd_22
+	rotate: false
+	xy: 922, 985
+	size: 52, 37
+	orig: 52, 37
+	offset: 0, 0
+	index: -1
+anna_bsd_23
+	rotate: true
+	xy: 816, 280
+	size: 36, 49
+	orig: 36, 49
+	offset: 0, 0
+	index: -1
+anna_bsd_20
+	rotate: true
+	xy: 855, 361
+	size: 47, 27
+	orig: 47, 27
+	offset: 0, 0
+	index: -1
+anna_bsd_21
+	rotate: false
+	xy: 458, 2
+	size: 58, 63
+	orig: 58, 63
+	offset: 0, 0
+	index: -1
+anna_bisha1_192
+	rotate: false
+	xy: 457, 699
+	size: 43, 69
+	orig: 43, 69
+	offset: 0, 0
+	index: -1
+anna_bisha1_18
+	rotate: true
+	xy: 974, 609
+	size: 40, 46
+	orig: 40, 46
+	offset: 0, 0
+	index: -1
+anna_bisha1_17
+	rotate: false
+	xy: 666, 474
+	size: 56, 44
+	orig: 56, 44
+	offset: 0, 0
+	index: -1
+anna_bisha1_16
+	rotate: true
+	xy: 651, 250
+	size: 59, 49
+	orig: 59, 49
+	offset: 0, 0
+	index: -1
+anna_bisha1_11
+	rotate: true
+	xy: 883, 401
+	size: 54, 38
+	orig: 54, 38
+	offset: 0, 0
+	index: -1
+anna_bisha1_10
+	rotate: false
+	xy: 460, 842
+	size: 48, 69
+	orig: 48, 69
+	offset: 0, 0
+	index: -1
+anna_bisha1_13
+	rotate: true
+	xy: 513, 587
+	size: 41, 62
+	orig: 41, 62
+	offset: 0, 0
+	index: -1
+anna_bisha1_12
+	rotate: true
+	xy: 2, 94
+	size: 91, 78
+	orig: 91, 78
+	offset: 0, 0
+	index: -1
+anna_idrun_23
+	rotate: false
+	xy: 370, 997
+	size: 62, 24
+	orig: 62, 24
+	offset: 0, 0
+	index: -1
+anna_idrun_21
+	rotate: false
+	xy: 871, 858
+	size: 34, 55
+	orig: 34, 55
+	offset: 0, 0
+	index: -1
+anna_idrun_20
+	rotate: true
+	xy: 761, 61
+	size: 57, 26
+	orig: 57, 26
+	offset: 0, 0
+	index: -1
+anna_idrun_27
+	rotate: false
+	xy: 474, 66
+	size: 55, 62
+	orig: 55, 62
+	offset: 0, 0
+	index: -1
+anna_idrun_25
+	rotate: false
+	xy: 363, 850
+	size: 44, 70
+	orig: 44, 70
+	offset: 0, 0
+	index: -1
+anna_idrun_24
+	rotate: false
+	xy: 865, 685
+	size: 37, 55
+	orig: 37, 55
+	offset: 0, 0
+	index: -1
+anna_idrun_29
+	rotate: false
+	xy: 115, 273
+	size: 73, 83
+	orig: 73, 83
+	offset: 0, 0
+	index: -1
+anna_idrun_28
+	rotate: false
+	xy: 708, 629
+	size: 30, 62
+	orig: 30, 62
+	offset: 0, 0
+	index: -1
+anna_shengl_8
+	rotate: false
+	xy: 883, 2
+	size: 39, 52
+	orig: 39, 52
+	offset: 0, 0
+	index: -1
+anna_shengl_9
+	rotate: false
+	xy: 923, 2
+	size: 50, 48
+	orig: 50, 48
+	offset: 0, 0
+	index: -1
+anna_bisha1_221
+	rotate: true
+	xy: 240, 594
+	size: 34, 73
+	orig: 34, 73
+	offset: 0, 0
+	index: -1
+anna_bisha1_220
+	rotate: false
+	xy: 397, 776
+	size: 39, 70
+	orig: 39, 70
+	offset: 0, 0
+	index: -1
+anna_bisha1_224
+	rotate: true
+	xy: 154, 876
+	size: 78, 71
+	orig: 78, 71
+	offset: 0, 0
+	index: -1
+anna_shengl_1
+	rotate: true
+	xy: 779, 317
+	size: 43, 44
+	orig: 43, 44
+	offset: 0, 0
+	index: -1
+anna_shengl_2
+	rotate: true
+	xy: 807, 746
+	size: 55, 48
+	orig: 55, 48
+	offset: 0, 0
+	index: -1
+anna_shengl_5
+	rotate: false
+	xy: 754, 361
+	size: 55, 53
+	orig: 55, 53
+	offset: 0, 0
+	index: -1
+anna_shengl_6
+	rotate: false
+	xy: 974, 96
+	size: 48, 38
+	orig: 48, 38
+	offset: 0, 0
+	index: -1
+anna_atk_76
+	rotate: true
+	xy: 701, 755
+	size: 60, 53
+	orig: 60, 53
+	offset: 0, 0
+	index: -1
+anna_atk_74
+	rotate: true
+	xy: 622, 250
+	size: 60, 28
+	orig: 60, 28
+	offset: 0, 0
+	index: -1
+anna_atk_72
+	rotate: false
+	xy: 375, 372
+	size: 64, 42
+	orig: 64, 42
+	offset: 0, 0
+	index: -1
+anna_atk_71
+	rotate: true
+	xy: 956, 685
+	size: 54, 37
+	orig: 54, 37
+	offset: 0, 0
+	index: -1
+anna_atk_78
+	rotate: false
+	xy: 768, 194
+	size: 41, 54
+	orig: 41, 54
+	offset: 0, 0
+	index: -1
+anna_atk_79
+	rotate: false
+	xy: 2, 632
+	size: 42, 83
+	orig: 44, 83
+	offset: 0, 0
+	index: -1
+anna_atk_98
+	rotate: true
+	xy: 642, 763
+	size: 65, 58
+	orig: 65, 58
+	offset: 0, 0
+	index: -1
+anna_atk_91
+	rotate: false
+	xy: 608, 125
+	size: 39, 60
+	orig: 39, 60
+	offset: 0, 0
+	index: -1
+anna_bisha1_148
+	rotate: false
+	xy: 978, 650
+	size: 44, 34
+	orig: 44, 34
+	offset: 0, 0
+	index: -1
+anna_bisha1_149
+	rotate: true
+	xy: 306, 926
+	size: 70, 45
+	orig: 70, 45
+	offset: 0, 0
+	index: -1
+anna_bisha1_140
+	rotate: false
+	xy: 304, 163
+	size: 70, 70
+	orig: 70, 70
+	offset: 0, 0
+	index: -1
+anna_bisha1_141
+	rotate: false
+	xy: 790, 2
+	size: 46, 52
+	orig: 46, 52
+	offset: 0, 0
+	index: -1
+anna_bisha1_146
+	rotate: false
+	xy: 883, 322
+	size: 39, 40
+	orig: 39, 40
+	offset: 0, 0
+	index: -1
+anna_bisha1_147
+	rotate: false
+	xy: 837, 415
+	size: 45, 37
+	orig: 45, 37
+	offset: 0, 0
+	index: -1
+anna_bisha1_144
+	rotate: false
+	xy: 975, 985
+	size: 44, 37
+	orig: 44, 37
+	offset: 0, 0
+	index: -1
+anna_bisha1_145
+	rotate: false
+	xy: 958, 953
+	size: 51, 31
+	orig: 51, 31
+	offset: 0, 0
+	index: -1
+anna_bsd_67
+	rotate: false
+	xy: 705, 415
+	size: 55, 58
+	orig: 55, 58
+	offset: 0, 0
+	index: -1
+anna_bsd_65
+	rotate: false
+	xy: 686, 895
+	size: 56, 64
+	orig: 56, 64
+	offset: 0, 0
+	index: -1
+anna_bsd_62
+	rotate: false
+	xy: 883, 363
+	size: 39, 37
+	orig: 39, 37
+	offset: 0, 0
+	index: -1
+anna_bsd_68
+	rotate: false
+	xy: 923, 514
+	size: 46, 31
+	orig: 46, 31
+	offset: 0, 0
+	index: -1
+anna_bsd_69
+	rotate: false
+	xy: 825, 929
+	size: 47, 28
+	orig: 47, 28
+	offset: 0, 0
+	index: -1
+anna_bisha2_23
+	rotate: true
+	xy: 974, 173
+	size: 37, 48
+	orig: 37, 58
+	offset: 0, 0
+	index: -1
+anna_bisha2_22
+	rotate: true
+	xy: 617, 519
+	size: 62, 47
+	orig: 62, 47
+	offset: 0, 0
+	index: -1
+anna_bisha2_24
+	rotate: false
+	xy: 288, 490
+	size: 65, 28
+	orig: 67, 28
+	offset: 0, 0
+	index: -1
+anna_bisha2_27
+	rotate: true
+	xy: 694, 582
+	size: 46, 55
+	orig: 46, 55
+	offset: 0, 0
+	index: -1
+anna_bisha2_28
+	rotate: false
+	xy: 974, 562
+	size: 46, 46
+	orig: 46, 48
+	offset: 0, 2
+	index: -1
+anna_bisha1_50
+	rotate: true
+	xy: 837, 99
+	size: 47, 45
+	orig: 47, 45
+	offset: 0, 0
+	index: -1
+anna_bisha1_55
+	rotate: true
+	xy: 314, 594
+	size: 34, 71
+	orig: 34, 71
+	offset: 0, 0
+	index: -1
+anna_bisha1_56
+	rotate: true
+	xy: 778, 873
+	size: 55, 48
+	orig: 55, 48
+	offset: 0, 0
+	index: -1
+anna_bsd_13
+	rotate: false
+	xy: 509, 629
+	size: 63, 66
+	orig: 63, 66
+	offset: 0, 0
+	index: -1
+anna_bsd_12
+	rotate: true
+	xy: 2, 799
+	size: 82, 34
+	orig: 82, 34
+	offset: 0, 0
+	index: -1
+anna_bsd_14
+	rotate: false
+	xy: 440, 372
+	size: 56, 42
+	orig: 56, 42
+	offset: 0, 0
+	index: -1
+anna_idrun_34
+	rotate: true
+	xy: 974, 401
+	size: 37, 47
+	orig: 37, 47
+	offset: 0, 0
+	index: -1
+anna_idrun_36
+	rotate: false
+	xy: 369, 303
+	size: 45, 68
+	orig: 45, 68
+	offset: 0, 0
+	index: -1
+anna_skill_36
+	rotate: false
+	xy: 576, 253
+	size: 45, 60
+	orig: 45, 60
+	offset: 0, 0
+	index: -1
+anna_skill_35
+	rotate: false
+	xy: 676, 692
+	size: 36, 62
+	orig: 42, 62
+	offset: 5, 0
+	index: -1
+anna_skill_34
+	rotate: false
+	xy: 958, 853
+	size: 35, 53
+	orig: 37, 53
+	offset: 1, 0
+	index: -1
+anna_bisha1_24
+	rotate: true
+	xy: 739, 629
+	size: 60, 51
+	orig: 60, 51
+	offset: 0, 0
+	index: -1
+anna_skill_39
+	rotate: true
+	xy: 74, 546
+	size: 82, 58
+	orig: 82, 58
+	offset: 0, 0
+	index: -1
+anna_bisha1_172
+	rotate: true
+	xy: 420, 519
+	size: 67, 51
+	orig: 67, 51
+	offset: 0, 0
+	index: -1
+anna_bisha1_171
+	rotate: true
+	xy: 645, 63
+	size: 60, 35
+	orig: 60, 35
+	offset: 0, 0
+	index: -1
+anna_bisha1_177
+	rotate: false
+	xy: 107, 796
+	size: 76, 79
+	orig: 76, 81
+	offset: 0, 0
+	index: -1
+anna_bisha1_175
+	rotate: true
+	xy: 591, 763
+	size: 66, 50
+	orig: 66, 50
+	offset: 0, 0
+	index: -1
+anna_bisha1_179
+	rotate: true
+	xy: 597, 898
+	size: 66, 36
+	orig: 66, 36
+	offset: 0, 0
+	index: -1
+anna_bisha1_178
+	rotate: true
+	xy: 333, 415
+	size: 69, 48
+	orig: 69, 48
+	offset: 0, 0
+	index: -1
+anna_atk_49
+	rotate: false
+	xy: 923, 303
+	size: 49, 47
+	orig: 49, 47
+	offset: 0, 0
+	index: -1
+anna_atk_47
+	rotate: false
+	xy: 574, 327
+	size: 62, 44
+	orig: 62, 44
+	offset: 0, 0
+	index: -1
+anna_atk_45
+	rotate: true
+	xy: 743, 930
+	size: 29, 33
+	orig: 29, 33
+	offset: 0, 0
+	index: -1
+anna_bisha1_185
+	rotate: true
+	xy: 731, 303
+	size: 57, 47
+	orig: 57, 47
+	offset: 0, 0
+	index: -1
+anna_atk_43
+	rotate: false
+	xy: 994, 854
+	size: 27, 35
+	orig: 27, 35
+	offset: 0, 0
+	index: -1
+anna_bisha1_183
+	rotate: false
+	xy: 474, 266
+	size: 53, 62
+	orig: 53, 62
+	offset: 0, 0
+	index: -1
+anna_atk_40
+	rotate: true
+	xy: 497, 372
+	size: 42, 54
+	orig: 42, 54
+	offset: 0, 0
+	index: -1
+anna_bisha2_9
+	rotate: false
+	xy: 923, 650
+	size: 54, 34
+	orig: 54, 34
+	offset: 0, 0
+	index: -1
+anna_bisha2_1
+	rotate: true
+	xy: 577, 127
+	size: 61, 30
+	orig: 61, 30
+	offset: 0, 0
+	index: -1
+anna_bisha2_7
+	rotate: true
+	xy: 808, 578
+	size: 50, 54
+	orig: 50, 54
+	offset: 0, 0
+	index: -1
+anna_bisha1_158
+	rotate: true
+	xy: 759, 519
+	size: 58, 53
+	orig: 58, 53
+	offset: 0, 0
+	index: -1
+anna_bisha1_94
+	rotate: false
+	xy: 994, 890
+	size: 27, 35
+	orig: 27, 35
+	offset: 0, 0
+	index: -1
+anna_bisha1_96
+	rotate: false
+	xy: 638, 582
+	size: 55, 46
+	orig: 55, 46
+	offset: 0, 0
+	index: -1
+anna_atk_109
+	rotate: true
+	xy: 788, 153
+	size: 40, 48
+	orig: 40, 48
+	offset: 0, 0
+	index: -1
+anna_bisha1_90
+	rotate: false
+	xy: 294, 239
+	size: 34, 71
+	orig: 34, 71
+	offset: 0, 0
+	index: -1
+anna_bisha1_92
+	rotate: true
+	xy: 437, 772
+	size: 69, 49
+	orig: 69, 49
+	offset: 0, 0
+	index: -1
+anna_atk_107
+	rotate: true
+	xy: 926, 740
+	size: 54, 47
+	orig: 54, 47
+	offset: 0, 0
+	index: -1
+anna_atk_100
+	rotate: true
+	xy: 415, 280
+	size: 63, 58
+	orig: 63, 58
+	offset: 0, 0
+	index: -1
+anna_bsd_54
+	rotate: true
+	xy: 382, 415
+	size: 68, 44
+	orig: 68, 44
+	offset: 0, 0
+	index: -1
+anna_bsd_53
+	rotate: false
+	xy: 606, 830
+	size: 60, 65
+	orig: 60, 65
+	offset: 0, 0
+	index: -1
+anna_bsd_52
+	rotate: false
+	xy: 83, 2
+	size: 88, 88
+	orig: 88, 88
+	offset: 0, 0
+	index: -1
+anna_shengl_19
+	rotate: true
+	xy: 631, 965
+	size: 57, 60
+	orig: 57, 60
+	offset: 0, 0
+	index: -1
+anna_bisha1_29
+	rotate: false
+	xy: 873, 914
+	size: 48, 43
+	orig: 48, 43
+	offset: 0, 0
+	index: -1
+anna_idrun_38
+	rotate: true
+	xy: 408, 847
+	size: 69, 51
+	orig: 69, 51
+	offset: 0, 0
+	index: -1
+anna_idrun_39
+	rotate: true
+	xy: 408, 484
+	size: 34, 66
+	orig: 34, 66
+	offset: 0, 0
+	index: -1
+anna_bisha1_20
+	rotate: true
+	xy: 234, 519
+	size: 74, 70
+	orig: 74, 70
+	offset: 0, 0
+	index: -1
+anna_bisha1_21
+	rotate: true
+	xy: 352, 926
+	size: 70, 45
+	orig: 70, 45
+	offset: 0, 0
+	index: -1
+anna_idrun_32
+	rotate: true
+	xy: 837, 193
+	size: 41, 45
+	orig: 41, 45
+	offset: 0, 0
+	index: -1
+anna_idrun_33
+	rotate: false
+	xy: 528, 264
+	size: 47, 62
+	orig: 47, 62
+	offset: 0, 0
+	index: -1
+anna_bisha1_209
+	rotate: false
+	xy: 242, 629
+	size: 45, 74
+	orig: 45, 74
+	offset: 0, 0
+	index: -1
+anna_atk_29
+	rotate: false
+	xy: 150, 357
+	size: 34, 82
+	orig: 34, 82
+	offset: 0, 0
+	index: -1
+anna_bisha1_200
+	rotate: true
+	xy: 566, 696
+	size: 66, 60
+	orig: 66, 60
+	offset: 0, 0
+	index: -1
+anna_bisha1_128
+	rotate: true
+	xy: 713, 692
+	size: 60, 51
+	orig: 60, 51
+	offset: 0, 0
+	index: -1
+anna_bisha1_129
+	rotate: false
+	xy: 213, 339
+	size: 70, 75
+	orig: 70, 75
+	offset: 0, 0
+	index: -1
+anna_bisha1_127
+	rotate: false
+	xy: 288, 629
+	size: 58, 73
+	orig: 58, 73
+	offset: 0, 0
+	index: -1
+anna_bisha1_120
+	rotate: true
+	xy: 320, 311
+	size: 69, 48
+	orig: 69, 48
+	offset: 0, 0
+	index: -1
+anna_shengl_34
+	rotate: false
+	xy: 335, 79
+	size: 65, 70
+	orig: 65, 70
+	offset: 0, 0
+	index: -1
+anna_shengl_35
+	rotate: true
+	xy: 974, 788
+	size: 36, 46
+	orig: 36, 46
+	offset: 0, 0
+	index: -1
+anna_shengl_30
+	rotate: false
+	xy: 111, 184
+	size: 39, 88
+	orig: 39, 88
+	offset: 0, 0
+	index: -1
+anna_shengl_31
+	rotate: true
+	xy: 472, 519
+	size: 67, 50
+	orig: 67, 50
+	offset: 0, 0
+	index: -1
+anna_shengl_32
+	rotate: false
+	xy: 765, 690
+	size: 51, 55
+	orig: 51, 55
+	offset: 0, 0
+	index: -1
+anna_shengl_33
+	rotate: true
+	xy: 415, 344
+	size: 27, 57
+	orig: 27, 57
+	offset: 0, 0
+	index: -1
+anna_atk_10
+	rotate: false
+	xy: 958, 907
+	size: 35, 45
+	orig: 37, 45
+	offset: 0, 0
+	index: -1
+anna_atk_17
+	rotate: false
+	xy: 692, 960
+	size: 58, 62
+	orig: 58, 62
+	offset: 0, 0
+	index: -1
+anna_atk_18
+	rotate: false
+	xy: 640, 371
+	size: 55, 43
+	orig: 55, 43
+	offset: 0, 0
+	index: -1
+anna_atk_19
+	rotate: false
+	xy: 883, 149
+	size: 39, 45
+	orig: 39, 45
+	offset: 0, 0
+	index: -1
+anna_skill_1
+	rotate: false
+	xy: 923, 253
+	size: 49, 49
+	orig: 49, 49
+	offset: 0, 0
+	index: -1
+anna_bisha2_18
+	rotate: false
+	xy: 2, 2
+	size: 80, 91
+	orig: 80, 91
+	offset: 0, 0
+	index: -1
+anna_bisha2_19
+	rotate: false
+	xy: 483, 201
+	size: 50, 62
+	orig: 50, 62
+	offset: 0, 0
+	index: -1
+anna_skill_7
+	rotate: false
+	xy: 530, 764
+	size: 60, 66
+	orig: 62, 66
+	offset: 1, 0
+	index: -1
+anna_bisha2_14
+	rotate: false
+	xy: 260, 86
+	size: 74, 76
+	orig: 74, 76
+	offset: 0, 0
+	index: -1
+anna_bisha2_16
+	rotate: true
+	xy: 576, 586
+	size: 42, 61
+	orig: 42, 61
+	offset: 0, 0
+	index: -1
+anna_bisha2_11
+	rotate: false
+	xy: 510, 909
+	size: 34, 69
+	orig: 34, 69
+	offset: 0, 0
+	index: -1
+anna_bisha2_13
+	rotate: true
+	xy: 305, 519
+	size: 74, 69
+	orig: 74, 69
+	offset: 0, 0
+	index: -1
+anna_bisha1_9
+	rotate: true
+	xy: 974, 282
+	size: 34, 48
+	orig: 34, 48
+	offset: 0, 0
+	index: -1
+anna_sk2_tou_bu_d
+	rotate: true
+	xy: 2, 882
+	size: 80, 78
+	orig: 80, 78
+	offset: 0, 0
+	index: -1
+anna_bisha1_69
+	rotate: false
+	xy: 2, 186
+	size: 70, 91
+	orig: 70, 91
+	offset: 0, 0
+	index: -1
+anna_bisha1_64
+	rotate: true
+	xy: 320, 381
+	size: 33, 54
+	orig: 33, 54
+	offset: 0, 0
+	index: -1
+anna_bisha1_66
+	rotate: false
+	xy: 468, 629
+	size: 40, 67
+	orig: 40, 67
+	offset: 0, 0
+	index: -1
+anna_bisha1_67
+	rotate: false
+	xy: 501, 697
+	size: 64, 66
+	orig: 64, 66
+	offset: 0, 0
+	index: -1
+anna_bisha1_61
+	rotate: true
+	xy: 923, 351
+	size: 41, 49
+	orig: 41, 49
+	offset: 0, 0
+	index: -1
+anna_bsd_1
+	rotate: true
+	xy: 884, 958
+	size: 54, 37
+	orig: 54, 37
+	offset: 0, 0
+	index: -1
+anna_bsd_0
+	rotate: false
+	xy: 974, 54
+	size: 48, 41
+	orig: 48, 41
+	offset: 0, 0
+	index: -1
+anna_bsd_6
+	rotate: true
+	xy: 73, 369
+	size: 83, 76
+	orig: 83, 76
+	offset: 0, 0
+	index: -1
+anna_bsd_4
+	rotate: true
+	xy: 164, 519
+	size: 76, 69
+	orig: 76, 69
+	offset: 0, 0
+	index: -1
+anna_bsd_9
+	rotate: true
+	xy: 753, 2
+	size: 58, 36
+	orig: 58, 36
+	offset: 0, 0
+	index: -1
+anna_bsd_8
+	rotate: true
+	xy: 231, 706
+	size: 76, 49
+	orig: 76, 49
+	offset: 0, 0
+	index: -1
+anna_skill_20
+	rotate: true
+	xy: 83, 715
+	size: 80, 37
+	orig: 80, 37
+	offset: 0, 0
+	index: -1
+anna_skill_21
+	rotate: false
+	xy: 908, 797
+	size: 47, 54
+	orig: 49, 54
+	offset: 0, 0
+	index: -1
+anna_skill_22
+	rotate: true
+	xy: 401, 73
+	size: 64, 48
+	orig: 64, 50
+	offset: 0, 1
+	index: -1
+anna_skill_25
+	rotate: false
+	xy: 37, 799
+	size: 69, 80
+	orig: 69, 80
+	offset: 0, 0
+	index: -1
+anna_bisha1_163
+	rotate: false
+	xy: 2, 278
+	size: 67, 91
+	orig: 67, 91
+	offset: 0, 0
+	index: -1
+anna_bisha1_166
+	rotate: true
+	xy: 679, 124
+	size: 58, 48
+	orig: 58, 48
+	offset: 0, 0
+	index: -1
+anna_bisha1_167
+	rotate: false
+	xy: 923, 393
+	size: 49, 30
+	orig: 49, 30
+	offset: 0, 0
+	index: -1
+anna_bisha1_168
+	rotate: true
+	xy: 810, 361
+	size: 53, 44
+	orig: 53, 50
+	offset: 0, 5
+	index: -1
+anna_bisha1_169
+	rotate: false
+	xy: 816, 235
+	size: 54, 44
+	orig: 54, 50
+	offset: 0, 5
+	index: -1
+anna_bisha1_157
+	rotate: false
+	xy: 750, 578
+	size: 57, 50
+	orig: 57, 50
+	offset: 0, 0
+	index: -1
+anna_skill_38
+	rotate: false
+	xy: 788, 61
+	size: 48, 47
+	orig: 48, 47
+	offset: 0, 0
+	index: -1
+anna_atk_54
+	rotate: true
+	xy: 336, 2
+	size: 70, 62
+	orig: 70, 62
+	offset: 0, 0
+	index: -1
+anna_atk_55
+	rotate: true
+	xy: 262, 415
+	size: 74, 70
+	orig: 74, 70
+	offset: 0, 0
+	index: -1
+anna_atk_57
+	rotate: false
+	xy: 523, 519
+	size: 62, 66
+	orig: 62, 66
+	offset: 0, 0
+	index: -1
+anna_atk_50
+	rotate: false
+	xy: 365, 703
+	size: 51, 72
+	orig: 51, 72
+	offset: 0, 0
+	index: -1
+anna_atk_51
+	rotate: false
+	xy: 226, 866
+	size: 30, 78
+	orig: 30, 78
+	offset: 0, 0
+	index: -1
+anna_atk_52
+	rotate: false
+	xy: 911, 546
+	size: 35, 27
+	orig: 35, 27
+	offset: 0, 0
+	index: -1
+anna_skill_50
+	rotate: true
+	xy: 973, 359
+	size: 41, 49
+	orig: 41, 49
+	offset: 0, 0
+	index: -1
+anna_bsd_48
+	rotate: false
+	xy: 974, 2
+	size: 48, 51
+	orig: 48, 51
+	offset: 0, 0
+	index: -1
+anna_bsd_44
+	rotate: false
+	xy: 461, 912
+	size: 48, 69
+	orig: 48, 69
+	offset: 0, 0
+	index: -1
+anna_bsd_45
+	rotate: false
+	xy: 883, 238
+	size: 39, 41
+	orig: 39, 41
+	offset: 0, 0
+	index: -1
+anna_bsd_46
+	rotate: true
+	xy: 473, 344
+	size: 27, 53
+	orig: 27, 53
+	offset: 0, 0
+	index: -1
+anna_bsd_47
+	rotate: true
+	xy: 534, 191
+	size: 61, 37
+	orig: 61, 37
+	offset: 0, 0
+	index: -1
+anna_bisha1_36
+	rotate: true
+	xy: 647, 415
+	size: 58, 57
+	orig: 58, 57
+	offset: 0, 0
+	index: -1
+anna_bisha1_35
+	rotate: true
+	xy: 883, 55
+	size: 46, 39
+	orig: 48, 39
+	offset: 2, 0
+	index: -1
+anna_bisha1_34
+	rotate: false
+	xy: 743, 873
+	size: 34, 56
+	orig: 34, 56
+	offset: 0, 0
+	index: -1
+anna_bisha1_33
+	rotate: true
+	xy: 417, 701
+	size: 70, 39
+	orig: 70, 39
+	offset: 0, 0
+	index: -1
+anna_bisha1_32
+	rotate: false
+	xy: 354, 485
+	size: 53, 33
+	orig: 53, 33
+	offset: 0, 0
+	index: -1
+anna_idrun_41
+	rotate: false
+	xy: 573, 629
+	size: 58, 66
+	orig: 58, 66
+	offset: 0, 0
+	index: -1
+anna_idrun_40
+	rotate: true
+	xy: 786, 809
+	size: 55, 48
+	orig: 55, 48
+	offset: 0, 0
+	index: -1
+anna_idrun_42
+	rotate: true
+	xy: 863, 575
+	size: 53, 50
+	orig: 53, 50
+	offset: 0, 0
+	index: -1
+anna_bisha1_223
+	rotate: false
+	xy: 295, 853
+	size: 67, 72
+	orig: 67, 72
+	offset: 0, 0
+	index: -1
+anna_bisha1_222
+	rotate: true
+	xy: 751, 960
+	size: 55, 48
+	orig: 55, 48
+	offset: 0, 0
+	index: -1
+anna_skill_18
+	rotate: false
+	xy: 423, 629
+	size: 44, 69
+	orig: 44, 69
+	offset: 0, 0
+	index: -1
+anna_skill_11
+	rotate: false
+	xy: 42, 461
+	size: 67, 84
+	orig: 69, 84
+	offset: 1, 0
+	index: -1
+anna_skill_10
+	rotate: false
+	xy: 336, 777
+	size: 60, 72
+	orig: 60, 72
+	offset: 0, 0
+	index: -1
+anna_skill_14
+	rotate: false
+	xy: 652, 185
+	size: 51, 58
+	orig: 51, 58
+	offset: 0, 0
+	index: -1
+anna_skill_16
+	rotate: false
+	xy: 426, 203
+	size: 56, 62
+	orig: 56, 62
+	offset: 0, 0
+	index: -1
+anna_bisha1_119
+	rotate: true
+	xy: 552, 372
+	size: 42, 44
+	orig: 42, 44
+	offset: 0, 0
+	index: -1
+anna_bisha1_118
+	rotate: false
+	xy: 723, 474
+	size: 55, 44
+	orig: 55, 44
+	offset: 0, 0
+	index: -1
+anna_shengl_3
+	rotate: true
+	xy: 547, 831
+	size: 66, 58
+	orig: 66, 58
+	offset: 0, 0
+	index: -1
+anna_bisha1_111
+	rotate: true
+	xy: 837, 2
+	size: 48, 45
+	orig: 48, 45
+	offset: 0, 0
+	index: -1
+anna_bisha1_110
+	rotate: false
+	xy: 768, 249
+	size: 47, 53
+	orig: 47, 53
+	offset: 0, 0
+	index: -1
+anna_bisha1_113
+	rotate: false
+	xy: 545, 909
+	size: 51, 68
+	orig: 51, 68
+	offset: 0, 0
+	index: -1
+anna_bisha1_112
+	rotate: false
+	xy: 777, 930
+	size: 47, 28
+	orig: 47, 28
+	offset: 0, 0
+	index: -1
+anna_bisha1_115
+	rotate: true
+	xy: 667, 829
+	size: 65, 48
+	orig: 65, 48
+	offset: 0, 0
+	index: -1
+anna_bisha1_117
+	rotate: true
+	xy: 973, 317
+	size: 41, 49
+	orig: 41, 49
+	offset: 0, 0
+	index: -1
+anna_bisha1_116
+	rotate: false
+	xy: 586, 64
+	size: 58, 60
+	orig: 58, 60
+	offset: 0, 0
+	index: -1
+anna_shengl_29
+	rotate: false
+	xy: 81, 880
+	size: 41, 80
+	orig: 41, 80
+	offset: 0, 0
+	index: -1
+anna_shengl_28
+	rotate: false
+	xy: 81, 94
+	size: 35, 89
+	orig: 35, 89
+	offset: 0, 0
+	index: -1
+anna_bisha1_188
+	rotate: true
+	xy: 347, 629
+	size: 73, 37
+	orig: 73, 37
+	offset: 0, 0
+	index: -1
+anna_shengl_23
+	rotate: false
+	xy: 509, 839
+	size: 37, 69
+	orig: 37, 69
+	offset: 0, 0
+	index: -1
+anna_shengl_21
+	rotate: false
+	xy: 701, 244
+	size: 34, 58
+	orig: 34, 58
+	offset: 0, 0
+	index: -1
+anna_shengl_20
+	rotate: false
+	xy: 261, 163
+	size: 42, 75
+	orig: 42, 75
+	offset: 0, 0
+	index: -1
+anna_shengl_27
+	rotate: false
+	xy: 217, 2
+	size: 44, 83
+	orig: 44, 83
+	offset: 0, 0
+	index: -1
+anna_shengl_25
+	rotate: true
+	xy: 922, 908
+	size: 38, 35
+	orig: 38, 35
+	offset: 0, 0
+	index: -1
+anna_atk_25
+	rotate: true
+	xy: 433, 991
+	size: 31, 58
+	orig: 31, 58
+	offset: 0, 0
+	index: -1
+anna_atk_27
+	rotate: true
+	xy: 184, 787
+	size: 78, 64
+	orig: 78, 64
+	offset: 0, 0
+	index: -1
+anna_atk_26
+	rotate: false
+	xy: 974, 439
+	size: 47, 36
+	orig: 47, 36
+	offset: 0, 0
+	index: -1
+anna_atk_21
+	rotate: true
+	xy: 835, 802
+	size: 55, 39
+	orig: 55, 39
+	offset: 0, 0
+	index: -1
+anna_bisha1_208
+	rotate: false
+	xy: 759, 120
+	size: 28, 57
+	orig: 28, 57
+	offset: 0, 0
+	index: -1
+anna_atk_23
+	rotate: true
+	xy: 704, 183
+	size: 58, 32
+	orig: 58, 32
+	offset: 0, 0
+	index: -1
+anna_atk_22
+	rotate: false
+	xy: 483, 415
+	size: 55, 63
+	orig: 55, 63
+	offset: 0, 0
+	index: -1
+anna_bisha1_205
+	rotate: false
+	xy: 711, 2
+	size: 41, 58
+	orig: 41, 58
+	offset: 0, 0
+	index: -1
+anna_bisha1_204
+	rotate: true
+	xy: 637, 311
+	size: 59, 54
+	orig: 59, 54
+	offset: 0, 0
+	index: -1
+anna_bisha1_207
+	rotate: true
+	xy: 832, 473
+	size: 45, 50
+	orig: 45, 50
+	offset: 0, 0
+	index: -1
+anna_bisha1_206
+	rotate: true
+	xy: 696, 370
+	size: 44, 57
+	orig: 44, 57
+	offset: 0, 0
+	index: -1
+anna_bisha1_203
+	rotate: false
+	xy: 813, 519
+	size: 48, 55
+	orig: 48, 55
+	offset: 0, 0
+	index: -1
+anna_atk_44
+	rotate: true
+	xy: 294, 779
+	size: 73, 41
+	orig: 73, 41
+	offset: 0, 0
+	index: -1
+anna_bisha1_180
+	rotate: false
+	xy: 517, 2
+	size: 53, 62
+	orig: 53, 62
+	offset: 0, 0
+	index: -1
+anna_bisha1_189
+	rotate: true
+	xy: 886, 629
+	size: 55, 36
+	orig: 55, 36
+	offset: 0, 0
+	index: -1
+anna_bisha1_73
+	rotate: false
+	xy: 424, 138
+	size: 37, 64
+	orig: 37, 64
+	offset: 0, 0
+	index: -1
+anna_bisha1_72
+	rotate: false
+	xy: 73, 186
+	size: 37, 89
+	orig: 37, 89
+	offset: 0, 0
+	index: -1
+anna_bisha1_71
+	rotate: false
+	xy: 110, 453
+	size: 44, 82
+	orig: 44, 82
+	offset: 0, 0
+	index: -1
+anna_bisha1_77
+	rotate: false
+	xy: 487, 769
+	size: 42, 69
+	orig: 42, 69
+	offset: 0, 0
+	index: -1
+anna_bisha2_2
+	rotate: true
+	xy: 692, 310
+	size: 59, 38
+	orig: 59, 38
+	offset: 0, 0
+	index: -1
+anna_bsd_37
+	rotate: false
+	xy: 375, 150
+	size: 48, 64
+	orig: 48, 64
+	offset: 0, 0
+	index: -1
+anna_bsd_32
+	rotate: true
+	xy: 634, 896
+	size: 65, 51
+	orig: 65, 51
+	offset: 0, 0
+	index: -1
+anna_bsd_38
+	rotate: false
+	xy: 974, 211
+	size: 48, 35
+	orig: 48, 35
+	offset: 0, 0
+	index: -1
+anna_skill_4
+	rotate: true
+	xy: 527, 329
+	size: 42, 46
+	orig: 42, 46
+	offset: 0, 0
+	index: -1
+
+asset/spine/liannaLA_role2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anna_skill_8
+	rotate: true
+	xy: 627, 543
+	size: 84, 73
+	orig: 84, 73
+	offset: 0, 0
+	index: -1
+anna_idrun_12
+	rotate: true
+	xy: 953, 825
+	size: 90, 35
+	orig: 90, 35
+	offset: 0, 0
+	index: -1
+anna_idrun_19
+	rotate: true
+	xy: 993, 580
+	size: 55, 29
+	orig: 57, 29
+	offset: 0, 0
+	index: -1
+anna_atk_61
+	rotate: false
+	xy: 953, 916
+	size: 69, 85
+	orig: 69, 85
+	offset: 0, 0
+	index: -1
+anna_skill_42
+	rotate: true
+	xy: 389, 2
+	size: 68, 61
+	orig: 68, 61
+	offset: 0, 0
+	index: -1
+anna_skill_48
+	rotate: false
+	xy: 154, 2
+	size: 234, 268
+	orig: 234, 268
+	offset: 0, 0
+	index: -1
+anna_sk2_tou_bu_b
+	rotate: false
+	xy: 918, 206
+	size: 102, 76
+	orig: 102, 76
+	offset: 0, 0
+	index: -1
+anna_atk_80
+	rotate: true
+	xy: 327, 979
+	size: 43, 83
+	orig: 43, 83
+	offset: 0, 0
+	index: -1
+anna_atk_86
+	rotate: true
+	xy: 265, 984
+	size: 38, 61
+	orig: 38, 61
+	offset: 0, 0
+	index: -1
+anna_bisha1_154
+	rotate: false
+	xy: 863, 587
+	size: 31, 58
+	orig: 31, 58
+	offset: 0, 0
+	index: -1
+anna_shengl_18
+	rotate: true
+	xy: 918, 122
+	size: 83, 104
+	orig: 83, 104
+	offset: 0, 0
+	index: -1
+anna_bisha1_156
+	rotate: true
+	xy: 701, 491
+	size: 35, 86
+	orig: 35, 86
+	offset: 0, 0
+	index: -1
+anna_bisha1_43
+	rotate: false
+	xy: 993, 520
+	size: 29, 59
+	orig: 29, 61
+	offset: 0, 0
+	index: -1
+anna_idrun_4
+	rotate: false
+	xy: 569, 450
+	size: 79, 92
+	orig: 79, 94
+	offset: 0, 0
+	index: -1
+anna_bisha1_104
+	rotate: false
+	xy: 189, 793
+	size: 76, 190
+	orig: 78, 190
+	offset: 1, 0
+	index: -1
+anna_bisha1_101
+	rotate: false
+	xy: 489, 237
+	size: 76, 33
+	orig: 76, 33
+	offset: 0, 0
+	index: -1
+anna_atk_8
+	rotate: true
+	xy: 513, 271
+	size: 64, 52
+	orig: 64, 52
+	offset: 0, 0
+	index: -1
+anna_atk_9
+	rotate: false
+	xy: 668, 789
+	size: 51, 76
+	orig: 51, 76
+	offset: 0, 0
+	index: -1
+anna_bisha1_199
+	rotate: false
+	xy: 513, 2
+	size: 55, 80
+	orig: 55, 80
+	offset: 0, 0
+	index: -1
+anna_bisha1_84
+	rotate: false
+	xy: 653, 228
+	size: 47, 69
+	orig: 47, 69
+	offset: 0, 0
+	index: -1
+anna_bisha1_80
+	rotate: false
+	xy: 919, 2
+	size: 102, 119
+	orig: 102, 119
+	offset: 0, 0
+	index: -1
+anna_bisha1_89
+	rotate: true
+	xy: 803, 628
+	size: 76, 59
+	orig: 76, 59
+	offset: 0, 0
+	index: -1
+anna_bsd_26
+	rotate: true
+	xy: 918, 283
+	size: 72, 102
+	orig: 72, 102
+	offset: 0, 0
+	index: -1
+anna_bsd_27
+	rotate: true
+	xy: 787, 587
+	size: 40, 75
+	orig: 40, 75
+	offset: 0, 0
+	index: -1
+anna_bisha1_227
+	rotate: true
+	xy: 421, 694
+	size: 98, 129
+	orig: 98, 129
+	offset: 0, 0
+	index: -1
+anna_bisha1_226
+	rotate: false
+	xy: 2, 277
+	size: 201, 269
+	orig: 201, 269
+	offset: 0, 0
+	index: -1
+anna_bisha1_225
+	rotate: true
+	xy: 185, 547
+	size: 245, 235
+	orig: 245, 235
+	offset: 0, 0
+	index: -1
+anna_shengl_4
+	rotate: false
+	xy: 701, 315
+	size: 87, 52
+	orig: 87, 52
+	offset: 0, 0
+	index: -1
+anna_shengl_7
+	rotate: false
+	xy: 761, 105
+	size: 27, 58
+	orig: 27, 58
+	offset: 0, 0
+	index: -1
+anna_atk_77
+	rotate: false
+	xy: 895, 663
+	size: 94, 77
+	orig: 94, 77
+	offset: 0, 0
+	index: -1
+anna_atk_92
+	rotate: false
+	xy: 627, 628
+	size: 91, 62
+	orig: 91, 62
+	offset: 0, 0
+	index: -1
+anna_atk_95
+	rotate: false
+	xy: 876, 825
+	size: 76, 51
+	orig: 76, 51
+	offset: 0, 0
+	index: -1
+anna_atk_97
+	rotate: false
+	xy: 989, 765
+	size: 33, 55
+	orig: 33, 55
+	offset: 0, 0
+	index: -1
+anna_bsd_66
+	rotate: false
+	xy: 389, 71
+	size: 86, 85
+	orig: 86, 85
+	offset: 0, 0
+	index: -1
+anna_bsd_61
+	rotate: false
+	xy: 872, 961
+	size: 62, 61
+	orig: 62, 61
+	offset: 0, 0
+	index: -1
+anna_bisha2_29
+	rotate: false
+	xy: 72, 991
+	size: 60, 31
+	orig: 60, 31
+	offset: 0, 0
+	index: -1
+anna_bisha1_51
+	rotate: false
+	xy: 914, 356
+	size: 107, 80
+	orig: 107, 80
+	offset: 0, 0
+	index: -1
+anna_bisha1_52
+	rotate: true
+	xy: 204, 504
+	size: 42, 83
+	orig: 44, 83
+	offset: 0, 0
+	index: -1
+anna_bisha1_59
+	rotate: false
+	xy: 803, 705
+	size: 91, 80
+	orig: 91, 80
+	offset: 0, 0
+	index: -1
+anna_bsd_11
+	rotate: true
+	xy: 451, 2
+	size: 67, 37
+	orig: 67, 37
+	offset: 0, 0
+	index: -1
+anna_skill_37
+	rotate: true
+	xy: 551, 691
+	size: 100, 89
+	orig: 100, 89
+	offset: 0, 0
+	index: -1
+anna_bisha1_26
+	rotate: true
+	xy: 720, 691
+	size: 94, 82
+	orig: 94, 82
+	offset: 0, 0
+	index: -1
+anna_bisha1_173
+	rotate: true
+	xy: 2, 794
+	size: 196, 186
+	orig: 196, 186
+	offset: 0, 0
+	index: -1
+anna_bisha1_170
+	rotate: false
+	xy: 789, 511
+	size: 105, 75
+	orig: 105, 75
+	offset: 0, 0
+	index: -1
+anna_bisha1_176
+	rotate: false
+	xy: 993, 636
+	size: 29, 51
+	orig: 29, 51
+	offset: 0, 0
+	index: -1
+anna_atk_48
+	rotate: false
+	xy: 720, 786
+	size: 78, 90
+	orig: 78, 90
+	offset: 0, 0
+	index: -1
+anna_atk_46
+	rotate: false
+	xy: 895, 741
+	size: 93, 83
+	orig: 93, 83
+	offset: 0, 0
+	index: -1
+anna_atk_41
+	rotate: true
+	xy: 668, 877
+	size: 48, 80
+	orig: 48, 80
+	offset: 0, 0
+	index: -1
+anna_sk2_tf_bu_a
+	rotate: true
+	xy: 285, 271
+	size: 152, 97
+	orig: 152, 97
+	offset: 0, 0
+	index: -1
+anna_bisha2_3
+	rotate: true
+	xy: 513, 83
+	size: 73, 55
+	orig: 73, 55
+	offset: 0, 0
+	index: -1
+anna_sk2_tf_bu_c
+	rotate: true
+	xy: 526, 543
+	size: 147, 100
+	orig: 147, 100
+	offset: 0, 0
+	index: -1
+anna_bisha1_97
+	rotate: true
+	xy: 579, 356
+	size: 93, 73
+	orig: 93, 73
+	offset: 0, 0
+	index: -1
+anna_atk_106
+	rotate: true
+	xy: 513, 157
+	size: 70, 55
+	orig: 70, 55
+	offset: 0, 0
+	index: -1
+anna_bsd_58
+	rotate: true
+	xy: 701, 417
+	size: 73, 86
+	orig: 73, 86
+	offset: 0, 0
+	index: -1
+anna_bisha1_22
+	rotate: false
+	xy: 569, 173
+	size: 55, 54
+	orig: 55, 54
+	offset: 0, 0
+	index: -1
+anna_bisha1_124
+	rotate: true
+	xy: 799, 786
+	size: 90, 76
+	orig: 90, 76
+	offset: 0, 0
+	index: -1
+anna_atk_11
+	rotate: false
+	xy: 513, 356
+	size: 65, 66
+	orig: 65, 66
+	offset: 0, 0
+	index: -1
+anna_atk_14
+	rotate: true
+	xy: 701, 243
+	size: 71, 87
+	orig: 71, 87
+	offset: 0, 0
+	index: -1
+anna_skill_3
+	rotate: false
+	xy: 476, 71
+	size: 36, 70
+	orig: 36, 70
+	offset: 0, 0
+	index: -1
+anna_skill_6
+	rotate: false
+	xy: 830, 877
+	size: 78, 48
+	orig: 78, 48
+	offset: 0, 0
+	index: -1
+anna_bisha2_15
+	rotate: false
+	xy: 569, 89
+	size: 57, 83
+	orig: 57, 83
+	offset: 0, 0
+	index: -1
+anna_bisha2_10
+	rotate: false
+	xy: 603, 926
+	size: 55, 95
+	orig: 55, 95
+	offset: 0, 0
+	index: -1
+anna_bisha2_12
+	rotate: false
+	xy: 557, 941
+	size: 45, 81
+	orig: 45, 81
+	offset: 0, 0
+	index: -1
+anna_bisha1_1
+	rotate: false
+	xy: 288, 424
+	size: 99, 122
+	orig: 99, 122
+	offset: 0, 0
+	index: -1
+anna_bisha1_0
+	rotate: true
+	xy: 509, 793
+	size: 147, 83
+	orig: 147, 83
+	offset: 0, 0
+	index: -1
+anna_sk2_tou_bu_a
+	rotate: true
+	xy: 641, 691
+	size: 97, 78
+	orig: 97, 80
+	offset: 0, 2
+	index: -1
+anna_bisha1_63
+	rotate: false
+	xy: 2, 2
+	size: 151, 274
+	orig: 161, 282
+	offset: 0, 4
+	index: -1
+anna_bsd_2
+	rotate: false
+	xy: 193, 984
+	size: 71, 38
+	orig: 71, 38
+	offset: 0, 0
+	index: -1
+anna_bsd_7
+	rotate: false
+	xy: 895, 598
+	size: 97, 64
+	orig: 97, 64
+	offset: 0, 0
+	index: -1
+anna_skill_23
+	rotate: true
+	xy: 2, 547
+	size: 246, 182
+	orig: 246, 184
+	offset: 0, 1
+	index: -1
+anna_skill_28
+	rotate: false
+	xy: 789, 926
+	size: 82, 93
+	orig: 82, 95
+	offset: 0, 1
+	index: -1
+anna_atk_53
+	rotate: true
+	xy: 668, 105
+	size: 60, 92
+	orig: 60, 92
+	offset: 0, 0
+	index: -1
+anna_skill_52
+	rotate: false
+	xy: 383, 271
+	size: 129, 151
+	orig: 129, 151
+	offset: 0, 0
+	index: -1
+anna_bsd_40
+	rotate: true
+	xy: 989, 821
+	size: 55, 33
+	orig: 55, 33
+	offset: 0, 0
+	index: -1
+anna_bsd_43
+	rotate: false
+	xy: 872, 926
+	size: 36, 29
+	orig: 36, 29
+	offset: 0, 0
+	index: -1
+anna_bisha1_37
+	rotate: false
+	xy: 204, 271
+	size: 80, 232
+	orig: 80, 232
+	offset: 0, 0
+	index: -1
+anna_bisha1_31
+	rotate: false
+	xy: 896, 437
+	size: 106, 82
+	orig: 106, 82
+	offset: 0, 0
+	index: -1
+anna_idrun_44
+	rotate: true
+	xy: 789, 287
+	size: 117, 124
+	orig: 117, 124
+	offset: 0, 0
+	index: -1
+anna_bisha1_38
+	rotate: false
+	xy: 266, 793
+	size: 143, 185
+	orig: 143, 185
+	offset: 0, 0
+	index: -1
+anna_bsd_52a
+	rotate: false
+	xy: 701, 166
+	size: 87, 76
+	orig: 87, 76
+	offset: 0, 0
+	index: -1
+anna_skill_13
+	rotate: false
+	xy: 388, 423
+	size: 65, 122
+	orig: 65, 122
+	offset: 0, 0
+	index: -1
+anna_bisha1_114
+	rotate: false
+	xy: 990, 688
+	size: 32, 76
+	orig: 32, 76
+	offset: 0, 0
+	index: -1
+anna_shengl_26
+	rotate: false
+	xy: 2, 991
+	size: 69, 31
+	orig: 69, 31
+	offset: 0, 0
+	index: -1
+anna_shengl_24
+	rotate: true
+	xy: 701, 527
+	size: 72, 85
+	orig: 72, 87
+	offset: 0, 1
+	index: -1
+anna_bisha1_186
+	rotate: true
+	xy: 627, 89
+	size: 76, 40
+	orig: 76, 40
+	offset: 0, 0
+	index: -1
+anna_bisha1_201
+	rotate: false
+	xy: 627, 166
+	size: 73, 61
+	orig: 73, 61
+	offset: 0, 0
+	index: -1
+anna_atk_28
+	rotate: false
+	xy: 719, 628
+	size: 83, 62
+	orig: 83, 62
+	offset: 0, 0
+	index: -1
+anna_bisha1_182
+	rotate: true
+	xy: 649, 450
+	size: 80, 51
+	orig: 80, 51
+	offset: 0, 0
+	index: -1
+anna_bisha1_78
+	rotate: false
+	xy: 895, 520
+	size: 97, 77
+	orig: 97, 77
+	offset: 0, 0
+	index: -1
+anna_bisha1_75
+	rotate: true
+	xy: 701, 368
+	size: 48, 87
+	orig: 48, 87
+	offset: 0, 0
+	index: -1
+anna_bisha1_74
+	rotate: true
+	xy: 653, 367
+	size: 67, 47
+	orig: 67, 47
+	offset: 0, 0
+	index: -1
+anna_sk2_tf_bu_b
+	rotate: true
+	xy: 421, 546
+	size: 147, 104
+	orig: 147, 104
+	offset: 0, 0
+	index: -1
+anna_bsd_31
+	rotate: false
+	xy: 989, 877
+	size: 31, 38
+	orig: 31, 38
+	offset: 0, 0
+	index: -1
+anna_bsd_33
+	rotate: true
+	xy: 569, 2
+	size: 86, 98
+	orig: 86, 98
+	offset: 0, 0
+	index: -1
+anna_skill_5
+	rotate: true
+	xy: 749, 877
+	size: 48, 80
+	orig: 48, 80
+	offset: 0, 0
+	index: -1
+
+asset/spine/liannaLA_role4.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anna_shengl_13
+	rotate: false
+	xy: 135, 149
+	size: 41, 37
+	orig: 41, 37
+	offset: 0, 0
+	index: -1
+anna_shengl_17
+	rotate: true
+	xy: 81, 254
+	size: 31, 33
+	orig: 31, 33
+	offset: 0, 0
+	index: -1
+anna_bisha1_151
+	rotate: true
+	xy: 108, 2
+	size: 37, 52
+	orig: 37, 52
+	offset: 0, 0
+	index: -1
+anna_bisha1_153
+	rotate: false
+	xy: 2, 128
+	size: 43, 34
+	orig: 43, 34
+	offset: 0, 0
+	index: -1
+anna_atk_38
+	rotate: true
+	xy: 213, 2
+	size: 44, 41
+	orig: 44, 41
+	offset: 0, 0
+	index: -1
+anna_atk_37
+	rotate: true
+	xy: 130, 187
+	size: 38, 40
+	orig: 38, 40
+	offset: 0, 0
+	index: -1
+anna_bisha1_85
+	rotate: true
+	xy: 181, 122
+	size: 40, 41
+	orig: 40, 41
+	offset: 0, 0
+	index: -1
+anna_bisha1_88
+	rotate: false
+	xy: 40, 266
+	size: 31, 30
+	orig: 31, 30
+	offset: 0, 0
+	index: -1
+anna_bisha1_14
+	rotate: true
+	xy: 47, 79
+	size: 38, 44
+	orig: 38, 44
+	offset: 0, 0
+	index: -1
+anna_idrun_22
+	rotate: true
+	xy: 47, 118
+	size: 31, 44
+	orig: 31, 44
+	offset: 0, 0
+	index: -1
+anna_atk_75
+	rotate: false
+	xy: 211, 85
+	size: 43, 36
+	orig: 43, 36
+	offset: 0, 0
+	index: -1
+anna_atk_99
+	rotate: true
+	xy: 161, 2
+	size: 40, 51
+	orig: 42, 51
+	offset: 2, 0
+	index: -1
+anna_atk_96
+	rotate: false
+	xy: 108, 40
+	size: 51, 37
+	orig: 53, 39
+	offset: 1, 1
+	index: -1
+anna_bisha1_143
+	rotate: false
+	xy: 55, 2
+	size: 52, 38
+	orig: 52, 38
+	offset: 0, 0
+	index: -1
+anna_bsd_64
+	rotate: true
+	xy: 2, 276
+	size: 30, 31
+	orig: 30, 31
+	offset: 0, 0
+	index: -1
+anna_bsd_63
+	rotate: true
+	xy: 177, 163
+	size: 34, 41
+	orig: 34, 41
+	offset: 0, 0
+	index: -1
+anna_bisha2_26
+	rotate: false
+	xy: 137, 115
+	size: 43, 33
+	orig: 43, 33
+	offset: 0, 0
+	index: -1
+anna_bsd_15
+	rotate: false
+	xy: 44, 192
+	size: 40, 38
+	orig: 40, 38
+	offset: 0, 0
+	index: -1
+anna_idrun_35
+	rotate: false
+	xy: 2, 2
+	size: 52, 44
+	orig: 52, 44
+	offset: 0, 0
+	index: -1
+anna_atk_104
+	rotate: false
+	xy: 46, 150
+	size: 41, 41
+	orig: 41, 41
+	offset: 0, 0
+	index: -1
+anna_atk_101
+	rotate: true
+	xy: 43, 231
+	size: 34, 37
+	orig: 34, 37
+	offset: 0, 0
+	index: -1
+anna_atk_103
+	rotate: false
+	xy: 124, 226
+	size: 33, 31
+	orig: 33, 31
+	offset: 0, 0
+	index: -1
+anna_bisha1_121
+	rotate: true
+	xy: 223, 122
+	size: 41, 31
+	orig: 41, 31
+	offset: 0, 0
+	index: -1
+anna_skill_2
+	rotate: false
+	xy: 2, 244
+	size: 37, 31
+	orig: 37, 31
+	offset: 0, 0
+	index: -1
+anna_bisha1_8
+	rotate: true
+	xy: 171, 198
+	size: 30, 34
+	orig: 30, 34
+	offset: 0, 0
+	index: -1
+anna_bisha1_65
+	rotate: true
+	xy: 92, 148
+	size: 36, 42
+	orig: 36, 42
+	offset: 0, 0
+	index: -1
+anna_bsd_49
+	rotate: false
+	xy: 2, 163
+	size: 41, 41
+	orig: 41, 41
+	offset: 0, 0
+	index: -1
+anna_bsd_42
+	rotate: false
+	xy: 88, 185
+	size: 41, 30
+	orig: 41, 30
+	offset: 0, 0
+	index: -1
+anna_idrun_43
+	rotate: false
+	xy: 2, 47
+	size: 44, 41
+	orig: 44, 41
+	offset: 0, 0
+	index: -1
+anna_skill_15
+	rotate: false
+	xy: 2, 205
+	size: 40, 38
+	orig: 40, 38
+	offset: 0, 0
+	index: -1
+anna_shengl_22
+	rotate: true
+	xy: 212, 47
+	size: 37, 42
+	orig: 37, 42
+	offset: 0, 0
+	index: -1
+anna_bisha1_202
+	rotate: false
+	xy: 107, 78
+	size: 51, 34
+	orig: 51, 34
+	offset: 0, 0
+	index: -1
+anna_bsd_35
+	rotate: false
+	xy: 85, 216
+	size: 38, 37
+	orig: 38, 37
+	offset: 0, 0
+	index: -1
+anna_bsd_39
+	rotate: true
+	xy: 219, 164
+	size: 36, 35
+	orig: 36, 35
+	offset: 0, 0
+	index: -1

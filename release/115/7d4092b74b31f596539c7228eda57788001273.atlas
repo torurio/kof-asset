@@ -1,0 +1,257 @@
+
+asset/spine/global_spinehero_effect5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx3
+	rotate: false
+	xy: 899, 851
+	size: 121, 106
+	orig: 121, 106
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx2
+	rotate: false
+	xy: 341, 900
+	size: 143, 122
+	orig: 143, 122
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx1
+	rotate: false
+	xy: 855, 584
+	size: 167, 157
+	orig: 167, 157
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx0
+	rotate: true
+	xy: 777, 838
+	size: 184, 180
+	orig: 184, 180
+	offset: 0, 0
+	index: -1
+
+asset/spine/shenwuXI_common1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_swxl_liumenbisha_bq_00033
+	rotate: false
+	xy: 2, 2
+	size: 287, 339
+	orig: 339, 409
+	offset: 30, 8
+	index: -1
+
+asset/spine/shenwuXI_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_swxl_liumenbisha_bq_00032
+	rotate: false
+	xy: 769, 2
+	size: 251, 291
+	orig: 339, 409
+	offset: 48, 15
+	index: -1
+effect/common/New_swxl_liumenbisha_bq_00031
+	rotate: false
+	xy: 2, 810
+	size: 168, 206
+	orig: 174, 210
+	offset: 4, 1
+	index: -1
+effect/common/New_swxl_liumenbisha_bq_00036
+	rotate: false
+	xy: 2, 2
+	size: 321, 409
+	orig: 339, 409
+	offset: 10, 0
+	index: -1
+effect/common/New_swxl_liumenbisha_bq_00037
+	rotate: false
+	xy: 324, 350
+	size: 323, 389
+	orig: 339, 409
+	offset: 9, 0
+	index: -1
+effect/common/New_swxl_liumenbisha_bq_00034
+	rotate: true
+	xy: 648, 340
+	size: 317, 369
+	orig: 339, 409
+	offset: 13, 0
+	index: -1
+effect/common/New_swxl_liumenbisha_bq_00040
+	rotate: false
+	xy: 324, 2
+	size: 48, 347
+	orig: 48, 347
+	offset: 0, 0
+	index: -1
+effect/common/New_swxl_liumenbisha_bq_00038
+	rotate: true
+	xy: 375, 2
+	size: 337, 393
+	orig: 339, 409
+	offset: 2, 0
+	index: -1
+effect/common/New_swxl_liumenbisha_bq_00035
+	rotate: false
+	xy: 2, 412
+	size: 321, 397
+	orig: 339, 409
+	offset: 11, 0
+	index: -1
+effect/common/New_swxl_liumenbisha_bq_00039
+	rotate: true
+	xy: 324, 740
+	size: 62, 366
+	orig: 62, 382
+	offset: 0, 0
+	index: -1
+effect/common/New_swxl_liumenbisha_qj_00118
+	rotate: false
+	xy: 171, 810
+	size: 63, 181
+	orig: 75, 181
+	offset: 12, 0
+	index: -1
+effect/common/New_swxl_liumenbisha_qj_00117
+	rotate: false
+	xy: 235, 810
+	size: 67, 179
+	orig: 75, 181
+	offset: 8, 0
+	index: -1
+effect/common/New_swxl_liumenbisha_qj_00116
+	rotate: false
+	xy: 303, 810
+	size: 71, 177
+	orig: 75, 181
+	offset: 4, 0
+	index: -1
+effect/common/New_swxl_liumenbisha_qj_00115
+	rotate: false
+	xy: 375, 803
+	size: 71, 171
+	orig: 75, 181
+	offset: 4, 2
+	index: -1
+effect/common/New_swxl_liumenbisha_qj_00114
+	rotate: false
+	xy: 447, 803
+	size: 75, 165
+	orig: 75, 181
+	offset: 0, 5
+	index: -1
+effect/common/New_swxl_liumenbisha_qj_00113
+	rotate: false
+	xy: 523, 803
+	size: 75, 159
+	orig: 75, 181
+	offset: 0, 8
+	index: -1
+effect/common/New_swxl_liumenbisha_qj_00112
+	rotate: false
+	xy: 599, 803
+	size: 75, 151
+	orig: 75, 181
+	offset: 0, 13
+	index: -1
+effect/common/New_swxl_liumenbisha_qj_00111
+	rotate: false
+	xy: 648, 658
+	size: 144, 78
+	orig: 144, 78
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx5
+	rotate: true
+	xy: 575, 984
+	size: 29, 27
+	orig: 29, 27
+	offset: 0, 0
+	index: -1
+effect/global/swdjtx4
+	rotate: true
+	xy: 226, 612
+	size: 67, 60
+	orig: 67, 60
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_paobu_yan3
+	rotate: false
+	xy: 978, 284
+	size: 43, 51
+	orig: 43, 51
+	offset: 0, 0
+	index: -1
+effect/global/ty_paobu_yan2
+	rotate: false
+	xy: 978, 232
+	size: 43, 51
+	orig: 43, 51
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_paobu_yan1
+	rotate: false
+	xy: 345, 619
+	size: 49, 49
+	orig: 49, 49
+	offset: 0, 0
+	index: -1
+effect/global/ty_paobu_yan0
+	rotate: false
+	xy: 532, 583
+	size: 49, 50
+	orig: 49, 50
+	offset: 0, 0
+	index: -1
+effect/global/ty_paobu_yan4
+	rotate: false
+	xy: 532, 531
+	size: 49, 51
+	orig: 49, 51
+	offset: 0, 0
+	index: -1

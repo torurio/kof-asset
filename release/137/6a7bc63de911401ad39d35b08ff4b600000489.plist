@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>btn_zhanbao_normal.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{264,2},{260,67}}</string>
+			<key>offset</key>
+			<string>{0,-3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{21,7},{260,67}}</string>
+			<key>sourceSize</key>
+			<string>{302,75}</string>
+		</dict>
+		<key>btn_zhanbao_press.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{260,67}}</string>
+			<key>offset</key>
+			<string>{0,-3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{21,7},{260,67}}</string>
+			<key>sourceSize</key>
+			<string>{302,75}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>ArenaShare0.png</string>
+		<key>size</key>
+		<string>{526,71}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>ArenaShare0.png</string>
+	</dict>
+</dict>
+</plist>

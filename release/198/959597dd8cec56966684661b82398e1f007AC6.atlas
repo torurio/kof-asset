@@ -1,0 +1,1665 @@
+
+asset/spine/weipuxiv_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_wp_ptgj_daoguang1_00017
+	rotate: false
+	xy: 949, 688
+	size: 71, 104
+	orig: 73, 106
+	offset: 2, 2
+	index: -1
+effect/common/New_wp_lmbs_daoguang1_00033
+	rotate: true
+	xy: 749, 905
+	size: 117, 167
+	orig: 121, 167
+	offset: 4, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00068
+	rotate: false
+	xy: 949, 793
+	size: 71, 82
+	orig: 71, 84
+	offset: 0, 2
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00063
+	rotate: true
+	xy: 410, 715
+	size: 127, 123
+	orig: 127, 123
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang1_00026
+	rotate: false
+	xy: 273, 894
+	size: 93, 128
+	orig: 95, 134
+	offset: 2, 5
+	index: -1
+effect/common/New_wp_lmbs_daoguang1_00026
+	rotate: false
+	xy: 534, 774
+	size: 114, 68
+	orig: 118, 70
+	offset: 1, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang3_00075
+	rotate: false
+	xy: 535, 400
+	size: 413, 373
+	orig: 413, 373
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang3_00084
+	rotate: false
+	xy: 2, 439
+	size: 407, 331
+	orig: 407, 333
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang3_00086
+	rotate: false
+	xy: 2, 2
+	size: 532, 436
+	orig: 534, 436
+	offset: 1, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang3_00088
+	rotate: false
+	xy: 535, 2
+	size: 428, 397
+	orig: 428, 397
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptgj_daoguang1_00018
+	rotate: false
+	xy: 949, 583
+	size: 72, 104
+	orig: 76, 106
+	offset: 4, 2
+	index: -1
+effect/common/New_wp_ptgj_daoguang1_00016
+	rotate: false
+	xy: 949, 478
+	size: 72, 104
+	orig: 74, 106
+	offset: 2, 2
+	index: -1
+effect/common/New_wp_lmbs_daoguang2_00037
+	rotate: false
+	xy: 749, 774
+	size: 199, 130
+	orig: 199, 130
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang2_00030
+	rotate: false
+	xy: 273, 771
+	size: 136, 122
+	orig: 142, 126
+	offset: 0, 2
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00031
+	rotate: true
+	xy: 580, 843
+	size: 179, 168
+	orig: 179, 168
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00030
+	rotate: true
+	xy: 410, 843
+	size: 179, 169
+	orig: 179, 169
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang3_00050
+	rotate: false
+	xy: 273, 894
+	size: 93, 128
+	orig: 95, 134
+	offset: 2, 5
+	index: -1
+effect/common/New_wp_xjn_daoguang1_00019
+	rotate: true
+	xy: 410, 439
+	size: 145, 123
+	orig: 149, 125
+	offset: 4, 0
+	index: -1
+effect/common/New_wp_ptgj_daoguang1_00021
+	rotate: true
+	xy: 649, 774
+	size: 68, 99
+	orig: 70, 101
+	offset: 2, 2
+	index: -1
+effect/common/New_wp_ptgj_daoguang2_00027
+	rotate: true
+	xy: 917, 905
+	size: 84, 105
+	orig: 88, 111
+	offset: 3, 3
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00060
+	rotate: true
+	xy: 410, 585
+	size: 129, 123
+	orig: 129, 127
+	offset: 0, 2
+	index: -1
+effect/common/New_wp_ptbs_shizixing_00022
+	rotate: true
+	xy: 949, 400
+	size: 77, 73
+	orig: 77, 73
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang3_00070
+	rotate: true
+	xy: 2, 774
+	size: 238, 270
+	orig: 238, 270
+	offset: 0, 0
+	index: -1
+
+asset/spine/weipuxiv_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_wp_ptbs_baozhaguang_00020
+	rotate: true
+	xy: 656, 692
+	size: 313, 312
+	orig: 313, 312
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang3_00072
+	rotate: false
+	xy: 296, 694
+	size: 359, 313
+	orig: 359, 313
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang2_00036
+	rotate: true
+	xy: 768, 459
+	size: 203, 98
+	orig: 207, 102
+	offset: 1, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang2_00034
+	rotate: false
+	xy: 770, 2
+	size: 210, 101
+	orig: 214, 107
+	offset: 2, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang2_00035
+	rotate: false
+	xy: 770, 213
+	size: 208, 102
+	orig: 212, 106
+	offset: 2, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang3_00074
+	rotate: true
+	xy: 387, 2
+	size: 380, 382
+	orig: 380, 382
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang2_00029
+	rotate: false
+	xy: 770, 104
+	size: 209, 108
+	orig: 215, 112
+	offset: 5, 0
+	index: -1
+effect/common/New_wp_ptgj_daoguang1_00022
+	rotate: false
+	xy: 867, 602
+	size: 60, 89
+	orig: 64, 95
+	offset: 4, 5
+	index: -1
+effect/common/New_wp_lmbs_daoguang3_00076
+	rotate: false
+	xy: 2, 2
+	size: 384, 382
+	orig: 384, 382
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang3_00078
+	rotate: false
+	xy: 387, 383
+	size: 380, 308
+	orig: 380, 308
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang3_00080
+	rotate: false
+	xy: 2, 694
+	size: 293, 318
+	orig: 293, 318
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang3_00082
+	rotate: true
+	xy: 2, 385
+	size: 308, 375
+	orig: 310, 375
+	offset: 1, 0
+	index: -1
+effect/common/New_wp_ptbs_shizixing_00010
+	rotate: true
+	xy: 928, 602
+	size: 79, 75
+	orig: 79, 75
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang2_00032
+	rotate: false
+	xy: 770, 316
+	size: 206, 142
+	orig: 206, 142
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00049
+	rotate: false
+	xy: 867, 459
+	size: 155, 142
+	orig: 155, 142
+	offset: 0, 0
+	index: -1
+
+asset/spine/weipuxiv_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_wp_ptgj_daoguang2_00031
+	rotate: true
+	xy: 928, 823
+	size: 68, 94
+	orig: 74, 96
+	offset: 6, 2
+	index: -1
+effect/common/New_wp_xjn_daoguang2_00032
+	rotate: false
+	xy: 804, 235
+	size: 211, 108
+	orig: 215, 114
+	offset: 3, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang2_00033
+	rotate: false
+	xy: 804, 125
+	size: 211, 109
+	orig: 215, 111
+	offset: 2, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang2_00030
+	rotate: false
+	xy: 802, 566
+	size: 210, 107
+	orig: 214, 111
+	offset: 4, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang2_00031
+	rotate: false
+	xy: 802, 344
+	size: 211, 107
+	orig: 215, 113
+	offset: 4, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang3_00073
+	rotate: false
+	xy: 2, 2
+	size: 408, 375
+	orig: 408, 375
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang3_00069
+	rotate: false
+	xy: 298, 597
+	size: 110, 120
+	orig: 110, 120
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang2_00028
+	rotate: false
+	xy: 802, 452
+	size: 210, 113
+	orig: 216, 123
+	offset: 6, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang2_00027
+	rotate: false
+	xy: 804, 2
+	size: 213, 122
+	orig: 217, 122
+	offset: 4, 0
+	index: -1
+effect/common/New_wp_ptgj_daoguang1_00020
+	rotate: false
+	xy: 952, 674
+	size: 69, 102
+	orig: 71, 104
+	offset: 2, 2
+	index: -1
+effect/common/New_wp_lmbs_daoguang3_00079
+	rotate: false
+	xy: 293, 718
+	size: 374, 303
+	orig: 374, 303
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang1_00027
+	rotate: false
+	xy: 668, 669
+	size: 133, 153
+	orig: 135, 157
+	offset: 2, 0
+	index: -1
+effect/common/New_wp_ptgj_daoguang1_00014
+	rotate: true
+	xy: 298, 517
+	size: 79, 112
+	orig: 81, 112
+	offset: 2, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang3_00077
+	rotate: false
+	xy: 411, 2
+	size: 392, 309
+	orig: 392, 309
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang3_00087
+	rotate: false
+	xy: 411, 312
+	size: 390, 356
+	orig: 390, 356
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang3_00081
+	rotate: false
+	xy: 2, 669
+	size: 290, 348
+	orig: 292, 348
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00049
+	rotate: false
+	xy: 2, 517
+	size: 154, 151
+	orig: 154, 151
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00052
+	rotate: false
+	xy: 802, 674
+	size: 149, 148
+	orig: 149, 148
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_shizixing_00014
+	rotate: true
+	xy: 207, 378
+	size: 125, 85
+	orig: 125, 85
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang2_00035
+	rotate: true
+	xy: 798, 823
+	size: 196, 129
+	orig: 198, 131
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang2_00036
+	rotate: true
+	xy: 668, 823
+	size: 199, 129
+	orig: 199, 131
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang2_00033
+	rotate: false
+	xy: 2, 378
+	size: 204, 138
+	orig: 206, 140
+	offset: 2, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00051
+	rotate: true
+	xy: 157, 517
+	size: 151, 140
+	orig: 151, 140
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00020
+	rotate: true
+	xy: 293, 378
+	size: 138, 117
+	orig: 138, 117
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_shizixing_00021
+	rotate: false
+	xy: 928, 892
+	size: 90, 81
+	orig: 90, 81
+	offset: 0, 0
+	index: -1
+
+asset/spine/weipuxiv_common6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_wp_ptgj_daoguang2_00030
+	rotate: true
+	xy: 479, 179
+	size: 77, 105
+	orig: 81, 109
+	offset: 4, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00039
+	rotate: false
+	xy: 781, 652
+	size: 170, 158
+	orig: 170, 158
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00038
+	rotate: false
+	xy: 781, 338
+	size: 171, 160
+	orig: 171, 160
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00019
+	rotate: false
+	xy: 2, 2
+	size: 267, 267
+	orig: 267, 267
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptgj_daoguang2_00023
+	rotate: false
+	xy: 929, 811
+	size: 76, 106
+	orig: 78, 110
+	offset: 2, 2
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00027
+	rotate: true
+	xy: 173, 657
+	size: 182, 170
+	orig: 182, 170
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang1_00023
+	rotate: false
+	xy: 525, 442
+	size: 108, 143
+	orig: 112, 145
+	offset: 4, 1
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00059
+	rotate: true
+	xy: 507, 623
+	size: 129, 126
+	orig: 129, 128
+	offset: 0, 1
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00040
+	rotate: true
+	xy: 771, 826
+	size: 170, 157
+	orig: 170, 157
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_shizixing_00017
+	rotate: false
+	xy: 585, 179
+	size: 101, 77
+	orig: 101, 77
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_shizixing_00016
+	rotate: true
+	xy: 929, 918
+	size: 102, 74
+	orig: 102, 74
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang3_00046
+	rotate: false
+	xy: 507, 880
+	size: 108, 142
+	orig: 110, 144
+	offset: 2, 1
+	index: -1
+effect/common/New_wp_xjn_daoguang3_00047
+	rotate: true
+	xy: 636, 257
+	size: 104, 144
+	orig: 104, 146
+	offset: 0, 1
+	index: -1
+effect/common/New_wp_lmbs_daoguang2_00034
+	rotate: true
+	xy: 2, 270
+	size: 200, 132
+	orig: 202, 136
+	offset: 2, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00035
+	rotate: true
+	xy: 344, 633
+	size: 176, 162
+	orig: 176, 162
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00034
+	rotate: true
+	xy: 309, 270
+	size: 177, 163
+	orig: 177, 163
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00037
+	rotate: true
+	xy: 619, 2
+	size: 173, 161
+	orig: 173, 161
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00036
+	rotate: true
+	xy: 473, 267
+	size: 174, 162
+	orig: 174, 162
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00033
+	rotate: true
+	xy: 341, 840
+	size: 178, 165
+	orig: 178, 165
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00032
+	rotate: true
+	xy: 173, 840
+	size: 179, 167
+	orig: 179, 167
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00050
+	rotate: false
+	xy: 616, 880
+	size: 154, 141
+	orig: 154, 141
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00053
+	rotate: false
+	xy: 636, 362
+	size: 143, 133
+	orig: 143, 133
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00026
+	rotate: true
+	xy: 270, 2
+	size: 184, 173
+	orig: 184, 173
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_shizixing_00008
+	rotate: false
+	xy: 687, 176
+	size: 74, 75
+	orig: 74, 75
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00024
+	rotate: true
+	xy: 2, 471
+	size: 185, 173
+	orig: 185, 173
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00025
+	rotate: true
+	xy: 135, 270
+	size: 184, 173
+	orig: 184, 173
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00023
+	rotate: true
+	xy: 2, 657
+	size: 184, 170
+	orig: 184, 170
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00042
+	rotate: false
+	xy: 781, 2
+	size: 171, 169
+	orig: 171, 169
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00040
+	rotate: true
+	xy: 444, 2
+	size: 176, 174
+	orig: 176, 174
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00041
+	rotate: true
+	xy: 353, 448
+	size: 174, 171
+	orig: 174, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00046
+	rotate: true
+	xy: 634, 496
+	size: 170, 146
+	orig: 170, 152
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00047
+	rotate: true
+	xy: 634, 667
+	size: 158, 146
+	orig: 170, 146
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00044
+	rotate: false
+	xy: 781, 172
+	size: 171, 165
+	orig: 171, 165
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00045
+	rotate: false
+	xy: 781, 499
+	size: 171, 152
+	orig: 171, 152
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00029
+	rotate: true
+	xy: 2, 842
+	size: 180, 170
+	orig: 180, 170
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptgj_daoguang2_00025
+	rotate: true
+	xy: 270, 187
+	size: 82, 103
+	orig: 84, 107
+	offset: 2, 2
+	index: -1
+effect/common/New_wp_ptgj_daoguang2_00024
+	rotate: true
+	xy: 374, 187
+	size: 79, 104
+	orig: 81, 108
+	offset: 2, 2
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00017
+	rotate: false
+	xy: 176, 455
+	size: 176, 177
+	orig: 176, 177
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt111
+	rotate: true
+	xy: 2, 510
+	size: 107, 112
+	orig: 107, 112
+	offset: 0, 0
+	index: -1
+
+asset/spine/weipuxiv_common5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_wp_ptbs_baozhaguang_00026
+	rotate: false
+	xy: 2, 2
+	size: 294, 294
+	orig: 294, 294
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00027
+	rotate: false
+	xy: 2, 297
+	size: 294, 294
+	orig: 294, 294
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00028
+	rotate: false
+	xy: 2, 592
+	size: 294, 294
+	orig: 294, 294
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00050
+	rotate: true
+	xy: 582, 287
+	size: 153, 150
+	orig: 153, 150
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang1_00017
+	rotate: true
+	xy: 733, 287
+	size: 152, 129
+	orig: 158, 137
+	offset: 4, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00057
+	rotate: false
+	xy: 263, 887
+	size: 134, 134
+	orig: 134, 134
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang1_00029
+	rotate: true
+	xy: 756, 441
+	size: 131, 173
+	orig: 133, 173
+	offset: 2, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00032
+	rotate: false
+	xy: 683, 2
+	size: 284, 284
+	orig: 284, 284
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00043
+	rotate: true
+	xy: 571, 856
+	size: 166, 156
+	orig: 166, 156
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00047
+	rotate: false
+	xy: 863, 287
+	size: 159, 153
+	orig: 159, 153
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00055
+	rotate: true
+	xy: 2, 887
+	size: 135, 134
+	orig: 135, 134
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_shizixing_00012
+	rotate: false
+	xy: 911, 838
+	size: 109, 75
+	orig: 109, 75
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang3_00048
+	rotate: false
+	xy: 297, 2
+	size: 100, 145
+	orig: 102, 147
+	offset: 2, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang3_00049
+	rotate: false
+	xy: 297, 148
+	size: 100, 139
+	orig: 102, 143
+	offset: 2, 2
+	index: -1
+effect/common/New_wp_xjn_daoguang3_00043
+	rotate: false
+	xy: 137, 887
+	size: 125, 135
+	orig: 127, 135
+	offset: 2, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang1_00025
+	rotate: false
+	xy: 297, 148
+	size: 100, 139
+	orig: 102, 143
+	offset: 2, 2
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00043
+	rotate: false
+	xy: 398, 856
+	size: 172, 166
+	orig: 172, 166
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00022
+	rotate: false
+	xy: 728, 856
+	size: 182, 165
+	orig: 182, 165
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00021
+	rotate: true
+	xy: 863, 573
+	size: 181, 158
+	orig: 181, 158
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptgj_daoguang2_00026
+	rotate: false
+	xy: 930, 441
+	size: 83, 103
+	orig: 87, 109
+	offset: 4, 2
+	index: -1
+effect/common/New_wp_ptgj_daoguang2_00029
+	rotate: true
+	xy: 911, 755
+	size: 82, 109
+	orig: 90, 117
+	offset: 8, 6
+	index: -1
+effect/common/New_wp_ptgj_daoguang2_00028
+	rotate: false
+	xy: 911, 914
+	size: 84, 108
+	orig: 90, 112
+	offset: 6, 2
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00035
+	rotate: false
+	xy: 580, 573
+	size: 282, 282
+	orig: 282, 282
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00034
+	rotate: false
+	xy: 297, 573
+	size: 282, 282
+	orig: 282, 282
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00033
+	rotate: false
+	xy: 297, 288
+	size: 284, 284
+	orig: 284, 284
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00031
+	rotate: false
+	xy: 398, 2
+	size: 284, 284
+	orig: 284, 284
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang1_00028
+	rotate: true
+	xy: 582, 441
+	size: 131, 173
+	orig: 135, 173
+	offset: 4, 0
+	index: -1
+
+asset/spine/weipuxiv_common7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_wp_ptbs_baozhayan_00046
+	rotate: true
+	xy: 159, 342
+	size: 160, 154
+	orig: 160, 154
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang1_00032
+	rotate: false
+	xy: 2, 510
+	size: 121, 167
+	orig: 123, 167
+	offset: 2, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang1_00031
+	rotate: false
+	xy: 133, 2
+	size: 128, 168
+	orig: 130, 168
+	offset: 2, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang1_00016
+	rotate: true
+	xy: 2, 844
+	size: 155, 127
+	orig: 157, 131
+	offset: 2, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00061
+	rotate: true
+	xy: 553, 810
+	size: 129, 121
+	orig: 129, 121
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00064
+	rotate: true
+	xy: 786, 2
+	size: 118, 123
+	orig: 118, 123
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00058
+	rotate: false
+	xy: 592, 141
+	size: 129, 131
+	orig: 129, 131
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang1_00018
+	rotate: true
+	xy: 279, 503
+	size: 151, 121
+	orig: 155, 123
+	offset: 4, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang1_00022
+	rotate: false
+	xy: 541, 2
+	size: 121, 138
+	orig: 123, 140
+	offset: 2, 1
+	index: -1
+effect/common/New_wp_xjn_daoguang1_00020
+	rotate: true
+	xy: 452, 310
+	size: 138, 129
+	orig: 142, 131
+	offset: 4, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang1_00021
+	rotate: false
+	xy: 531, 449
+	size: 130, 133
+	orig: 132, 135
+	offset: 2, 2
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00056
+	rotate: false
+	xy: 418, 815
+	size: 134, 134
+	orig: 136, 134
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptgj_daoguang1_00015
+	rotate: true
+	xy: 528, 735
+	size: 74, 106
+	orig: 78, 110
+	offset: 4, 2
+	index: -1
+effect/common/New_wp_xjn_daoguang1_00024
+	rotate: false
+	xy: 306, 655
+	size: 102, 145
+	orig: 102, 147
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00053
+	rotate: false
+	xy: 271, 829
+	size: 146, 146
+	orig: 146, 146
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00041
+	rotate: true
+	xy: 2, 173
+	size: 168, 157
+	orig: 168, 157
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00042
+	rotate: true
+	xy: 2, 342
+	size: 167, 156
+	orig: 167, 156
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00044
+	rotate: true
+	xy: 2, 678
+	size: 165, 156
+	orig: 165, 156
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00045
+	rotate: true
+	xy: 124, 510
+	size: 164, 154
+	orig: 164, 154
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang1_00030
+	rotate: false
+	xy: 2, 2
+	size: 130, 170
+	orig: 132, 172
+	offset: 2, 2
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00048
+	rotate: true
+	xy: 160, 171
+	size: 156, 152
+	orig: 156, 152
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00054
+	rotate: true
+	xy: 528, 600
+	size: 134, 133
+	orig: 134, 133
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_shizixing_00013
+	rotate: false
+	xy: 409, 739
+	size: 118, 75
+	orig: 118, 75
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00051
+	rotate: true
+	xy: 313, 159
+	size: 150, 149
+	orig: 150, 149
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang3_00042
+	rotate: false
+	xy: 408, 2
+	size: 132, 149
+	orig: 136, 153
+	offset: 4, 1
+	index: -1
+effect/common/New_wp_xjn_daoguang3_00040
+	rotate: false
+	xy: 159, 675
+	size: 146, 153
+	orig: 150, 155
+	offset: 4, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang3_00041
+	rotate: false
+	xy: 130, 844
+	size: 140, 154
+	orig: 144, 156
+	offset: 4, 1
+	index: -1
+effect/common/New_wp_xjn_daoguang3_00044
+	rotate: false
+	xy: 409, 600
+	size: 118, 138
+	orig: 122, 138
+	offset: 4, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00052
+	rotate: true
+	xy: 314, 310
+	size: 148, 137
+	orig: 148, 137
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00062
+	rotate: true
+	xy: 663, 2
+	size: 129, 122
+	orig: 129, 122
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00048
+	rotate: true
+	xy: 262, 2
+	size: 156, 145
+	orig: 156, 145
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00016
+	rotate: true
+	xy: 582, 291
+	size: 132, 131
+	orig: 132, 131
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_tongyongbaoqi_00001
+	rotate: true
+	xy: 341, 685
+	size: 214, 169
+	orig: 214, 169
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_tongyongbaoqi_00002
+	rotate: true
+	xy: 902, 656
+	size: 156, 118
+	orig: 156, 118
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt113
+	rotate: false
+	xy: 687, 844
+	size: 176, 178
+	orig: 176, 178
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt112
+	rotate: false
+	xy: 867, 390
+	size: 149, 143
+	orig: 149, 143
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt13
+	rotate: false
+	xy: 445, 559
+	size: 168, 177
+	orig: 168, 177
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z1
+	rotate: false
+	xy: 775, 950
+	size: 137, 66
+	orig: 137, 66
+	offset: 0, 0
+	index: -1
+effect/global/ty_tongyongbaoqi_00003
+	rotate: true
+	xy: 155, 612
+	size: 72, 70
+	orig: 72, 70
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt14
+	rotate: false
+	xy: 384, 381
+	size: 176, 178
+	orig: 176, 178
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt110
+	rotate: true
+	xy: 936, 302
+	size: 129, 85
+	orig: 129, 85
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z2
+	rotate: true
+	xy: 412, 131
+	size: 94, 88
+	orig: 94, 88
+	offset: 0, 0
+	index: -1
+
+asset/spine/weipuxiv_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_wp_lmbs_daoguang3_00071
+	rotate: true
+	xy: 263, 711
+	size: 303, 273
+	orig: 303, 273
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00018
+	rotate: true
+	xy: 783, 758
+	size: 221, 222
+	orig: 221, 222
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang3_00085
+	rotate: false
+	xy: 542, 377
+	size: 471, 380
+	orig: 471, 380
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang3_00089
+	rotate: false
+	xy: 542, 2
+	size: 478, 374
+	orig: 478, 376
+	offset: 0, 2
+	index: -1
+effect/common/New_wp_lmbs_daoguang3_00090
+	rotate: false
+	xy: 2, 2
+	size: 539, 431
+	orig: 539, 435
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang2_00031
+	rotate: false
+	xy: 57, 434
+	size: 205, 141
+	orig: 205, 143
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00028
+	rotate: true
+	xy: 57, 576
+	size: 181, 170
+	orig: 181, 170
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00018
+	rotate: false
+	xy: 2, 711
+	size: 54, 46
+	orig: 54, 46
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00036
+	rotate: false
+	xy: 263, 434
+	size: 276, 276
+	orig: 276, 276
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00039
+	rotate: false
+	xy: 537, 758
+	size: 245, 245
+	orig: 245, 245
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00038
+	rotate: true
+	xy: 2, 758
+	size: 261, 260
+	orig: 261, 260
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_shizixing_00023
+	rotate: true
+	xy: 2, 434
+	size: 40, 53
+	orig: 40, 53
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_shizixing_00024
+	rotate: false
+	xy: 228, 576
+	size: 20, 20
+	orig: 20, 20
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_shizixing_00025
+	rotate: false
+	xy: 1021, 2
+	size: 1, 2
+	orig: 1, 2
+	offset: 0, 0
+	index: -1
+
+asset/spine/weipuxiv_common4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_wp_ptbs_baozhaguang_00024
+	rotate: false
+	xy: 2, 611
+	size: 312, 312
+	orig: 312, 312
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00025
+	rotate: false
+	xy: 315, 315
+	size: 312, 312
+	orig: 312, 312
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00021
+	rotate: false
+	xy: 343, 2
+	size: 312, 312
+	orig: 312, 312
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00022
+	rotate: false
+	xy: 2, 298
+	size: 312, 312
+	orig: 312, 312
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00023
+	rotate: false
+	xy: 656, 2
+	size: 312, 312
+	orig: 312, 312
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00029
+	rotate: false
+	xy: 315, 628
+	size: 294, 294
+	orig: 294, 294
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang2_00037
+	rotate: false
+	xy: 535, 923
+	size: 189, 91
+	orig: 193, 93
+	offset: 2, 0
+	index: -1
+effect/common/New_wp_ptbs_shizixing_00011
+	rotate: true
+	xy: 298, 924
+	size: 96, 75
+	orig: 96, 75
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang1_00034
+	rotate: false
+	xy: 905, 430
+	size: 114, 168
+	orig: 118, 170
+	offset: 4, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang1_00035
+	rotate: false
+	xy: 905, 430
+	size: 114, 168
+	orig: 118, 170
+	offset: 4, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00066
+	rotate: true
+	xy: 905, 315
+	size: 114, 117
+	orig: 114, 117
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00067
+	rotate: false
+	xy: 905, 863
+	size: 110, 86
+	orig: 110, 86
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00065
+	rotate: false
+	xy: 905, 599
+	size: 114, 121
+	orig: 114, 121
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang3_00083
+	rotate: false
+	xy: 2, 2
+	size: 340, 295
+	orig: 342, 297
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_shizixing_00019
+	rotate: true
+	xy: 134, 924
+	size: 98, 80
+	orig: 98, 80
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_shizixing_00018
+	rotate: true
+	xy: 374, 923
+	size: 99, 78
+	orig: 99, 78
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_shizixing_00015
+	rotate: false
+	xy: 2, 924
+	size: 131, 98
+	orig: 131, 98
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_xjn_daoguang3_00045
+	rotate: false
+	xy: 905, 721
+	size: 113, 141
+	orig: 117, 141
+	offset: 4, 0
+	index: -1
+effect/common/New_wp_ptbs_shizixing_00009
+	rotate: false
+	xy: 830, 923
+	size: 74, 75
+	orig: 74, 75
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_lmbs_daoguang2_00029
+	rotate: false
+	xy: 905, 950
+	size: 62, 64
+	orig: 70, 66
+	offset: 0, 2
+	index: -1
+effect/common/New_wp_ptgj_daoguang1_00019
+	rotate: true
+	xy: 725, 950
+	size: 68, 104
+	orig: 74, 106
+	offset: 6, 2
+	index: -1
+effect/common/New_wp_ptbs_baozhayan_00019
+	rotate: true
+	xy: 215, 924
+	size: 96, 82
+	orig: 96, 82
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00037
+	rotate: false
+	xy: 628, 315
+	size: 269, 269
+	orig: 269, 269
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_baozhaguang_00030
+	rotate: false
+	xy: 610, 628
+	size: 294, 294
+	orig: 294, 294
+	offset: 0, 0
+	index: -1
+effect/common/New_wp_ptbs_shizixing_00020
+	rotate: true
+	xy: 453, 923
+	size: 95, 81
+	orig: 95, 81
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect16.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt19
+	rotate: true
+	xy: 147, 437
+	size: 134, 143
+	orig: 134, 143
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt16
+	rotate: false
+	xy: 166, 2
+	size: 162, 140
+	orig: 162, 140
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt17
+	rotate: true
+	xy: 291, 559
+	size: 124, 136
+	orig: 124, 136
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_tongyongbaoqi_00000
+	rotate: true
+	xy: 169, 647
+	size: 200, 165
+	orig: 200, 165
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt15
+	rotate: false
+	xy: 2, 851
+	size: 176, 171
+	orig: 176, 171
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt18
+	rotate: false
+	xy: 858, 166
+	size: 164, 140
+	orig: 164, 140
+	offset: 0, 0
+	index: -1
+effect/global/ty_tongyongbaoqi_00004
+	rotate: false
+	xy: 780, 319
+	size: 76, 87
+	orig: 76, 87
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z3
+	rotate: false
+	xy: 616, 499
+	size: 154, 64
+	orig: 154, 64
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z4
+	rotate: false
+	xy: 834, 499
+	size: 154, 60
+	orig: 154, 60
+	offset: 0, 0
+	index: -1

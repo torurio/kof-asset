@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>mask01_qiyzltxk25image.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,134},{124,116}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{124,116}}</string>
+			<key>sourceSize</key>
+			<string>{124,116}</string>
+		</dict>
+		<key>wy_1_1_34063_qiyzltxk25image.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{142,2},{100,100}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{100,100}}</string>
+			<key>sourceSize</key>
+			<string>{100,100}</string>
+		</dict>
+		<key>wy_2_2_6849_qiyzltxk25image.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{138,130}}</string>
+			<key>offset</key>
+			<string>{-1,2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5,8},{138,130}}</string>
+			<key>sourceSize</key>
+			<string>{150,150}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>qiyzltxk25image.png</string>
+		<key>size</key>
+		<string>{256,256}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>qiyzltxk25image.png</string>
+	</dict>
+</dict>
+</plist>

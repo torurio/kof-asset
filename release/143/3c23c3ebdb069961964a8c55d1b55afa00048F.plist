@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>icon_sumingjihuoimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,48},{41,30}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{41,30}}</string>
+			<key>sourceSize</key>
+			<string>{41,30}</string>
+		</dict>
+		<key>zidi_sumingjihuoimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{52,44}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{52,44}}</string>
+			<key>sourceSize</key>
+			<string>{52,44}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>sumingjihuoimage.png</string>
+		<key>size</key>
+		<string>{64,128}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>sumingjihuoimage.png</string>
+	</dict>
+</dict>
+</plist>
