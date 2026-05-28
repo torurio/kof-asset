@@ -1,0 +1,118 @@
+
+asset/spine/btbnalCard_role0.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DDD_bainiaoailuo_005
+	rotate: true
+	xy: 320, 210
+	size: 113, 99
+	orig: 113, 99
+	offset: 0, 0
+	index: -1
+DDD_bainiaoailuo_004
+	rotate: false
+	xy: 421, 60
+	size: 86, 165
+	orig: 86, 165
+	offset: 0, 0
+	index: -1
+DDD_bainiaoailuo_007
+	rotate: false
+	xy: 413, 387
+	size: 77, 45
+	orig: 77, 45
+	offset: 0, 0
+	index: -1
+DDD_bainiaoailuo_006
+	rotate: false
+	xy: 2, 960
+	size: 54, 62
+	orig: 54, 62
+	offset: 0, 0
+	index: -1
+DDD_bainiaoailuo_003
+	rotate: true
+	xy: 460, 469
+	size: 33, 29
+	orig: 33, 29
+	offset: 0, 0
+	index: -1
+DDD_bainiaoailuo_002
+	rotate: true
+	xy: 460, 433
+	size: 35, 50
+	orig: 35, 50
+	offset: 0, 0
+	index: -1
+DDD_bainiaoailuo_009
+	rotate: false
+	xy: 420, 226
+	size: 85, 50
+	orig: 85, 50
+	offset: 0, 0
+	index: -1
+DDD_bainiaoailuo_008
+	rotate: false
+	xy: 421, 2
+	size: 88, 57
+	orig: 88, 57
+	offset: 0, 0
+	index: -1
+DDD_bainiaoailuo_017a
+	rotate: false
+	xy: 2, 803
+	size: 127, 156
+	orig: 139, 156
+	offset: 5, 0
+	index: -1
+DDD_bainiaoailuo_018
+	rotate: true
+	xy: 128, 960
+	size: 48, 107
+	orig: 48, 107
+	offset: 0, 0
+	index: -1
+DDD_bainiaoailuo_014
+	rotate: true
+	xy: 2, 2
+	size: 207, 418
+	orig: 207, 418
+	offset: 0, 0
+	index: -1
+DDD_bainiaoailuo_012
+	rotate: true
+	xy: 320, 661
+	size: 141, 164
+	orig: 143, 164
+	offset: 0, 0
+	index: -1
+DDD_bainiaoailuo_013
+	rotate: false
+	xy: 57, 960
+	size: 70, 56
+	orig: 70, 56
+	offset: 0, 0
+	index: -1
+DDD_bainiaoailuo_016
+	rotate: true
+	xy: 320, 324
+	size: 193, 92
+	orig: 193, 92
+	offset: 0, 0
+	index: -1
+DDD_bainiaoailuo_010a
+	rotate: false
+	xy: 413, 332
+	size: 79, 54
+	orig: 79, 54
+	offset: 0, 0
+	index: -1
+DDD_bainiaoailuo_015
+	rotate: false
+	xy: 320, 518
+	size: 176, 142
+	orig: 176, 142
+	offset: 0, 0
+	index: -1

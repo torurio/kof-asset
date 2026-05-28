@@ -1,0 +1,118 @@
+
+asset/spine/btgcjCard_role0.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DDD_gaocangjianbenti_005
+	rotate: true
+	xy: 70, 948
+	size: 69, 28
+	orig: 69, 28
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbenti_015
+	rotate: false
+	xy: 382, 243
+	size: 111, 137
+	orig: 111, 137
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbenti_014
+	rotate: true
+	xy: 2, 2
+	size: 190, 401
+	orig: 190, 401
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbenti_013
+	rotate: true
+	xy: 250, 571
+	size: 146, 167
+	orig: 146, 167
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbenti_012
+	rotate: true
+	xy: 2, 193
+	size: 84, 379
+	orig: 84, 379
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbenti_011
+	rotate: true
+	xy: 402, 221
+	size: 18, 2
+	orig: 18, 2
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbenti_010
+	rotate: false
+	xy: 404, 2
+	size: 105, 172
+	orig: 105, 172
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbenti_003
+	rotate: true
+	xy: 494, 292
+	size: 69, 14
+	orig: 69, 14
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbenti_008
+	rotate: true
+	xy: 99, 948
+	size: 62, 24
+	orig: 62, 24
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbenti_009
+	rotate: false
+	xy: 2, 948
+	size: 67, 72
+	orig: 67, 72
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbenti_004a
+	rotate: true
+	xy: 37, 278
+	size: 78, 28
+	orig: 78, 34
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbenti_007
+	rotate: true
+	xy: 124, 948
+	size: 59, 24
+	orig: 59, 24
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbenti_016a
+	rotate: true
+	xy: 250, 381
+	size: 189, 218
+	orig: 203, 218
+	offset: 8, 0
+	index: -1
+DDD_gaocangjianbenti_006
+	rotate: true
+	xy: 382, 193
+	size: 49, 19
+	orig: 49, 19
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbenti_004b
+	rotate: true
+	xy: 494, 221
+	size: 70, 14
+	orig: 78, 34
+	offset: 5, 20
+	index: -1
+DDD_gaocangjianbenti_002
+	rotate: false
+	xy: 404, 175
+	size: 105, 45
+	orig: 105, 45
+	offset: 0, 0
+	index: -1

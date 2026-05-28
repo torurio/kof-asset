@@ -1,0 +1,285 @@
+
+asset/spine/global_spinehero_role2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/ty_diying_dy
+	rotate: false
+	xy: 656, 2
+	size: 305, 97
+	orig: 305, 97
+	offset: 0, 0
+	index: -1
+
+asset/spine/gaocangjianBT_role0.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gangcangjian_bt_idle_28
+	rotate: true
+	xy: 2, 292
+	size: 37, 74
+	orig: 39, 76
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_29
+	rotate: true
+	xy: 34, 450
+	size: 56, 31
+	orig: 58, 33
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_22
+	rotate: true
+	xy: 2, 379
+	size: 29, 38
+	orig: 31, 40
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_23
+	rotate: true
+	xy: 2, 101
+	size: 98, 155
+	orig: 100, 157
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_20
+	rotate: true
+	xy: 150, 369
+	size: 39, 60
+	orig: 41, 62
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_21
+	rotate: true
+	xy: 2, 200
+	size: 39, 88
+	orig: 41, 90
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_26
+	rotate: true
+	xy: 2, 409
+	size: 40, 38
+	orig: 42, 40
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_27
+	rotate: true
+	xy: 2, 240
+	size: 51, 87
+	orig: 53, 89
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_24
+	rotate: true
+	xy: 158, 2
+	size: 50, 91
+	orig: 52, 93
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_25
+	rotate: true
+	xy: 77, 327
+	size: 47, 72
+	orig: 49, 74
+	offset: 1, 1
+	index: -1
+gaocangjian_benti_bueye_0
+	rotate: true
+	xy: 231, 299
+	size: 47, 21
+	orig: 49, 23
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_38
+	rotate: true
+	xy: 112, 443
+	size: 25, 33
+	orig: 27, 35
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_37
+	rotate: true
+	xy: 157, 219
+	size: 33, 78
+	orig: 35, 80
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_13
+	rotate: true
+	xy: 112, 415
+	size: 27, 34
+	orig: 29, 36
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_12
+	rotate: false
+	xy: 41, 379
+	size: 29, 29
+	orig: 31, 31
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_11
+	rotate: true
+	xy: 71, 379
+	size: 29, 28
+	orig: 31, 30
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_10
+	rotate: false
+	xy: 156, 299
+	size: 74, 32
+	orig: 76, 34
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_17
+	rotate: true
+	xy: 211, 407
+	size: 42, 43
+	orig: 44, 45
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_16
+	rotate: false
+	xy: 70, 409
+	size: 41, 39
+	orig: 43, 41
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_15
+	rotate: true
+	xy: 91, 200
+	size: 81, 65
+	orig: 83, 67
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_14
+	rotate: true
+	xy: 112, 375
+	size: 39, 37
+	orig: 41, 39
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_35
+	rotate: true
+	xy: 157, 253
+	size: 45, 76
+	orig: 47, 78
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_34
+	rotate: true
+	xy: 66, 450
+	size: 47, 45
+	orig: 49, 47
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_19
+	rotate: true
+	xy: 236, 243
+	size: 25, 10
+	orig: 27, 12
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_18
+	rotate: true
+	xy: 158, 136
+	size: 82, 89
+	orig: 84, 91
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_31
+	rotate: false
+	xy: 2, 450
+	size: 31, 57
+	orig: 33, 59
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_30
+	rotate: false
+	xy: 41, 409
+	size: 28, 40
+	orig: 30, 42
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_33
+	rotate: false
+	xy: 112, 469
+	size: 30, 38
+	orig: 32, 40
+	offset: 1, 1
+	index: -1
+gaocangjian_benti_bueye_1
+	rotate: true
+	xy: 191, 450
+	size: 47, 27
+	orig: 49, 29
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_9
+	rotate: false
+	xy: 236, 219
+	size: 16, 23
+	orig: 18, 25
+	offset: 1, 1
+	index: -1
+gaocangjian_benti_bueye_2
+	rotate: false
+	xy: 143, 469
+	size: 47, 28
+	orig: 49, 30
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_3
+	rotate: false
+	xy: 218, 347
+	size: 36, 59
+	orig: 38, 61
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_2
+	rotate: true
+	xy: 2, 2
+	size: 98, 155
+	orig: 100, 157
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_1
+	rotate: true
+	xy: 158, 53
+	size: 82, 89
+	orig: 84, 91
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_32
+	rotate: false
+	xy: 90, 282
+	size: 65, 44
+	orig: 67, 46
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_5
+	rotate: true
+	xy: 150, 409
+	size: 34, 47
+	orig: 36, 49
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_4
+	rotate: false
+	xy: 2, 330
+	size: 69, 48
+	orig: 71, 50
+	offset: 1, 1
+	index: -1
+gangcangjian_bt_idle_36
+	rotate: true
+	xy: 150, 332
+	size: 36, 67
+	orig: 38, 69
+	offset: 1, 1
+	index: -1

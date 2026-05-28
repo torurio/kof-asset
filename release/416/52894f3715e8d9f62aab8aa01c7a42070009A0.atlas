@@ -1,0 +1,145 @@
+
+asset/spine/bsgcjCard_role1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DDD_gaocangjianbianshen_013
+	rotate: false
+	xy: 2, 2
+	size: 237, 179
+	orig: 237, 179
+	offset: 0, 0
+	index: -1
+
+asset/spine/bsgcjCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DDD_gaocangjianbianshen_010
+	rotate: false
+	xy: 377, 388
+	size: 83, 135
+	orig: 83, 135
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbianshen_019a
+	rotate: true
+	xy: 615, 388
+	size: 291, 306
+	orig: 295, 306
+	offset: 4, 0
+	index: -1
+DDD_gaocangjianbianshen_015
+	rotate: true
+	xy: 248, 972
+	size: 48, 162
+	orig: 48, 162
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbianshen_011
+	rotate: false
+	xy: 922, 388
+	size: 80, 147
+	orig: 80, 147
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbianshen_014
+	rotate: false
+	xy: 849, 680
+	size: 159, 200
+	orig: 161, 200
+	offset: 2, 0
+	index: -1
+DDD_gaocangjianbianshen_008
+	rotate: true
+	xy: 164, 972
+	size: 50, 83
+	orig: 50, 83
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbianshen_016
+	rotate: false
+	xy: 164, 524
+	size: 145, 447
+	orig: 145, 453
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbianshen_017
+	rotate: false
+	xy: 560, 293
+	size: 45, 107
+	orig: 45, 107
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbianshen_003
+	rotate: false
+	xy: 377, 2
+	size: 216, 290
+	orig: 216, 290
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbianshen_002
+	rotate: false
+	xy: 2, 524
+	size: 161, 473
+	orig: 161, 473
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbianshen_005
+	rotate: true
+	xy: 560, 401
+	size: 102, 54
+	orig: 102, 54
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbianshen_004
+	rotate: true
+	xy: 606, 2
+	size: 385, 403
+	orig: 385, 403
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbianshen_007
+	rotate: false
+	xy: 566, 945
+	size: 33, 45
+	orig: 33, 45
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbianshen_006
+	rotate: false
+	xy: 411, 945
+	size: 57, 74
+	orig: 57, 74
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbianshen_009
+	rotate: false
+	xy: 461, 388
+	size: 98, 119
+	orig: 98, 119
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbianshen_012
+	rotate: true
+	xy: 469, 945
+	size: 66, 96
+	orig: 66, 96
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbianshen_020
+	rotate: true
+	xy: 377, 293
+	size: 93, 88
+	orig: 93, 88
+	offset: 0, 0
+	index: -1
+DDD_gaocangjianbianshen_018a
+	rotate: false
+	xy: 606, 680
+	size: 242, 289
+	orig: 242, 289
+	offset: 0, 0
+	index: -1

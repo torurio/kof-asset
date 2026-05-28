@@ -1,0 +1,158 @@
+
+asset/spine/gaocangjian_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_gcj_xiaojineng_xunhuanbowen2_00051
+	rotate: false
+	xy: 428, 537
+	size: 197, 119
+	orig: 209, 141
+	offset: 6, 3
+	index: -1
+effect/common/New_gcj_xiaojineng_xunhuanbowen2_00047
+	rotate: true
+	xy: 306, 824
+	size: 197, 105
+	orig: 209, 141
+	offset: 6, 3
+	index: -1
+effect/common/New_gcj_xiaojineng_xunhuanbowen2_00055
+	rotate: false
+	xy: 626, 720
+	size: 197, 105
+	orig: 209, 141
+	offset: 6, 3
+	index: -1
+effect/common/New_gcj_xiaojineng_xunhuanbowen2_00043
+	rotate: false
+	xy: 638, 480
+	size: 197, 119
+	orig: 209, 141
+	offset: 6, 3
+	index: -1
+effect/common/New_gcj_xiaojineng_xunhuanbowen2_00057
+	rotate: false
+	xy: 2, 735
+	size: 197, 115
+	orig: 209, 141
+	offset: 6, 3
+	index: -1
+effect/common/New_gcj_xiaojineng_xunhuanbowen2_00041
+	rotate: false
+	xy: 428, 657
+	size: 197, 115
+	orig: 209, 141
+	offset: 6, 3
+	index: -1
+effect/common/New_gcj_xiaojineng_xunhuanbowen2_00059
+	rotate: false
+	xy: 626, 600
+	size: 197, 119
+	orig: 209, 141
+	offset: 6, 3
+	index: -1
+effect/common/New_gcj_xiaojineng_xunhuanbowen2_00049
+	rotate: false
+	xy: 200, 708
+	size: 197, 115
+	orig: 209, 141
+	offset: 6, 3
+	index: -1
+effect/common/New_gcj_xiaojineng_xunhuanbowen2_00037
+	rotate: false
+	xy: 2, 615
+	size: 197, 119
+	orig: 209, 141
+	offset: 6, 3
+	index: -1
+effect/common/New_gcj_xiaojineng_xunhuanbowen2_00035
+	rotate: false
+	xy: 2, 493
+	size: 201, 121
+	orig: 209, 141
+	offset: 4, 1
+	index: -1
+effect/common/New_gcj_xiaojineng_xunhuanbowen2_00033
+	rotate: true
+	xy: 200, 824
+	size: 197, 105
+	orig: 209, 141
+	offset: 6, 3
+	index: -1
+effect/common/New_gcj_xiaojineng_xunhuanbowen2_00061
+	rotate: false
+	xy: 824, 809
+	size: 197, 91
+	orig: 209, 141
+	offset: 6, 3
+	index: -1
+effect/common/New_gcj_xiaojineng_xunhuanbowen2_00039
+	rotate: false
+	xy: 2, 851
+	size: 197, 105
+	orig: 209, 141
+	offset: 6, 3
+	index: -1
+
+asset/spine/gaocangjian_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_gcj_putongbisha_ldjdyq_00146
+	rotate: false
+	xy: 354, 763
+	size: 65, 20
+	orig: 201, 54
+	offset: 69, 21
+	index: -1
+effect/common/New_gcj_putongbisha_ldjdyq_00152
+	rotate: true
+	xy: 561, 476
+	size: 197, 54
+	orig: 201, 54
+	offset: 2, 0
+	index: -1
+effect/common/New_gcj_putongbisha_ldjdyq_00148
+	rotate: true
+	xy: 576, 278
+	size: 143, 40
+	orig: 201, 54
+	offset: 30, 9
+	index: -1
+
+asset/spine/gaocangjian_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_gcj_xiaojineng_xunhuanbowen2_00053
+	rotate: false
+	xy: 200, 2
+	size: 197, 91
+	orig: 209, 141
+	offset: 6, 3
+	index: -1
+effect/common/New_gcj_xiaojineng_xunhuanbowen2_00045
+	rotate: false
+	xy: 2, 2
+	size: 197, 91
+	orig: 209, 141
+	offset: 6, 3
+	index: -1
+effect/common/New_gcj_putongbisha_ldjdyq_00154
+	rotate: true
+	xy: 909, 365
+	size: 137, 48
+	orig: 201, 54
+	offset: 40, 6
+	index: -1
+effect/common/New_gcj_putongbisha_ldjdyq_00150
+	rotate: false
+	xy: 779, 2
+	size: 183, 50
+	orig: 201, 54
+	offset: 9, 3
+	index: -1

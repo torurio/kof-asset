@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>wy_2_2_52481_dddldsdqdimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{373,2},{120,118}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{120,118}}</string>
+			<key>sourceSize</key>
+			<string>{120,118}</string>
+		</dict>
+		<key>wy_4_4_69105_dddldsdqdimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{369,552}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{369,552}}</string>
+			<key>sourceSize</key>
+			<string>{369,552}</string>
+		</dict>
+		<key>wy_7_7_14609_dddldsdqdimage.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,556},{139,139}}</string>
+			<key>offset</key>
+			<string>{-1,1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1,1},{139,139}}</string>
+			<key>sourceSize</key>
+			<string>{143,143}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>dddldsdqdimage.png</string>
+		<key>size</key>
+		<string>{512,1024}</string>
+		<key>smartupdate</key>
+		<string></string>
+		<key>textureFileName</key>
+		<string>dddldsdqdimage.png</string>
+	</dict>
+</dict>
+</plist>
