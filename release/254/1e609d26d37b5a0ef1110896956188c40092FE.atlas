@@ -1,0 +1,1956 @@
+
+asset/spine/najide_common11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_njd_liumenbisha_zwsh_00250
+	rotate: false
+	xy: 710, 836
+	size: 226, 186
+	orig: 416, 242
+	offset: 98, 23
+	index: -1
+effect/common/New_njd_liumenbisha_zhhk_00399
+	rotate: true
+	xy: 2, 565
+	size: 141, 319
+	orig: 221, 389
+	offset: 31, 2
+	index: -1
+effect/common/New_njd_xiaojineng_stw_00154
+	rotate: true
+	xy: 803, 666
+	size: 160, 133
+	orig: 180, 159
+	offset: 7, 4
+	index: -1
+effect/common/New_njd_liumenbisha_zhbz_00501
+	rotate: false
+	xy: 2, 398
+	size: 331, 166
+	orig: 361, 186
+	offset: 15, 9
+	index: -1
+effect/common/New_njd_putongbisha1_stw_00029
+	rotate: false
+	xy: 590, 738
+	size: 76, 76
+	orig: 212, 132
+	offset: 130, 55
+	index: -1
+effect/common/New_njd_xiaojineng_xq_00079
+	rotate: true
+	xy: 937, 790
+	size: 102, 85
+	orig: 220, 263
+	offset: 82, 116
+	index: -1
+effect/common/New_njd_liumenbisha_zhbz_00513
+	rotate: false
+	xy: 335, 354
+	size: 331, 178
+	orig: 361, 186
+	offset: 28, 1
+	index: -1
+effect/common/New_njd_liumenbisha_zhhk_00435
+	rotate: false
+	xy: 2, 707
+	size: 161, 315
+	orig: 221, 389
+	offset: 22, 19
+	index: -1
+effect/common/New_njd_putongbisha1_lxb_00052
+	rotate: false
+	xy: 337, 218
+	size: 332, 135
+	orig: 392, 171
+	offset: 46, 26
+	index: -1
+effect/common/New_njd_liumenbisha_zhhk_00427
+	rotate: true
+	xy: 667, 356
+	size: 155, 331
+	orig: 221, 389
+	offset: 27, 19
+	index: -1
+effect/common/New_njd_putongbisha1_lxb_00056
+	rotate: false
+	xy: 341, 2
+	size: 338, 113
+	orig: 392, 171
+	offset: 49, 43
+	index: -1
+effect/common/New_njd_liumenbisha_zhhk_00411
+	rotate: true
+	xy: 667, 512
+	size: 153, 329
+	orig: 221, 389
+	offset: 26, 17
+	index: -1
+effect/common/New_njd_putongbisha1_lxb_00020
+	rotate: false
+	xy: 341, 116
+	size: 336, 101
+	orig: 392, 171
+	offset: 23, 45
+	index: -1
+
+asset/spine/sqleXVDY_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_hongquan__00018
+	rotate: true
+	xy: 829, 428
+	size: 150, 162
+	orig: 172, 174
+	offset: 12, 12
+	index: -1
+
+asset/spine/global_spinehero_effect12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_dlls_ptbs_baibo_00047
+	rotate: false
+	xy: 622, 467
+	size: 307, 305
+	orig: 307, 305
+	offset: 0, 0
+	index: -1
+
+asset/spine/najide_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_njd_xiaojineng_lz_00166
+	rotate: true
+	xy: 729, 979
+	size: 42, 57
+	orig: 70, 75
+	offset: 18, 3
+	index: -1
+effect/common/New_njd_liumenbisha_zwsh_00242
+	rotate: false
+	xy: 814, 220
+	size: 208, 168
+	orig: 416, 242
+	offset: 110, 55
+	index: -1
+effect/common/New_njd_liumenbisha_zhhk_00447
+	rotate: false
+	xy: 2, 701
+	size: 171, 321
+	orig: 221, 389
+	offset: 25, 21
+	index: -1
+effect/common/New_njd_xiaojineng_lz2_00166
+	rotate: false
+	xy: 933, 991
+	size: 41, 28
+	orig: 77, 72
+	offset: 16, 31
+	index: -1
+effect/common/New_njd_xiaojineng_lz2_00194
+	rotate: false
+	xy: 330, 799
+	size: 75, 64
+	orig: 77, 72
+	offset: 0, 4
+	index: -1
+
+asset/spine/bzqjsxv_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_dlls_ptbs_baibo_00041
+	rotate: false
+	xy: 212, 924
+	size: 96, 96
+	orig: 96, 96
+	offset: 0, 0
+	index: -1
+effect/global/New_dlls_ptbs_baibo_00037
+	rotate: true
+	xy: 983, 943
+	size: 37, 39
+	orig: 39, 39
+	offset: 0, 0
+	index: -1
+
+asset/spine/najide_common7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_njd_xiaojineng_xq_00099
+	rotate: true
+	xy: 778, 98
+	size: 172, 243
+	orig: 220, 263
+	offset: 33, 20
+	index: -1
+effect/common/New_njd_liumenbisha_zwsh_00198
+	rotate: false
+	xy: 778, 271
+	size: 242, 156
+	orig: 416, 242
+	offset: 116, 72
+	index: -1
+effect/common/New_njd_putongbisha1_lxb_00040
+	rotate: true
+	xy: 350, 271
+	size: 378, 143
+	orig: 392, 171
+	offset: 0, 7
+	index: -1
+effect/common/New_njd_putongbisha1_lxb_00076
+	rotate: false
+	xy: 778, 2
+	size: 244, 95
+	orig: 392, 171
+	offset: 111, 50
+	index: -1
+effect/common/New_njd_liumenbisha_zwsh_00226
+	rotate: true
+	xy: 127, 271
+	size: 378, 222
+	orig: 416, 242
+	offset: 30, 20
+	index: -1
+effect/common/New_njd_putongbisha1_lxb_00017
+	rotate: false
+	xy: 744, 650
+	size: 278, 141
+	orig: 392, 171
+	offset: 30, 22
+	index: -1
+effect/common/New_njd_xiaojineng_lz2_00210
+	rotate: true
+	xy: 866, 989
+	size: 33, 52
+	orig: 77, 72
+	offset: 18, 19
+	index: -1
+effect/common/New_njd_putonggongji_zui3_00083
+	rotate: true
+	xy: 510, 165
+	size: 105, 131
+	orig: 133, 139
+	offset: 7, 1
+	index: -1
+effect/common/New_njd_putongbisha1_lxb_00028
+	rotate: false
+	xy: 2, 165
+	size: 358, 105
+	orig: 392, 171
+	offset: 25, 46
+	index: -1
+
+asset/spine/najide_common6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_njd_liumenbisha_zhbz_00481
+	rotate: true
+	xy: 318, 749
+	size: 273, 154
+	orig: 361, 186
+	offset: 58, 16
+	index: -1
+effect/common/New_njd_liumenbisha_zhhk_00403
+	rotate: false
+	xy: 168, 717
+	size: 149, 305
+	orig: 221, 389
+	offset: 34, 0
+	index: -1
+effect/common/New_njd_liumenbisha_zwsh_00230
+	rotate: true
+	xy: 790, 2
+	size: 372, 230
+	orig: 416, 242
+	offset: 18, 9
+	index: -1
+effect/common/New_njd_liumenbisha_zhbz_00469
+	rotate: false
+	xy: 781, 749
+	size: 241, 148
+	orig: 361, 186
+	offset: 74, 9
+	index: -1
+effect/common/New_njd_putongbisha1_lxb_00015
+	rotate: false
+	xy: 782, 589
+	size: 240, 159
+	orig: 392, 171
+	offset: 33, 12
+	index: -1
+effect/common/New_njd_liumenbisha_zhhk_00443
+	rotate: false
+	xy: 2, 717
+	size: 165, 305
+	orig: 221, 389
+	offset: 26, 23
+	index: -1
+effect/common/New_njd_liumenbisha_zhbz_00493
+	rotate: false
+	xy: 473, 717
+	size: 307, 156
+	orig: 361, 186
+	offset: 30, 13
+	index: -1
+effect/common/New_njd_liumenbisha_zhhk_00459
+	rotate: true
+	xy: 784, 375
+	size: 213, 235
+	orig: 221, 389
+	offset: 8, 33
+	index: -1
+
+asset/spine/najide_common5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_njd_putonggongji_zui3_00115
+	rotate: false
+	xy: 794, 947
+	size: 61, 75
+	orig: 133, 139
+	offset: 3, 39
+	index: -1
+effect/common/New_njd_xiaojineng_hs_00071
+	rotate: true
+	xy: 725, 643
+	size: 111, 61
+	orig: 145, 85
+	offset: 8, 10
+	index: -1
+effect/common/New_njd_liumenbisha_zhhk_00419
+	rotate: false
+	xy: 281, 445
+	size: 155, 309
+	orig: 221, 389
+	offset: 26, 18
+	index: -1
+effect/common/New_njd_liumenbisha_sh_00188
+	rotate: true
+	xy: 725, 604
+	size: 38, 68
+	orig: 132, 188
+	offset: 69, 87
+	index: -1
+effect/common/New_njd_liumenbisha_sh_00132
+	rotate: true
+	xy: 731, 861
+	size: 122, 62
+	orig: 132, 188
+	offset: 1, 2
+	index: -1
+effect/common/New_njd_putonggongji_zui2_00065
+	rotate: false
+	xy: 856, 947
+	size: 166, 74
+	orig: 234, 94
+	offset: 52, 2
+	index: -1
+effect/common/New_njd_liumenbisha_zhbz_00521
+	rotate: true
+	xy: 181, 755
+	size: 267, 180
+	orig: 361, 186
+	offset: 47, 3
+	index: -1
+
+asset/spine/sqleXVDY_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_hongquan__00021
+	rotate: false
+	xy: 704, 910
+	size: 102, 104
+	orig: 172, 174
+	offset: 40, 40
+	index: -1
+
+asset/spine/najide_common10.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_njd_liumenbisha_sh_00148
+	rotate: false
+	xy: 556, 872
+	size: 114, 150
+	orig: 132, 188
+	offset: 5, 21
+	index: -1
+effect/common/New_njd_liumenbisha_sh_00172
+	rotate: false
+	xy: 311, 872
+	size: 126, 150
+	orig: 132, 188
+	offset: 6, 29
+	index: -1
+effect/common/New_njd_putongbisha2_gj_00038
+	rotate: false
+	xy: 2, 636
+	size: 209, 171
+	orig: 277, 235
+	offset: 6, 47
+	index: -1
+effect/common/New_njd_liumenbisha_zhbz_00461
+	rotate: true
+	xy: 212, 636
+	size: 209, 130
+	orig: 361, 186
+	offset: 90, 9
+	index: -1
+effect/common/New_njd_liumenbisha_zhhk_00431
+	rotate: true
+	xy: 683, 650
+	size: 157, 339
+	orig: 221, 389
+	offset: 24, 18
+	index: -1
+effect/common/New_njd_xiaojineng_xq_00139
+	rotate: false
+	xy: 909, 808
+	size: 92, 63
+	orig: 220, 263
+	offset: 8, 92
+	index: -1
+effect/common/New_njd_liumenbisha_zhbz_00497
+	rotate: false
+	xy: 700, 2
+	size: 319, 164
+	orig: 361, 186
+	offset: 23, 11
+	index: -1
+effect/common/New_njd_liumenbisha_zhhk_00415
+	rotate: true
+	xy: 351, 118
+	size: 155, 347
+	orig: 221, 389
+	offset: 24, 15
+	index: -1
+effect/common/New_njd_putongbisha2_gj_00070
+	rotate: true
+	xy: 803, 808
+	size: 63, 105
+	orig: 277, 235
+	offset: 35, 47
+	index: -1
+
+asset/spine/najide_common13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_njd_liumenbisha_sh_00144
+	rotate: false
+	xy: 922, 568
+	size: 100, 126
+	orig: 132, 188
+	offset: 17, 15
+	index: -1
+effect/common/New_njd_xiaojineng_xq_00095
+	rotate: true
+	xy: 767, 181
+	size: 172, 225
+	orig: 220, 263
+	offset: 43, 7
+	index: -1
+effect/common/New_njd_liumenbisha_zhbz_00473
+	rotate: false
+	xy: 2, 169
+	size: 247, 156
+	orig: 361, 186
+	offset: 74, 9
+	index: -1
+effect/common/New_njd_xiaojineng_xq_00083
+	rotate: true
+	xy: 718, 654
+	size: 128, 199
+	orig: 220, 263
+	offset: 70, 0
+	index: -1
+effect/common/New_njd_liumenbisha_zwsh_00190
+	rotate: true
+	xy: 185, 750
+	size: 194, 142
+	orig: 416, 242
+	offset: 142, 74
+	index: -1
+effect/common/New_njd_liumenbisha_zhbz_00465
+	rotate: false
+	xy: 519, 259
+	size: 225, 142
+	orig: 361, 186
+	offset: 82, 9
+	index: -1
+effect/common/New_njd_liumenbisha_zwsh_00246
+	rotate: false
+	xy: 801, 2
+	size: 218, 178
+	orig: 416, 242
+	offset: 103, 40
+	index: -1
+effect/common/New_njd_putongbisha1_zui_00020
+	rotate: true
+	xy: 333, 698
+	size: 50, 67
+	orig: 110, 157
+	offset: 15, 52
+	index: -1
+effect/common/New_njd_putongbisha1_zui_00024
+	rotate: false
+	xy: 2, 879
+	size: 90, 143
+	orig: 110, 157
+	offset: 4, 7
+	index: -1
+effect/common/New_njd_xiaojineng_lz_00190
+	rotate: false
+	xy: 451, 680
+	size: 66, 69
+	orig: 70, 75
+	offset: 1, 6
+	index: -1
+effect/common/New_njd_putongbisha1_stw_00021
+	rotate: true
+	xy: 493, 902
+	size: 120, 104
+	orig: 212, 132
+	offset: 88, 28
+	index: -1
+effect/common/New_njd_xiaojineng_lz_00198
+	rotate: true
+	xy: 266, 945
+	size: 66, 61
+	orig: 70, 75
+	offset: 4, 13
+	index: -1
+effect/common/New_njd_putonggongji_zui3_00059
+	rotate: true
+	xy: 93, 879
+	size: 39, 91
+	orig: 133, 139
+	offset: 8, 29
+	index: -1
+effect/common/New_njd_putongbisha1_stw_00017
+	rotate: false
+	xy: 328, 902
+	size: 164, 120
+	orig: 212, 132
+	offset: 43, 11
+	index: -1
+effect/common/New_njd_putongbisha1_lxb_00068
+	rotate: false
+	xy: 271, 2
+	size: 268, 99
+	orig: 392, 171
+	offset: 111, 45
+	index: -1
+effect/common/New_njd_xiaojineng_xq_00115
+	rotate: true
+	xy: 2, 544
+	size: 188, 201
+	orig: 220, 263
+	offset: 3, 25
+	index: -1
+effect/common/New_njd_liumenbisha_sh_00184
+	rotate: true
+	xy: 950, 354
+	size: 74, 72
+	orig: 132, 188
+	offset: 36, 87
+	index: -1
+effect/common/New_njd_xiaojineng_xq_00123
+	rotate: false
+	xy: 2, 733
+	size: 182, 145
+	orig: 220, 263
+	offset: 1, 56
+	index: -1
+effect/common/New_njd_liumenbisha_zwsh_00202
+	rotate: false
+	xy: 2, 2
+	size: 268, 166
+	orig: 416, 242
+	offset: 103, 69
+	index: -1
+
+asset/spine/najide_common12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_njd_liumenbisha_zhbz_00485
+	rotate: false
+	xy: 299, 156
+	size: 289, 162
+	orig: 361, 186
+	offset: 47, 16
+	index: -1
+effect/common/New_njd_liumenbisha_zhhk_00391
+	rotate: false
+	xy: 202, 500
+	size: 85, 49
+	orig: 221, 389
+	offset: 59, 6
+	index: -1
+effect/common/New_njd_liumenbisha_zhbz_00517
+	rotate: false
+	xy: 581, 371
+	size: 277, 178
+	orig: 361, 186
+	offset: 36, 2
+	index: -1
+effect/common/New_njd_liumenbisha_zhhk_00407
+	rotate: true
+	xy: 321, 2
+	size: 153, 297
+	orig: 221, 389
+	offset: 29, 12
+	index: -1
+effect/common/New_njd_xiaojineng_xq_00107
+	rotate: false
+	xy: 387, 833
+	size: 204, 189
+	orig: 220, 263
+	offset: 3, 45
+	index: -1
+effect/common/New_njd_liumenbisha_zwsh_00206
+	rotate: false
+	xy: 619, 2
+	size: 296, 166
+	orig: 416, 242
+	offset: 89, 66
+	index: -1
+effect/common/New_njd_putonggongji_zui2_00057
+	rotate: true
+	xy: 2, 350
+	size: 188, 92
+	orig: 234, 94
+	offset: 46, 0
+	index: -1
+effect/common/New_njd_liumenbisha_zzbd_00140
+	rotate: true
+	xy: 387, 478
+	size: 118, 193
+	orig: 132, 195
+	offset: 0, 2
+	index: -1
+effect/common/New_njd_liumenbisha_zzbd_00156
+	rotate: false
+	xy: 902, 788
+	size: 120, 175
+	orig: 132, 195
+	offset: 6, 19
+	index: -1
+effect/common/New_njd_putongbisha2_gj_00030
+	rotate: true
+	xy: 95, 350
+	size: 149, 203
+	orig: 277, 235
+	offset: 68, 32
+	index: -1
+effect/common/New_njd_liumenbisha_zzbd_00144
+	rotate: true
+	xy: 387, 597
+	size: 118, 193
+	orig: 132, 195
+	offset: 0, 0
+	index: -1
+effect/common/New_njd_putonggongji_zui2_00053
+	rotate: true
+	xy: 2, 788
+	size: 234, 92
+	orig: 234, 94
+	offset: 0, 0
+	index: -1
+effect/common/New_njd_putongbisha2_gj_00042
+	rotate: true
+	xy: 241, 550
+	size: 209, 145
+	orig: 277, 235
+	offset: 3, 50
+	index: -1
+effect/common/New_njd_xiaojineng_lz2_00186
+	rotate: true
+	xy: 299, 478
+	size: 71, 72
+	orig: 77, 72
+	offset: 5, 0
+	index: -1
+effect/common/njd_liumenbisha_zz2_00157
+	rotate: true
+	xy: 2, 122
+	size: 227, 296
+	orig: 227, 296
+	offset: 0, 0
+	index: -1
+effect/common/New_njd_liumenbisha_zhbz_00525
+	rotate: false
+	xy: 581, 550
+	size: 271, 184
+	orig: 361, 186
+	offset: 45, 1
+	index: -1
+effect/common/New_njd_liumenbisha_zhhk_00451
+	rotate: true
+	xy: 589, 169
+	size: 201, 287
+	orig: 221, 389
+	offset: 12, 22
+	index: -1
+
+asset/spine/lianna_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_dlls_ptbs_baibo_00045
+	rotate: true
+	xy: 94, 555
+	size: 182, 181
+	orig: 182, 181
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx3
+	rotate: false
+	xy: 899, 851
+	size: 121, 106
+	orig: 121, 106
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx2
+	rotate: false
+	xy: 341, 900
+	size: 143, 122
+	orig: 143, 122
+	offset: 0, 0
+	index: -1
+
+asset/spine/najide_common9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_njd_liumenbisha_zhbz_00489
+	rotate: false
+	xy: 708, 163
+	size: 303, 168
+	orig: 361, 186
+	offset: 38, 15
+	index: -1
+effect/common/New_njd_xiaojineng_stw_00146
+	rotate: false
+	xy: 352, 678
+	size: 154, 137
+	orig: 180, 159
+	offset: 9, 2
+	index: -1
+effect/common/New_njd_liumenbisha_zhbz_00509
+	rotate: false
+	xy: 2, 128
+	size: 351, 176
+	orig: 361, 186
+	offset: 5, 3
+	index: -1
+effect/common/New_njd_liumenbisha_zhbz_00505
+	rotate: true
+	xy: 507, 678
+	size: 343, 170
+	orig: 361, 186
+	offset: 9, 6
+	index: -1
+effect/common/New_njd_putongbisha2_gj_00034
+	rotate: true
+	xy: 2, 478
+	size: 199, 197
+	orig: 277, 235
+	offset: 15, 35
+	index: -1
+effect/common/New_njd_putongbisha1_lxb_00044
+	rotate: false
+	xy: 678, 678
+	size: 342, 153
+	orig: 392, 171
+	offset: 34, 0
+	index: -1
+effect/common/New_njd_xiaojineng_xq_00119
+	rotate: true
+	xy: 191, 816
+	size: 206, 175
+	orig: 220, 263
+	offset: 1, 38
+	index: -1
+effect/common/New_njd_xiaojineng_xq_00111
+	rotate: true
+	xy: 678, 832
+	size: 190, 205
+	orig: 220, 263
+	offset: 1, 29
+	index: -1
+effect/common/New_njd_liumenbisha_zwsh_00214
+	rotate: true
+	xy: 2, 678
+	size: 344, 188
+	orig: 416, 242
+	offset: 65, 51
+	index: -1
+effect/common/New_njd_liumenbisha_zwsh_00210
+	rotate: false
+	xy: 701, 480
+	size: 320, 178
+	orig: 416, 242
+	offset: 78, 59
+	index: -1
+effect/common/New_njd_liumenbisha_zhhk_00423
+	rotate: false
+	xy: 200, 478
+	size: 151, 337
+	orig: 221, 389
+	offset: 29, 20
+	index: -1
+effect/common/New_njd_liumenbisha_zwsh_00234
+	rotate: false
+	xy: 354, 244
+	size: 350, 226
+	orig: 416, 242
+	offset: 45, 10
+	index: -1
+
+asset/spine/najide_common8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_njd_putongbisha2_gj_00046
+	rotate: false
+	xy: 715, 907
+	size: 211, 115
+	orig: 277, 235
+	offset: 0, 77
+	index: -1
+effect/common/New_njd_liumenbisha_zzbd_00136
+	rotate: false
+	xy: 89, 781
+	size: 102, 189
+	orig: 132, 195
+	offset: 15, 5
+	index: -1
+effect/common/New_njd_liumenbisha_zhbz_00529
+	rotate: true
+	xy: 2, 781
+	size: 239, 86
+	orig: 361, 186
+	offset: 76, 100
+	index: -1
+effect/common/New_njd_putongbisha2_gj_00050
+	rotate: false
+	xy: 541, 855
+	size: 173, 141
+	orig: 277, 235
+	offset: 37, 43
+	index: -1
+effect/common/New_njd_liumenbisha_zhbz_00477
+	rotate: false
+	xy: 457, 612
+	size: 257, 154
+	orig: 361, 186
+	offset: 68, 9
+	index: -1
+effect/common/New_njd_liumenbisha_zzhd_00156
+	rotate: false
+	xy: 457, 855
+	size: 83, 167
+	orig: 87, 171
+	offset: 4, 3
+	index: -1
+effect/common/New_njd_putongbisha2_gj_00074
+	rotate: true
+	xy: 89, 971
+	size: 51, 87
+	orig: 277, 235
+	offset: 39, 47
+	index: -1
+effect/common/New_njd_putongbisha1_lxb_00024
+	rotate: false
+	xy: 377, 2
+	size: 374, 95
+	orig: 392, 171
+	offset: 14, 54
+	index: -1
+effect/common/New_njd_putonggongji_zui3_00063
+	rotate: true
+	xy: 927, 907
+	size: 105, 95
+	orig: 133, 139
+	offset: 5, 27
+	index: -1
+
+asset/spine/bzqjsxv_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_hongquan__00020
+	rotate: false
+	xy: 252, 733
+	size: 128, 128
+	orig: 188, 190
+	offset: 35, 37
+	index: -1
+effect/global/New_dlls_ptbs_baibo_00040
+	rotate: true
+	xy: 923, 551
+	size: 84, 85
+	orig: 86, 85
+	offset: 1, 0
+	index: -1
+effect/global/New_hongquan__00016
+	rotate: true
+	xy: 837, 364
+	size: 186, 184
+	orig: 188, 190
+	offset: 0, 4
+	index: -1
+effect/global/New_hongquan__00019
+	rotate: false
+	xy: 440, 513
+	size: 142, 142
+	orig: 188, 190
+	offset: 26, 33
+	index: -1
+
+asset/spine/najide_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_njd_putonggongji_zui3_00071
+	rotate: false
+	xy: 769, 903
+	size: 105, 119
+	orig: 133, 139
+	offset: 9, 12
+	index: -1
+effect/common/New_njd_putongbisha1_stw_00025
+	rotate: true
+	xy: 944, 2
+	size: 100, 78
+	orig: 212, 132
+	offset: 108, 46
+	index: -1
+effect/common/New_njd_liumenbisha_zzbd_00148
+	rotate: false
+	xy: 910, 556
+	size: 112, 189
+	orig: 132, 195
+	offset: 3, 6
+	index: -1
+effect/common/New_njd_liumenbisha_zwsh_00222
+	rotate: false
+	xy: 549, 507
+	size: 360, 212
+	orig: 416, 242
+	offset: 38, 30
+	index: -1
+effect/common/New_njd_liumenbisha_sh_00191
+	rotate: false
+	xy: 448, 363
+	size: 10, 10
+	orig: 132, 188
+	offset: 84, 140
+	index: -1
+effect/common/New_njd_liumenbisha_sh_00136
+	rotate: false
+	xy: 944, 103
+	size: 78, 92
+	orig: 132, 188
+	offset: 39, 0
+	index: -1
+effect/common/New_njd_xiaojineng_lz2_00162
+	rotate: false
+	xy: 816, 720
+	size: 31, 22
+	orig: 77, 72
+	offset: 18, 29
+	index: -1
+
+asset/spine/najide_common4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_njd_xiaojineng_xq_00091
+	rotate: true
+	xy: 802, 139
+	size: 132, 219
+	orig: 220, 263
+	offset: 55, 26
+	index: -1
+effect/common/New_njd_liumenbisha_zhhk_00395
+	rotate: true
+	xy: 843, 770
+	size: 101, 143
+	orig: 221, 389
+	offset: 61, 3
+	index: -1
+effect/common/New_njd_putongbisha1_zui_00022
+	rotate: true
+	xy: 462, 956
+	size: 66, 105
+	orig: 110, 157
+	offset: 10, 30
+	index: -1
+effect/common/New_njd_xiaojineng_lz_00194
+	rotate: false
+	xy: 395, 957
+	size: 66, 65
+	orig: 70, 75
+	offset: 2, 9
+	index: -1
+effect/common/New_njd_putongbisha2_gj_00062
+	rotate: true
+	xy: 271, 957
+	size: 65, 123
+	orig: 277, 235
+	offset: 38, 49
+	index: -1
+effect/common/New_njd_xiaojineng_lz_00186
+	rotate: true
+	xy: 76, 576
+	size: 68, 69
+	orig: 70, 75
+	offset: 0, 4
+	index: -1
+effect/common/New_njd_putonggongji_zui_00021
+	rotate: true
+	xy: 214, 576
+	size: 68, 65
+	orig: 118, 95
+	offset: 16, 9
+	index: -1
+effect/common/New_njd_putongbisha1_lxb_00036
+	rotate: true
+	xy: 2, 645
+	size: 376, 139
+	orig: 392, 171
+	offset: 6, 16
+	index: -1
+effect/common/New_njd_putongbisha1_lxb_00032
+	rotate: true
+	xy: 280, 576
+	size: 380, 119
+	orig: 392, 171
+	offset: 12, 33
+	index: -1
+effect/common/New_njd_xiaojineng_xq_00143
+	rotate: true
+	xy: 568, 956
+	size: 66, 37
+	orig: 220, 263
+	offset: 11, 102
+	index: -1
+effect/common/New_njd_putongbisha2_gj_00066
+	rotate: false
+	xy: 400, 640
+	size: 61, 119
+	orig: 277, 235
+	offset: 37, 47
+	index: -1
+
+asset/spine/najide_common14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_njd_liumenbisha_zzhd_00144
+	rotate: true
+	xy: 743, 754
+	size: 79, 157
+	orig: 87, 171
+	offset: 3, 14
+	index: -1
+effect/common/New_njd_xiaojineng_lz_00178
+	rotate: true
+	xy: 582, 773
+	size: 60, 67
+	orig: 70, 75
+	offset: 2, 0
+	index: -1
+effect/common/New_njd_liumenbisha_sh_00140
+	rotate: true
+	xy: 485, 742
+	size: 106, 96
+	orig: 132, 188
+	offset: 11, 19
+	index: -1
+effect/common/New_njd_liumenbisha_zwsh_00186
+	rotate: false
+	xy: 182, 327
+	size: 170, 132
+	orig: 416, 242
+	offset: 152, 75
+	index: -1
+effect/common/New_njd_xiaojineng_stw_00150
+	rotate: false
+	xy: 585, 378
+	size: 172, 133
+	orig: 180, 159
+	offset: 8, 3
+	index: -1
+effect/common/New_njd_putonggongji_zui3_00079
+	rotate: true
+	xy: 901, 777
+	size: 113, 121
+	orig: 133, 139
+	offset: 6, 2
+	index: -1
+effect/common/New_njd_xiaojineng_hs_00055
+	rotate: false
+	xy: 900, 891
+	size: 115, 69
+	orig: 145, 85
+	offset: 0, 0
+	index: -1
+effect/common/New_njd_xiaojineng_stw_00158
+	rotate: false
+	xy: 326, 718
+	size: 158, 131
+	orig: 180, 159
+	offset: 7, 7
+	index: -1
+effect/common/New_njd_putongbisha1_zui_00030
+	rotate: false
+	xy: 505, 532
+	size: 78, 89
+	orig: 110, 157
+	offset: 11, 37
+	index: -1
+effect/common/New_njd_putongbisha1_zui_00032
+	rotate: true
+	xy: 520, 465
+	size: 66, 63
+	orig: 110, 157
+	offset: 14, 50
+	index: -1
+effect/common/New_njd_liumenbisha_zzhd_00148
+	rotate: false
+	xy: 82, 829
+	size: 79, 161
+	orig: 87, 171
+	offset: 3, 10
+	index: -1
+effect/common/New_njd_xiaojineng_xq_00087
+	rotate: true
+	xy: 776, 212
+	size: 118, 183
+	orig: 220, 263
+	offset: 65, 12
+	index: -1
+effect/common/New_njd_liumenbisha_zzhd_00137
+	rotate: true
+	xy: 332, 638
+	size: 79, 161
+	orig: 87, 171
+	offset: 4, 9
+	index: -1
+effect/common/New_njd_xiaojineng_lz2_00170
+	rotate: false
+	xy: 965, 61
+	size: 57, 50
+	orig: 77, 72
+	offset: 15, 13
+	index: -1
+effect/common/New_njd_putongbisha1_zui_00026
+	rotate: true
+	xy: 743, 645
+	size: 108, 157
+	orig: 110, 157
+	offset: 2, 0
+	index: -1
+effect/common/New_njd_putonggongji_zui2_00061
+	rotate: false
+	xy: 190, 234
+	size: 180, 92
+	orig: 234, 94
+	offset: 52, 1
+	index: -1
+effect/common/New_njd_liumenbisha_sh_00160
+	rotate: true
+	xy: 167, 585
+	size: 130, 164
+	orig: 132, 188
+	offset: 2, 22
+	index: -1
+effect/common/New_njd_liumenbisha_sh_00164
+	rotate: true
+	xy: 353, 380
+	size: 126, 166
+	orig: 132, 188
+	offset: 5, 18
+	index: -1
+effect/common/New_njd_putonggongji_zui3_00111
+	rotate: true
+	xy: 494, 672
+	size: 69, 89
+	orig: 133, 139
+	offset: 7, 34
+	index: -1
+effect/common/New_njd_liumenbisha_zzbd_00132
+	rotate: true
+	xy: 2, 237
+	size: 112, 179
+	orig: 132, 195
+	offset: 10, 14
+	index: -1
+effect/common/New_njd_putongbisha1_stw_00010
+	rotate: false
+	xy: 592, 269
+	size: 178, 108
+	orig: 212, 132
+	offset: 3, 0
+	index: -1
+effect/common/New_njd_xiaojineng_lz2_00174
+	rotate: true
+	xy: 962, 961
+	size: 61, 58
+	orig: 77, 72
+	offset: 14, 7
+	index: -1
+effect/common/New_njd_putongbisha1_stw_00013
+	rotate: false
+	xy: 397, 2
+	size: 194, 126
+	orig: 212, 132
+	offset: 13, 5
+	index: -1
+effect/common/New_njd_putongbisha1_stw_00008
+	rotate: true
+	xy: 467, 891
+	size: 130, 102
+	orig: 212, 132
+	offset: 2, 8
+	index: -1
+effect/common/New_njd_liumenbisha_zzbd_00152
+	rotate: true
+	xy: 758, 448
+	size: 114, 171
+	orig: 132, 195
+	offset: 4, 23
+	index: -1
+effect/common/New_njd_putongbisha2_gj_00054
+	rotate: false
+	xy: 570, 891
+	size: 151, 129
+	orig: 277, 235
+	offset: 40, 51
+	index: -1
+effect/common/New_njd_putongbisha1_lxb_00013
+	rotate: false
+	xy: 371, 254
+	size: 178, 125
+	orig: 392, 171
+	offset: 40, 31
+	index: -1
+effect/common/New_njd_xiaojineng_lz2_00202
+	rotate: false
+	xy: 965, 2
+	size: 57, 58
+	orig: 77, 72
+	offset: 3, 10
+	index: -1
+effect/common/New_njd_putongbisha2_gj_00022
+	rotate: true
+	xy: 2, 693
+	size: 135, 161
+	orig: 277, 235
+	offset: 142, 14
+	index: -1
+effect/common/New_njd_putongbisha1_lxb_00009
+	rotate: false
+	xy: 828, 961
+	size: 66, 61
+	orig: 392, 171
+	offset: 52, 61
+	index: -1
+effect/common/New_njd_liumenbisha_zzhd_00134
+	rotate: false
+	xy: 947, 442
+	size: 73, 159
+	orig: 87, 171
+	offset: 4, 11
+	index: -1
+effect/common/New_njd_liumenbisha_zzhd_00140
+	rotate: false
+	xy: 2, 829
+	size: 79, 161
+	orig: 87, 171
+	offset: 3, 9
+	index: -1
+effect/common/New_njd_putongbisha2_gj_00026
+	rotate: true
+	xy: 592, 127
+	size: 141, 183
+	orig: 277, 235
+	offset: 127, 17
+	index: -1
+effect/common/New_njd_xiaojineng_lz2_00198
+	rotate: true
+	xy: 960, 222
+	size: 71, 62
+	orig: 77, 72
+	offset: 0, 7
+	index: -1
+effect/common/New_njd_liumenbisha_zzbd_00160
+	rotate: true
+	xy: 389, 129
+	size: 124, 181
+	orig: 132, 195
+	offset: 8, 14
+	index: -1
+effect/common/New_njd_liumenbisha_sh_00156
+	rotate: true
+	xy: 2, 562
+	size: 130, 164
+	orig: 132, 188
+	offset: 1, 24
+	index: -1
+effect/common/New_njd_liumenbisha_zzhd_00152
+	rotate: true
+	xy: 2, 482
+	size: 79, 165
+	orig: 87, 171
+	offset: 3, 6
+	index: -1
+effect/common/New_njd_liumenbisha_zhbz_00457
+	rotate: false
+	xy: 779, 2
+	size: 185, 116
+	orig: 361, 186
+	offset: 103, 10
+	index: -1
+
+asset/spine/global_spinehero_effect13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_dlls_ptbs_baibo_00043
+	rotate: false
+	xy: 358, 308
+	size: 252, 250
+	orig: 252, 250
+	offset: 0, 0
+	index: -1
+
+asset/spine/sqleXV_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_hongquan__00017
+	rotate: true
+	xy: 558, 856
+	size: 164, 178
+	orig: 180, 182
+	offset: 7, 3
+	index: -1
+
+asset/spine/global_spinehero_effect1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx4
+	rotate: true
+	xy: 226, 612
+	size: 67, 60
+	orig: 67, 60
+	offset: 0, 0
+	index: -1
+
+asset/spine/lkhhdXV_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_dlls_ptbs_baibo_00036
+	rotate: false
+	xy: 780, 999
+	size: 21, 21
+	orig: 21, 21
+	offset: 0, 0
+	index: -1
+
+asset/spine/bzqjsxv_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_hongquan__00022
+	rotate: false
+	xy: 573, 110
+	size: 94, 94
+	orig: 188, 190
+	offset: 50, 53
+	index: -1
+effect/global/New_dlls_ptbs_baibo_00039
+	rotate: true
+	xy: 682, 547
+	size: 73, 74
+	orig: 75, 74
+	offset: 0, 0
+	index: -1
+effect/global/New_dlls_ptbs_baibo_00038
+	rotate: false
+	xy: 966, 682
+	size: 55, 55
+	orig: 55, 55
+	offset: 0, 0
+	index: -1
+effect/global/New_dlls_ptbs_baibo_00042
+	rotate: false
+	xy: 573, 2
+	size: 108, 107
+	orig: 108, 107
+	offset: 0, 0
+	index: -1
+effect/global/New_dlls_ptbs_baibo_00046
+	rotate: true
+	xy: 573, 205
+	size: 138, 137
+	orig: 138, 137
+	offset: 0, 0
+	index: -1
+
+asset/spine/najide_common15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_njd_xiaojineng_lz_00174
+	rotate: true
+	xy: 427, 847
+	size: 58, 67
+	orig: 70, 75
+	offset: 2, 0
+	index: -1
+effect/common/New_njd_xiaojineng_lz_00170
+	rotate: true
+	xy: 640, 191
+	size: 56, 61
+	orig: 70, 75
+	offset: 2, 4
+	index: -1
+effect/common/New_njd_liumenbisha_zwsh_00182
+	rotate: true
+	xy: 2, 769
+	size: 144, 118
+	orig: 416, 242
+	offset: 163, 77
+	index: -1
+effect/common/New_njd_xiaojineng_hs_00057
+	rotate: true
+	xy: 490, 258
+	size: 123, 81
+	orig: 145, 85
+	offset: 2, 1
+	index: -1
+effect/common/New_njd_putonggongji_zui3_00075
+	rotate: false
+	xy: 282, 151
+	size: 123, 133
+	orig: 133, 139
+	offset: 6, 3
+	index: -1
+effect/common/New_njd_liumenbisha_sh_00176
+	rotate: false
+	xy: 2, 622
+	size: 108, 146
+	orig: 132, 188
+	offset: 14, 26
+	index: -1
+effect/common/New_njd_putongbisha2_gj_00058
+	rotate: false
+	xy: 284, 446
+	size: 101, 127
+	orig: 277, 235
+	offset: 39, 50
+	index: -1
+effect/common/New_njd_putongbisha1_zui_00028
+	rotate: false
+	xy: 494, 2
+	size: 92, 125
+	orig: 110, 157
+	offset: 6, 18
+	index: -1
+effect/common/New_njd_liumenbisha_sh_00168
+	rotate: false
+	xy: 2, 2
+	size: 126, 156
+	orig: 132, 188
+	offset: 5, 26
+	index: -1
+effect/common/New_njd_xiaojineng_stw_00170
+	rotate: true
+	xy: 316, 732
+	size: 126, 107
+	orig: 180, 159
+	offset: 0, 39
+	index: -1
+effect/common/New_njd_xiaojineng_stw_00174
+	rotate: true
+	xy: 939, 152
+	size: 50, 53
+	orig: 180, 159
+	offset: 11, 88
+	index: -1
+effect/common/New_njd_putongbisha2_gj_00018
+	rotate: false
+	xy: 406, 132
+	size: 93, 125
+	orig: 277, 235
+	offset: 154, 10
+	index: -1
+effect/common/New_njd_xiaojineng_lz_00182
+	rotate: true
+	xy: 561, 839
+	size: 66, 69
+	orig: 70, 75
+	offset: 0, 2
+	index: -1
+effect/common/New_njd_putonggongji_zui3_00107
+	rotate: false
+	xy: 939, 2
+	size: 83, 99
+	orig: 133, 139
+	offset: 7, 29
+	index: -1
+effect/common/New_njd_xiaojineng_stw_00166
+	rotate: true
+	xy: 129, 2
+	size: 154, 141
+	orig: 180, 159
+	offset: 1, 13
+	index: -1
+effect/common/New_njd_xiaojineng_lz2_00178
+	rotate: true
+	xy: 805, 2
+	size: 65, 62
+	orig: 77, 72
+	offset: 12, 7
+	index: -1
+effect/common/New_njd_xiaojineng_stw_00162
+	rotate: false
+	xy: 2, 159
+	size: 152, 155
+	orig: 180, 159
+	offset: 3, 2
+	index: -1
+effect/common/New_njd_xiaojineng_hs_00064
+	rotate: true
+	xy: 218, 310
+	size: 135, 67
+	orig: 145, 85
+	offset: 10, 7
+	index: -1
+effect/common/New_njd_xiaojineng_hs_00060
+	rotate: true
+	xy: 238, 765
+	size: 139, 77
+	orig: 145, 85
+	offset: 0, 1
+	index: -1
+effect/common/New_njd_xiaojineng_hs_00068
+	rotate: true
+	xy: 214, 468
+	size: 135, 69
+	orig: 145, 85
+	offset: 10, 7
+	index: -1
+effect/common/New_njd_putonggongji_zui3_00099
+	rotate: true
+	xy: 401, 906
+	size: 113, 103
+	orig: 133, 139
+	offset: 2, 22
+	index: -1
+effect/common/New_njd_putongbisha2_gj_00014
+	rotate: false
+	xy: 868, 72
+	size: 67, 91
+	orig: 277, 235
+	offset: 148, 0
+	index: -1
+effect/common/New_njd_putongbisha1_lxb_00011
+	rotate: true
+	xy: 507, 570
+	size: 120, 87
+	orig: 392, 171
+	offset: 46, 54
+	index: -1
+effect/common/New_njd_putonggongji_zui3_00103
+	rotate: false
+	xy: 702, 199
+	size: 101, 91
+	orig: 133, 139
+	offset: 2, 27
+	index: -1
+effect/common/New_njd_liumenbisha_sh_00180
+	rotate: true
+	xy: 596, 252
+	size: 92, 104
+	orig: 132, 188
+	offset: 18, 58
+	index: -1
+effect/common/New_njd_xiaojineng_lz2_00190
+	rotate: true
+	xy: 631, 831
+	size: 73, 70
+	orig: 77, 72
+	offset: 3, 2
+	index: -1
+effect/common/New_njd_putonggongji_zui_00023
+	rotate: true
+	xy: 505, 906
+	size: 112, 93
+	orig: 118, 95
+	offset: 6, 2
+	index: -1
+effect/common/New_njd_putonggongji_zui_00027
+	rotate: true
+	xy: 622, 718
+	size: 112, 93
+	orig: 118, 95
+	offset: 6, 2
+	index: -1
+effect/common/New_njd_putonggongji_zui_00025
+	rotate: true
+	xy: 528, 726
+	size: 112, 93
+	orig: 118, 95
+	offset: 6, 2
+	index: -1
+effect/common/New_njd_xiaojineng_xq_00131
+	rotate: false
+	xy: 80, 914
+	size: 138, 107
+	orig: 220, 263
+	offset: 3, 77
+	index: -1
+effect/common/New_njd_putonggongji_zui2_00069
+	rotate: true
+	xy: 386, 411
+	size: 124, 50
+	orig: 234, 94
+	offset: 75, 4
+	index: -1
+effect/common/New_njd_putonggongji_zui3_00087
+	rotate: false
+	xy: 437, 411
+	size: 91, 123
+	orig: 133, 139
+	offset: 8, 7
+	index: -1
+effect/common/New_njd_putongbisha1_stw_00033
+	rotate: false
+	xy: 805, 68
+	size: 62, 52
+	orig: 212, 132
+	offset: 150, 77
+	index: -1
+effect/common/New_njd_xiaojineng_lz2_00182
+	rotate: true
+	xy: 868, 2
+	size: 69, 70
+	orig: 77, 72
+	offset: 8, 0
+	index: -1
+effect/common/New_njd_xiaojineng_xq_00135
+	rotate: true
+	xy: 319, 906
+	size: 114, 81
+	orig: 220, 263
+	offset: 5, 83
+	index: -1
+effect/common/New_njd_putonggongji_zui3_00091
+	rotate: false
+	xy: 587, 2
+	size: 103, 121
+	orig: 133, 139
+	offset: 5, 7
+	index: -1
+effect/common/New_njd_putonggongji_zui3_00095
+	rotate: false
+	xy: 219, 906
+	size: 99, 115
+	orig: 133, 139
+	offset: 7, 15
+	index: -1
+effect/common/New_njd_liumenbisha_sh_00152
+	rotate: false
+	xy: 111, 622
+	size: 128, 142
+	orig: 132, 188
+	offset: 0, 29
+	index: -1
+effect/common/New_njd_putonggongji_zui3_00067
+	rotate: false
+	xy: 847, 898
+	size: 91, 105
+	orig: 133, 139
+	offset: 7, 18
+	index: -1
+
+asset/spine/global_spinehero_effect14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx1
+	rotate: false
+	xy: 855, 584
+	size: 167, 157
+	orig: 167, 157
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/swdjtx0
+	rotate: true
+	xy: 777, 838
+	size: 184, 180
+	orig: 184, 180
+	offset: 0, 0
+	index: -1
+
+asset/spine/bzxem_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_dlls_ptbs_baibo_00048
+	rotate: true
+	xy: 280, 522
+	size: 163, 162
+	orig: 163, 162
+	offset: 0, 0
+	index: -1
+effect/global/New_dlls_ptbs_baibo_00044
+	rotate: false
+	xy: 190, 887
+	size: 134, 135
+	orig: 136, 135
+	offset: 0, 0
+	index: -1
+
+asset/spine/najide_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_njd_liumenbisha_zwsh_00194
+	rotate: false
+	xy: 802, 445
+	size: 220, 150
+	orig: 416, 242
+	offset: 129, 72
+	index: -1
+effect/common/New_njd_liumenbisha_zhhk_00439
+	rotate: false
+	xy: 402, 687
+	size: 167, 335
+	orig: 221, 389
+	offset: 23, 21
+	index: -1
+effect/common/New_njd_liumenbisha_zwsh_00238
+	rotate: false
+	xy: 806, 2
+	size: 216, 164
+	orig: 416, 242
+	offset: 114, 69
+	index: -1
+effect/common/New_njd_xiaojineng_xq_00103
+	rotate: true
+	xy: 802, 596
+	size: 170, 219
+	orig: 220, 263
+	offset: 19, 34
+	index: -1
+effect/common/New_njd_liumenbisha_zzhd_00160
+	rotate: false
+	xy: 728, 687
+	size: 73, 171
+	orig: 87, 171
+	offset: 4, 0
+	index: -1
+effect/common/New_njd_putongbisha1_lxb_00048
+	rotate: true
+	xy: 570, 687
+	size: 334, 157
+	orig: 392, 171
+	offset: 41, 4
+	index: -1
+effect/common/New_njd_liumenbisha_zhbz_00453
+	rotate: true
+	xy: 936, 859
+	size: 139, 86
+	orig: 361, 186
+	offset: 127, 5
+	index: -1
+effect/common/New_njd_putongbisha1_lxb_00080
+	rotate: false
+	xy: 802, 767
+	size: 210, 91
+	orig: 392, 171
+	offset: 119, 56
+	index: -1
+effect/common/New_njd_xiaojineng_xq_00127
+	rotate: true
+	xy: 808, 859
+	size: 162, 127
+	orig: 220, 263
+	offset: 1, 65
+	index: -1
+effect/common/New_njd_liumenbisha_zhhk_00455
+	rotate: false
+	xy: 806, 167
+	size: 215, 277
+	orig: 221, 389
+	offset: 2, 28
+	index: -1
+
+asset/spine/najide_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_njd_putonggongji_zui3_00119
+	rotate: true
+	xy: 668, 569
+	size: 47, 63
+	orig: 133, 139
+	offset: 5, 44
+	index: -1
+effect/common/New_njd_putongbisha1_lxb_00072
+	rotate: false
+	xy: 601, 479
+	size: 246, 89
+	orig: 392, 171
+	offset: 120, 53
+	index: -1
+effect/common/New_njd_putongbisha1_zui_00034
+	rotate: true
+	xy: 848, 974
+	size: 48, 37
+	orig: 110, 157
+	offset: 17, 64
+	index: -1
+effect/common/New_njd_xiaojineng_lz_00206
+	rotate: false
+	xy: 275, 987
+	size: 56, 35
+	orig: 70, 75
+	offset: 7, 29
+	index: -1
+effect/common/New_njd_xiaojineng_lz_00202
+	rotate: false
+	xy: 601, 569
+	size: 66, 47
+	orig: 70, 75
+	offset: 4, 21
+	index: -1
+effect/common/New_njd_xiaojineng_lz_00162
+	rotate: false
+	xy: 811, 986
+	size: 32, 35
+	orig: 70, 75
+	offset: 27, 20
+	index: -1
+effect/common/njd_liumenbisha_zz_00157
+	rotate: false
+	xy: 2, 459
+	size: 255, 280
+	orig: 255, 280
+	offset: 0, 0
+	index: -1
+effect/common/New_njd_xiaojineng_lz2_00206
+	rotate: true
+	xy: 754, 986
+	size: 35, 56
+	orig: 77, 72
+	offset: 18, 13
+	index: -1
+effect/common/New_njd_liumenbisha_zwsh_00218
+	rotate: false
+	xy: 511, 617
+	size: 336, 198
+	orig: 416, 242
+	offset: 52, 42
+	index: -1
+effect/common/New_njd_putongbisha1_lxb_00064
+	rotate: true
+	xy: 258, 459
+	size: 280, 101
+	orig: 392, 171
+	offset: 109, 45
+	index: -1
+effect/common/New_njd_putongbisha1_lxb_00060
+	rotate: true
+	xy: 167, 740
+	size: 282, 107
+	orig: 392, 171
+	offset: 103, 46
+	index: -1
+effect/common/New_njd_xiaojineng_hs_00053
+	rotate: true
+	xy: 773, 569
+	size: 47, 31
+	orig: 145, 85
+	offset: 24, 17
+	index: -1
+effect/common/New_njd_putonggongji_zui3_00123
+	rotate: false
+	xy: 848, 316
+	size: 31, 53
+	orig: 133, 139
+	offset: 8, 48
+	index: -1
+effect/common/New_njd_xiaojineng_xq_00147
+	rotate: false
+	xy: 691, 942
+	size: 42, 29
+	orig: 220, 263
+	offset: 11, 106
+	index: -1

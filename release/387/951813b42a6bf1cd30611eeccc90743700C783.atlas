@@ -1,0 +1,2553 @@
+
+asset/spine/sqleXVDY_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_hongquan__00018
+	rotate: true
+	xy: 829, 428
+	size: 150, 162
+	orig: 172, 174
+	offset: 12, 12
+	index: -1
+
+asset/spine/jjlkeXV_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_jjlke_xiaojineng_bo_00143
+	rotate: true
+	xy: 760, 453
+	size: 191, 262
+	orig: 191, 262
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo_00364
+	rotate: true
+	xy: 239, 2
+	size: 219, 420
+	orig: 219, 424
+	offset: 0, 4
+	index: -1
+effect/common/New_jjlke_putongbisha_bo_00016
+	rotate: false
+	xy: 853, 837
+	size: 125, 184
+	orig: 125, 184
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo_00360
+	rotate: true
+	xy: 239, 222
+	size: 230, 417
+	orig: 230, 423
+	offset: 0, 6
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo_00376
+	rotate: true
+	xy: 760, 645
+	size: 191, 261
+	orig: 191, 263
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_huogensui_00258
+	rotate: true
+	xy: 794, 320
+	size: 132, 107
+	orig: 132, 107
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_dandaoshouji_00038
+	rotate: false
+	xy: 657, 320
+	size: 136, 132
+	orig: 136, 132
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo2_00316
+	rotate: true
+	xy: 373, 453
+	size: 402, 166
+	orig: 402, 166
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_daoguang_00075
+	rotate: true
+	xy: 2, 857
+	size: 162, 236
+	orig: 162, 236
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo_00356
+	rotate: false
+	xy: 2, 2
+	size: 230, 428
+	orig: 232, 438
+	offset: 2, 10
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo_00352
+	rotate: false
+	xy: 2, 431
+	size: 230, 425
+	orig: 232, 429
+	offset: 2, 4
+	index: -1
+effect/common/New_jjlke_xiaojineng_bo_00115
+	rotate: false
+	xy: 540, 453
+	size: 219, 401
+	orig: 225, 401
+	offset: 6, 0
+	index: -1
+effect/common/New_jjlke_putongbisha_bo_00024
+	rotate: false
+	xy: 902, 320
+	size: 116, 131
+	orig: 122, 145
+	offset: 6, 2
+	index: -1
+effect/common/New_jjlke_liumenbisha_qibo_00349
+	rotate: true
+	xy: 239, 857
+	size: 162, 216
+	orig: 162, 216
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo2_00332
+	rotate: false
+	xy: 456, 856
+	size: 396, 166
+	orig: 396, 166
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_bo2_00107
+	rotate: true
+	xy: 233, 453
+	size: 403, 139
+	orig: 403, 139
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_bo_00139
+	rotate: true
+	xy: 660, 112
+	size: 207, 360
+	orig: 209, 374
+	offset: 2, 14
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo2_00348
+	rotate: false
+	xy: 660, 2
+	size: 361, 109
+	orig: 361, 109
+	offset: 0, 0
+	index: -1
+
+asset/spine/jjlkeXV_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_jjlke_liumenbishachao_huogensui_00282
+	rotate: true
+	xy: 2, 996
+	size: 21, 30
+	orig: 21, 38
+	offset: 0, 2
+	index: -1
+effect/common/New_jjlke_liumenbisha_zhongliqiu_00036
+	rotate: true
+	xy: 222, 511
+	size: 482, 390
+	orig: 482, 390
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_huogensui_00254
+	rotate: false
+	xy: 688, 391
+	size: 134, 119
+	orig: 134, 119
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo2_00308
+	rotate: false
+	xy: 613, 275
+	size: 365, 115
+	orig: 365, 115
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_youhuoyan_00176
+	rotate: false
+	xy: 979, 322
+	size: 43, 44
+	orig: 45, 52
+	offset: 0, 3
+	index: -1
+effect/common/New_jjlke_liumenbishachao_renhouhuoyan_00135
+	rotate: true
+	xy: 470, 391
+	size: 119, 217
+	orig: 119, 225
+	offset: 0, 8
+	index: -1
+effect/common/New_jjlke_putongbisha_quan_00018
+	rotate: true
+	xy: 225, 267
+	size: 243, 244
+	orig: 243, 244
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putongbisha_quan_00014
+	rotate: false
+	xy: 853, 809
+	size: 169, 186
+	orig: 169, 186
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_bo2_00123
+	rotate: false
+	xy: 613, 676
+	size: 407, 132
+	orig: 407, 132
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putonggongji_daoguang2_00026
+	rotate: true
+	xy: 823, 412
+	size: 98, 164
+	orig: 98, 164
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo2_00324
+	rotate: false
+	xy: 613, 2
+	size: 409, 159
+	orig: 409, 159
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_bo_00111
+	rotate: true
+	xy: 225, 2
+	size: 264, 387
+	orig: 264, 387
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo2_00320
+	rotate: false
+	xy: 613, 511
+	size: 408, 164
+	orig: 408, 164
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo_00328
+	rotate: false
+	xy: 2, 2
+	size: 222, 508
+	orig: 224, 508
+	offset: 2, 0
+	index: -1
+effect/common/New_jjlke_putonggongji_daoguang_00029
+	rotate: false
+	xy: 613, 809
+	size: 239, 212
+	orig: 239, 212
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo_00332
+	rotate: false
+	xy: 2, 511
+	size: 219, 484
+	orig: 225, 484
+	offset: 6, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shouzhanghuo_00026
+	rotate: false
+	xy: 979, 367
+	size: 43, 44
+	orig: 45, 52
+	offset: 0, 3
+	index: -1
+effect/common/New_jjlke_liumenbishachao_dajihuo2_00255
+	rotate: false
+	xy: 470, 267
+	size: 142, 123
+	orig: 142, 123
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_yidonghuoyan_00175
+	rotate: true
+	xy: 979, 275
+	size: 46, 43
+	orig: 56, 51
+	offset: 2, 2
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo2_00340
+	rotate: false
+	xy: 613, 162
+	size: 409, 112
+	orig: 409, 112
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baoqixuli_00015
+	rotate: false
+	xy: 792, 806
+	size: 230, 199
+	orig: 230, 199
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangxuanwo_00026
+	rotate: false
+	xy: 910, 345
+	size: 110, 96
+	orig: 110, 96
+	offset: 0, 0
+	index: -1
+
+asset/spine/lkhhdXV_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_kl_putongbisha2_baoqi_00005
+	rotate: true
+	xy: 2, 136
+	size: 132, 131
+	orig: 132, 131
+	offset: 0, 0
+	index: -1
+effect/global/New_kl_putongbisha2_baoqi_00003
+	rotate: false
+	xy: 400, 125
+	size: 117, 119
+	orig: 117, 119
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baoqixuli_00019
+	rotate: true
+	xy: 172, 841
+	size: 181, 162
+	orig: 181, 162
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangsebo_00035
+	rotate: true
+	xy: 2, 841
+	size: 181, 169
+	orig: 181, 169
+	offset: 0, 0
+	index: -1
+
+asset/spine/jjlkeXV_common6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_jjlke_xiaojineng_bo_00147
+	rotate: true
+	xy: 366, 469
+	size: 177, 232
+	orig: 177, 232
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putongbisha_bo2_00022
+	rotate: false
+	xy: 811, 493
+	size: 209, 58
+	orig: 209, 58
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putongbisha_bo2_00020
+	rotate: false
+	xy: 366, 403
+	size: 237, 65
+	orig: 237, 65
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shoubo_00196
+	rotate: true
+	xy: 604, 403
+	size: 170, 90
+	orig: 170, 90
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shoubo_00194
+	rotate: true
+	xy: 290, 114
+	size: 148, 79
+	orig: 148, 79
+	offset: 0, 0
+	index: -1
+effect/common/jjlke_liumenbisha_quanpingguang_00000
+	rotate: false
+	xy: 882, 773
+	size: 140, 140
+	orig: 146, 146
+	offset: 3, 4
+	index: -1
+effect/common/New_jjlke_putongbisha_shexian_00037
+	rotate: false
+	xy: 373, 2
+	size: 368, 99
+	orig: 370, 99
+	offset: 2, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_zhongliqiu_00028
+	rotate: false
+	xy: 373, 102
+	size: 321, 300
+	orig: 321, 300
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_daoguang_00073
+	rotate: true
+	xy: 2, 350
+	size: 172, 247
+	orig: 172, 247
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo2_00356
+	rotate: false
+	xy: 742, 2
+	size: 256, 88
+	orig: 256, 88
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putongbisha_bo_00012
+	rotate: false
+	xy: 235, 548
+	size: 129, 161
+	orig: 129, 161
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shouzhanghuo_00070
+	rotate: false
+	xy: 882, 914
+	size: 65, 108
+	orig: 67, 110
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_youhuoyan_00192
+	rotate: true
+	xy: 530, 847
+	size: 66, 109
+	orig: 66, 111
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo2_00352
+	rotate: false
+	xy: 2, 250
+	size: 286, 99
+	orig: 286, 99
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_youhuoyan_00220
+	rotate: false
+	xy: 641, 914
+	size: 65, 108
+	orig: 67, 110
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_yidonghuoyan_00211
+	rotate: false
+	xy: 810, 750
+	size: 71, 103
+	orig: 73, 111
+	offset: 2, 0
+	index: -1
+effect/common/New_jjlke_putonggongji_daoguang2_00032
+	rotate: false
+	xy: 289, 263
+	size: 76, 160
+	orig: 76, 160
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_daoguang_00071
+	rotate: true
+	xy: 742, 91
+	size: 173, 248
+	orig: 173, 248
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shouzhanghuo_00042
+	rotate: true
+	xy: 640, 847
+	size: 66, 109
+	orig: 66, 111
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shouzhanghuo_00086
+	rotate: false
+	xy: 948, 914
+	size: 63, 108
+	orig: 67, 112
+	offset: 4, 0
+	index: -1
+effect/common/New_jjlke_putonggongji_daoguang_00056
+	rotate: false
+	xy: 497, 710
+	size: 198, 136
+	orig: 198, 136
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putongbisha_bo_00010
+	rotate: false
+	xy: 695, 493
+	size: 115, 65
+	orig: 115, 65
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_bo2_00099
+	rotate: false
+	xy: 2, 2
+	size: 370, 111
+	orig: 370, 111
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_zuohuoyan_00244
+	rotate: false
+	xy: 750, 776
+	size: 59, 96
+	orig: 69, 104
+	offset: 3, 0
+	index: -1
+effect/common/New_jjlke_putongbisha_quan_00012
+	rotate: false
+	xy: 371, 710
+	size: 125, 137
+	orig: 125, 137
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_daoguang_00077
+	rotate: false
+	xy: 882, 552
+	size: 140, 220
+	orig: 140, 220
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_yanguang_00012
+	rotate: true
+	xy: 382, 848
+	size: 160, 73
+	orig: 160, 73
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_yanguang_00010
+	rotate: true
+	xy: 308, 848
+	size: 160, 73
+	orig: 160, 73
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_yanguang_00014
+	rotate: true
+	xy: 456, 848
+	size: 160, 73
+	orig: 160, 73
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_qibo_00353
+	rotate: true
+	xy: 2, 523
+	size: 146, 232
+	orig: 146, 232
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_youhuoyan_00180
+	rotate: true
+	xy: 810, 854
+	size: 54, 71
+	orig: 58, 73
+	offset: 1, 2
+	index: -1
+effect/common/New_jjlke_putongbisha_bo_00026
+	rotate: false
+	xy: 250, 424
+	size: 115, 123
+	orig: 121, 133
+	offset: 6, 3
+	index: -1
+effect/common/New_jjlke_liumenbishachao_huogensui_00274
+	rotate: true
+	xy: 696, 776
+	size: 67, 52
+	orig: 67, 52
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_huogensui_00270
+	rotate: false
+	xy: 707, 969
+	size: 89, 52
+	orig: 89, 52
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_bo2_00131
+	rotate: false
+	xy: 2, 114
+	size: 287, 135
+	orig: 287, 135
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_shoutuowei_00069
+	rotate: false
+	xy: 365, 647
+	size: 222, 62
+	orig: 222, 62
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shouzhanghuo_00030
+	rotate: true
+	xy: 810, 909
+	size: 54, 71
+	orig: 58, 73
+	offset: 1, 2
+	index: -1
+effect/common/New_jjlke_liumenbisha_zhongliqiu_00016
+	rotate: false
+	xy: 2, 848
+	size: 166, 166
+	orig: 166, 166
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_zuohuoyan_00180
+	rotate: true
+	xy: 810, 964
+	size: 54, 69
+	orig: 54, 69
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_dandao_00017
+	rotate: false
+	xy: 599, 574
+	size: 95, 72
+	orig: 95, 72
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shouzhanghuo_00098
+	rotate: false
+	xy: 750, 873
+	size: 59, 95
+	orig: 61, 103
+	offset: 0, 5
+	index: -1
+effect/common/New_jjlke_xiaojineng_dandaoshouji_00034
+	rotate: false
+	xy: 530, 914
+	size: 110, 108
+	orig: 110, 108
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_dandaoshouji_00044
+	rotate: false
+	xy: 169, 848
+	size: 138, 162
+	orig: 138, 162
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_shoutuowei_00073
+	rotate: false
+	xy: 588, 647
+	size: 222, 62
+	orig: 222, 62
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo_00382
+	rotate: true
+	xy: 2, 670
+	size: 177, 231
+	orig: 177, 233
+	offset: 0, 1
+	index: -1
+effect/common/New_jjlke_liumenbisha_zuohuoyan_00212
+	rotate: true
+	xy: 696, 710
+	size: 65, 113
+	orig: 69, 113
+	offset: 4, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_qibo_00365
+	rotate: false
+	xy: 695, 265
+	size: 300, 227
+	orig: 300, 227
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shoubo_00200
+	rotate: false
+	xy: 695, 559
+	size: 186, 87
+	orig: 186, 87
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shouzhanghuo_00058
+	rotate: false
+	xy: 811, 647
+	size: 69, 102
+	orig: 69, 110
+	offset: 0, 4
+	index: -1
+effect/common/New_jjlke_liumenbisha_zhongliqiu_00008
+	rotate: true
+	xy: 234, 710
+	size: 137, 136
+	orig: 137, 136
+	offset: 0, 0
+	index: -1
+
+asset/spine/jjlkeXV_common5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_jjlke_putonggongji_shouji_00029
+	rotate: false
+	xy: 295, 901
+	size: 81, 53
+	orig: 81, 53
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putongbisha_shexian_00021
+	rotate: false
+	xy: 2, 2
+	size: 389, 95
+	orig: 389, 95
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shoubo_00212
+	rotate: false
+	xy: 781, 2
+	size: 241, 67
+	orig: 241, 67
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shoubo_00192
+	rotate: true
+	xy: 295, 955
+	size: 67, 64
+	orig: 67, 64
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putongbisha_shexian_00033
+	rotate: false
+	xy: 2, 481
+	size: 376, 71
+	orig: 378, 71
+	offset: 2, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_bo_00099
+	rotate: true
+	xy: 379, 769
+	size: 252, 192
+	orig: 252, 196
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_zhongliqiu_00024
+	rotate: true
+	xy: 763, 425
+	size: 251, 256
+	orig: 251, 256
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_yidonghuoyan_00203
+	rotate: true
+	xy: 2, 553
+	size: 71, 106
+	orig: 73, 112
+	offset: 0, 2
+	index: -1
+effect/common/New_jjlke_putongbisha_bo2_00018
+	rotate: true
+	xy: 572, 769
+	size: 252, 62
+	orig: 252, 62
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_dajihuo_00194
+	rotate: false
+	xy: 149, 672
+	size: 91, 96
+	orig: 91, 96
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_renhouhuoyan_00115
+	rotate: false
+	xy: 897, 677
+	size: 125, 231
+	orig: 125, 231
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putonggongji_daoguang2_00019
+	rotate: true
+	xy: 2, 625
+	size: 143, 146
+	orig: 143, 146
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putongbisha_shexian_00009
+	rotate: false
+	xy: 388, 224
+	size: 383, 92
+	orig: 383, 92
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_bo_00131
+	rotate: true
+	xy: 379, 538
+	size: 230, 375
+	orig: 230, 379
+	offset: 0, 4
+	index: -1
+effect/common/New_jjlke_liumenbisha_zhongliqiu_00040
+	rotate: true
+	xy: 870, 909
+	size: 113, 139
+	orig: 113, 139
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_yanguang_00016
+	rotate: false
+	xy: 295, 553
+	size: 82, 71
+	orig: 86, 71
+	offset: 2, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_bo2_00127
+	rotate: false
+	xy: 2, 98
+	size: 385, 127
+	orig: 385, 127
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_qibo_00357
+	rotate: false
+	xy: 635, 769
+	size: 234, 250
+	orig: 234, 250
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putongbisha_bo_00022
+	rotate: true
+	xy: 149, 553
+	size: 118, 145
+	orig: 122, 147
+	offset: 4, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_yidonghuoyan_00195
+	rotate: false
+	xy: 241, 672
+	size: 69, 96
+	orig: 75, 112
+	offset: 3, 3
+	index: -1
+effect/common/New_jjlke_liumenbisha_youhuoyan_00240
+	rotate: false
+	xy: 311, 625
+	size: 67, 107
+	orig: 67, 107
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_bo_00103
+	rotate: true
+	xy: 2, 226
+	size: 254, 380
+	orig: 254, 380
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_bo_00123
+	rotate: true
+	xy: 392, 2
+	size: 221, 388
+	orig: 221, 392
+	offset: 0, 4
+	index: -1
+effect/common/New_jjlke_putongbisha_shexian_00041
+	rotate: false
+	xy: 781, 70
+	size: 240, 69
+	orig: 240, 69
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putonggongji_daoguang_00025
+	rotate: true
+	xy: 781, 215
+	size: 209, 237
+	orig: 209, 237
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_yidonghuoyan_00183
+	rotate: true
+	xy: 295, 837
+	size: 63, 82
+	orig: 63, 90
+	offset: 0, 7
+	index: -1
+effect/common/New_jjlke_xiaojineng_bo_00135
+	rotate: true
+	xy: 383, 317
+	size: 220, 379
+	orig: 220, 389
+	offset: 0, 10
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shouzhanghuo_00054
+	rotate: false
+	xy: 311, 733
+	size: 67, 103
+	orig: 69, 111
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_daoguang_00079
+	rotate: true
+	xy: 755, 677
+	size: 91, 141
+	orig: 91, 141
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_qibo_00361
+	rotate: false
+	xy: 2, 769
+	size: 292, 252
+	orig: 292, 252
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shoubo_00208
+	rotate: false
+	xy: 781, 140
+	size: 238, 74
+	orig: 238, 74
+	offset: 0, 0
+	index: -1
+
+asset/spine/jjlkeXV_common4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_jjlke_putongbisha_shexian_00029
+	rotate: false
+	xy: 2, 361
+	size: 392, 100
+	orig: 392, 100
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putongbisha_shexian_00025
+	rotate: false
+	xy: 2, 261
+	size: 394, 99
+	orig: 394, 99
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo_00312
+	rotate: true
+	xy: 2, 762
+	size: 259, 330
+	orig: 259, 330
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_daoguang_00069
+	rotate: true
+	xy: 83, 462
+	size: 174, 249
+	orig: 174, 249
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putongbisha_bo2_00012
+	rotate: true
+	xy: 620, 762
+	size: 259, 80
+	orig: 259, 80
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putongbisha_bo2_00010
+	rotate: false
+	xy: 701, 961
+	size: 200, 61
+	orig: 200, 61
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_dajihuo_00214
+	rotate: true
+	xy: 556, 661
+	size: 100, 95
+	orig: 100, 95
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo_00372
+	rotate: true
+	xy: 400, 222
+	size: 205, 395
+	orig: 209, 409
+	offset: 4, 14
+	index: -1
+effect/common/New_jjlke_putongbisha_shexian_00017
+	rotate: false
+	xy: 2, 144
+	size: 397, 116
+	orig: 397, 116
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putonggongji_daoguang_00054
+	rotate: false
+	xy: 796, 236
+	size: 224, 166
+	orig: 224, 166
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_renhouhuoyan_00131
+	rotate: true
+	xy: 796, 403
+	size: 125, 223
+	orig: 125, 229
+	offset: 0, 6
+	index: -1
+effect/common/New_jjlke_xiaojineng_bo_00101
+	rotate: true
+	xy: 333, 762
+	size: 259, 286
+	orig: 259, 294
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putongbisha_quan_00016
+	rotate: false
+	xy: 803, 2
+	size: 219, 233
+	orig: 219, 233
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_bo_00127
+	rotate: true
+	xy: 395, 428
+	size: 232, 390
+	orig: 234, 392
+	offset: 2, 2
+	index: -1
+effect/common/New_jjlke_liumenbishachao_dajihuo_00246
+	rotate: true
+	xy: 2, 678
+	size: 83, 80
+	orig: 83, 84
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_bo_00119
+	rotate: true
+	xy: 403, 2
+	size: 219, 399
+	orig: 225, 399
+	offset: 6, 0
+	index: -1
+effect/common/New_jjlke_putonggongji_daoguang_00031
+	rotate: false
+	xy: 786, 529
+	size: 236, 232
+	orig: 236, 232
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_dajihuo_00250
+	rotate: true
+	xy: 262, 678
+	size: 83, 57
+	orig: 83, 61
+	offset: 0, 4
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shouzhanghuo_00034
+	rotate: true
+	xy: 902, 961
+	size: 61, 92
+	orig: 61, 100
+	offset: 0, 3
+	index: -1
+effect/common/New_jjlke_putongbisha_bo_00018
+	rotate: true
+	xy: 83, 637
+	size: 124, 178
+	orig: 124, 178
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_dajihuo_00226
+	rotate: false
+	xy: 652, 661
+	size: 94, 100
+	orig: 94, 102
+	offset: 0, 2
+	index: -1
+effect/common/New_jjlke_xiaojineng_shoutuowei_00075
+	rotate: true
+	xy: 333, 462
+	size: 215, 61
+	orig: 215, 61
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putongbisha_quan_00020
+	rotate: false
+	xy: 320, 678
+	size: 235, 82
+	orig: 235, 82
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_bo2_00119
+	rotate: false
+	xy: 2, 2
+	size: 400, 141
+	orig: 400, 141
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shoubo_00204
+	rotate: true
+	xy: 2, 462
+	size: 212, 80
+	orig: 212, 80
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_qibo_00369
+	rotate: false
+	xy: 701, 762
+	size: 318, 198
+	orig: 318, 198
+	offset: 0, 0
+	index: -1
+
+asset/spine/jjlkeXV_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_jjlke_putonggongji_shouji_00023
+	rotate: true
+	xy: 705, 693
+	size: 155, 47
+	orig: 155, 47
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo_00316
+	rotate: false
+	xy: 268, 2
+	size: 256, 451
+	orig: 256, 451
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_dandao_00007
+	rotate: true
+	xy: 978, 663
+	size: 103, 42
+	orig: 103, 42
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo_00348
+	rotate: false
+	xy: 525, 2
+	size: 230, 436
+	orig: 232, 438
+	offset: 2, 2
+	index: -1
+effect/common/New_jjlke_putongbisha_bo2_00016
+	rotate: false
+	xy: 2, 952
+	size: 268, 69
+	orig: 268, 69
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putongbisha_bo2_00014
+	rotate: false
+	xy: 756, 2
+	size: 264, 71
+	orig: 264, 71
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_zuohuoyan_00252
+	rotate: false
+	xy: 705, 554
+	size: 49, 92
+	orig: 59, 96
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo_00340
+	rotate: false
+	xy: 222, 482
+	size: 219, 453
+	orig: 225, 453
+	offset: 6, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo_00344
+	rotate: false
+	xy: 756, 464
+	size: 221, 432
+	orig: 225, 434
+	offset: 4, 2
+	index: -1
+effect/common/New_jjlke_xiaojineng_bo_00107
+	rotate: false
+	xy: 756, 74
+	size: 262, 389
+	orig: 262, 393
+	offset: 0, 4
+	index: -1
+effect/common/New_jjlke_liumenbisha_zuohuoyan_00176
+	rotate: true
+	xy: 978, 622
+	size: 40, 43
+	orig: 50, 51
+	offset: 3, 2
+	index: -1
+effect/common/New_jjlke_liumenbishachao_dajihuo_00242
+	rotate: false
+	xy: 271, 936
+	size: 85, 86
+	orig: 85, 90
+	offset: 0, 4
+	index: -1
+effect/common/New_jjlke_putonggongji_shouji_00019
+	rotate: true
+	xy: 705, 439
+	size: 114, 50
+	orig: 114, 50
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo_00320
+	rotate: false
+	xy: 442, 454
+	size: 262, 445
+	orig: 262, 445
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo_00324
+	rotate: false
+	xy: 2, 2
+	size: 265, 479
+	orig: 265, 479
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putongbisha_bo_00020
+	rotate: true
+	xy: 453, 900
+	size: 122, 161
+	orig: 122, 161
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_huogensui_00278
+	rotate: true
+	xy: 705, 647
+	size: 45, 48
+	orig: 45, 50
+	offset: 0, 1
+	index: -1
+effect/common/New_jjlke_liumenbishachao_dajihuo2_00247
+	rotate: false
+	xy: 357, 936
+	size: 95, 85
+	orig: 95, 85
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shoubo_00220
+	rotate: true
+	xy: 978, 464
+	size: 157, 44
+	orig: 157, 44
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo_00336
+	rotate: false
+	xy: 2, 482
+	size: 219, 469
+	orig: 225, 469
+	offset: 6, 0
+	index: -1
+effect/common/New_jjlke_putonggongji_shouji_00033
+	rotate: true
+	xy: 978, 767
+	size: 83, 38
+	orig: 83, 38
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo2_00344
+	rotate: false
+	xy: 615, 900
+	size: 407, 108
+	orig: 407, 108
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baoqixuli_00013
+	rotate: true
+	xy: 775, 286
+	size: 237, 215
+	orig: 237, 215
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_kl_putongbisha2_baoqi_00008
+	rotate: true
+	xy: 333, 658
+	size: 364, 208
+	orig: 364, 208
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baobo_00028
+	rotate: true
+	xy: 890, 511
+	size: 144, 126
+	orig: 144, 126
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baobo_00026
+	rotate: true
+	xy: 890, 150
+	size: 140, 132
+	orig: 140, 132
+	offset: 0, 0
+	index: -1
+effect/global/New_kl_putongbisha2_baoqi_00006
+	rotate: true
+	xy: 542, 658
+	size: 361, 359
+	orig: 361, 359
+	offset: 0, 0
+	index: -1
+
+asset/spine/bzqjsxv_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_hongquan__00020
+	rotate: false
+	xy: 252, 733
+	size: 128, 128
+	orig: 188, 190
+	offset: 35, 37
+	index: -1
+effect/global/New_hongquan__00016
+	rotate: true
+	xy: 837, 364
+	size: 186, 184
+	orig: 188, 190
+	offset: 0, 4
+	index: -1
+effect/global/New_hongquan__00019
+	rotate: false
+	xy: 440, 513
+	size: 142, 142
+	orig: 188, 190
+	offset: 26, 33
+	index: -1
+
+asset/spine/KLXVJJ_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_kl_putongbisha2_baoqi_00010
+	rotate: true
+	xy: 946, 636
+	size: 66, 75
+	orig: 66, 75
+	offset: 0, 0
+	index: -1
+
+asset/spine/sqleXVDY_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_hongquan__00021
+	rotate: false
+	xy: 704, 910
+	size: 102, 104
+	orig: 172, 174
+	offset: 40, 40
+	index: -1
+
+asset/spine/jjlkeXV_common7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_jjlke_liumenbisha_zuohuoyan_00204
+	rotate: false
+	xy: 566, 110
+	size: 65, 106
+	orig: 65, 114
+	offset: 0, 2
+	index: -1
+effect/common/New_jjlke_liumenbishachao_dajihuo2_00263
+	rotate: true
+	xy: 416, 228
+	size: 121, 101
+	orig: 121, 101
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_huogensui_00266
+	rotate: true
+	xy: 347, 2
+	size: 115, 58
+	orig: 115, 58
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putonggongji_shouji_00027
+	rotate: true
+	xy: 473, 571
+	size: 100, 56
+	orig: 100, 56
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_zhongliqiu_00020
+	rotate: false
+	xy: 239, 672
+	size: 204, 204
+	orig: 204, 204
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_zuohuoyan_00200
+	rotate: false
+	xy: 617, 324
+	size: 65, 104
+	orig: 67, 104
+	offset: 1, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_youhuoyan_00212
+	rotate: false
+	xy: 706, 108
+	size: 63, 104
+	orig: 65, 114
+	offset: 2, 3
+	index: -1
+effect/common/New_jjlke_liumenbishachao_dajihuo_00206
+	rotate: false
+	xy: 538, 777
+	size: 95, 97
+	orig: 99, 99
+	offset: 4, 2
+	index: -1
+effect/common/New_jjlke_liumenbisha_youhuoyan_00216
+	rotate: false
+	xy: 713, 423
+	size: 64, 101
+	orig: 66, 101
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_dandao_00009
+	rotate: true
+	xy: 715, 213
+	size: 102, 64
+	orig: 102, 64
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_dajihuo_00202
+	rotate: true
+	xy: 375, 572
+	size: 99, 97
+	orig: 99, 97
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shoubo_00216
+	rotate: true
+	xy: 2, 679
+	size: 219, 65
+	orig: 243, 65
+	offset: 24, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_zuohuoyan_00232
+	rotate: true
+	xy: 910, 2
+	size: 65, 97
+	orig: 67, 113
+	offset: 0, 4
+	index: -1
+effect/common/New_jjlke_liumenbisha_zuohuoyan_00236
+	rotate: false
+	xy: 683, 320
+	size: 65, 102
+	orig: 67, 102
+	offset: 2, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_dandao_00015
+	rotate: false
+	xy: 333, 152
+	size: 103, 75
+	orig: 103, 75
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_youhuoyan_00228
+	rotate: false
+	xy: 780, 210
+	size: 62, 101
+	orig: 64, 111
+	offset: 0, 5
+	index: -1
+effect/common/New_jjlke_xiaojineng_shoutuowei_00071
+	rotate: true
+	xy: 2, 234
+	size: 223, 64
+	orig: 223, 64
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_youhuoyan_00224
+	rotate: false
+	xy: 649, 646
+	size: 65, 101
+	orig: 67, 105
+	offset: 0, 4
+	index: -1
+effect/common/New_jjlke_liumenbishachao_yidonghuoyan_00207
+	rotate: false
+	xy: 632, 109
+	size: 73, 105
+	orig: 73, 111
+	offset: 0, 3
+	index: -1
+effect/common/New_jjlke_liumenbishachao_dajihuo_00198
+	rotate: true
+	xy: 757, 525
+	size: 95, 91
+	orig: 97, 91
+	offset: 2, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shouzhanghuo_00074
+	rotate: false
+	xy: 691, 532
+	size: 65, 101
+	orig: 67, 105
+	offset: 0, 4
+	index: -1
+effect/common/New_jjlke_liumenbishachao_renhouhuoyan_00119
+	rotate: false
+	xy: 2, 2
+	size: 123, 231
+	orig: 129, 233
+	offset: 4, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shouzhanghuo_00078
+	rotate: false
+	xy: 847, 2
+	size: 62, 101
+	orig: 64, 111
+	offset: 0, 5
+	index: -1
+effect/common/New_jjlke_liumenbisha_zuohuoyan_00228
+	rotate: false
+	xy: 575, 875
+	size: 66, 101
+	orig: 66, 103
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_zuohuoyan_00216
+	rotate: false
+	xy: 437, 114
+	size: 64, 110
+	orig: 66, 114
+	offset: 0, 4
+	index: -1
+effect/common/New_jjlke_liumenbisha_zuohuoyan_00224
+	rotate: false
+	xy: 833, 104
+	size: 62, 101
+	orig: 64, 111
+	offset: 0, 5
+	index: -1
+effect/common/New_jjlke_liumenbisha_zuohuoyan_00196
+	rotate: true
+	xy: 896, 132
+	size: 66, 96
+	orig: 68, 112
+	offset: 1, 3
+	index: -1
+effect/common/New_jjlke_liumenbisha_zuohuoyan_00220
+	rotate: false
+	xy: 512, 2
+	size: 63, 107
+	orig: 63, 107
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_youhuoyan_00196
+	rotate: false
+	xy: 518, 223
+	size: 65, 106
+	orig: 65, 110
+	offset: 0, 4
+	index: -1
+effect/common/New_jjlke_putonggongji_daoguang_00060
+	rotate: false
+	xy: 363, 452
+	size: 107, 119
+	orig: 111, 119
+	offset: 4, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_yidonghuoyan_00215
+	rotate: false
+	xy: 778, 418
+	size: 68, 95
+	orig: 72, 109
+	offset: 0, 3
+	index: -1
+effect/common/New_jjlke_putonggongji_daoguang2_00036
+	rotate: false
+	xy: 252, 581
+	size: 64, 90
+	orig: 64, 92
+	offset: 0, 2
+	index: -1
+effect/common/New_jjlke_liumenbishachao_dajihuo_00190
+	rotate: true
+	xy: 849, 503
+	size: 91, 85
+	orig: 91, 85
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_youhuoyan_00232
+	rotate: false
+	xy: 709, 2
+	size: 63, 104
+	orig: 65, 110
+	offset: 0, 6
+	index: -1
+effect/common/New_jjlke_liumenbisha_youhuoyan_00200
+	rotate: false
+	xy: 552, 330
+	size: 64, 106
+	orig: 68, 112
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_youhuoyan_00236
+	rotate: false
+	xy: 502, 114
+	size: 63, 108
+	orig: 67, 112
+	offset: 4, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_shoutuowei_00067
+	rotate: true
+	xy: 63, 458
+	size: 219, 62
+	orig: 219, 62
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_renhouhuoyan_00123
+	rotate: false
+	xy: 67, 234
+	size: 127, 218
+	orig: 129, 240
+	offset: 0, 5
+	index: -1
+effect/common/New_jjlke_liumenbishachao_renhouhuoyan_00127
+	rotate: false
+	xy: 126, 453
+	size: 125, 218
+	orig: 125, 222
+	offset: 0, 4
+	index: -1
+effect/common/New_jjlke_xiaojineng_dandaoshouji_00036
+	rotate: true
+	xy: 2, 899
+	size: 122, 112
+	orig: 122, 112
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_dandao_00013
+	rotate: false
+	xy: 229, 152
+	size: 103, 76
+	orig: 103, 76
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shouzhanghuo_00062
+	rotate: false
+	xy: 511, 877
+	size: 63, 104
+	orig: 65, 114
+	offset: 2, 3
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shouzhanghuo_00066
+	rotate: false
+	xy: 749, 316
+	size: 64, 101
+	orig: 66, 101
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_yanguang_00008
+	rotate: true
+	xy: 126, 2
+	size: 160, 73
+	orig: 160, 73
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shouzhanghuo_00094
+	rotate: true
+	xy: 896, 199
+	size: 63, 96
+	orig: 67, 96
+	offset: 2, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_youhuoyan_00244
+	rotate: false
+	xy: 874, 263
+	size: 63, 94
+	orig: 67, 96
+	offset: 2, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_youhuoyan_00252
+	rotate: true
+	xy: 918, 638
+	size: 55, 93
+	orig: 57, 97
+	offset: 0, 1
+	index: -1
+effect/common/New_jjlke_liumenbisha_youhuoyan_00248
+	rotate: false
+	xy: 814, 312
+	size: 59, 95
+	orig: 61, 103
+	offset: 0, 5
+	index: -1
+effect/common/New_jjlke_liumenbisha_zuohuoyan_00248
+	rotate: false
+	xy: 317, 581
+	size: 57, 88
+	orig: 61, 100
+	offset: 0, 12
+	index: -1
+effect/common/New_jjlke_liumenbisha_zuohuoyan_00240
+	rotate: false
+	xy: 518, 672
+	size: 66, 104
+	orig: 70, 110
+	offset: 2, 5
+	index: -1
+effect/common/New_jjlke_liumenbisha_youhuoyan_00204
+	rotate: false
+	xy: 623, 542
+	size: 67, 103
+	orig: 69, 111
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_dajihuo_00210
+	rotate: false
+	xy: 715, 634
+	size: 92, 95
+	orig: 92, 103
+	offset: 0, 3
+	index: -1
+effect/common/New_jjlke_liumenbishachao_dajihuo2_00267
+	rotate: true
+	xy: 195, 363
+	size: 88, 85
+	orig: 88, 85
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putongbisha_quan_00010
+	rotate: false
+	xy: 281, 363
+	size: 76, 88
+	orig: 76, 88
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_huogensui_00240
+	rotate: true
+	xy: 312, 229
+	size: 122, 103
+	orig: 124, 107
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_renhouhuoyan_00143
+	rotate: false
+	xy: 131, 672
+	size: 107, 205
+	orig: 119, 217
+	offset: 6, 8
+	index: -1
+effect/common/New_jjlke_xiaojineng_yanguang_00018
+	rotate: false
+	xy: 730, 791
+	size: 66, 66
+	orig: 66, 66
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_huogensui_00244
+	rotate: true
+	xy: 252, 452
+	size: 128, 110
+	orig: 128, 110
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_huogensui_00246
+	rotate: true
+	xy: 394, 877
+	size: 129, 116
+	orig: 129, 116
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shouzhanghuo_00082
+	rotate: false
+	xy: 585, 671
+	size: 63, 104
+	orig: 65, 110
+	offset: 0, 6
+	index: -1
+effect/common/New_jjlke_liumenbisha_zuohuoyan_00208
+	rotate: false
+	xy: 642, 2
+	size: 66, 105
+	orig: 66, 111
+	offset: 0, 3
+	index: -1
+effect/common/New_jjlke_liumenbishachao_yidonghuoyan_00199
+	rotate: false
+	xy: 444, 672
+	size: 73, 104
+	orig: 75, 104
+	offset: 1, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_huogensui_00250
+	rotate: true
+	xy: 195, 233
+	size: 129, 116
+	orig: 129, 116
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putongbisha_bo_00028
+	rotate: true
+	xy: 406, 2
+	size: 111, 105
+	orig: 121, 119
+	offset: 7, 5
+	index: -1
+effect/common/New_jjlke_xiaojineng_shoutuowei_00065
+	rotate: true
+	xy: 2, 458
+	size: 220, 60
+	orig: 220, 60
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shouzhanghuo_00046
+	rotate: false
+	xy: 576, 2
+	size: 65, 106
+	orig: 65, 110
+	offset: 0, 4
+	index: -1
+effect/common/New_jjlke_liumenbisha_zuohuoyan_00184
+	rotate: true
+	xy: 938, 348
+	size: 58, 84
+	orig: 58, 90
+	offset: 0, 6
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shouzhanghuo_00038
+	rotate: false
+	xy: 649, 215
+	size: 65, 104
+	orig: 65, 112
+	offset: 0, 3
+	index: -1
+effect/common/New_jjlke_liumenbishachao_dajihuo2_00243
+	rotate: true
+	xy: 935, 571
+	size: 66, 69
+	orig: 66, 69
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_yidonghuoyan_00187
+	rotate: true
+	xy: 798, 744
+	size: 66, 91
+	orig: 66, 105
+	offset: 0, 9
+	index: -1
+effect/common/New_jjlke_xiaojineng_yanguang_00006
+	rotate: true
+	xy: 939, 407
+	size: 93, 72
+	orig: 97, 72
+	offset: 2, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_yidonghuoyan_00219
+	rotate: false
+	xy: 849, 595
+	size: 68, 92
+	orig: 68, 106
+	offset: 0, 8
+	index: -1
+effect/common/New_jjlke_liumenbishachao_dajihuo_00222
+	rotate: false
+	xy: 358, 352
+	size: 99, 99
+	orig: 99, 101
+	offset: 0, 2
+	index: -1
+effect/common/New_jjlke_liumenbisha_youhuoyan_00188
+	rotate: false
+	xy: 579, 437
+	size: 65, 104
+	orig: 65, 112
+	offset: 0, 3
+	index: -1
+effect/common/New_jjlke_putonggongji_daoguang2_00022
+	rotate: true
+	xy: 115, 898
+	size: 124, 159
+	orig: 124, 159
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_dandaoshouji_00040
+	rotate: false
+	xy: 200, 2
+	size: 146, 149
+	orig: 146, 149
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shouzhanghuo_00050
+	rotate: false
+	xy: 584, 217
+	size: 64, 106
+	orig: 68, 112
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shouzhanghuo_00102
+	rotate: true
+	xy: 808, 688
+	size: 55, 93
+	orig: 57, 97
+	offset: 0, 1
+	index: -1
+effect/common/jjlke_liumenbisha_quanpingguang2_00000
+	rotate: false
+	xy: 939, 501
+	size: 69, 69
+	orig: 69, 69
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_yidonghuoyan_00191
+	rotate: false
+	xy: 645, 429
+	size: 67, 102
+	orig: 75, 102
+	offset: 5, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_youhuoyan_00184
+	rotate: true
+	xy: 902, 694
+	size: 61, 92
+	orig: 61, 100
+	offset: 0, 3
+	index: -1
+effect/common/New_jjlke_xiaojineng_shoutuowei_00077
+	rotate: true
+	xy: 68, 678
+	size: 219, 62
+	orig: 219, 62
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_dajihuo2_00259
+	rotate: true
+	xy: 275, 877
+	size: 139, 118
+	orig: 139, 118
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_zuohuoyan_00192
+	rotate: false
+	xy: 770, 107
+	size: 62, 102
+	orig: 68, 106
+	offset: 4, 4
+	index: -1
+effect/common/New_jjlke_liumenbishachao_dajihuo2_00251
+	rotate: true
+	xy: 471, 452
+	size: 118, 107
+	orig: 118, 107
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_zuohuoyan_00188
+	rotate: true
+	xy: 910, 68
+	size: 63, 97
+	orig: 63, 107
+	offset: 0, 10
+	index: -1
+effect/common/New_jjlke_liumenbisha_youhuoyan_00208
+	rotate: true
+	xy: 126, 163
+	size: 69, 102
+	orig: 69, 110
+	offset: 0, 4
+	index: -1
+effect/common/New_jjlke_liumenbishachao_dajihuo_00238
+	rotate: true
+	xy: 847, 408
+	size: 94, 91
+	orig: 94, 91
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_yidonghuoyan_00223
+	rotate: true
+	xy: 890, 756
+	size: 56, 91
+	orig: 62, 91
+	offset: 2, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_dajihuo_00234
+	rotate: false
+	xy: 444, 777
+	size: 93, 99
+	orig: 99, 103
+	offset: 6, 3
+	index: -1
+effect/common/New_jjlke_liumenbishachao_yidonghuoyan_00179
+	rotate: true
+	xy: 730, 730
+	size: 60, 67
+	orig: 62, 69
+	offset: 2, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_dajihuo_00230
+	rotate: false
+	xy: 634, 776
+	size: 95, 97
+	orig: 99, 97
+	offset: 4, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_dandaoshouji_00032
+	rotate: true
+	xy: 530, 571
+	size: 99, 92
+	orig: 99, 92
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_dandaoshouji_00030
+	rotate: true
+	xy: 939, 263
+	size: 84, 75
+	orig: 84, 75
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_dandao_00011
+	rotate: true
+	xy: 773, 2
+	size: 101, 73
+	orig: 101, 73
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_dajihuo_00218
+	rotate: true
+	xy: 458, 350
+	size: 101, 93
+	orig: 101, 97
+	offset: 0, 4
+	index: -1
+
+asset/spine/global_spinehero_effect13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt13
+	rotate: false
+	xy: 445, 559
+	size: 168, 177
+	orig: 168, 177
+	offset: 0, 0
+	index: -1
+
+asset/spine/jjlkeXV_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_jjlke_liumenbisha_zhongliqiu_00032
+	rotate: false
+	xy: 2, 301
+	size: 412, 373
+	orig: 412, 373
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo2_00312
+	rotate: false
+	xy: 2, 2
+	size: 417, 156
+	orig: 417, 156
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_renhouhuoyan_00107
+	rotate: true
+	xy: 826, 369
+	size: 116, 195
+	orig: 126, 197
+	offset: 6, 0
+	index: -1
+effect/common/New_jjlke_putongbisha_bo_00014
+	rotate: true
+	xy: 837, 2
+	size: 129, 183
+	orig: 129, 183
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo_00368
+	rotate: true
+	xy: 415, 539
+	size: 210, 404
+	orig: 210, 404
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putonggongji_daoguang2_00030
+	rotate: false
+	xy: 819, 866
+	size: 75, 155
+	orig: 83, 157
+	offset: 8, 2
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo_00308
+	rotate: true
+	xy: 820, 613
+	size: 252, 202
+	orig: 252, 202
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putonggongji_daoguang_00058
+	rotate: true
+	xy: 566, 866
+	size: 156, 135
+	orig: 156, 135
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putonggongji_daoguang_00027
+	rotate: false
+	xy: 196, 675
+	size: 218, 233
+	orig: 218, 233
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putongbisha_shexian_00013
+	rotate: false
+	xy: 415, 442
+	size: 405, 96
+	orig: 405, 96
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_putonggongji_daoguang_00052
+	rotate: false
+	xy: 837, 132
+	size: 181, 236
+	orig: 181, 236
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_shouzhanghuo_00090
+	rotate: true
+	xy: 895, 955
+	size: 67, 107
+	orig: 67, 107
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_renhouhuoyan_00111
+	rotate: true
+	xy: 821, 486
+	size: 126, 201
+	orig: 130, 229
+	offset: 0, 27
+	index: -1
+effect/common/New_jjlke_liumenbishachao_renhouhuoyan_00139
+	rotate: true
+	xy: 196, 909
+	size: 113, 208
+	orig: 119, 228
+	offset: 1, 9
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo2_00328
+	rotate: false
+	xy: 420, 2
+	size: 416, 167
+	orig: 416, 167
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_bo2_00103
+	rotate: false
+	xy: 419, 170
+	size: 413, 137
+	orig: 413, 137
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_qibo_00345
+	rotate: true
+	xy: 2, 866
+	size: 156, 193
+	orig: 156, 193
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_huogensui_00262
+	rotate: false
+	xy: 895, 866
+	size: 126, 88
+	orig: 126, 88
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbishachao_bo2_00336
+	rotate: false
+	xy: 415, 750
+	size: 404, 113
+	orig: 404, 113
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_dandaoshouji_00042
+	rotate: true
+	xy: 415, 864
+	size: 158, 150
+	orig: 158, 150
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_dandaoshouji_00046
+	rotate: false
+	xy: 702, 864
+	size: 116, 129
+	orig: 116, 129
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_bo2_00111
+	rotate: false
+	xy: 415, 308
+	size: 410, 133
+	orig: 410, 133
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_xiaojineng_bo2_00115
+	rotate: false
+	xy: 2, 159
+	size: 416, 141
+	orig: 416, 141
+	offset: 0, 0
+	index: -1
+effect/common/New_jjlke_liumenbisha_zhongliqiu_00012
+	rotate: false
+	xy: 2, 675
+	size: 190, 190
+	orig: 190, 190
+	offset: 0, 0
+	index: -1
+
+asset/spine/sqleXV_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_hongquan__00017
+	rotate: true
+	xy: 558, 856
+	size: 164, 178
+	orig: 180, 182
+	offset: 7, 3
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baobo_00018
+	rotate: false
+	xy: 976, 774
+	size: 20, 20
+	orig: 20, 20
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangsebo_00029
+	rotate: false
+	xy: 457, 560
+	size: 102, 101
+	orig: 102, 101
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt14
+	rotate: false
+	xy: 384, 381
+	size: 176, 178
+	orig: 176, 178
+	offset: 0, 0
+	index: -1
+
+asset/spine/bzqjsxv_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_hongquan__00022
+	rotate: false
+	xy: 573, 110
+	size: 94, 94
+	orig: 188, 190
+	offset: 50, 53
+	index: -1
+
+asset/spine/global_spinehero_effect10.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baoqixuli_00011
+	rotate: true
+	xy: 795, 314
+	size: 253, 227
+	orig: 253, 227
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baoqixuli_00017
+	rotate: false
+	xy: 370, 839
+	size: 210, 182
+	orig: 210, 182
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baoqixuli_00009
+	rotate: true
+	xy: 804, 568
+	size: 252, 214
+	orig: 252, 214
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangxuanwo_00020
+	rotate: false
+	xy: 2, 839
+	size: 185, 183
+	orig: 185, 183
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_lmbs_huangxuanwo_00014
+	rotate: true
+	xy: 761, 475
+	size: 243, 261
+	orig: 243, 261
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_lmbs_huangxuanwo_00016
+	rotate: true
+	xy: 780, 650
+	size: 221, 236
+	orig: 221, 236
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect16.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baoqixuli_00005
+	rotate: false
+	xy: 2, 2
+	size: 163, 138
+	orig: 163, 138
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangsebo_00031
+	rotate: true
+	xy: 2, 441
+	size: 139, 140
+	orig: 139, 140
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangxuanwo_00024
+	rotate: false
+	xy: 143, 572
+	size: 135, 134
+	orig: 135, 134
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baobo_00020
+	rotate: false
+	xy: 2, 581
+	size: 126, 125
+	orig: 126, 125
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangxuanwo_00022
+	rotate: false
+	xy: 2, 141
+	size: 160, 158
+	orig: 160, 158
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt19
+	rotate: true
+	xy: 147, 437
+	size: 134, 143
+	orig: 134, 143
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt16
+	rotate: false
+	xy: 166, 2
+	size: 162, 140
+	orig: 162, 140
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt17
+	rotate: true
+	xy: 291, 559
+	size: 124, 136
+	orig: 124, 136
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baobo_00024
+	rotate: false
+	xy: 521, 593
+	size: 187, 187
+	orig: 187, 187
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangsebo_00037
+	rotate: true
+	xy: 508, 2
+	size: 191, 147
+	orig: 191, 147
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_ptbs2_baobo_00022
+	rotate: false
+	xy: 800, 2
+	size: 171, 169
+	orig: 171, 169
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt15
+	rotate: false
+	xy: 2, 851
+	size: 176, 171
+	orig: 176, 171
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_lmbs_huangxuanwo_00018
+	rotate: false
+	xy: 810, 742
+	size: 209, 209
+	orig: 209, 209
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_ptbs2_baoqixuli_00007
+	rotate: false
+	xy: 777, 694
+	size: 234, 143
+	orig: 234, 143
+	offset: 0, 0
+	index: -1
+effect/global/Newsz_sy_lmbs_huangsebo_00033
+	rotate: true
+	xy: 858, 307
+	size: 165, 163
+	orig: 165, 163
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt18
+	rotate: false
+	xy: 858, 166
+	size: 164, 140
+	orig: 164, 140
+	offset: 0, 0
+	index: -1
+
+asset/spine/bzxem_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/New_kl_putongbisha2_baoqi_00001
+	rotate: false
+	xy: 478, 683
+	size: 145, 158
+	orig: 145, 160
+	offset: 0, 2
+	index: -1
+effect/global/New_kl_putongbisha2_baoqi_00004
+	rotate: true
+	xy: 317, 686
+	size: 161, 160
+	orig: 161, 160
+	offset: 0, 0
+	index: -1
+effect/global/New_kl_putongbisha2_baoqi_00007
+	rotate: true
+	xy: 489, 2
+	size: 170, 145
+	orig: 170, 145
+	offset: 0, 0
+	index: -1
+effect/global/New_kl_putongbisha2_baoqi_00000
+	rotate: false
+	xy: 534, 260
+	size: 148, 155
+	orig: 148, 155
+	offset: 0, 0
+	index: -1
+effect/global/New_kl_putongbisha2_baoqi_00002
+	rotate: false
+	xy: 325, 848
+	size: 143, 160
+	orig: 143, 160
+	offset: 0, 0
+	index: -1
+effect/global/New_kl_putongbisha2_baoqi_00009
+	rotate: false
+	xy: 417, 432
+	size: 89, 89
+	orig: 89, 89
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/Newsz_sy_lmbs_huangsebo_00027
+	rotate: false
+	xy: 771, 499
+	size: 62, 62
+	orig: 62, 62
+	offset: 0, 0
+	index: -1

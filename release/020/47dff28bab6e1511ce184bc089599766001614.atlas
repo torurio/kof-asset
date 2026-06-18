@@ -1,0 +1,327 @@
+
+asset/spine/szygnzCard_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/yigenizi_zl_zysp_gy_tu_22
+	rotate: false
+	xy: 261, 541
+	size: 129, 132
+	orig: 131, 134
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_21
+	rotate: true
+	xy: 883, 2
+	size: 50, 139
+	orig: 52, 141
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_20
+	rotate: true
+	xy: 2, 993
+	size: 26, 90
+	orig: 28, 92
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_26
+	rotate: false
+	xy: 603, 937
+	size: 244, 85
+	orig: 246, 87
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_25
+	rotate: true
+	xy: 453, 541
+	size: 123, 356
+	orig: 125, 358
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_24
+	rotate: true
+	xy: 172, 307
+	size: 222, 119
+	orig: 224, 121
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_28
+	rotate: true
+	xy: 2, 541
+	size: 132, 258
+	orig: 134, 260
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_36
+	rotate: true
+	xy: 2, 674
+	size: 318, 300
+	orig: 320, 302
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_37
+	rotate: false
+	xy: 877, 879
+	size: 71, 57
+	orig: 73, 59
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_38
+	rotate: true
+	xy: 826, 526
+	size: 28, 48
+	orig: 30, 50
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_45
+	rotate: false
+	xy: 460, 221
+	size: 365, 319
+	orig: 367, 321
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_41
+	rotate: false
+	xy: 452, 665
+	size: 36, 44
+	orig: 38, 46
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_40
+	rotate: true
+	xy: 810, 555
+	size: 37, 45
+	orig: 39, 47
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_43
+	rotate: true
+	xy: 943, 976
+	size: 46, 43
+	orig: 48, 45
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_42
+	rotate: true
+	xy: 949, 879
+	size: 96, 73
+	orig: 98, 75
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_35
+	rotate: true
+	xy: 810, 593
+	size: 36, 40
+	orig: 38, 42
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_19
+	rotate: false
+	xy: 391, 509
+	size: 61, 108
+	orig: 63, 110
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_30
+	rotate: false
+	xy: 2, 2
+	size: 457, 304
+	orig: 459, 306
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_31
+	rotate: false
+	xy: 2, 307
+	size: 169, 228
+	orig: 171, 230
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_32
+	rotate: true
+	xy: 883, 183
+	size: 214, 135
+	orig: 216, 137
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_33
+	rotate: false
+	xy: 303, 710
+	size: 299, 307
+	orig: 301, 309
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_12
+	rotate: true
+	xy: 826, 321
+	size: 106, 51
+	orig: 108, 53
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_13
+	rotate: false
+	xy: 848, 937
+	size: 94, 80
+	orig: 96, 82
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_11
+	rotate: false
+	xy: 603, 665
+	size: 273, 271
+	orig: 275, 273
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_16
+	rotate: true
+	xy: 826, 221
+	size: 99, 53
+	orig: 101, 55
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_39
+	rotate: true
+	xy: 826, 486
+	size: 39, 48
+	orig: 41, 50
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_17
+	rotate: true
+	xy: 883, 53
+	size: 129, 137
+	orig: 131, 139
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_1
+	rotate: true
+	xy: 878, 398
+	size: 275, 144
+	orig: 277, 146
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_2
+	rotate: true
+	xy: 826, 428
+	size: 57, 48
+	orig: 59, 50
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_3
+	rotate: false
+	xy: 303, 674
+	size: 87, 35
+	orig: 89, 37
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_4
+	rotate: false
+	xy: 489, 665
+	size: 90, 43
+	orig: 92, 45
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_5
+	rotate: true
+	xy: 391, 618
+	size: 75, 60
+	orig: 77, 62
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_7
+	rotate: false
+	xy: 93, 993
+	size: 69, 26
+	orig: 71, 28
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_8
+	rotate: true
+	xy: 460, 2
+	size: 218, 422
+	orig: 220, 424
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_9
+	rotate: true
+	xy: 877, 674
+	size: 204, 145
+	orig: 206, 147
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_15
+	rotate: true
+	xy: 303, 307
+	size: 201, 156
+	orig: 203, 158
+	offset: 1, 1
+	index: -1
+
+asset/spine/szygnzCard_role1.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role/yigenizi_zl_zysp_gy_tu_23
+	rotate: false
+	xy: 2, 372
+	size: 134, 106
+	orig: 136, 108
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_27
+	rotate: true
+	xy: 2, 2
+	size: 115, 313
+	orig: 117, 315
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_29
+	rotate: true
+	xy: 2, 118
+	size: 253, 288
+	orig: 255, 290
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_44
+	rotate: true
+	xy: 291, 150
+	size: 207, 208
+	orig: 209, 210
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_34
+	rotate: true
+	xy: 291, 358
+	size: 220, 198
+	orig: 222, 200
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_18
+	rotate: true
+	xy: 2, 479
+	size: 88, 102
+	orig: 90, 104
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_10
+	rotate: false
+	xy: 316, 2
+	size: 161, 147
+	orig: 163, 149
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_14
+	rotate: false
+	xy: 137, 372
+	size: 114, 113
+	orig: 116, 115
+	offset: 1, 1
+	index: -1
+role/yigenizi_zl_zysp_gy_tu_6
+	rotate: false
+	xy: 105, 486
+	size: 95, 86
+	orig: 97, 88
+	offset: 1, 1
+	index: -1

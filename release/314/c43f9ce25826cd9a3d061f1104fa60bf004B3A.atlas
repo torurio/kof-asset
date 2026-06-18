@@ -1,0 +1,1094 @@
+
+asset/spine/zhuiquanchong_common3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_zqz_putongbisha_00042
+	rotate: true
+	xy: 629, 740
+	size: 264, 208
+	orig: 264, 210
+	offset: 0, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00029
+	rotate: true
+	xy: 803, 269
+	size: 260, 209
+	orig: 260, 211
+	offset: 0, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00026
+	rotate: false
+	xy: 2, 421
+	size: 265, 208
+	orig: 269, 214
+	offset: 2, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00025
+	rotate: false
+	xy: 2, 210
+	size: 268, 210
+	orig: 268, 210
+	offset: 0, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00024
+	rotate: true
+	xy: 211, 630
+	size: 264, 208
+	orig: 264, 210
+	offset: 0, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00020
+	rotate: false
+	xy: 271, 213
+	size: 265, 208
+	orig: 269, 214
+	offset: 2, 0
+	index: -1
+effect/common/New_longjida_00076
+	rotate: true
+	xy: 810, 2
+	size: 266, 210
+	orig: 266, 210
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00078
+	rotate: false
+	xy: 268, 422
+	size: 228, 201
+	orig: 228, 201
+	offset: 0, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00038
+	rotate: true
+	xy: 2, 630
+	size: 265, 208
+	orig: 269, 214
+	offset: 2, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00039
+	rotate: false
+	xy: 2, 2
+	size: 269, 207
+	orig: 269, 207
+	offset: 0, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00035
+	rotate: false
+	xy: 762, 530
+	size: 260, 209
+	orig: 260, 211
+	offset: 0, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00036
+	rotate: true
+	xy: 420, 740
+	size: 264, 208
+	orig: 264, 210
+	offset: 0, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00030
+	rotate: false
+	xy: 497, 422
+	size: 264, 208
+	orig: 264, 210
+	offset: 0, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00031
+	rotate: false
+	xy: 541, 2
+	size: 268, 210
+	orig: 268, 210
+	offset: 0, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00032
+	rotate: false
+	xy: 537, 213
+	size: 265, 208
+	orig: 269, 214
+	offset: 2, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00015
+	rotate: false
+	xy: 2, 2
+	size: 269, 207
+	orig: 269, 207
+	offset: 0, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00019
+	rotate: false
+	xy: 272, 2
+	size: 268, 210
+	orig: 268, 210
+	offset: 0, 0
+	index: -1
+
+asset/spine/zhuiquanchong_common2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_longjida_00063
+	rotate: false
+	xy: 2, 2
+	size: 515, 195
+	orig: 515, 195
+	offset: 0, 0
+	index: -1
+effect/common/New_bo2_00022
+	rotate: false
+	xy: 2, 508
+	size: 338, 85
+	orig: 338, 85
+	offset: 0, 0
+	index: -1
+effect/common/New_bo2_00023
+	rotate: false
+	xy: 2, 246
+	size: 362, 56
+	orig: 362, 56
+	offset: 0, 0
+	index: -1
+effect/common/New_bo2_00024
+	rotate: false
+	xy: 2, 198
+	size: 376, 47
+	orig: 376, 47
+	offset: 0, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00048
+	rotate: true
+	xy: 207, 734
+	size: 278, 42
+	orig: 282, 42
+	offset: 0, 0
+	index: -1
+effect/common/New_bo3_00034
+	rotate: true
+	xy: 379, 198
+	size: 321, 88
+	orig: 321, 88
+	offset: 0, 0
+	index: -1
+effect/common/New_bo3_00035
+	rotate: true
+	xy: 900, 198
+	size: 308, 94
+	orig: 308, 94
+	offset: 0, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00027
+	rotate: true
+	xy: 458, 734
+	size: 269, 207
+	orig: 269, 207
+	offset: 0, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00021
+	rotate: true
+	xy: 250, 746
+	size: 269, 207
+	orig: 269, 207
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00075
+	rotate: true
+	xy: 2, 734
+	size: 287, 204
+	orig: 287, 204
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00074
+	rotate: false
+	xy: 513, 417
+	size: 312, 212
+	orig: 312, 212
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00071
+	rotate: false
+	xy: 2, 303
+	size: 355, 204
+	orig: 355, 204
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00070
+	rotate: false
+	xy: 518, 2
+	size: 381, 212
+	orig: 381, 212
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00073
+	rotate: false
+	xy: 513, 215
+	size: 314, 201
+	orig: 314, 201
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00079
+	rotate: true
+	xy: 826, 542
+	size: 191, 195
+	orig: 191, 195
+	offset: 0, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00033
+	rotate: true
+	xy: 666, 734
+	size: 269, 207
+	orig: 269, 207
+	offset: 0, 0
+	index: -1
+effect/common/New_bo2_00017
+	rotate: true
+	xy: 828, 368
+	size: 173, 44
+	orig: 173, 44
+	offset: 0, 0
+	index: -1
+effect/common/New_bo2_00019
+	rotate: true
+	xy: 468, 198
+	size: 263, 44
+	orig: 263, 44
+	offset: 0, 0
+	index: -1
+effect/common/New_bo2_00018
+	rotate: true
+	xy: 468, 198
+	size: 263, 44
+	orig: 263, 44
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00081
+	rotate: true
+	xy: 341, 520
+	size: 156, 171
+	orig: 156, 171
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00083
+	rotate: false
+	xy: 900, 2
+	size: 118, 195
+	orig: 118, 195
+	offset: 0, 0
+	index: -1
+effect/common/New_bo_00021
+	rotate: true
+	xy: 828, 215
+	size: 152, 64
+	orig: 152, 64
+	offset: 0, 0
+	index: -1
+effect/common/New_bo_00020
+	rotate: true
+	xy: 828, 215
+	size: 152, 64
+	orig: 152, 64
+	offset: 0, 0
+	index: -1
+effect/common/New_bo_00022
+	rotate: true
+	xy: 250, 594
+	size: 151, 75
+	orig: 151, 75
+	offset: 0, 0
+	index: -1
+
+asset/spine/zhuiquanchong_common1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_longjida_00048
+	rotate: false
+	xy: 2, 414
+	size: 530, 76
+	orig: 530, 76
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00049
+	rotate: true
+	xy: 948, 2
+	size: 530, 74
+	orig: 530, 74
+	offset: 0, 0
+	index: -1
+effect/common/New_bo_00018
+	rotate: false
+	xy: 880, 899
+	size: 131, 44
+	orig: 131, 44
+	offset: 0, 0
+	index: -1
+effect/common/New_bo_00019
+	rotate: false
+	xy: 880, 899
+	size: 131, 44
+	orig: 131, 44
+	offset: 0, 0
+	index: -1
+effect/common/New_bo3_00032
+	rotate: true
+	xy: 920, 533
+	size: 365, 94
+	orig: 365, 94
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00059
+	rotate: false
+	xy: 2, 637
+	size: 530, 67
+	orig: 530, 67
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00058
+	rotate: false
+	xy: 2, 705
+	size: 530, 65
+	orig: 530, 65
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00057
+	rotate: false
+	xy: 2, 349
+	size: 531, 64
+	orig: 531, 64
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00056
+	rotate: false
+	xy: 2, 568
+	size: 530, 68
+	orig: 530, 68
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00055
+	rotate: false
+	xy: 2, 491
+	size: 530, 76
+	orig: 530, 76
+	offset: 0, 0
+	index: -1
+effect/common/New_bo3_00033
+	rotate: true
+	xy: 920, 533
+	size: 365, 94
+	orig: 365, 94
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00053
+	rotate: false
+	xy: 2, 147
+	size: 531, 68
+	orig: 531, 68
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00052
+	rotate: false
+	xy: 2, 284
+	size: 531, 64
+	orig: 531, 64
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00051
+	rotate: false
+	xy: 2, 216
+	size: 531, 67
+	orig: 531, 67
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00050
+	rotate: false
+	xy: 2, 76
+	size: 531, 70
+	orig: 531, 70
+	offset: 0, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00045
+	rotate: false
+	xy: 534, 340
+	size: 385, 207
+	orig: 385, 209
+	offset: 0, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00044
+	rotate: false
+	xy: 533, 750
+	size: 346, 271
+	orig: 346, 271
+	offset: 0, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00047
+	rotate: false
+	xy: 534, 183
+	size: 408, 156
+	orig: 408, 158
+	offset: 0, 1
+	index: -1
+effect/common/New_zqz_putongbisha_00046
+	rotate: false
+	xy: 534, 2
+	size: 413, 180
+	orig: 415, 182
+	offset: 1, 1
+	index: -1
+effect/common/New_bo3_00036
+	rotate: false
+	xy: 2, 771
+	size: 282, 88
+	orig: 282, 88
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00069
+	rotate: false
+	xy: 533, 548
+	size: 382, 201
+	orig: 382, 201
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00077
+	rotate: true
+	xy: 287, 771
+	size: 246, 201
+	orig: 246, 201
+	offset: 0, 0
+	index: -1
+effect/common/New_bo3_00028
+	rotate: true
+	xy: 2, 899
+	size: 123, 81
+	orig: 123, 81
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00084
+	rotate: true
+	xy: 84, 899
+	size: 122, 202
+	orig: 122, 202
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00054
+	rotate: false
+	xy: 2, 2
+	size: 531, 73
+	orig: 531, 73
+	offset: 0, 0
+	index: -1
+effect/common/New_bo_00025
+	rotate: true
+	xy: 880, 750
+	size: 82, 38
+	orig: 82, 38
+	offset: 0, 0
+	index: -1
+effect/common/New_bo_00027
+	rotate: false
+	xy: 2, 860
+	size: 65, 28
+	orig: 65, 28
+	offset: 0, 0
+	index: -1
+effect/common/New_bo_00026
+	rotate: true
+	xy: 880, 750
+	size: 82, 38
+	orig: 82, 38
+	offset: 0, 0
+	index: -1
+
+asset/spine/zhuiquanchong_common0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_longjida_00062
+	rotate: false
+	xy: 2, 186
+	size: 545, 212
+	orig: 545, 212
+	offset: 0, 0
+	index: -1
+effect/common/New_bo2_00020
+	rotate: false
+	xy: 203, 509
+	size: 335, 91
+	orig: 335, 91
+	offset: 0, 0
+	index: -1
+effect/common/New_bo2_00021
+	rotate: false
+	xy: 203, 509
+	size: 335, 91
+	orig: 335, 91
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00060
+	rotate: false
+	xy: 2, 399
+	size: 536, 109
+	orig: 536, 109
+	offset: 0, 0
+	index: -1
+effect/common/New_bo3_00037
+	rotate: true
+	xy: 968, 421
+	size: 268, 54
+	orig: 268, 54
+	offset: 0, 0
+	index: -1
+effect/common/New_bo3_00031
+	rotate: true
+	xy: 875, 796
+	size: 220, 88
+	orig: 220, 88
+	offset: 0, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00049
+	rotate: false
+	xy: 45, 998
+	size: 125, 22
+	orig: 125, 22
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00061
+	rotate: false
+	xy: 2, 2
+	size: 550, 183
+	orig: 550, 183
+	offset: 0, 0
+	index: -1
+effect/common/New_bo3_00030
+	rotate: true
+	xy: 875, 796
+	size: 220, 88
+	orig: 220, 88
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00067
+	rotate: false
+	xy: 539, 421
+	size: 428, 207
+	orig: 428, 207
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00064
+	rotate: true
+	xy: 2, 509
+	size: 488, 200
+	orig: 488, 200
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00065
+	rotate: false
+	xy: 553, 2
+	size: 465, 203
+	orig: 465, 203
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00068
+	rotate: false
+	xy: 203, 812
+	size: 402, 210
+	orig: 402, 210
+	offset: 0, 0
+	index: -1
+effect/common/New_bo3_00038
+	rotate: true
+	xy: 968, 421
+	size: 268, 54
+	orig: 268, 54
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00066
+	rotate: false
+	xy: 548, 206
+	size: 458, 214
+	orig: 458, 214
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00072
+	rotate: false
+	xy: 203, 601
+	size: 333, 210
+	orig: 333, 210
+	offset: 0, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00037
+	rotate: false
+	xy: 606, 812
+	size: 268, 210
+	orig: 268, 210
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00088
+	rotate: true
+	xy: 1007, 206
+	size: 8, 13
+	orig: 8, 13
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00080
+	rotate: true
+	xy: 672, 629
+	size: 173, 202
+	orig: 173, 202
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00082
+	rotate: false
+	xy: 537, 629
+	size: 134, 182
+	orig: 134, 182
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00085
+	rotate: false
+	xy: 966, 690
+	size: 56, 101
+	orig: 56, 101
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00086
+	rotate: true
+	xy: 2, 998
+	size: 24, 42
+	orig: 24, 42
+	offset: 0, 0
+	index: -1
+effect/common/New_longjida_00087
+	rotate: true
+	xy: 171, 998
+	size: 16, 27
+	orig: 16, 27
+	offset: 0, 0
+	index: -1
+effect/common/New_bo3_00029
+	rotate: true
+	xy: 875, 629
+	size: 166, 90
+	orig: 166, 90
+	offset: 0, 0
+	index: -1
+effect/common/New_bo_00024
+	rotate: true
+	xy: 964, 922
+	size: 97, 44
+	orig: 97, 44
+	offset: 0, 0
+	index: -1
+effect/common/New_bo_00023
+	rotate: true
+	xy: 964, 796
+	size: 125, 58
+	orig: 125, 58
+	offset: 0, 0
+	index: -1
+
+asset/spine/zhuiquanchong_common4.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/common/New_zqz_putongbisha_00041
+	rotate: false
+	xy: 2, 211
+	size: 260, 209
+	orig: 260, 211
+	offset: 0, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00040
+	rotate: false
+	xy: 2, 421
+	size: 257, 198
+	orig: 259, 198
+	offset: 1, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00043
+	rotate: true
+	xy: 267, 2
+	size: 255, 239
+	orig: 255, 241
+	offset: 0, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00028
+	rotate: false
+	xy: 2, 620
+	size: 257, 198
+	orig: 259, 198
+	offset: 1, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00023
+	rotate: true
+	xy: 263, 258
+	size: 260, 209
+	orig: 260, 211
+	offset: 0, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00022
+	rotate: true
+	xy: 260, 519
+	size: 257, 198
+	orig: 259, 198
+	offset: 1, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00034
+	rotate: false
+	xy: 2, 819
+	size: 257, 198
+	orig: 259, 198
+	offset: 1, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00016
+	rotate: false
+	xy: 2, 421
+	size: 257, 198
+	orig: 259, 198
+	offset: 1, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00017
+	rotate: false
+	xy: 2, 211
+	size: 260, 209
+	orig: 260, 211
+	offset: 0, 0
+	index: -1
+effect/common/New_zqz_putongbisha_00018
+	rotate: false
+	xy: 2, 2
+	size: 264, 208
+	orig: 264, 210
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_dajite2
+	rotate: true
+	xy: 937, 243
+	size: 76, 79
+	orig: 76, 79
+	offset: 0, 0
+	index: -1
+effect/global/ty_dajite0
+	rotate: false
+	xy: 937, 166
+	size: 82, 76
+	orig: 82, 76
+	offset: 0, 0
+	index: -1
+effect/global/ty_dajite3
+	rotate: false
+	xy: 937, 86
+	size: 82, 79
+	orig: 82, 79
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt15
+	rotate: false
+	xy: 2, 851
+	size: 176, 171
+	orig: 176, 171
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt13
+	rotate: false
+	xy: 445, 559
+	size: 168, 177
+	orig: 168, 177
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt18
+	rotate: false
+	xy: 858, 166
+	size: 164, 140
+	orig: 164, 140
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect16.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_xtxt16
+	rotate: false
+	xy: 166, 2
+	size: 162, 140
+	orig: 162, 140
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt19
+	rotate: true
+	xy: 147, 437
+	size: 134, 143
+	orig: 134, 143
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt17
+	rotate: true
+	xy: 291, 559
+	size: 124, 136
+	orig: 124, 136
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z1
+	rotate: false
+	xy: 775, 950
+	size: 137, 66
+	orig: 137, 66
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_l5
+	rotate: true
+	xy: 603, 984
+	size: 25, 24
+	orig: 25, 24
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_l6
+	rotate: false
+	xy: 454, 984
+	size: 32, 32
+	orig: 32, 32
+	offset: 0, 0
+	index: -1
+effect/global/ty_dajite1
+	rotate: true
+	xy: 2, 612
+	size: 74, 79
+	orig: 74, 79
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z0
+	rotate: true
+	xy: 552, 662
+	size: 85, 3
+	orig: 85, 3
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z5
+	rotate: false
+	xy: 858, 984
+	size: 154, 36
+	orig: 154, 36
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_l4
+	rotate: false
+	xy: 997, 774
+	size: 14, 14
+	orig: 14, 14
+	offset: 0, 0
+	index: -1
+effect/global/ty_xtxt14
+	rotate: false
+	xy: 384, 381
+	size: 176, 178
+	orig: 176, 178
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_effect2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z3
+	rotate: false
+	xy: 616, 499
+	size: 154, 64
+	orig: 154, 64
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z4
+	rotate: false
+	xy: 834, 499
+	size: 154, 60
+	orig: 154, 60
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_dun5
+	rotate: true
+	xy: 237, 961
+	size: 61, 107
+	orig: 61, 107
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_dun1
+	rotate: true
+	xy: 2, 511
+	size: 226, 225
+	orig: 226, 225
+	offset: 0, 0
+	index: -1
+effect/global/ty_dun4
+	rotate: true
+	xy: 169, 271
+	size: 223, 187
+	orig: 223, 187
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z2
+	rotate: true
+	xy: 412, 131
+	size: 94, 88
+	orig: 94, 88
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_l7
+	rotate: true
+	xy: 661, 929
+	size: 92, 88
+	orig: 92, 88
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_l2
+	rotate: true
+	xy: 925, 929
+	size: 91, 88
+	orig: 91, 88
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_l8
+	rotate: true
+	xy: 750, 929
+	size: 92, 88
+	orig: 92, 88
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z6
+	rotate: false
+	xy: 867, 295
+	size: 154, 57
+	orig: 154, 57
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z8
+	rotate: false
+	xy: 867, 91
+	size: 154, 77
+	orig: 154, 77
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_z9
+	rotate: false
+	xy: 867, 2
+	size: 154, 88
+	orig: 154, 88
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_baoqi_z7
+	rotate: false
+	xy: 115, 510
+	size: 111, 88
+	orig: 111, 88
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_l1
+	rotate: false
+	xy: 584, 309
+	size: 82, 82
+	orig: 82, 82
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_l3
+	rotate: false
+	xy: 115, 599
+	size: 88, 88
+	orig: 88, 88
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_dun2
+	rotate: false
+	xy: 866, 2
+	size: 149, 129
+	orig: 149, 129
+	offset: 0, 0
+	index: -1
+
+asset/spine/global_spinehero_role5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/global/ty_dun3
+	rotate: true
+	xy: 172, 647
+	size: 203, 185
+	orig: 203, 185
+	offset: 0, 0
+	index: -1
+effect/global/ty_baoqi_l0
+	rotate: false
+	xy: 792, 307
+	size: 91, 88
+	orig: 91, 88
+	offset: 0, 0
+	index: -1
